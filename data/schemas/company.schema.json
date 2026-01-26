@@ -1,0 +1,128 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://eurocheck.eu/schemas/company.schema.json",
+  "title": "EuroCheck Company Database",
+  "description": "Schema for the EuroCheck companies.json database file",
+  "type": "object",
+  "required": ["$schema", "version", "generated", "companies"],
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "description": "Reference to this schema file"
+    },
+    "version": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$",
+      "description": "Semantic version of the data file"
+    },
+    "generated": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp when this file was generated"
+    },
+    "companies": {
+      "type": "array",
+      "description": "Array of company records",
+      "items": {
+        "$ref": "#/$defs/Company"
+      }
+    }
+  },
+  "$defs": {
+    "Company": {
+      "type": "object",
+      "description": "A company record with ownership and EU status information",
+      "required": ["id", "name", "hq_country", "eu_status", "confidence", "last_verified"],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9-]*[a-z0-9]$|^[a-z0-9]$",
+          "minLength": 1,
+          "maxLength": 64,
+          "description": "Unique identifier (lowercase alphanumeric with hyphens, e.g., 'apple-inc', 'sap')"
+        },
+        "name": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 256,
+          "description": "Official company name"
+        },
+        "hq_country": {
+          "type": "string",
+          "pattern": "^[A-Z]{2}$",
+          "description": "ISO 3166-1 alpha-2 country code of headquarters (e.g., 'DE', 'US', 'FI')"
+        },
+        "hq_city": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 128,
+          "description": "City where headquarters is located"
+        },
+        "founded_year": {
+          "type": "integer",
+          "minimum": 1600,
+          "maximum": 2100,
+          "description": "Year the company was founded"
+        },
+        "parent_company": {
+          "type": ["string", "null"],
+          "description": "ID of the direct parent company (foreign key to another company.id), null if independent"
+        },
+        "ultimate_parent": {
+          "type": ["string", "null"],
+          "description": "ID of the ultimate parent company at the top of the ownership chain, null if this is the ultimate parent"
+        },
+        "eu_status": {
+          "type": "string",
+          "enum": ["eu", "mixed", "non-eu"],
+          "description": "EU classification: 'eu' = HQ and ownership in EU/EEA/CH, 'mixed' = EU presence but non-EU ultimate parent, 'non-eu' = non-European company"
+        },
+        "confidence": {
+          "type": "string",
+          "enum": ["high", "medium", "low"],
+          "description": "Confidence level in the data: 'high' = verified from official sources, 'medium' = reliable secondary sources, 'low' = unverified or conflicting sources"
+        },
+        "sources": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "format": "uri"
+          },
+          "minItems": 0,
+          "uniqueItems": true,
+          "description": "Array of source URLs for verification (Wikidata, official filings, news articles)"
+        },
+        "last_verified": {
+          "type": "string",
+          "format": "date",
+          "description": "ISO 8601 date (YYYY-MM-DD) when this record was last verified"
+        },
+        "aliases": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true,
+          "description": "Alternative names, former names, or common abbreviations"
+        },
+        "wikidata_id": {
+          "type": "string",
+          "pattern": "^Q\\d+$",
+          "description": "Wikidata entity ID (e.g., 'Q312')"
+        },
+        "lei": {
+          "type": "string",
+          "pattern": "^[A-Z0-9]{20}$",
+          "description": "Legal Entity Identifier (20 alphanumeric characters)"
+        },
+        "notes": {
+          "type": "string",
+          "maxLength": 1024,
+          "description": "Additional notes about ownership complexity or special cases"
+        }
+      }
+    }
+  }
+}

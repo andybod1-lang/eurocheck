@@ -1,0 +1,8974 @@
+[
+  {
+    "id": "boohoo",
+    "name": "Boohoo Group",
+    "hq_country": "GB",
+    "hq_city": "Manchester, UK",
+    "eu_status": "non-eu",
+    "founded": 2006,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "boohoo.com"
+    ]
+  },
+  {
+    "id": "farfetch",
+    "name": "Farfetch",
+    "hq_country": "GB",
+    "hq_city": "London, UK",
+    "eu_status": "non-eu",
+    "founded": 2007,
+    "confidence": "high",
+    "parent_company": "Coupang",
+    "ultimate_owner": "Coupang",
+    "ultimate_owner_country": "KR",
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "farfetch.com"
+    ]
+  },
+  {
+    "id": "mytheresa",
+    "name": "Mytheresa",
+    "hq_country": "DE",
+    "hq_city": "Munich, Germany",
+    "eu_status": "eu",
+    "founded": 2006,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "mytheresa.com"
+    ]
+  },
+  {
+    "id": "ssense",
+    "name": "SSENSE",
+    "hq_country": "CA",
+    "hq_city": "Montreal, Canada",
+    "eu_status": "non-eu",
+    "founded": 2003,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "ssense.com"
+    ]
+  },
+  {
+    "id": "net-a-porter",
+    "name": "Net-a-Porter",
+    "hq_country": "GB",
+    "hq_city": "London, UK",
+    "eu_status": "non-eu",
+    "founded": 2000,
+    "confidence": "high",
+    "parent_company": "Richemont",
+    "ultimate_owner": "Richemont",
+    "ultimate_owner_country": "CH",
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "net-a-porter.com"
+    ]
+  },
+  {
+    "id": "mr-porter",
+    "name": "Mr Porter",
+    "hq_country": "GB",
+    "hq_city": "London, UK",
+    "eu_status": "non-eu",
+    "founded": 2011,
+    "confidence": "high",
+    "parent_company": "Richemont",
+    "ultimate_owner": "Richemont",
+    "ultimate_owner_country": "CH",
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "mrporter.com"
+    ]
+  },
+  {
+    "id": "yoox",
+    "name": "YOOX",
+    "hq_country": "IT",
+    "hq_city": "Milan, Italy",
+    "eu_status": "eu",
+    "founded": 2000,
+    "confidence": "high",
+    "parent_company": "Richemont",
+    "ultimate_owner": "Richemont",
+    "ultimate_owner_country": "CH",
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "yoox.com"
+    ]
+  },
+  {
+    "id": "prettylittlething",
+    "name": "PrettyLittleThing",
+    "hq_country": "GB",
+    "hq_city": "Manchester, UK",
+    "eu_status": "non-eu",
+    "founded": 2012,
+    "confidence": "high",
+    "parent_company": "Boohoo Group",
+    "ultimate_owner": "Boohoo Group",
+    "ultimate_owner_country": "GB",
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "prettylittlething.com"
+    ]
+  },
+  {
+    "id": "nasty-gal",
+    "name": "Nasty Gal",
+    "hq_country": "GB",
+    "hq_city": "Manchester, UK",
+    "eu_status": "non-eu",
+    "founded": 2006,
+    "confidence": "high",
+    "parent_company": "Boohoo Group",
+    "ultimate_owner": "Boohoo Group",
+    "ultimate_owner_country": "GB",
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "nastygal.com"
+    ]
+  },
+  {
+    "id": "missguided",
+    "name": "Missguided",
+    "hq_country": "GB",
+    "hq_city": "Manchester, UK",
+    "eu_status": "non-eu",
+    "founded": 2009,
+    "confidence": "high",
+    "parent_company": "Frasers Group",
+    "ultimate_owner": "Frasers Group",
+    "ultimate_owner_country": "GB",
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "missguided.com"
+    ]
+  },
+  {
+    "id": "frasers-group",
+    "name": "Frasers Group",
+    "hq_country": "GB",
+    "hq_city": "Shirebrook, UK",
+    "eu_status": "non-eu",
+    "founded": 1982,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "frasers.group"
+    ]
+  },
+  {
+    "id": "revolve-group",
+    "name": "Revolve Group",
+    "hq_country": "US",
+    "hq_city": "Cerritos, California",
+    "eu_status": "non-eu",
+    "founded": 2003,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "revolve.com",
+      "fwrd.com"
+    ]
+  },
+  {
+    "id": "bh-photo",
+    "name": "B&H Photo Video",
+    "hq_country": "US",
+    "hq_city": "New York, NY",
+    "eu_status": "non-eu",
+    "founded": 1973,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "bhphotovideo.com"
+    ]
+  },
+  {
+    "id": "thomann",
+    "name": "Thomann",
+    "hq_country": "DE",
+    "hq_city": "Treppendorf, Germany",
+    "eu_status": "eu",
+    "founded": 1954,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "thomann.de",
+      "thomann.io"
+    ]
+  },
+  {
+    "id": "banggood",
+    "name": "Banggood",
+    "hq_country": "CN",
+    "hq_city": "Guangzhou, China",
+    "eu_status": "non-eu",
+    "founded": 2006,
+    "confidence": "medium",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia"
+    ],
+    "domains": [
+      "banggood.com"
+    ]
+  },
+  {
+    "id": "dhgate",
+    "name": "DHgate",
+    "hq_country": "CN",
+    "hq_city": "Beijing, China",
+    "eu_status": "non-eu",
+    "founded": 2004,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "dhgate.com"
+    ]
+  },
+  {
+    "id": "aliexpress",
+    "name": "AliExpress",
+    "hq_country": "CN",
+    "hq_city": "Hangzhou, China",
+    "eu_status": "non-eu",
+    "founded": 2010,
+    "confidence": "high",
+    "parent_company": "Alibaba Group",
+    "ultimate_owner": "Alibaba Group",
+    "ultimate_owner_country": "CN",
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "aliexpress.com"
+    ]
+  },
+  {
+    "id": "taobao",
+    "name": "Taobao",
+    "hq_country": "CN",
+    "hq_city": "Hangzhou, China",
+    "eu_status": "non-eu",
+    "founded": 2003,
+    "confidence": "high",
+    "parent_company": "Alibaba Group",
+    "ultimate_owner": "Alibaba Group",
+    "ultimate_owner_country": "CN",
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "taobao.com"
+    ]
+  },
+  {
+    "id": "tmall",
+    "name": "Tmall",
+    "hq_country": "CN",
+    "hq_city": "Hangzhou, China",
+    "eu_status": "non-eu",
+    "founded": 2008,
+    "confidence": "high",
+    "parent_company": "Alibaba Group",
+    "ultimate_owner": "Alibaba Group",
+    "ultimate_owner_country": "CN",
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "tmall.com"
+    ]
+  },
+  {
+    "id": "lazada",
+    "name": "Lazada",
+    "hq_country": "SG",
+    "hq_city": "Singapore",
+    "eu_status": "non-eu",
+    "founded": 2012,
+    "confidence": "high",
+    "parent_company": "Alibaba Group",
+    "ultimate_owner": "Alibaba Group",
+    "ultimate_owner_country": "CN",
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "lazada.com"
+    ]
+  },
+  {
+    "id": "shopee",
+    "name": "Shopee",
+    "hq_country": "SG",
+    "hq_city": "Singapore",
+    "eu_status": "non-eu",
+    "founded": 2015,
+    "confidence": "high",
+    "parent_company": "Sea Limited",
+    "ultimate_owner": "Sea Limited",
+    "ultimate_owner_country": "SG",
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "shopee.com"
+    ]
+  },
+  {
+    "id": "sea-limited",
+    "name": "Sea Limited",
+    "hq_country": "SG",
+    "hq_city": "Singapore",
+    "eu_status": "non-eu",
+    "founded": 2009,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "sea.com"
+    ]
+  },
+  {
+    "id": "grab",
+    "name": "Grab",
+    "hq_country": "SG",
+    "hq_city": "Singapore",
+    "eu_status": "non-eu",
+    "founded": 2012,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "grab.com"
+    ]
+  },
+  {
+    "id": "gojek",
+    "name": "Gojek",
+    "hq_country": "ID",
+    "hq_city": "Jakarta, Indonesia",
+    "eu_status": "non-eu",
+    "founded": 2010,
+    "confidence": "high",
+    "parent_company": "GoTo Group",
+    "ultimate_owner": "GoTo Group",
+    "ultimate_owner_country": "ID",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "gojek.com"
+    ]
+  },
+  {
+    "id": "tokopedia",
+    "name": "Tokopedia",
+    "hq_country": "ID",
+    "hq_city": "Jakarta, Indonesia",
+    "eu_status": "non-eu",
+    "founded": 2009,
+    "confidence": "high",
+    "parent_company": "GoTo Group",
+    "ultimate_owner": "GoTo Group",
+    "ultimate_owner_country": "ID",
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "tokopedia.com"
+    ]
+  },
+  {
+    "id": "goto-group",
+    "name": "GoTo Group",
+    "hq_country": "ID",
+    "hq_city": "Jakarta, Indonesia",
+    "eu_status": "non-eu",
+    "founded": 2021,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "gotocompany.com"
+    ]
+  },
+  {
+    "id": "ozon",
+    "name": "Ozon",
+    "hq_country": "RU",
+    "hq_city": "Moscow, Russia",
+    "eu_status": "non-eu",
+    "founded": 1998,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "ozon.ru"
+    ]
+  },
+  {
+    "id": "wildberries",
+    "name": "Wildberries",
+    "hq_country": "RU",
+    "hq_city": "Moscow, Russia",
+    "eu_status": "non-eu",
+    "founded": 2004,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "wildberries.ru"
+    ]
+  },
+  {
+    "id": "vinted",
+    "name": "Vinted",
+    "hq_country": "LT",
+    "hq_city": "Vilnius, Lithuania",
+    "eu_status": "eu",
+    "founded": 2008,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "vinted.com",
+      "vinted.fr",
+      "vinted.de"
+    ]
+  },
+  {
+    "id": "depop",
+    "name": "Depop",
+    "hq_country": "GB",
+    "hq_city": "London, UK",
+    "eu_status": "non-eu",
+    "founded": 2011,
+    "confidence": "high",
+    "parent_company": "Etsy",
+    "ultimate_owner": "Etsy",
+    "ultimate_owner_country": "US",
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "depop.com"
+    ]
+  },
+  {
+    "id": "poshmark",
+    "name": "Poshmark",
+    "hq_country": "US",
+    "hq_city": "Redwood City, California",
+    "eu_status": "non-eu",
+    "founded": 2011,
+    "confidence": "high",
+    "parent_company": "Naver",
+    "ultimate_owner": "Naver",
+    "ultimate_owner_country": "KR",
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "poshmark.com"
+    ]
+  },
+  {
+    "id": "thredup",
+    "name": "ThredUp",
+    "hq_country": "US",
+    "hq_city": "Oakland, California",
+    "eu_status": "non-eu",
+    "founded": 2009,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "thredup.com"
+    ]
+  },
+  {
+    "id": "the-realreal",
+    "name": "The RealReal",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2011,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "therealreal.com"
+    ]
+  },
+  {
+    "id": "vestiaire-collective",
+    "name": "Vestiaire Collective",
+    "hq_country": "FR",
+    "hq_city": "Paris, France",
+    "eu_status": "eu",
+    "founded": 2009,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "vestiairecollective.com"
+    ]
+  },
+  {
+    "id": "stockx",
+    "name": "StockX",
+    "hq_country": "US",
+    "hq_city": "Detroit, Michigan",
+    "eu_status": "non-eu",
+    "founded": 2015,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "stockx.com"
+    ]
+  },
+  {
+    "id": "goat",
+    "name": "GOAT",
+    "hq_country": "US",
+    "hq_city": "Culver City, California",
+    "eu_status": "non-eu",
+    "founded": 2015,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "goat.com"
+    ]
+  },
+  {
+    "id": "mercari",
+    "name": "Mercari",
+    "hq_country": "JP",
+    "hq_city": "Tokyo, Japan",
+    "eu_status": "non-eu",
+    "founded": 2013,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "mercari.com",
+      "mercari.jp"
+    ]
+  },
+  {
+    "id": "gumtree",
+    "name": "Gumtree",
+    "hq_country": "GB",
+    "hq_city": "London, UK",
+    "eu_status": "non-eu",
+    "founded": 2000,
+    "confidence": "high",
+    "parent_company": "Adevinta",
+    "ultimate_owner": "Adevinta",
+    "ultimate_owner_country": "NO",
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "gumtree.com"
+    ]
+  },
+  {
+    "id": "adevinta",
+    "name": "Adevinta",
+    "hq_country": "NO",
+    "hq_city": "Oslo, Norway",
+    "eu_status": "non-eu",
+    "founded": 2019,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "adevinta.com"
+    ]
+  },
+  {
+    "id": "leboncoin",
+    "name": "Leboncoin",
+    "hq_country": "FR",
+    "hq_city": "Paris, France",
+    "eu_status": "eu",
+    "founded": 2006,
+    "confidence": "high",
+    "parent_company": "Adevinta",
+    "ultimate_owner": "Adevinta",
+    "ultimate_owner_country": "NO",
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "leboncoin.fr"
+    ]
+  },
+  {
+    "id": "kleinanzeigen",
+    "name": "Kleinanzeigen",
+    "hq_country": "DE",
+    "hq_city": "Berlin, Germany",
+    "eu_status": "eu",
+    "founded": 2009,
+    "confidence": "high",
+    "parent_company": "Adevinta",
+    "ultimate_owner": "Adevinta",
+    "ultimate_owner_country": "NO",
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "kleinanzeigen.de"
+    ]
+  },
+  {
+    "id": "marktplaats",
+    "name": "Marktplaats",
+    "hq_country": "NL",
+    "hq_city": "Amsterdam, Netherlands",
+    "eu_status": "eu",
+    "founded": 1999,
+    "confidence": "high",
+    "parent_company": "Adevinta",
+    "ultimate_owner": "Adevinta",
+    "ultimate_owner_country": "NO",
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia"
+    ],
+    "domains": [
+      "marktplaats.nl"
+    ]
+  },
+  {
+    "id": "subito",
+    "name": "Subito",
+    "hq_country": "IT",
+    "hq_city": "Milan, Italy",
+    "eu_status": "eu",
+    "founded": 2007,
+    "confidence": "high",
+    "parent_company": "Adevinta",
+    "ultimate_owner": "Adevinta",
+    "ultimate_owner_country": "NO",
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia"
+    ],
+    "domains": [
+      "subito.it"
+    ]
+  },
+  {
+    "id": "olx",
+    "name": "OLX",
+    "hq_country": "NL",
+    "hq_city": "Amsterdam, Netherlands",
+    "eu_status": "eu",
+    "founded": 2006,
+    "confidence": "high",
+    "parent_company": "Prosus",
+    "ultimate_owner": "Naspers",
+    "ultimate_owner_country": "ZA",
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "olx.com",
+      "olx.pl"
+    ]
+  },
+  {
+    "id": "prosus",
+    "name": "Prosus",
+    "hq_country": "NL",
+    "hq_city": "Amsterdam, Netherlands",
+    "eu_status": "eu",
+    "founded": 2019,
+    "confidence": "high",
+    "parent_company": "Naspers",
+    "ultimate_owner": "Naspers",
+    "ultimate_owner_country": "ZA",
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "prosus.com"
+    ]
+  },
+  {
+    "id": "naspers",
+    "name": "Naspers",
+    "hq_country": "ZA",
+    "hq_city": "Cape Town, South Africa",
+    "eu_status": "non-eu",
+    "founded": 1915,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "naspers.com"
+    ]
+  },
+  {
+    "id": "jumia",
+    "name": "Jumia",
+    "hq_country": "DE",
+    "hq_city": "Berlin, Germany",
+    "eu_status": "eu",
+    "founded": 2012,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "jumia.com"
+    ]
+  },
+  {
+    "id": "noon",
+    "name": "Noon",
+    "hq_country": "AE",
+    "hq_city": "Dubai, UAE",
+    "eu_status": "non-eu",
+    "founded": 2017,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "noon.com"
+    ]
+  },
+  {
+    "id": "takealot",
+    "name": "Takealot",
+    "hq_country": "ZA",
+    "hq_city": "Cape Town, South Africa",
+    "eu_status": "non-eu",
+    "founded": 2011,
+    "confidence": "high",
+    "parent_company": "Naspers",
+    "ultimate_owner": "Naspers",
+    "ultimate_owner_country": "ZA",
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia"
+    ],
+    "domains": [
+      "takealot.com"
+    ]
+  },
+  {
+    "id": "boozt",
+    "name": "Boozt",
+    "hq_country": "SE",
+    "hq_city": "Malmö, Sweden",
+    "eu_status": "eu",
+    "founded": 2011,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "boozt.com"
+    ]
+  },
+  {
+    "id": "bonprix",
+    "name": "Bonprix",
+    "hq_country": "DE",
+    "hq_city": "Hamburg, Germany",
+    "eu_status": "eu",
+    "founded": 1986,
+    "confidence": "high",
+    "parent_company": "Otto Group",
+    "ultimate_owner": "Otto Group",
+    "ultimate_owner_country": "DE",
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "bonprix.com"
+    ]
+  },
+  {
+    "id": "showroomprive",
+    "name": "Showroomprivé",
+    "hq_country": "FR",
+    "hq_city": "La Plaine Saint-Denis, France",
+    "eu_status": "eu",
+    "founded": 2006,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "showroomprive.com"
+    ]
+  },
+  {
+    "id": "vidaxl",
+    "name": "vidaXL",
+    "hq_country": "NL",
+    "hq_city": "Venlo, Netherlands",
+    "eu_status": "eu",
+    "founded": 2006,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "vidaxl.com"
+    ]
+  },
+  {
+    "id": "manomano",
+    "name": "ManoMano",
+    "hq_country": "FR",
+    "hq_city": "Paris, France",
+    "eu_status": "eu",
+    "founded": 2013,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "manomano.com"
+    ]
+  },
+  {
+    "id": "galaxus",
+    "name": "Galaxus",
+    "hq_country": "CH",
+    "hq_city": "Zurich, Switzerland",
+    "eu_status": "non-eu",
+    "founded": 2012,
+    "confidence": "high",
+    "parent_company": "Digitec Galaxus",
+    "ultimate_owner": "Migros",
+    "ultimate_owner_country": "CH",
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "galaxus.ch"
+    ]
+  },
+  {
+    "id": "verkkokauppa",
+    "name": "Verkkokauppa.com",
+    "hq_country": "FI",
+    "hq_city": "Helsinki, Finland",
+    "eu_status": "eu",
+    "founded": 1992,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "verkkokauppa.com"
+    ]
+  },
+  {
+    "id": "elgiganten",
+    "name": "Elgiganten",
+    "hq_country": "SE",
+    "hq_city": "Stockholm, Sweden",
+    "eu_status": "eu",
+    "founded": 1994,
+    "confidence": "high",
+    "parent_company": "Elkjøp Nordic",
+    "ultimate_owner": "Currys",
+    "ultimate_owner_country": "GB",
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "elgiganten.se"
+    ]
+  },
+  {
+    "id": "gigantti",
+    "name": "Gigantti",
+    "hq_country": "FI",
+    "hq_city": "Vantaa, Finland",
+    "eu_status": "eu",
+    "founded": 1999,
+    "confidence": "high",
+    "parent_company": "Elkjøp Nordic",
+    "ultimate_owner": "Currys",
+    "ultimate_owner_country": "GB",
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia"
+    ],
+    "domains": [
+      "gigantti.fi"
+    ]
+  },
+  {
+    "id": "komplett",
+    "name": "Komplett",
+    "hq_country": "NO",
+    "hq_city": "Sandefjord, Norway",
+    "eu_status": "non-eu",
+    "founded": 1996,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "komplett.no"
+    ]
+  },
+  {
+    "id": "webhallen",
+    "name": "Webhallen",
+    "hq_country": "SE",
+    "hq_city": "Stockholm, Sweden",
+    "eu_status": "eu",
+    "founded": 1999,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "webhallen.com"
+    ]
+  },
+  {
+    "id": "cdon",
+    "name": "CDON",
+    "hq_country": "SE",
+    "hq_city": "Malmö, Sweden",
+    "eu_status": "eu",
+    "founded": 1999,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "cdon.com"
+    ]
+  },
+  {
+    "id": "dustin",
+    "name": "Dustin",
+    "hq_country": "SE",
+    "hq_city": "Nacka, Sweden",
+    "eu_status": "eu",
+    "founded": 1984,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "dustin.se"
+    ]
+  },
+  {
+    "id": "cyberport",
+    "name": "Cyberport",
+    "hq_country": "DE",
+    "hq_city": "Dresden, Germany",
+    "eu_status": "eu",
+    "founded": 1998,
+    "confidence": "high",
+    "parent_company": "Burda",
+    "ultimate_owner": "Burda",
+    "ultimate_owner_country": "DE",
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "cyberport.de"
+    ]
+  },
+  {
+    "id": "alternate",
+    "name": "Alternate",
+    "hq_country": "DE",
+    "hq_city": "Linden, Germany",
+    "eu_status": "eu",
+    "founded": 1992,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "alternate.de"
+    ]
+  },
+  {
+    "id": "mindfactory",
+    "name": "Mindfactory",
+    "hq_country": "DE",
+    "hq_city": "Wilhelmshaven, Germany",
+    "eu_status": "eu",
+    "founded": 1994,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "mindfactory.de"
+    ]
+  },
+  {
+    "id": "ldlc",
+    "name": "LDLC",
+    "hq_country": "FR",
+    "hq_city": "Limonest, France",
+    "eu_status": "eu",
+    "founded": 1996,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "ldlc.com"
+    ]
+  },
+  {
+    "id": "pccomponentes",
+    "name": "PcComponentes",
+    "hq_country": "ES",
+    "hq_city": "Alhama de Murcia, Spain",
+    "eu_status": "eu",
+    "founded": 2005,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "pccomponentes.com"
+    ]
+  },
+  {
+    "id": "backmarket",
+    "name": "Back Market",
+    "hq_country": "FR",
+    "hq_city": "Paris, France",
+    "eu_status": "eu",
+    "founded": 2014,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "backmarket.com"
+    ]
+  },
+  {
+    "id": "rebuy",
+    "name": "reBuy",
+    "hq_country": "DE",
+    "hq_city": "Berlin, Germany",
+    "eu_status": "eu",
+    "founded": 2004,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "rebuy.de"
+    ]
+  },
+  {
+    "id": "momox",
+    "name": "Momox",
+    "hq_country": "DE",
+    "hq_city": "Berlin, Germany",
+    "eu_status": "eu",
+    "founded": 2004,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "momox.de"
+    ]
+  },
+  {
+    "id": "refurbed",
+    "name": "Refurbed",
+    "hq_country": "AT",
+    "hq_city": "Vienna, Austria",
+    "eu_status": "eu",
+    "founded": 2017,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "refurbed.de"
+    ]
+  },
+  {
+    "id": "swappie",
+    "name": "Swappie",
+    "hq_country": "FI",
+    "hq_city": "Helsinki, Finland",
+    "eu_status": "eu",
+    "founded": 2016,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "e-commerce",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "swappie.com"
+    ]
+  },
+  {
+    "id": "zoho",
+    "name": "Zoho Corporation",
+    "hq_country": "IN",
+    "hq_city": "Chennai, India",
+    "eu_status": "non-eu",
+    "founded": 1996,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "zoho.com",
+      "zoho.eu"
+    ]
+  },
+  {
+    "id": "postman",
+    "name": "Postman",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2014,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "postman.com"
+    ]
+  },
+  {
+    "id": "vercel",
+    "name": "Vercel",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2015,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "vercel.com"
+    ]
+  },
+  {
+    "id": "netlify",
+    "name": "Netlify",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2014,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "netlify.com"
+    ]
+  },
+  {
+    "id": "heroku",
+    "name": "Heroku",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2007,
+    "confidence": "high",
+    "parent_company": "Salesforce",
+    "ultimate_owner": "Salesforce",
+    "ultimate_owner_country": "US",
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "heroku.com"
+    ]
+  },
+  {
+    "id": "supabase",
+    "name": "Supabase",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2020,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "supabase.com"
+    ]
+  },
+  {
+    "id": "crowdstrike",
+    "name": "CrowdStrike",
+    "hq_country": "US",
+    "hq_city": "Austin, Texas",
+    "eu_status": "non-eu",
+    "founded": 2011,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "crowdstrike.com"
+    ]
+  },
+  {
+    "id": "palo-alto-networks",
+    "name": "Palo Alto Networks",
+    "hq_country": "US",
+    "hq_city": "Santa Clara, California",
+    "eu_status": "non-eu",
+    "founded": 2005,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "paloaltonetworks.com"
+    ]
+  },
+  {
+    "id": "fortinet",
+    "name": "Fortinet",
+    "hq_country": "US",
+    "hq_city": "Sunnyvale, California",
+    "eu_status": "non-eu",
+    "founded": 2000,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "fortinet.com"
+    ]
+  },
+  {
+    "id": "zscaler",
+    "name": "Zscaler",
+    "hq_country": "US",
+    "hq_city": "San Jose, California",
+    "eu_status": "non-eu",
+    "founded": 2007,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "zscaler.com"
+    ]
+  },
+  {
+    "id": "okta",
+    "name": "Okta",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2009,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "okta.com"
+    ]
+  },
+  {
+    "id": "auth0",
+    "name": "Auth0",
+    "hq_country": "US",
+    "hq_city": "Bellevue, Washington",
+    "eu_status": "non-eu",
+    "founded": 2013,
+    "confidence": "high",
+    "parent_company": "Okta",
+    "ultimate_owner": "Okta",
+    "ultimate_owner_country": "US",
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "auth0.com"
+    ]
+  },
+  {
+    "id": "1password",
+    "name": "1Password",
+    "hq_country": "CA",
+    "hq_city": "Toronto, Canada",
+    "eu_status": "non-eu",
+    "founded": 2006,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "1password.com"
+    ]
+  },
+  {
+    "id": "lastpass",
+    "name": "LastPass",
+    "hq_country": "US",
+    "hq_city": "Boston, Massachusetts",
+    "eu_status": "non-eu",
+    "founded": 2008,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "lastpass.com"
+    ]
+  },
+  {
+    "id": "bitwarden",
+    "name": "Bitwarden",
+    "hq_country": "US",
+    "hq_city": "Santa Barbara, California",
+    "eu_status": "non-eu",
+    "founded": 2016,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "bitwarden.com"
+    ]
+  },
+  {
+    "id": "dashlane",
+    "name": "Dashlane",
+    "hq_country": "US",
+    "hq_city": "New York, NY",
+    "eu_status": "non-eu",
+    "founded": 2009,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "dashlane.com"
+    ]
+  },
+  {
+    "id": "proton",
+    "name": "Proton AG",
+    "hq_country": "CH",
+    "hq_city": "Geneva, Switzerland",
+    "eu_status": "non-eu",
+    "founded": 2014,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "proton.me",
+      "protonmail.com",
+      "protonvpn.com"
+    ]
+  },
+  {
+    "id": "tutanota",
+    "name": "Tuta",
+    "hq_country": "DE",
+    "hq_city": "Hanover, Germany",
+    "eu_status": "eu",
+    "founded": 2011,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "tutanota.com",
+      "tuta.com"
+    ]
+  },
+  {
+    "id": "mullvad",
+    "name": "Mullvad VPN",
+    "hq_country": "SE",
+    "hq_city": "Gothenburg, Sweden",
+    "eu_status": "eu",
+    "founded": 2009,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "mullvad.net"
+    ]
+  },
+  {
+    "id": "nordvpn",
+    "name": "NordVPN",
+    "hq_country": "PA",
+    "hq_city": "Panama City, Panama",
+    "eu_status": "non-eu",
+    "founded": 2012,
+    "confidence": "high",
+    "parent_company": "Nord Security",
+    "ultimate_owner": "Nord Security",
+    "ultimate_owner_country": "PA",
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "nordvpn.com"
+    ]
+  },
+  {
+    "id": "surfshark",
+    "name": "Surfshark",
+    "hq_country": "NL",
+    "hq_city": "Amsterdam, Netherlands",
+    "eu_status": "eu",
+    "founded": 2018,
+    "confidence": "high",
+    "parent_company": "Nord Security",
+    "ultimate_owner": "Nord Security",
+    "ultimate_owner_country": "PA",
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "surfshark.com"
+    ]
+  },
+  {
+    "id": "openai",
+    "name": "OpenAI",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2015,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "openai.com",
+      "chatgpt.com"
+    ]
+  },
+  {
+    "id": "anthropic",
+    "name": "Anthropic",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2021,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "anthropic.com",
+      "claude.ai"
+    ]
+  },
+  {
+    "id": "mistral-ai",
+    "name": "Mistral AI",
+    "hq_country": "FR",
+    "hq_city": "Paris, France",
+    "eu_status": "eu",
+    "founded": 2023,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "mistral.ai"
+    ]
+  },
+  {
+    "id": "cohere",
+    "name": "Cohere",
+    "hq_country": "CA",
+    "hq_city": "Toronto, Canada",
+    "eu_status": "non-eu",
+    "founded": 2019,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "cohere.com"
+    ]
+  },
+  {
+    "id": "stability-ai",
+    "name": "Stability AI",
+    "hq_country": "GB",
+    "hq_city": "London, UK",
+    "eu_status": "non-eu",
+    "founded": 2019,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "stability.ai"
+    ]
+  },
+  {
+    "id": "midjourney",
+    "name": "Midjourney",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2021,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "midjourney.com"
+    ]
+  },
+  {
+    "id": "hugging-face",
+    "name": "Hugging Face",
+    "hq_country": "US",
+    "hq_city": "New York, NY",
+    "eu_status": "non-eu",
+    "founded": 2016,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "huggingface.co"
+    ]
+  },
+  {
+    "id": "sentry",
+    "name": "Sentry",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2012,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "sentry.io"
+    ]
+  },
+  {
+    "id": "new-relic",
+    "name": "New Relic",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2008,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "newrelic.com"
+    ]
+  },
+  {
+    "id": "dynatrace",
+    "name": "Dynatrace",
+    "hq_country": "US",
+    "hq_city": "Waltham, Massachusetts",
+    "eu_status": "non-eu",
+    "founded": 2005,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "dynatrace.com"
+    ]
+  },
+  {
+    "id": "grafana-labs",
+    "name": "Grafana Labs",
+    "hq_country": "US",
+    "hq_city": "New York, NY",
+    "eu_status": "non-eu",
+    "founded": 2014,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "grafana.com"
+    ]
+  },
+  {
+    "id": "pagerduty",
+    "name": "PagerDuty",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2009,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "pagerduty.com"
+    ]
+  },
+  {
+    "id": "circleci",
+    "name": "CircleCI",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2011,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "circleci.com"
+    ]
+  },
+  {
+    "id": "bitrise",
+    "name": "Bitrise",
+    "hq_country": "HU",
+    "hq_city": "Budapest, Hungary",
+    "eu_status": "eu",
+    "founded": 2014,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "bitrise.io"
+    ]
+  },
+  {
+    "id": "linear",
+    "name": "Linear",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2019,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "linear.app"
+    ]
+  },
+  {
+    "id": "amplitude",
+    "name": "Amplitude",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2012,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "amplitude.com"
+    ]
+  },
+  {
+    "id": "mixpanel",
+    "name": "Mixpanel",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2009,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "mixpanel.com"
+    ]
+  },
+  {
+    "id": "contentsquare",
+    "name": "Contentsquare",
+    "hq_country": "FR",
+    "hq_city": "Paris, France",
+    "eu_status": "eu",
+    "founded": 2012,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "contentsquare.com"
+    ]
+  },
+  {
+    "id": "hotjar",
+    "name": "Hotjar",
+    "hq_country": "MT",
+    "hq_city": "St. Julian's, Malta",
+    "eu_status": "eu",
+    "founded": 2014,
+    "confidence": "high",
+    "parent_company": "Contentsquare",
+    "ultimate_owner": "Contentsquare",
+    "ultimate_owner_country": "FR",
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "hotjar.com"
+    ]
+  },
+  {
+    "id": "segment",
+    "name": "Segment",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2011,
+    "confidence": "high",
+    "parent_company": "Twilio",
+    "ultimate_owner": "Twilio",
+    "ultimate_owner_country": "US",
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "segment.com"
+    ]
+  },
+  {
+    "id": "upcloud",
+    "name": "UpCloud",
+    "hq_country": "FI",
+    "hq_city": "Helsinki, Finland",
+    "eu_status": "eu",
+    "founded": 2011,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "upcloud.com"
+    ]
+  },
+  {
+    "id": "vultr",
+    "name": "Vultr",
+    "hq_country": "US",
+    "hq_city": "Matawan, New Jersey",
+    "eu_status": "non-eu",
+    "founded": 2014,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "vultr.com"
+    ]
+  },
+  {
+    "id": "contabo",
+    "name": "Contabo",
+    "hq_country": "DE",
+    "hq_city": "Munich, Germany",
+    "eu_status": "eu",
+    "founded": 2003,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "contabo.com"
+    ]
+  },
+  {
+    "id": "hostinger",
+    "name": "Hostinger",
+    "hq_country": "LT",
+    "hq_city": "Kaunas, Lithuania",
+    "eu_status": "eu",
+    "founded": 2004,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "hostinger.com"
+    ]
+  },
+  {
+    "id": "siteground",
+    "name": "SiteGround",
+    "hq_country": "BG",
+    "hq_city": "Sofia, Bulgaria",
+    "eu_status": "eu",
+    "founded": 2004,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "siteground.com"
+    ]
+  },
+  {
+    "id": "godaddy",
+    "name": "GoDaddy",
+    "hq_country": "US",
+    "hq_city": "Tempe, Arizona",
+    "eu_status": "non-eu",
+    "founded": 1997,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "godaddy.com"
+    ]
+  },
+  {
+    "id": "namecheap",
+    "name": "Namecheap",
+    "hq_country": "US",
+    "hq_city": "Phoenix, Arizona",
+    "eu_status": "non-eu",
+    "founded": 2000,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "namecheap.com"
+    ]
+  },
+  {
+    "id": "webflow",
+    "name": "Webflow",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2013,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "webflow.com"
+    ]
+  },
+  {
+    "id": "squarespace",
+    "name": "Squarespace",
+    "hq_country": "US",
+    "hq_city": "New York, NY",
+    "eu_status": "non-eu",
+    "founded": 2003,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "squarespace.com"
+    ]
+  },
+  {
+    "id": "wix",
+    "name": "Wix",
+    "hq_country": "IL",
+    "hq_city": "Tel Aviv, Israel",
+    "eu_status": "non-eu",
+    "founded": 2006,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "wix.com"
+    ]
+  },
+  {
+    "id": "jimdo",
+    "name": "Jimdo",
+    "hq_country": "DE",
+    "hq_city": "Hamburg, Germany",
+    "eu_status": "eu",
+    "founded": 2007,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "jimdo.com"
+    ]
+  },
+  {
+    "id": "zapier",
+    "name": "Zapier",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2011,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "zapier.com"
+    ]
+  },
+  {
+    "id": "ifttt",
+    "name": "IFTTT",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2010,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "ifttt.com"
+    ]
+  },
+  {
+    "id": "make",
+    "name": "Make",
+    "hq_country": "CZ",
+    "hq_city": "Prague, Czech Republic",
+    "eu_status": "eu",
+    "founded": 2012,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "make.com"
+    ]
+  },
+  {
+    "id": "n8n",
+    "name": "n8n",
+    "hq_country": "DE",
+    "hq_city": "Berlin, Germany",
+    "eu_status": "eu",
+    "founded": 2019,
+    "confidence": "medium",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "official"
+    ],
+    "domains": [
+      "n8n.io"
+    ]
+  },
+  {
+    "id": "retool",
+    "name": "Retool",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2017,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "retool.com"
+    ]
+  },
+  {
+    "id": "algolia",
+    "name": "Algolia",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2012,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "algolia.com"
+    ]
+  },
+  {
+    "id": "meilisearch",
+    "name": "Meilisearch",
+    "hq_country": "FR",
+    "hq_city": "Paris, France",
+    "eu_status": "eu",
+    "founded": 2018,
+    "confidence": "medium",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "official"
+    ],
+    "domains": [
+      "meilisearch.com"
+    ]
+  },
+  {
+    "id": "pinecone",
+    "name": "Pinecone",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2019,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "pinecone.io"
+    ]
+  },
+  {
+    "id": "weaviate",
+    "name": "Weaviate",
+    "hq_country": "NL",
+    "hq_city": "Amsterdam, Netherlands",
+    "eu_status": "eu",
+    "founded": 2019,
+    "confidence": "medium",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "official"
+    ],
+    "domains": [
+      "weaviate.io"
+    ]
+  },
+  {
+    "id": "qdrant",
+    "name": "Qdrant",
+    "hq_country": "DE",
+    "hq_city": "Berlin, Germany",
+    "eu_status": "eu",
+    "founded": 2021,
+    "confidence": "medium",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "official"
+    ],
+    "domains": [
+      "qdrant.tech"
+    ]
+  },
+  {
+    "id": "langchain",
+    "name": "LangChain",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2022,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "langchain.com"
+    ]
+  },
+  {
+    "id": "replit",
+    "name": "Replit",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2016,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "replit.com"
+    ]
+  },
+  {
+    "id": "glitch",
+    "name": "Glitch",
+    "hq_country": "US",
+    "hq_city": "New York, NY",
+    "eu_status": "non-eu",
+    "founded": 2017,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "glitch.com"
+    ]
+  },
+  {
+    "id": "codepen",
+    "name": "CodePen",
+    "hq_country": "US",
+    "hq_city": "Austin, Texas",
+    "eu_status": "non-eu",
+    "founded": 2012,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "codepen.io"
+    ]
+  },
+  {
+    "id": "codesandbox",
+    "name": "CodeSandbox",
+    "hq_country": "NL",
+    "hq_city": "Amsterdam, Netherlands",
+    "eu_status": "eu",
+    "founded": 2017,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "codesandbox.io"
+    ]
+  },
+  {
+    "id": "gitpod",
+    "name": "Gitpod",
+    "hq_country": "DE",
+    "hq_city": "Berlin, Germany",
+    "eu_status": "eu",
+    "founded": 2019,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "gitpod.io"
+    ]
+  },
+  {
+    "id": "redis",
+    "name": "Redis",
+    "hq_country": "US",
+    "hq_city": "Mountain View, California",
+    "eu_status": "non-eu",
+    "founded": 2011,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "redis.com"
+    ]
+  },
+  {
+    "id": "couchbase",
+    "name": "Couchbase",
+    "hq_country": "US",
+    "hq_city": "Santa Clara, California",
+    "eu_status": "non-eu",
+    "founded": 2011,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "couchbase.com"
+    ]
+  },
+  {
+    "id": "influxdata",
+    "name": "InfluxData",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2012,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "influxdata.com"
+    ]
+  },
+  {
+    "id": "timescale",
+    "name": "Timescale",
+    "hq_country": "US",
+    "hq_city": "New York, NY",
+    "eu_status": "non-eu",
+    "founded": 2015,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "timescale.com"
+    ]
+  },
+  {
+    "id": "dbt-labs",
+    "name": "dbt Labs",
+    "hq_country": "US",
+    "hq_city": "Philadelphia, Pennsylvania",
+    "eu_status": "non-eu",
+    "founded": 2016,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "getdbt.com"
+    ]
+  },
+  {
+    "id": "fivetran",
+    "name": "Fivetran",
+    "hq_country": "US",
+    "hq_city": "Oakland, California",
+    "eu_status": "non-eu",
+    "founded": 2012,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "fivetran.com"
+    ]
+  },
+  {
+    "id": "airbyte",
+    "name": "Airbyte",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2020,
+    "confidence": "medium",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "official"
+    ],
+    "domains": [
+      "airbyte.com"
+    ]
+  },
+  {
+    "id": "matomo",
+    "name": "Matomo",
+    "hq_country": "NZ",
+    "hq_city": "Wellington, New Zealand",
+    "eu_status": "non-eu",
+    "founded": 2007,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "matomo.org"
+    ]
+  },
+  {
+    "id": "plausible",
+    "name": "Plausible",
+    "hq_country": "EE",
+    "hq_city": "Tallinn, Estonia",
+    "eu_status": "eu",
+    "founded": 2019,
+    "confidence": "medium",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "official"
+    ],
+    "domains": [
+      "plausible.io"
+    ]
+  },
+  {
+    "id": "posthog",
+    "name": "PostHog",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2020,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "posthog.com"
+    ]
+  },
+  {
+    "id": "tableau",
+    "name": "Tableau",
+    "hq_country": "US",
+    "hq_city": "Seattle, Washington",
+    "eu_status": "non-eu",
+    "founded": 2003,
+    "confidence": "high",
+    "parent_company": "Salesforce",
+    "ultimate_owner": "Salesforce",
+    "ultimate_owner_country": "US",
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "tableau.com"
+    ]
+  },
+  {
+    "id": "looker",
+    "name": "Looker",
+    "hq_country": "US",
+    "hq_city": "Santa Cruz, California",
+    "eu_status": "non-eu",
+    "founded": 2012,
+    "confidence": "high",
+    "parent_company": "Google",
+    "ultimate_owner": "Alphabet",
+    "ultimate_owner_country": "US",
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "looker.com"
+    ]
+  },
+  {
+    "id": "metabase",
+    "name": "Metabase",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2015,
+    "confidence": "medium",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "official"
+    ],
+    "domains": [
+      "metabase.com"
+    ]
+  },
+  {
+    "id": "thoughtspot",
+    "name": "ThoughtSpot",
+    "hq_country": "US",
+    "hq_city": "Palo Alto, California",
+    "eu_status": "non-eu",
+    "founded": 2012,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "thoughtspot.com"
+    ]
+  },
+  {
+    "id": "qlik",
+    "name": "Qlik",
+    "hq_country": "US",
+    "hq_city": "King of Prussia, Pennsylvania",
+    "eu_status": "non-eu",
+    "founded": 1993,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "qlik.com"
+    ]
+  },
+  {
+    "id": "chartmogul",
+    "name": "ChartMogul",
+    "hq_country": "DE",
+    "hq_city": "Berlin, Germany",
+    "eu_status": "eu",
+    "founded": 2014,
+    "confidence": "medium",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "official"
+    ],
+    "domains": [
+      "chartmogul.com"
+    ]
+  },
+  {
+    "id": "paddle",
+    "name": "Paddle",
+    "hq_country": "GB",
+    "hq_city": "London, UK",
+    "eu_status": "non-eu",
+    "founded": 2012,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "paddle.com"
+    ]
+  },
+  {
+    "id": "chargebee",
+    "name": "Chargebee",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2011,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "chargebee.com"
+    ]
+  },
+  {
+    "id": "recurly",
+    "name": "Recurly",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2009,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "recurly.com"
+    ]
+  },
+  {
+    "id": "zuora",
+    "name": "Zuora",
+    "hq_country": "US",
+    "hq_city": "Redwood City, California",
+    "eu_status": "non-eu",
+    "founded": 2007,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "zuora.com"
+    ]
+  },
+  {
+    "id": "braintree",
+    "name": "Braintree",
+    "hq_country": "US",
+    "hq_city": "Chicago, Illinois",
+    "eu_status": "non-eu",
+    "founded": 2007,
+    "confidence": "high",
+    "parent_company": "PayPal",
+    "ultimate_owner": "PayPal",
+    "ultimate_owner_country": "US",
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "braintreepayments.com"
+    ]
+  },
+  {
+    "id": "payoneer",
+    "name": "Payoneer",
+    "hq_country": "US",
+    "hq_city": "New York, NY",
+    "eu_status": "non-eu",
+    "founded": 2005,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "payoneer.com"
+    ]
+  },
+  {
+    "id": "expensify",
+    "name": "Expensify",
+    "hq_country": "US",
+    "hq_city": "Portland, Oregon",
+    "eu_status": "non-eu",
+    "founded": 2008,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "expensify.com"
+    ]
+  },
+  {
+    "id": "concur",
+    "name": "Concur",
+    "hq_country": "US",
+    "hq_city": "Bellevue, Washington",
+    "eu_status": "non-eu",
+    "founded": 1993,
+    "confidence": "high",
+    "parent_company": "SAP",
+    "ultimate_owner": "SAP",
+    "ultimate_owner_country": "DE",
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "concur.com"
+    ]
+  },
+  {
+    "id": "spendesk",
+    "name": "Spendesk",
+    "hq_country": "FR",
+    "hq_city": "Paris, France",
+    "eu_status": "eu",
+    "founded": 2016,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "spendesk.com"
+    ]
+  },
+  {
+    "id": "payhawk",
+    "name": "Payhawk",
+    "hq_country": "GB",
+    "hq_city": "London, UK",
+    "eu_status": "non-eu",
+    "founded": 2018,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "payhawk.com"
+    ]
+  },
+  {
+    "id": "uber",
+    "name": "Uber",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2009,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "uber.com"
+    ]
+  },
+  {
+    "id": "lyft",
+    "name": "Lyft",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2012,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "lyft.com"
+    ]
+  },
+  {
+    "id": "bolt",
+    "name": "Bolt",
+    "hq_country": "EE",
+    "hq_city": "Tallinn, Estonia",
+    "eu_status": "eu",
+    "founded": 2013,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "bolt.eu"
+    ]
+  },
+  {
+    "id": "free-now",
+    "name": "FREE NOW",
+    "hq_country": "DE",
+    "hq_city": "Hamburg, Germany",
+    "eu_status": "eu",
+    "founded": 2009,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": "Mercedes-Benz",
+    "ultimate_owner_country": "DE",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "free-now.com"
+    ]
+  },
+  {
+    "id": "blablacar",
+    "name": "BlaBlaCar",
+    "hq_country": "FR",
+    "hq_city": "Paris, France",
+    "eu_status": "eu",
+    "founded": 2006,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "blablacar.com"
+    ]
+  },
+  {
+    "id": "didi",
+    "name": "DiDi Global",
+    "hq_country": "CN",
+    "hq_city": "Beijing, China",
+    "eu_status": "non-eu",
+    "founded": 2012,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "didiglobal.com"
+    ]
+  },
+  {
+    "id": "lime",
+    "name": "Lime",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2017,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "li.me"
+    ]
+  },
+  {
+    "id": "tier",
+    "name": "TIER Mobility",
+    "hq_country": "DE",
+    "hq_city": "Berlin, Germany",
+    "eu_status": "eu",
+    "founded": 2018,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "tier.app"
+    ]
+  },
+  {
+    "id": "voi",
+    "name": "Voi Technology",
+    "hq_country": "SE",
+    "hq_city": "Stockholm, Sweden",
+    "eu_status": "eu",
+    "founded": 2018,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "voiscooters.com"
+    ]
+  },
+  {
+    "id": "bird",
+    "name": "Bird",
+    "hq_country": "US",
+    "hq_city": "Santa Monica, California",
+    "eu_status": "non-eu",
+    "founded": 2017,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "bird.co"
+    ]
+  },
+  {
+    "id": "trainline",
+    "name": "Trainline",
+    "hq_country": "GB",
+    "hq_city": "London, UK",
+    "eu_status": "non-eu",
+    "founded": 1999,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "trainline.com",
+      "trainline.eu"
+    ]
+  },
+  {
+    "id": "sncf",
+    "name": "SNCF",
+    "hq_country": "FR",
+    "hq_city": "Saint-Denis, France",
+    "eu_status": "eu",
+    "founded": 1938,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": "French State",
+    "ultimate_owner_country": "FR",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "sncf.com",
+      "sncf-connect.com"
+    ]
+  },
+  {
+    "id": "deutsche-bahn",
+    "name": "Deutsche Bahn",
+    "hq_country": "DE",
+    "hq_city": "Berlin, Germany",
+    "eu_status": "eu",
+    "founded": 1994,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": "German State",
+    "ultimate_owner_country": "DE",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "bahn.de",
+      "bahn.com"
+    ]
+  },
+  {
+    "id": "eurostar",
+    "name": "Eurostar",
+    "hq_country": "BE",
+    "hq_city": "Brussels, Belgium",
+    "eu_status": "eu",
+    "founded": 1994,
+    "confidence": "high",
+    "parent_company": "Eurostar Group",
+    "ultimate_owner": "SNCF",
+    "ultimate_owner_country": "FR",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "eurostar.com"
+    ]
+  },
+  {
+    "id": "trenitalia",
+    "name": "Trenitalia",
+    "hq_country": "IT",
+    "hq_city": "Rome, Italy",
+    "eu_status": "eu",
+    "founded": 2000,
+    "confidence": "high",
+    "parent_company": "Ferrovie dello Stato",
+    "ultimate_owner": "Italian State",
+    "ultimate_owner_country": "IT",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "trenitalia.com"
+    ]
+  },
+  {
+    "id": "renfe",
+    "name": "Renfe",
+    "hq_country": "ES",
+    "hq_city": "Madrid, Spain",
+    "eu_status": "eu",
+    "founded": 2005,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": "Spanish State",
+    "ultimate_owner_country": "ES",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "renfe.com"
+    ]
+  },
+  {
+    "id": "flixbus",
+    "name": "FlixBus",
+    "hq_country": "DE",
+    "hq_city": "Munich, Germany",
+    "eu_status": "eu",
+    "founded": 2013,
+    "confidence": "high",
+    "parent_company": "Flix SE",
+    "ultimate_owner": "Flix SE",
+    "ultimate_owner_country": "DE",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "flixbus.com",
+      "flixbus.de"
+    ]
+  },
+  {
+    "id": "ryanair",
+    "name": "Ryanair",
+    "hq_country": "IE",
+    "hq_city": "Dublin, Ireland",
+    "eu_status": "eu",
+    "founded": 1984,
+    "confidence": "high",
+    "parent_company": "Ryanair Holdings",
+    "ultimate_owner": "Ryanair Holdings",
+    "ultimate_owner_country": "IE",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "ryanair.com"
+    ]
+  },
+  {
+    "id": "easyjet",
+    "name": "EasyJet",
+    "hq_country": "GB",
+    "hq_city": "Luton, UK",
+    "eu_status": "non-eu",
+    "founded": 1995,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "easyjet.com"
+    ]
+  },
+  {
+    "id": "wizz-air",
+    "name": "Wizz Air",
+    "hq_country": "HU",
+    "hq_city": "Budapest, Hungary",
+    "eu_status": "eu",
+    "founded": 2003,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "wizzair.com"
+    ]
+  },
+  {
+    "id": "vueling",
+    "name": "Vueling",
+    "hq_country": "ES",
+    "hq_city": "Barcelona, Spain",
+    "eu_status": "eu",
+    "founded": 2004,
+    "confidence": "high",
+    "parent_company": "IAG",
+    "ultimate_owner": "IAG",
+    "ultimate_owner_country": "ES",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "vueling.com"
+    ]
+  },
+  {
+    "id": "iag",
+    "name": "International Airlines Group",
+    "hq_country": "ES",
+    "hq_city": "Madrid, Spain",
+    "eu_status": "eu",
+    "founded": 2011,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "iairgroup.com"
+    ]
+  },
+  {
+    "id": "british-airways",
+    "name": "British Airways",
+    "hq_country": "GB",
+    "hq_city": "London, UK",
+    "eu_status": "non-eu",
+    "founded": 1974,
+    "confidence": "high",
+    "parent_company": "IAG",
+    "ultimate_owner": "IAG",
+    "ultimate_owner_country": "ES",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "britishairways.com"
+    ]
+  },
+  {
+    "id": "iberia",
+    "name": "Iberia",
+    "hq_country": "ES",
+    "hq_city": "Madrid, Spain",
+    "eu_status": "eu",
+    "founded": 1927,
+    "confidence": "high",
+    "parent_company": "IAG",
+    "ultimate_owner": "IAG",
+    "ultimate_owner_country": "ES",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "iberia.com"
+    ]
+  },
+  {
+    "id": "lufthansa",
+    "name": "Lufthansa",
+    "hq_country": "DE",
+    "hq_city": "Cologne, Germany",
+    "eu_status": "eu",
+    "founded": 1953,
+    "confidence": "high",
+    "parent_company": "Lufthansa Group",
+    "ultimate_owner": "Lufthansa Group",
+    "ultimate_owner_country": "DE",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "lufthansa.com"
+    ]
+  },
+  {
+    "id": "lufthansa-group",
+    "name": "Lufthansa Group",
+    "hq_country": "DE",
+    "hq_city": "Cologne, Germany",
+    "eu_status": "eu",
+    "founded": 1953,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "lufthansagroup.com"
+    ]
+  },
+  {
+    "id": "swiss-air",
+    "name": "Swiss International Air Lines",
+    "hq_country": "CH",
+    "hq_city": "Basel, Switzerland",
+    "eu_status": "non-eu",
+    "founded": 2002,
+    "confidence": "high",
+    "parent_company": "Lufthansa Group",
+    "ultimate_owner": "Lufthansa Group",
+    "ultimate_owner_country": "DE",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "swiss.com"
+    ]
+  },
+  {
+    "id": "austrian-airlines",
+    "name": "Austrian Airlines",
+    "hq_country": "AT",
+    "hq_city": "Vienna, Austria",
+    "eu_status": "eu",
+    "founded": 1957,
+    "confidence": "high",
+    "parent_company": "Lufthansa Group",
+    "ultimate_owner": "Lufthansa Group",
+    "ultimate_owner_country": "DE",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "austrian.com"
+    ]
+  },
+  {
+    "id": "eurowings",
+    "name": "Eurowings",
+    "hq_country": "DE",
+    "hq_city": "Düsseldorf, Germany",
+    "eu_status": "eu",
+    "founded": 1996,
+    "confidence": "high",
+    "parent_company": "Lufthansa Group",
+    "ultimate_owner": "Lufthansa Group",
+    "ultimate_owner_country": "DE",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "eurowings.com"
+    ]
+  },
+  {
+    "id": "klm",
+    "name": "KLM",
+    "hq_country": "NL",
+    "hq_city": "Amstelveen, Netherlands",
+    "eu_status": "eu",
+    "founded": 1919,
+    "confidence": "high",
+    "parent_company": "Air France-KLM",
+    "ultimate_owner": "Air France-KLM",
+    "ultimate_owner_country": "FR",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "klm.com"
+    ]
+  },
+  {
+    "id": "air-france",
+    "name": "Air France",
+    "hq_country": "FR",
+    "hq_city": "Tremblay-en-France, France",
+    "eu_status": "eu",
+    "founded": 1933,
+    "confidence": "high",
+    "parent_company": "Air France-KLM",
+    "ultimate_owner": "Air France-KLM",
+    "ultimate_owner_country": "FR",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "airfrance.com"
+    ]
+  },
+  {
+    "id": "air-france-klm",
+    "name": "Air France-KLM",
+    "hq_country": "FR",
+    "hq_city": "Paris, France",
+    "eu_status": "eu",
+    "founded": 2004,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "airfranceklm.com"
+    ]
+  },
+  {
+    "id": "sas",
+    "name": "Scandinavian Airlines",
+    "hq_country": "SE",
+    "hq_city": "Stockholm, Sweden",
+    "eu_status": "eu",
+    "founded": 1946,
+    "confidence": "high",
+    "parent_company": "SAS Group",
+    "ultimate_owner": "Air France-KLM",
+    "ultimate_owner_country": "FR",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "flysas.com"
+    ]
+  },
+  {
+    "id": "norwegian",
+    "name": "Norwegian Air Shuttle",
+    "hq_country": "NO",
+    "hq_city": "Oslo, Norway",
+    "eu_status": "non-eu",
+    "founded": 1993,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "norwegian.com"
+    ]
+  },
+  {
+    "id": "finnair",
+    "name": "Finnair",
+    "hq_country": "FI",
+    "hq_city": "Vantaa, Finland",
+    "eu_status": "eu",
+    "founded": 1923,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": "Finnish State",
+    "ultimate_owner_country": "FI",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "finnair.com"
+    ]
+  },
+  {
+    "id": "lot-polish",
+    "name": "LOT Polish Airlines",
+    "hq_country": "PL",
+    "hq_city": "Warsaw, Poland",
+    "eu_status": "eu",
+    "founded": 1929,
+    "confidence": "high",
+    "parent_company": "Polish Aviation Group",
+    "ultimate_owner": "Polish State",
+    "ultimate_owner_country": "PL",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "lot.com"
+    ]
+  },
+  {
+    "id": "tap-portugal",
+    "name": "TAP Air Portugal",
+    "hq_country": "PT",
+    "hq_city": "Lisbon, Portugal",
+    "eu_status": "eu",
+    "founded": 1945,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": "Portuguese State",
+    "ultimate_owner_country": "PT",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "flytap.com"
+    ]
+  },
+  {
+    "id": "aegean",
+    "name": "Aegean Airlines",
+    "hq_country": "GR",
+    "hq_city": "Athens, Greece",
+    "eu_status": "eu",
+    "founded": 1987,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "aegeanair.com"
+    ]
+  },
+  {
+    "id": "turkish-airlines",
+    "name": "Turkish Airlines",
+    "hq_country": "TR",
+    "hq_city": "Istanbul, Turkey",
+    "eu_status": "non-eu",
+    "founded": 1933,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": "Turkish State",
+    "ultimate_owner_country": "TR",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "turkishairlines.com"
+    ]
+  },
+  {
+    "id": "emirates",
+    "name": "Emirates",
+    "hq_country": "AE",
+    "hq_city": "Dubai, UAE",
+    "eu_status": "non-eu",
+    "founded": 1985,
+    "confidence": "high",
+    "parent_company": "Emirates Group",
+    "ultimate_owner": "Investment Corporation of Dubai",
+    "ultimate_owner_country": "AE",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "emirates.com"
+    ]
+  },
+  {
+    "id": "qatar-airways",
+    "name": "Qatar Airways",
+    "hq_country": "QA",
+    "hq_city": "Doha, Qatar",
+    "eu_status": "non-eu",
+    "founded": 1993,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": "Qatari State",
+    "ultimate_owner_country": "QA",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "qatarairways.com"
+    ]
+  },
+  {
+    "id": "etihad",
+    "name": "Etihad Airways",
+    "hq_country": "AE",
+    "hq_city": "Abu Dhabi, UAE",
+    "eu_status": "non-eu",
+    "founded": 2003,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": "Abu Dhabi State",
+    "ultimate_owner_country": "AE",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "etihad.com"
+    ]
+  },
+  {
+    "id": "singapore-airlines",
+    "name": "Singapore Airlines",
+    "hq_country": "SG",
+    "hq_city": "Singapore",
+    "eu_status": "non-eu",
+    "founded": 1972,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": "Temasek Holdings",
+    "ultimate_owner_country": "SG",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "singaporeair.com"
+    ]
+  },
+  {
+    "id": "cathay-pacific",
+    "name": "Cathay Pacific",
+    "hq_country": "HK",
+    "hq_city": "Hong Kong",
+    "eu_status": "non-eu",
+    "founded": 1946,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "cathaypacific.com"
+    ]
+  },
+  {
+    "id": "united-airlines",
+    "name": "United Airlines",
+    "hq_country": "US",
+    "hq_city": "Chicago, Illinois",
+    "eu_status": "non-eu",
+    "founded": 1926,
+    "confidence": "high",
+    "parent_company": "United Airlines Holdings",
+    "ultimate_owner": "United Airlines Holdings",
+    "ultimate_owner_country": "US",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "united.com"
+    ]
+  },
+  {
+    "id": "delta",
+    "name": "Delta Air Lines",
+    "hq_country": "US",
+    "hq_city": "Atlanta, Georgia",
+    "eu_status": "non-eu",
+    "founded": 1929,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "delta.com"
+    ]
+  },
+  {
+    "id": "american-airlines",
+    "name": "American Airlines",
+    "hq_country": "US",
+    "hq_city": "Fort Worth, Texas",
+    "eu_status": "non-eu",
+    "founded": 1930,
+    "confidence": "high",
+    "parent_company": "American Airlines Group",
+    "ultimate_owner": "American Airlines Group",
+    "ultimate_owner_country": "US",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "aa.com"
+    ]
+  },
+  {
+    "id": "southwest",
+    "name": "Southwest Airlines",
+    "hq_country": "US",
+    "hq_city": "Dallas, Texas",
+    "eu_status": "non-eu",
+    "founded": 1967,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "southwest.com"
+    ]
+  },
+  {
+    "id": "hotels-com",
+    "name": "Hotels.com",
+    "hq_country": "US",
+    "hq_city": "Dallas, Texas",
+    "eu_status": "non-eu",
+    "founded": 1991,
+    "confidence": "high",
+    "parent_company": "Expedia Group",
+    "ultimate_owner": "Expedia Group",
+    "ultimate_owner_country": "US",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "hotels.com"
+    ]
+  },
+  {
+    "id": "vrbo",
+    "name": "Vrbo",
+    "hq_country": "US",
+    "hq_city": "Austin, Texas",
+    "eu_status": "non-eu",
+    "founded": 1995,
+    "confidence": "high",
+    "parent_company": "Expedia Group",
+    "ultimate_owner": "Expedia Group",
+    "ultimate_owner_country": "US",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "vrbo.com"
+    ]
+  },
+  {
+    "id": "agoda",
+    "name": "Agoda",
+    "hq_country": "SG",
+    "hq_city": "Singapore",
+    "eu_status": "non-eu",
+    "founded": 2005,
+    "confidence": "high",
+    "parent_company": "Booking Holdings",
+    "ultimate_owner": "Booking Holdings",
+    "ultimate_owner_country": "US",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "agoda.com"
+    ]
+  },
+  {
+    "id": "hostelworld",
+    "name": "Hostelworld",
+    "hq_country": "IE",
+    "hq_city": "Dublin, Ireland",
+    "eu_status": "eu",
+    "founded": 1999,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "hostelworld.com"
+    ]
+  },
+  {
+    "id": "trip-com",
+    "name": "Trip.com",
+    "hq_country": "CN",
+    "hq_city": "Shanghai, China",
+    "eu_status": "non-eu",
+    "founded": 1999,
+    "confidence": "high",
+    "parent_company": "Trip.com Group",
+    "ultimate_owner": "Trip.com Group",
+    "ultimate_owner_country": "CN",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "trip.com"
+    ]
+  },
+  {
+    "id": "sixt",
+    "name": "Sixt",
+    "hq_country": "DE",
+    "hq_city": "Pullach, Germany",
+    "eu_status": "eu",
+    "founded": 1912,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "sixt.com"
+    ]
+  },
+  {
+    "id": "europcar",
+    "name": "Europcar",
+    "hq_country": "FR",
+    "hq_city": "Paris, France",
+    "eu_status": "eu",
+    "founded": 1949,
+    "confidence": "high",
+    "parent_company": "Green Mobility Holding",
+    "ultimate_owner": "Volkswagen",
+    "ultimate_owner_country": "DE",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "europcar.com"
+    ]
+  },
+  {
+    "id": "hertz",
+    "name": "Hertz",
+    "hq_country": "US",
+    "hq_city": "Estero, Florida",
+    "eu_status": "non-eu",
+    "founded": 1918,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "hertz.com"
+    ]
+  },
+  {
+    "id": "avis",
+    "name": "Avis Budget Group",
+    "hq_country": "US",
+    "hq_city": "Parsippany, New Jersey",
+    "eu_status": "non-eu",
+    "founded": 1946,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "avis.com",
+      "budget.com"
+    ]
+  },
+  {
+    "id": "omio",
+    "name": "Omio",
+    "hq_country": "DE",
+    "hq_city": "Berlin, Germany",
+    "eu_status": "eu",
+    "founded": 2013,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "omio.com"
+    ]
+  },
+  {
+    "id": "kiwi-com",
+    "name": "Kiwi.com",
+    "hq_country": "CZ",
+    "hq_city": "Brno, Czech Republic",
+    "eu_status": "eu",
+    "founded": 2012,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "kiwi.com"
+    ]
+  },
+  {
+    "id": "momondo",
+    "name": "Momondo",
+    "hq_country": "DK",
+    "hq_city": "Copenhagen, Denmark",
+    "eu_status": "eu",
+    "founded": 2006,
+    "confidence": "high",
+    "parent_company": "Booking Holdings",
+    "ultimate_owner": "Booking Holdings",
+    "ultimate_owner_country": "US",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "momondo.com"
+    ]
+  },
+  {
+    "id": "hopper",
+    "name": "Hopper",
+    "hq_country": "CA",
+    "hq_city": "Montreal, Canada",
+    "eu_status": "non-eu",
+    "founded": 2007,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "hopper.com"
+    ]
+  },
+  {
+    "id": "flightradar24",
+    "name": "Flightradar24",
+    "hq_country": "SE",
+    "hq_city": "Stockholm, Sweden",
+    "eu_status": "eu",
+    "founded": 2006,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "flightradar24.com"
+    ]
+  },
+  {
+    "id": "aerlingus",
+    "name": "Aer Lingus",
+    "hq_country": "IE",
+    "hq_city": "Dublin, Ireland",
+    "eu_status": "eu",
+    "founded": 1936,
+    "confidence": "high",
+    "parent_company": "IAG",
+    "ultimate_owner": "IAG",
+    "ultimate_owner_country": "ES",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "aerlingus.com"
+    ]
+  },
+  {
+    "id": "air-baltic",
+    "name": "airBaltic",
+    "hq_country": "LV",
+    "hq_city": "Riga, Latvia",
+    "eu_status": "eu",
+    "founded": 1995,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": "Latvian State",
+    "ultimate_owner_country": "LV",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "airbaltic.com"
+    ]
+  },
+  {
+    "id": "condor",
+    "name": "Condor",
+    "hq_country": "DE",
+    "hq_city": "Frankfurt, Germany",
+    "eu_status": "eu",
+    "founded": 1955,
+    "confidence": "high",
+    "parent_company": "Attestor",
+    "ultimate_owner": "Attestor",
+    "ultimate_owner_country": "GB",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "condor.com"
+    ]
+  },
+  {
+    "id": "pegasus",
+    "name": "Pegasus Airlines",
+    "hq_country": "TR",
+    "hq_city": "Istanbul, Turkey",
+    "eu_status": "non-eu",
+    "founded": 1990,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "flypgs.com"
+    ]
+  },
+  {
+    "id": "icelandair",
+    "name": "Icelandair",
+    "hq_country": "IS",
+    "hq_city": "Reykjavik, Iceland",
+    "eu_status": "non-eu",
+    "founded": 1937,
+    "confidence": "high",
+    "parent_company": "Icelandair Group",
+    "ultimate_owner": "Icelandair Group",
+    "ultimate_owner_country": "IS",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "icelandair.com"
+    ]
+  },
+  {
+    "id": "air-new-zealand",
+    "name": "Air New Zealand",
+    "hq_country": "NZ",
+    "hq_city": "Auckland, New Zealand",
+    "eu_status": "non-eu",
+    "founded": 1940,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": "New Zealand State",
+    "ultimate_owner_country": "NZ",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "airnewzealand.com"
+    ]
+  },
+  {
+    "id": "qantas",
+    "name": "Qantas",
+    "hq_country": "AU",
+    "hq_city": "Sydney, Australia",
+    "eu_status": "non-eu",
+    "founded": 1920,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "qantas.com"
+    ]
+  },
+  {
+    "id": "alaska",
+    "name": "Alaska Airlines",
+    "hq_country": "US",
+    "hq_city": "Seattle, Washington",
+    "eu_status": "non-eu",
+    "founded": 1932,
+    "confidence": "high",
+    "parent_company": "Alaska Air Group",
+    "ultimate_owner": "Alaska Air Group",
+    "ultimate_owner_country": "US",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "alaskaair.com"
+    ]
+  },
+  {
+    "id": "jetblue",
+    "name": "JetBlue Airways",
+    "hq_country": "US",
+    "hq_city": "New York, NY",
+    "eu_status": "non-eu",
+    "founded": 1998,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "jetblue.com"
+    ]
+  },
+  {
+    "id": "spirit",
+    "name": "Spirit Airlines",
+    "hq_country": "US",
+    "hq_city": "Miramar, Florida",
+    "eu_status": "non-eu",
+    "founded": 1992,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "spirit.com"
+    ]
+  },
+  {
+    "id": "air-canada",
+    "name": "Air Canada",
+    "hq_country": "CA",
+    "hq_city": "Montreal, Canada",
+    "eu_status": "non-eu",
+    "founded": 1937,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "aircanada.com"
+    ]
+  },
+  {
+    "id": "virgin-atlantic",
+    "name": "Virgin Atlantic",
+    "hq_country": "GB",
+    "hq_city": "Crawley, UK",
+    "eu_status": "non-eu",
+    "founded": 1984,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": "Virgin Group",
+    "ultimate_owner_country": "GB",
+    "industry": "travel",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "virginatlantic.com"
+    ]
+  },
+  {
+    "id": "doordash",
+    "name": "DoorDash",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2013,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "doordash.com"
+    ]
+  },
+  {
+    "id": "uber-eats",
+    "name": "Uber Eats",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2014,
+    "confidence": "high",
+    "parent_company": "Uber",
+    "ultimate_owner": "Uber",
+    "ultimate_owner_country": "US",
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "ubereats.com"
+    ]
+  },
+  {
+    "id": "deliveroo",
+    "name": "Deliveroo",
+    "hq_country": "GB",
+    "hq_city": "London, UK",
+    "eu_status": "non-eu",
+    "founded": 2013,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "deliveroo.com",
+      "deliveroo.co.uk"
+    ]
+  },
+  {
+    "id": "just-eat",
+    "name": "Just Eat",
+    "hq_country": "NL",
+    "hq_city": "Amsterdam, Netherlands",
+    "eu_status": "eu",
+    "founded": 2001,
+    "confidence": "high",
+    "parent_company": "Just Eat Takeaway",
+    "ultimate_owner": "Just Eat Takeaway",
+    "ultimate_owner_country": "NL",
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "just-eat.com",
+      "just-eat.co.uk"
+    ]
+  },
+  {
+    "id": "just-eat-takeaway",
+    "name": "Just Eat Takeaway",
+    "hq_country": "NL",
+    "hq_city": "Amsterdam, Netherlands",
+    "eu_status": "eu",
+    "founded": 2000,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "justeattakeaway.com"
+    ]
+  },
+  {
+    "id": "grubhub",
+    "name": "Grubhub",
+    "hq_country": "US",
+    "hq_city": "Chicago, Illinois",
+    "eu_status": "non-eu",
+    "founded": 2004,
+    "confidence": "high",
+    "parent_company": "Just Eat Takeaway",
+    "ultimate_owner": "Just Eat Takeaway",
+    "ultimate_owner_country": "NL",
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "grubhub.com"
+    ]
+  },
+  {
+    "id": "wolt",
+    "name": "Wolt",
+    "hq_country": "FI",
+    "hq_city": "Helsinki, Finland",
+    "eu_status": "eu",
+    "founded": 2014,
+    "confidence": "high",
+    "parent_company": "DoorDash",
+    "ultimate_owner": "DoorDash",
+    "ultimate_owner_country": "US",
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "wolt.com"
+    ]
+  },
+  {
+    "id": "glovo",
+    "name": "Glovo",
+    "hq_country": "ES",
+    "hq_city": "Barcelona, Spain",
+    "eu_status": "eu",
+    "founded": 2015,
+    "confidence": "high",
+    "parent_company": "Delivery Hero",
+    "ultimate_owner": "Delivery Hero",
+    "ultimate_owner_country": "DE",
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "glovoapp.com"
+    ]
+  },
+  {
+    "id": "delivery-hero",
+    "name": "Delivery Hero",
+    "hq_country": "DE",
+    "hq_city": "Berlin, Germany",
+    "eu_status": "eu",
+    "founded": 2011,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "deliveryhero.com"
+    ]
+  },
+  {
+    "id": "instacart",
+    "name": "Instacart",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2012,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "instacart.com"
+    ]
+  },
+  {
+    "id": "getir",
+    "name": "Getir",
+    "hq_country": "TR",
+    "hq_city": "Istanbul, Turkey",
+    "eu_status": "non-eu",
+    "founded": 2015,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "getir.com"
+    ]
+  },
+  {
+    "id": "picnic",
+    "name": "Picnic",
+    "hq_country": "NL",
+    "hq_city": "Amsterdam, Netherlands",
+    "eu_status": "eu",
+    "founded": 2015,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "picnic.app"
+    ]
+  },
+  {
+    "id": "mcdonalds",
+    "name": "McDonald's",
+    "hq_country": "US",
+    "hq_city": "Chicago, Illinois",
+    "eu_status": "non-eu",
+    "founded": 1940,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "mcdonalds.com"
+    ]
+  },
+  {
+    "id": "starbucks",
+    "name": "Starbucks",
+    "hq_country": "US",
+    "hq_city": "Seattle, Washington",
+    "eu_status": "non-eu",
+    "founded": 1971,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "starbucks.com"
+    ]
+  },
+  {
+    "id": "dominos",
+    "name": "Domino's Pizza",
+    "hq_country": "US",
+    "hq_city": "Ann Arbor, Michigan",
+    "eu_status": "non-eu",
+    "founded": 1960,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "dominos.com"
+    ]
+  },
+  {
+    "id": "burger-king",
+    "name": "Burger King",
+    "hq_country": "US",
+    "hq_city": "Miami, Florida",
+    "eu_status": "non-eu",
+    "founded": 1954,
+    "confidence": "high",
+    "parent_company": "Restaurant Brands International",
+    "ultimate_owner": "Restaurant Brands International",
+    "ultimate_owner_country": "CA",
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "burgerking.com"
+    ]
+  },
+  {
+    "id": "subway",
+    "name": "Subway",
+    "hq_country": "US",
+    "hq_city": "Milford, Connecticut",
+    "eu_status": "non-eu",
+    "founded": 1965,
+    "confidence": "high",
+    "parent_company": "Roark Capital",
+    "ultimate_owner": "Roark Capital",
+    "ultimate_owner_country": "US",
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "subway.com"
+    ]
+  },
+  {
+    "id": "kfc",
+    "name": "KFC",
+    "hq_country": "US",
+    "hq_city": "Louisville, Kentucky",
+    "eu_status": "non-eu",
+    "founded": 1930,
+    "confidence": "high",
+    "parent_company": "Yum! Brands",
+    "ultimate_owner": "Yum! Brands",
+    "ultimate_owner_country": "US",
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "kfc.com"
+    ]
+  },
+  {
+    "id": "chipotle",
+    "name": "Chipotle Mexican Grill",
+    "hq_country": "US",
+    "hq_city": "Newport Beach, California",
+    "eu_status": "non-eu",
+    "founded": 1993,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "chipotle.com"
+    ]
+  },
+  {
+    "id": "shake-shack",
+    "name": "Shake Shack",
+    "hq_country": "US",
+    "hq_city": "New York, NY",
+    "eu_status": "non-eu",
+    "founded": 2004,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "shakeshack.com"
+    ]
+  },
+  {
+    "id": "pret-a-manger",
+    "name": "Pret A Manger",
+    "hq_country": "GB",
+    "hq_city": "London, UK",
+    "eu_status": "non-eu",
+    "founded": 1983,
+    "confidence": "high",
+    "parent_company": "JAB Holding",
+    "ultimate_owner": "JAB Holding",
+    "ultimate_owner_country": "LU",
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "pret.com"
+    ]
+  },
+  {
+    "id": "dunkin",
+    "name": "Dunkin'",
+    "hq_country": "US",
+    "hq_city": "Canton, Massachusetts",
+    "eu_status": "non-eu",
+    "founded": 1950,
+    "confidence": "high",
+    "parent_company": "Inspire Brands",
+    "ultimate_owner": "Roark Capital",
+    "ultimate_owner_country": "US",
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "dunkindonuts.com"
+    ]
+  },
+  {
+    "id": "costa-coffee",
+    "name": "Costa Coffee",
+    "hq_country": "GB",
+    "hq_city": "Dunstable, UK",
+    "eu_status": "non-eu",
+    "founded": 1971,
+    "confidence": "high",
+    "parent_company": "The Coca-Cola Company",
+    "ultimate_owner": "The Coca-Cola Company",
+    "ultimate_owner_country": "US",
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "costa.co.uk"
+    ]
+  },
+  {
+    "id": "greggs",
+    "name": "Greggs",
+    "hq_country": "GB",
+    "hq_city": "Newcastle upon Tyne, UK",
+    "eu_status": "non-eu",
+    "founded": 1939,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "greggs.co.uk"
+    ]
+  },
+  {
+    "id": "hello-fresh",
+    "name": "HelloFresh",
+    "hq_country": "DE",
+    "hq_city": "Berlin, Germany",
+    "eu_status": "eu",
+    "founded": 2011,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "hellofresh.com",
+      "hellofresh.de"
+    ]
+  },
+  {
+    "id": "gousto",
+    "name": "Gousto",
+    "hq_country": "GB",
+    "hq_city": "London, UK",
+    "eu_status": "non-eu",
+    "founded": 2012,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "gousto.co.uk"
+    ]
+  },
+  {
+    "id": "flink",
+    "name": "Flink",
+    "hq_country": "DE",
+    "hq_city": "Berlin, Germany",
+    "eu_status": "eu",
+    "founded": 2020,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "goflink.com"
+    ]
+  },
+  {
+    "id": "gorillas",
+    "name": "Gorillas",
+    "hq_country": "DE",
+    "hq_city": "Berlin, Germany",
+    "eu_status": "eu",
+    "founded": 2020,
+    "confidence": "high",
+    "parent_company": "Getir",
+    "ultimate_owner": "Getir",
+    "ultimate_owner_country": "TR",
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "gorillas.io"
+    ]
+  },
+  {
+    "id": "lieferando",
+    "name": "Lieferando",
+    "hq_country": "NL",
+    "hq_city": "Amsterdam, Netherlands",
+    "eu_status": "eu",
+    "founded": 2000,
+    "confidence": "high",
+    "parent_company": "Just Eat Takeaway",
+    "ultimate_owner": "Just Eat Takeaway",
+    "ultimate_owner_country": "NL",
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "lieferando.de"
+    ]
+  },
+  {
+    "id": "swiggy",
+    "name": "Swiggy",
+    "hq_country": "IN",
+    "hq_city": "Bangalore, India",
+    "eu_status": "non-eu",
+    "founded": 2014,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "swiggy.com"
+    ]
+  },
+  {
+    "id": "zomato",
+    "name": "Zomato",
+    "hq_country": "IN",
+    "hq_city": "Gurgaon, India",
+    "eu_status": "non-eu",
+    "founded": 2008,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "zomato.com"
+    ]
+  },
+  {
+    "id": "rappi",
+    "name": "Rappi",
+    "hq_country": "CO",
+    "hq_city": "Bogotá, Colombia",
+    "eu_status": "non-eu",
+    "founded": 2015,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "rappi.com"
+    ]
+  },
+  {
+    "id": "freshly",
+    "name": "Freshly",
+    "hq_country": "US",
+    "hq_city": "New York, NY",
+    "eu_status": "non-eu",
+    "founded": 2012,
+    "confidence": "high",
+    "parent_company": "Nestlé",
+    "ultimate_owner": "Nestlé",
+    "ultimate_owner_country": "CH",
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "freshly.com"
+    ]
+  },
+  {
+    "id": "blue-apron",
+    "name": "Blue Apron",
+    "hq_country": "US",
+    "hq_city": "New York, NY",
+    "eu_status": "non-eu",
+    "founded": 2012,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "blueapron.com"
+    ]
+  },
+  {
+    "id": "mindful-chef",
+    "name": "Mindful Chef",
+    "hq_country": "GB",
+    "hq_city": "London, UK",
+    "eu_status": "non-eu",
+    "founded": 2015,
+    "confidence": "high",
+    "parent_company": "Nestlé",
+    "ultimate_owner": "Nestlé",
+    "ultimate_owner_country": "CH",
+    "industry": "food",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "mindfulchef.com"
+    ]
+  },
+  {
+    "id": "crunchyroll",
+    "name": "Crunchyroll",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2006,
+    "confidence": "high",
+    "parent_company": "Sony Pictures",
+    "ultimate_owner": "Sony",
+    "ultimate_owner_country": "JP",
+    "industry": "streaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "crunchyroll.com"
+    ]
+  },
+  {
+    "id": "apple-music",
+    "name": "Apple Music",
+    "hq_country": "US",
+    "hq_city": "Cupertino, California",
+    "eu_status": "non-eu",
+    "founded": 2015,
+    "confidence": "high",
+    "parent_company": "Apple",
+    "ultimate_owner": "Apple",
+    "ultimate_owner_country": "US",
+    "industry": "streaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "music.apple.com"
+    ]
+  },
+  {
+    "id": "amazon-music",
+    "name": "Amazon Music",
+    "hq_country": "US",
+    "hq_city": "Seattle, Washington",
+    "eu_status": "non-eu",
+    "founded": 2007,
+    "confidence": "high",
+    "parent_company": "Amazon",
+    "ultimate_owner": "Amazon",
+    "ultimate_owner_country": "US",
+    "industry": "streaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "music.amazon.com"
+    ]
+  },
+  {
+    "id": "youtube-music",
+    "name": "YouTube Music",
+    "hq_country": "US",
+    "hq_city": "San Bruno, California",
+    "eu_status": "non-eu",
+    "founded": 2015,
+    "confidence": "high",
+    "parent_company": "Google",
+    "ultimate_owner": "Alphabet",
+    "ultimate_owner_country": "US",
+    "industry": "streaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "music.youtube.com"
+    ]
+  },
+  {
+    "id": "acast",
+    "name": "Acast",
+    "hq_country": "SE",
+    "hq_city": "Stockholm, Sweden",
+    "eu_status": "eu",
+    "founded": 2014,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "streaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "acast.com"
+    ]
+  },
+  {
+    "id": "steam",
+    "name": "Steam",
+    "hq_country": "US",
+    "hq_city": "Bellevue, Washington",
+    "eu_status": "non-eu",
+    "founded": 2003,
+    "confidence": "high",
+    "parent_company": "Valve",
+    "ultimate_owner": "Valve",
+    "ultimate_owner_country": "US",
+    "industry": "gaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "store.steampowered.com"
+    ]
+  },
+  {
+    "id": "valve",
+    "name": "Valve Corporation",
+    "hq_country": "US",
+    "hq_city": "Bellevue, Washington",
+    "eu_status": "non-eu",
+    "founded": 1996,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "gaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "valvesoftware.com"
+    ]
+  },
+  {
+    "id": "epic-games",
+    "name": "Epic Games",
+    "hq_country": "US",
+    "hq_city": "Cary, North Carolina",
+    "eu_status": "non-eu",
+    "founded": 1991,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "gaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "epicgames.com",
+      "fortnite.com"
+    ]
+  },
+  {
+    "id": "gog",
+    "name": "GOG.com",
+    "hq_country": "PL",
+    "hq_city": "Warsaw, Poland",
+    "eu_status": "eu",
+    "founded": 2008,
+    "confidence": "high",
+    "parent_company": "CD Projekt",
+    "ultimate_owner": "CD Projekt",
+    "ultimate_owner_country": "PL",
+    "industry": "gaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "gog.com"
+    ]
+  },
+  {
+    "id": "cd-projekt",
+    "name": "CD Projekt",
+    "hq_country": "PL",
+    "hq_city": "Warsaw, Poland",
+    "eu_status": "eu",
+    "founded": 1994,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "gaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "cdprojekt.com"
+    ]
+  },
+  {
+    "id": "electronic-arts",
+    "name": "Electronic Arts",
+    "hq_country": "US",
+    "hq_city": "Redwood City, California",
+    "eu_status": "non-eu",
+    "founded": 1982,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "gaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "ea.com"
+    ]
+  },
+  {
+    "id": "ubisoft",
+    "name": "Ubisoft",
+    "hq_country": "FR",
+    "hq_city": "Montreuil, France",
+    "eu_status": "eu",
+    "founded": 1986,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "gaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "ubisoft.com"
+    ]
+  },
+  {
+    "id": "nintendo",
+    "name": "Nintendo",
+    "hq_country": "JP",
+    "hq_city": "Kyoto, Japan",
+    "eu_status": "non-eu",
+    "founded": 1889,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "gaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "nintendo.com"
+    ]
+  },
+  {
+    "id": "playstation",
+    "name": "PlayStation",
+    "hq_country": "US",
+    "hq_city": "San Mateo, California",
+    "eu_status": "non-eu",
+    "founded": 1994,
+    "confidence": "high",
+    "parent_company": "Sony Interactive Entertainment",
+    "ultimate_owner": "Sony",
+    "ultimate_owner_country": "JP",
+    "industry": "gaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "playstation.com"
+    ]
+  },
+  {
+    "id": "xbox",
+    "name": "Xbox",
+    "hq_country": "US",
+    "hq_city": "Redmond, Washington",
+    "eu_status": "non-eu",
+    "founded": 2001,
+    "confidence": "high",
+    "parent_company": "Microsoft",
+    "ultimate_owner": "Microsoft",
+    "ultimate_owner_country": "US",
+    "industry": "gaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "xbox.com"
+    ]
+  },
+  {
+    "id": "activision-blizzard",
+    "name": "Activision Blizzard",
+    "hq_country": "US",
+    "hq_city": "Santa Monica, California",
+    "eu_status": "non-eu",
+    "founded": 2008,
+    "confidence": "high",
+    "parent_company": "Microsoft",
+    "ultimate_owner": "Microsoft",
+    "ultimate_owner_country": "US",
+    "industry": "gaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "activisionblizzard.com"
+    ]
+  },
+  {
+    "id": "riot-games",
+    "name": "Riot Games",
+    "hq_country": "US",
+    "hq_city": "Los Angeles, California",
+    "eu_status": "non-eu",
+    "founded": 2006,
+    "confidence": "high",
+    "parent_company": "Tencent",
+    "ultimate_owner": "Tencent",
+    "ultimate_owner_country": "CN",
+    "industry": "gaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "riotgames.com"
+    ]
+  },
+  {
+    "id": "supercell",
+    "name": "Supercell",
+    "hq_country": "FI",
+    "hq_city": "Helsinki, Finland",
+    "eu_status": "eu",
+    "founded": 2010,
+    "confidence": "high",
+    "parent_company": "Tencent",
+    "ultimate_owner": "Tencent",
+    "ultimate_owner_country": "CN",
+    "industry": "gaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "supercell.com"
+    ]
+  },
+  {
+    "id": "roblox",
+    "name": "Roblox",
+    "hq_country": "US",
+    "hq_city": "San Mateo, California",
+    "eu_status": "non-eu",
+    "founded": 2004,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "gaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "roblox.com"
+    ]
+  },
+  {
+    "id": "unity",
+    "name": "Unity Technologies",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2004,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "gaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "unity.com"
+    ]
+  },
+  {
+    "id": "vimeo",
+    "name": "Vimeo",
+    "hq_country": "US",
+    "hq_city": "New York, NY",
+    "eu_status": "non-eu",
+    "founded": 2004,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "streaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "vimeo.com"
+    ]
+  },
+  {
+    "id": "dailymotion",
+    "name": "Dailymotion",
+    "hq_country": "FR",
+    "hq_city": "Paris, France",
+    "eu_status": "eu",
+    "founded": 2005,
+    "confidence": "high",
+    "parent_company": "Vivendi",
+    "ultimate_owner": "Vivendi",
+    "ultimate_owner_country": "FR",
+    "industry": "streaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "dailymotion.com"
+    ]
+  },
+  {
+    "id": "vivendi",
+    "name": "Vivendi",
+    "hq_country": "FR",
+    "hq_city": "Paris, France",
+    "eu_status": "eu",
+    "founded": 1853,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "entertainment",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "vivendi.com"
+    ]
+  },
+  {
+    "id": "mubi",
+    "name": "MUBI",
+    "hq_country": "GB",
+    "hq_city": "London, UK",
+    "eu_status": "non-eu",
+    "founded": 2007,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "streaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "mubi.com"
+    ]
+  },
+  {
+    "id": "bilibili",
+    "name": "Bilibili",
+    "hq_country": "CN",
+    "hq_city": "Shanghai, China",
+    "eu_status": "non-eu",
+    "founded": 2009,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "streaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "bilibili.com"
+    ]
+  },
+  {
+    "id": "paradox-interactive",
+    "name": "Paradox Interactive",
+    "hq_country": "SE",
+    "hq_city": "Stockholm, Sweden",
+    "eu_status": "eu",
+    "founded": 1999,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "gaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "paradoxinteractive.com"
+    ]
+  },
+  {
+    "id": "bandai-namco",
+    "name": "Bandai Namco",
+    "hq_country": "JP",
+    "hq_city": "Tokyo, Japan",
+    "eu_status": "non-eu",
+    "founded": 2006,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "gaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "bandainamcoent.com"
+    ]
+  },
+  {
+    "id": "sega",
+    "name": "Sega",
+    "hq_country": "JP",
+    "hq_city": "Tokyo, Japan",
+    "eu_status": "non-eu",
+    "founded": 1960,
+    "confidence": "high",
+    "parent_company": "Sega Sammy Holdings",
+    "ultimate_owner": "Sega Sammy Holdings",
+    "ultimate_owner_country": "JP",
+    "industry": "gaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "sega.com"
+    ]
+  },
+  {
+    "id": "capcom",
+    "name": "Capcom",
+    "hq_country": "JP",
+    "hq_city": "Osaka, Japan",
+    "eu_status": "non-eu",
+    "founded": 1979,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "gaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "capcom.com"
+    ]
+  },
+  {
+    "id": "square-enix",
+    "name": "Square Enix",
+    "hq_country": "JP",
+    "hq_city": "Tokyo, Japan",
+    "eu_status": "non-eu",
+    "founded": 2003,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "gaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "square-enix.com"
+    ]
+  },
+  {
+    "id": "audible",
+    "name": "Audible",
+    "hq_country": "US",
+    "hq_city": "Newark, New Jersey",
+    "eu_status": "non-eu",
+    "founded": 1995,
+    "confidence": "high",
+    "parent_company": "Amazon",
+    "ultimate_owner": "Amazon",
+    "ultimate_owner_country": "US",
+    "industry": "streaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "audible.com"
+    ]
+  },
+  {
+    "id": "storytel",
+    "name": "Storytel",
+    "hq_country": "SE",
+    "hq_city": "Stockholm, Sweden",
+    "eu_status": "eu",
+    "founded": 2005,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "streaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "storytel.com"
+    ]
+  },
+  {
+    "id": "kobo",
+    "name": "Kobo",
+    "hq_country": "CA",
+    "hq_city": "Toronto, Canada",
+    "eu_status": "non-eu",
+    "founded": 2009,
+    "confidence": "high",
+    "parent_company": "Rakuten",
+    "ultimate_owner": "Rakuten",
+    "ultimate_owner_country": "JP",
+    "industry": "streaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "kobo.com"
+    ]
+  },
+  {
+    "id": "kindle",
+    "name": "Kindle",
+    "hq_country": "US",
+    "hq_city": "Seattle, Washington",
+    "eu_status": "non-eu",
+    "founded": 2007,
+    "confidence": "high",
+    "parent_company": "Amazon",
+    "ultimate_owner": "Amazon",
+    "ultimate_owner_country": "US",
+    "industry": "streaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "amazon.com/kindle"
+    ]
+  },
+  {
+    "id": "blinkist",
+    "name": "Blinkist",
+    "hq_country": "DE",
+    "hq_city": "Berlin, Germany",
+    "eu_status": "eu",
+    "founded": 2012,
+    "confidence": "high",
+    "parent_company": "Go1",
+    "ultimate_owner": "Go1",
+    "ultimate_owner_country": "AU",
+    "industry": "streaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "blinkist.com"
+    ]
+  },
+  {
+    "id": "medium",
+    "name": "Medium",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2012,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "streaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "medium.com"
+    ]
+  },
+  {
+    "id": "substack",
+    "name": "Substack",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2017,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "streaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "substack.com"
+    ]
+  },
+  {
+    "id": "patreon",
+    "name": "Patreon",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2013,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "streaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "patreon.com"
+    ]
+  },
+  {
+    "id": "ko-fi",
+    "name": "Ko-fi",
+    "hq_country": "GB",
+    "hq_city": "Bristol, UK",
+    "eu_status": "non-eu",
+    "founded": 2012,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "streaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "ko-fi.com"
+    ]
+  },
+  {
+    "id": "gumroad",
+    "name": "Gumroad",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2011,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "streaming",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "gumroad.com"
+    ]
+  },
+  {
+    "id": "allianz",
+    "name": "Allianz",
+    "hq_country": "DE",
+    "hq_city": "Munich, Germany",
+    "eu_status": "eu",
+    "founded": 1890,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "allianz.com"
+    ]
+  },
+  {
+    "id": "axa",
+    "name": "AXA",
+    "hq_country": "FR",
+    "hq_city": "Paris, France",
+    "eu_status": "eu",
+    "founded": 1816,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "axa.com"
+    ]
+  },
+  {
+    "id": "generali",
+    "name": "Generali",
+    "hq_country": "IT",
+    "hq_city": "Trieste, Italy",
+    "eu_status": "eu",
+    "founded": 1831,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "generali.com"
+    ]
+  },
+  {
+    "id": "zurich-insurance",
+    "name": "Zurich Insurance",
+    "hq_country": "CH",
+    "hq_city": "Zurich, Switzerland",
+    "eu_status": "non-eu",
+    "founded": 1872,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "zurich.com"
+    ]
+  },
+  {
+    "id": "aviva",
+    "name": "Aviva",
+    "hq_country": "GB",
+    "hq_city": "London, UK",
+    "eu_status": "non-eu",
+    "founded": 2000,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "aviva.com"
+    ]
+  },
+  {
+    "id": "aegon",
+    "name": "Aegon",
+    "hq_country": "NL",
+    "hq_city": "The Hague, Netherlands",
+    "eu_status": "eu",
+    "founded": 1983,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "aegon.com"
+    ]
+  },
+  {
+    "id": "lemonade",
+    "name": "Lemonade",
+    "hq_country": "US",
+    "hq_city": "New York, NY",
+    "eu_status": "non-eu",
+    "founded": 2015,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "lemonade.com"
+    ]
+  },
+  {
+    "id": "wefox",
+    "name": "Wefox",
+    "hq_country": "DE",
+    "hq_city": "Berlin, Germany",
+    "eu_status": "eu",
+    "founded": 2015,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "wefox.com"
+    ]
+  },
+  {
+    "id": "sofi",
+    "name": "SoFi",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2011,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "sofi.com"
+    ]
+  },
+  {
+    "id": "nubank",
+    "name": "Nubank",
+    "hq_country": "BR",
+    "hq_city": "São Paulo, Brazil",
+    "eu_status": "non-eu",
+    "founded": 2013,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "nubank.com.br"
+    ]
+  },
+  {
+    "id": "affirm",
+    "name": "Affirm",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2012,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "affirm.com"
+    ]
+  },
+  {
+    "id": "afterpay",
+    "name": "Afterpay",
+    "hq_country": "AU",
+    "hq_city": "Melbourne, Australia",
+    "eu_status": "non-eu",
+    "founded": 2014,
+    "confidence": "high",
+    "parent_company": "Block Inc.",
+    "ultimate_owner": "Block Inc.",
+    "ultimate_owner_country": "US",
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "afterpay.com"
+    ]
+  },
+  {
+    "id": "scalable-capital",
+    "name": "Scalable Capital",
+    "hq_country": "DE",
+    "hq_city": "Munich, Germany",
+    "eu_status": "eu",
+    "founded": 2014,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "scalable.capital"
+    ]
+  },
+  {
+    "id": "trade-republic",
+    "name": "Trade Republic",
+    "hq_country": "DE",
+    "hq_city": "Berlin, Germany",
+    "eu_status": "eu",
+    "founded": 2015,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "traderepublic.com"
+    ]
+  },
+  {
+    "id": "etoro",
+    "name": "eToro",
+    "hq_country": "IL",
+    "hq_city": "Tel Aviv, Israel",
+    "eu_status": "non-eu",
+    "founded": 2007,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "etoro.com"
+    ]
+  },
+  {
+    "id": "interactive-brokers",
+    "name": "Interactive Brokers",
+    "hq_country": "US",
+    "hq_city": "Greenwich, Connecticut",
+    "eu_status": "non-eu",
+    "founded": 1978,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "interactivebrokers.com"
+    ]
+  },
+  {
+    "id": "degiro",
+    "name": "DEGIRO",
+    "hq_country": "NL",
+    "hq_city": "Amsterdam, Netherlands",
+    "eu_status": "eu",
+    "founded": 2008,
+    "confidence": "high",
+    "parent_company": "flatexDEGIRO",
+    "ultimate_owner": "flatexDEGIRO",
+    "ultimate_owner_country": "DE",
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "degiro.com"
+    ]
+  },
+  {
+    "id": "freetrade",
+    "name": "Freetrade",
+    "hq_country": "GB",
+    "hq_city": "London, UK",
+    "eu_status": "non-eu",
+    "founded": 2016,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "freetrade.io"
+    ]
+  },
+  {
+    "id": "gemini",
+    "name": "Gemini",
+    "hq_country": "US",
+    "hq_city": "New York, NY",
+    "eu_status": "non-eu",
+    "founded": 2014,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "gemini.com"
+    ]
+  },
+  {
+    "id": "crypto-com",
+    "name": "Crypto.com",
+    "hq_country": "SG",
+    "hq_city": "Singapore",
+    "eu_status": "non-eu",
+    "founded": 2016,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "crypto.com"
+    ]
+  },
+  {
+    "id": "bitpanda",
+    "name": "Bitpanda",
+    "hq_country": "AT",
+    "hq_city": "Vienna, Austria",
+    "eu_status": "eu",
+    "founded": 2014,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "bitpanda.com"
+    ]
+  },
+  {
+    "id": "swissquote",
+    "name": "Swissquote",
+    "hq_country": "CH",
+    "hq_city": "Gland, Switzerland",
+    "eu_status": "non-eu",
+    "founded": 1996,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "swissquote.com"
+    ]
+  },
+  {
+    "id": "saxo-bank",
+    "name": "Saxo Bank",
+    "hq_country": "DK",
+    "hq_city": "Copenhagen, Denmark",
+    "eu_status": "eu",
+    "founded": 1992,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "home.saxo"
+    ]
+  },
+  {
+    "id": "transfergo",
+    "name": "TransferGo",
+    "hq_country": "LT",
+    "hq_city": "Vilnius, Lithuania",
+    "eu_status": "eu",
+    "founded": 2012,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "transfergo.com"
+    ]
+  },
+  {
+    "id": "remitly",
+    "name": "Remitly",
+    "hq_country": "US",
+    "hq_city": "Seattle, Washington",
+    "eu_status": "non-eu",
+    "founded": 2011,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "remitly.com"
+    ]
+  },
+  {
+    "id": "western-union",
+    "name": "Western Union",
+    "hq_country": "US",
+    "hq_city": "Denver, Colorado",
+    "eu_status": "non-eu",
+    "founded": 1851,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "westernunion.com"
+    ]
+  },
+  {
+    "id": "brex",
+    "name": "Brex",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2017,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "brex.com"
+    ]
+  },
+  {
+    "id": "pleo",
+    "name": "Pleo",
+    "hq_country": "DK",
+    "hq_city": "Copenhagen, Denmark",
+    "eu_status": "eu",
+    "founded": 2015,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "pleo.io"
+    ]
+  },
+  {
+    "id": "soldo",
+    "name": "Soldo",
+    "hq_country": "GB",
+    "hq_city": "London, UK",
+    "eu_status": "non-eu",
+    "founded": 2015,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "soldo.com"
+    ]
+  },
+  {
+    "id": "bunq",
+    "name": "bunq",
+    "hq_country": "NL",
+    "hq_city": "Amsterdam, Netherlands",
+    "eu_status": "eu",
+    "founded": 2012,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "bunq.com"
+    ]
+  },
+  {
+    "id": "qonto",
+    "name": "Qonto",
+    "hq_country": "FR",
+    "hq_city": "Paris, France",
+    "eu_status": "eu",
+    "founded": 2016,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "qonto.com"
+    ]
+  },
+  {
+    "id": "tide",
+    "name": "Tide",
+    "hq_country": "GB",
+    "hq_city": "London, UK",
+    "eu_status": "non-eu",
+    "founded": 2015,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "tide.co"
+    ]
+  },
+  {
+    "id": "mercury",
+    "name": "Mercury",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2017,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "mercury.com"
+    ]
+  },
+  {
+    "id": "plaid",
+    "name": "Plaid",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2013,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "plaid.com"
+    ]
+  },
+  {
+    "id": "tink",
+    "name": "Tink",
+    "hq_country": "SE",
+    "hq_city": "Stockholm, Sweden",
+    "eu_status": "eu",
+    "founded": 2012,
+    "confidence": "high",
+    "parent_company": "Visa",
+    "ultimate_owner": "Visa",
+    "ultimate_owner_country": "US",
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "tink.com"
+    ]
+  },
+  {
+    "id": "gocardless",
+    "name": "GoCardless",
+    "hq_country": "GB",
+    "hq_city": "London, UK",
+    "eu_status": "non-eu",
+    "founded": 2011,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "gocardless.com"
+    ]
+  },
+  {
+    "id": "marqeta",
+    "name": "Marqeta",
+    "hq_country": "US",
+    "hq_city": "Oakland, California",
+    "eu_status": "non-eu",
+    "founded": 2010,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "marqeta.com"
+    ]
+  },
+  {
+    "id": "solarisbank",
+    "name": "Solarisbank",
+    "hq_country": "DE",
+    "hq_city": "Berlin, Germany",
+    "eu_status": "eu",
+    "founded": 2016,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "solarisbank.com"
+    ]
+  },
+  {
+    "id": "mambu",
+    "name": "Mambu",
+    "hq_country": "DE",
+    "hq_city": "Berlin, Germany",
+    "eu_status": "eu",
+    "founded": 2011,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "mambu.com"
+    ]
+  },
+  {
+    "id": "backbase",
+    "name": "Backbase",
+    "hq_country": "NL",
+    "hq_city": "Amsterdam, Netherlands",
+    "eu_status": "eu",
+    "founded": 2003,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "backbase.com"
+    ]
+  },
+  {
+    "id": "temenos",
+    "name": "Temenos",
+    "hq_country": "CH",
+    "hq_city": "Geneva, Switzerland",
+    "eu_status": "non-eu",
+    "founded": 1993,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "temenos.com"
+    ]
+  },
+  {
+    "id": "thought-machine",
+    "name": "Thought Machine",
+    "hq_country": "GB",
+    "hq_city": "London, UK",
+    "eu_status": "non-eu",
+    "founded": 2014,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "thoughtmachine.net"
+    ]
+  },
+  {
+    "id": "curve",
+    "name": "Curve",
+    "hq_country": "GB",
+    "hq_city": "London, UK",
+    "eu_status": "non-eu",
+    "founded": 2015,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "curve.com"
+    ]
+  },
+  {
+    "id": "zilch",
+    "name": "Zilch",
+    "hq_country": "GB",
+    "hq_city": "London, UK",
+    "eu_status": "non-eu",
+    "founded": 2018,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "zilch.com"
+    ]
+  },
+  {
+    "id": "billie",
+    "name": "Billie",
+    "hq_country": "DE",
+    "hq_city": "Berlin, Germany",
+    "eu_status": "eu",
+    "founded": 2016,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "billie.io"
+    ]
+  },
+  {
+    "id": "wayflyer",
+    "name": "Wayflyer",
+    "hq_country": "IE",
+    "hq_city": "Dublin, Ireland",
+    "eu_status": "eu",
+    "founded": 2019,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "wayflyer.com"
+    ]
+  },
+  {
+    "id": "pipe",
+    "name": "Pipe",
+    "hq_country": "US",
+    "hq_city": "Miami, Florida",
+    "eu_status": "non-eu",
+    "founded": 2019,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "pipe.com"
+    ]
+  },
+  {
+    "id": "clearco",
+    "name": "Clearco",
+    "hq_country": "CA",
+    "hq_city": "Toronto, Canada",
+    "eu_status": "non-eu",
+    "founded": 2015,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "finance",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "clear.co"
+    ]
+  },
+  {
+    "id": "jd-sports",
+    "name": "JD Sports",
+    "hq_country": "GB",
+    "hq_city": "Bury, UK",
+    "eu_status": "non-eu",
+    "founded": 1981,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "jdsports.com"
+    ]
+  },
+  {
+    "id": "foot-locker",
+    "name": "Foot Locker",
+    "hq_country": "US",
+    "hq_city": "New York, NY",
+    "eu_status": "non-eu",
+    "founded": 1974,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "footlocker.com"
+    ]
+  },
+  {
+    "id": "xxl",
+    "name": "XXL",
+    "hq_country": "NO",
+    "hq_city": "Oslo, Norway",
+    "eu_status": "non-eu",
+    "founded": 2000,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "xxl.no",
+      "xxl.se",
+      "xxl.fi"
+    ]
+  },
+  {
+    "id": "under-armour",
+    "name": "Under Armour",
+    "hq_country": "US",
+    "hq_city": "Baltimore, Maryland",
+    "eu_status": "non-eu",
+    "founded": 1996,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "underarmour.com"
+    ]
+  },
+  {
+    "id": "new-balance",
+    "name": "New Balance",
+    "hq_country": "US",
+    "hq_city": "Boston, Massachusetts",
+    "eu_status": "non-eu",
+    "founded": 1906,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "newbalance.com"
+    ]
+  },
+  {
+    "id": "asics",
+    "name": "Asics",
+    "hq_country": "JP",
+    "hq_city": "Kobe, Japan",
+    "eu_status": "non-eu",
+    "founded": 1949,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "asics.com"
+    ]
+  },
+  {
+    "id": "skechers",
+    "name": "Skechers",
+    "hq_country": "US",
+    "hq_city": "Manhattan Beach, California",
+    "eu_status": "non-eu",
+    "founded": 1992,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "skechers.com"
+    ]
+  },
+  {
+    "id": "vans",
+    "name": "Vans",
+    "hq_country": "US",
+    "hq_city": "Costa Mesa, California",
+    "eu_status": "non-eu",
+    "founded": 1966,
+    "confidence": "high",
+    "parent_company": "VF Corporation",
+    "ultimate_owner": "VF Corporation",
+    "ultimate_owner_country": "US",
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "vans.com"
+    ]
+  },
+  {
+    "id": "converse",
+    "name": "Converse",
+    "hq_country": "US",
+    "hq_city": "Boston, Massachusetts",
+    "eu_status": "non-eu",
+    "founded": 1908,
+    "confidence": "high",
+    "parent_company": "Nike",
+    "ultimate_owner": "Nike",
+    "ultimate_owner_country": "US",
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "converse.com"
+    ]
+  },
+  {
+    "id": "the-north-face",
+    "name": "The North Face",
+    "hq_country": "US",
+    "hq_city": "Denver, Colorado",
+    "eu_status": "non-eu",
+    "founded": 1968,
+    "confidence": "high",
+    "parent_company": "VF Corporation",
+    "ultimate_owner": "VF Corporation",
+    "ultimate_owner_country": "US",
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "thenorthface.com"
+    ]
+  },
+  {
+    "id": "patagonia",
+    "name": "Patagonia",
+    "hq_country": "US",
+    "hq_city": "Ventura, California",
+    "eu_status": "non-eu",
+    "founded": 1973,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "patagonia.com"
+    ]
+  },
+  {
+    "id": "arc-teryx",
+    "name": "Arc'teryx",
+    "hq_country": "CA",
+    "hq_city": "Vancouver, Canada",
+    "eu_status": "non-eu",
+    "founded": 1989,
+    "confidence": "high",
+    "parent_company": "Amer Sports",
+    "ultimate_owner": "Anta Sports",
+    "ultimate_owner_country": "CN",
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "arcteryx.com"
+    ]
+  },
+  {
+    "id": "salomon",
+    "name": "Salomon",
+    "hq_country": "FR",
+    "hq_city": "Annecy, France",
+    "eu_status": "eu",
+    "founded": 1947,
+    "confidence": "high",
+    "parent_company": "Amer Sports",
+    "ultimate_owner": "Anta Sports",
+    "ultimate_owner_country": "CN",
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "salomon.com"
+    ]
+  },
+  {
+    "id": "fjallraven",
+    "name": "Fjällräven",
+    "hq_country": "SE",
+    "hq_city": "Örnsköldsvik, Sweden",
+    "eu_status": "eu",
+    "founded": 1960,
+    "confidence": "high",
+    "parent_company": "Fenix Outdoor",
+    "ultimate_owner": "Fenix Outdoor",
+    "ultimate_owner_country": "SE",
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "fjallraven.com"
+    ]
+  },
+  {
+    "id": "wayfair-de",
+    "name": "Wayfair",
+    "hq_country": "US",
+    "hq_city": "Boston, Massachusetts",
+    "eu_status": "non-eu",
+    "founded": 2002,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "wayfair.com",
+      "wayfair.de"
+    ]
+  },
+  {
+    "id": "allbirds",
+    "name": "Allbirds",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2016,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "allbirds.com"
+    ]
+  },
+  {
+    "id": "everlane",
+    "name": "Everlane",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2010,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "everlane.com"
+    ]
+  },
+  {
+    "id": "cos",
+    "name": "COS",
+    "hq_country": "SE",
+    "hq_city": "Stockholm, Sweden",
+    "eu_status": "eu",
+    "founded": 2007,
+    "confidence": "high",
+    "parent_company": "H&M",
+    "ultimate_owner": "H&M",
+    "ultimate_owner_country": "SE",
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "cos.com"
+    ]
+  },
+  {
+    "id": "arket",
+    "name": "ARKET",
+    "hq_country": "SE",
+    "hq_city": "Stockholm, Sweden",
+    "eu_status": "eu",
+    "founded": 2017,
+    "confidence": "high",
+    "parent_company": "H&M",
+    "ultimate_owner": "H&M",
+    "ultimate_owner_country": "SE",
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "arket.com"
+    ]
+  },
+  {
+    "id": "weekday",
+    "name": "Weekday",
+    "hq_country": "SE",
+    "hq_city": "Stockholm, Sweden",
+    "eu_status": "eu",
+    "founded": 2002,
+    "confidence": "high",
+    "parent_company": "H&M",
+    "ultimate_owner": "H&M",
+    "ultimate_owner_country": "SE",
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "weekday.com"
+    ]
+  },
+  {
+    "id": "bershka",
+    "name": "Bershka",
+    "hq_country": "ES",
+    "hq_city": "Arteixo, Spain",
+    "eu_status": "eu",
+    "founded": 1998,
+    "confidence": "high",
+    "parent_company": "Inditex",
+    "ultimate_owner": "Inditex",
+    "ultimate_owner_country": "ES",
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "bershka.com"
+    ]
+  },
+  {
+    "id": "pull-bear",
+    "name": "Pull&Bear",
+    "hq_country": "ES",
+    "hq_city": "Arteixo, Spain",
+    "eu_status": "eu",
+    "founded": 1991,
+    "confidence": "high",
+    "parent_company": "Inditex",
+    "ultimate_owner": "Inditex",
+    "ultimate_owner_country": "ES",
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "pullandbear.com"
+    ]
+  },
+  {
+    "id": "massimo-dutti",
+    "name": "Massimo Dutti",
+    "hq_country": "ES",
+    "hq_city": "Arteixo, Spain",
+    "eu_status": "eu",
+    "founded": 1985,
+    "confidence": "high",
+    "parent_company": "Inditex",
+    "ultimate_owner": "Inditex",
+    "ultimate_owner_country": "ES",
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "massimodutti.com"
+    ]
+  },
+  {
+    "id": "oysho",
+    "name": "Oysho",
+    "hq_country": "ES",
+    "hq_city": "Arteixo, Spain",
+    "eu_status": "eu",
+    "founded": 2001,
+    "confidence": "high",
+    "parent_company": "Inditex",
+    "ultimate_owner": "Inditex",
+    "ultimate_owner_country": "ES",
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "oysho.com"
+    ]
+  },
+  {
+    "id": "rituals",
+    "name": "Rituals",
+    "hq_country": "NL",
+    "hq_city": "Amsterdam, Netherlands",
+    "eu_status": "eu",
+    "founded": 2000,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "rituals.com"
+    ]
+  },
+  {
+    "id": "the-body-shop",
+    "name": "The Body Shop",
+    "hq_country": "GB",
+    "hq_city": "London, UK",
+    "eu_status": "non-eu",
+    "founded": 1976,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "thebodyshop.com"
+    ]
+  },
+  {
+    "id": "lush",
+    "name": "Lush",
+    "hq_country": "GB",
+    "hq_city": "Poole, UK",
+    "eu_status": "non-eu",
+    "founded": 1995,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "lush.com"
+    ]
+  },
+  {
+    "id": "mac-cosmetics",
+    "name": "MAC Cosmetics",
+    "hq_country": "CA",
+    "hq_city": "New York, NY",
+    "eu_status": "non-eu",
+    "founded": 1984,
+    "confidence": "high",
+    "parent_company": "Estée Lauder",
+    "ultimate_owner": "Estée Lauder",
+    "ultimate_owner_country": "US",
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "maccosmetics.com"
+    ]
+  },
+  {
+    "id": "clinique",
+    "name": "Clinique",
+    "hq_country": "US",
+    "hq_city": "New York, NY",
+    "eu_status": "non-eu",
+    "founded": 1968,
+    "confidence": "high",
+    "parent_company": "Estée Lauder",
+    "ultimate_owner": "Estée Lauder",
+    "ultimate_owner_country": "US",
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "clinique.com"
+    ]
+  },
+  {
+    "id": "charlotte-tilbury",
+    "name": "Charlotte Tilbury",
+    "hq_country": "GB",
+    "hq_city": "London, UK",
+    "eu_status": "non-eu",
+    "founded": 2013,
+    "confidence": "high",
+    "parent_company": "Puig",
+    "ultimate_owner": "Puig",
+    "ultimate_owner_country": "ES",
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "charlottetilbury.com"
+    ]
+  },
+  {
+    "id": "glossier",
+    "name": "Glossier",
+    "hq_country": "US",
+    "hq_city": "New York, NY",
+    "eu_status": "non-eu",
+    "founded": 2014,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "glossier.com"
+    ]
+  },
+  {
+    "id": "fenty-beauty",
+    "name": "Fenty Beauty",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2017,
+    "confidence": "high",
+    "parent_company": "LVMH",
+    "ultimate_owner": "LVMH",
+    "ultimate_owner_country": "FR",
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "fentybeauty.com"
+    ]
+  },
+  {
+    "id": "warby-parker",
+    "name": "Warby Parker",
+    "hq_country": "US",
+    "hq_city": "New York, NY",
+    "eu_status": "non-eu",
+    "founded": 2010,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "warbyparker.com"
+    ]
+  },
+  {
+    "id": "ace-tate",
+    "name": "Ace & Tate",
+    "hq_country": "NL",
+    "hq_city": "Amsterdam, Netherlands",
+    "eu_status": "eu",
+    "founded": 2013,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "aceandtate.com"
+    ]
+  },
+  {
+    "id": "mister-spex",
+    "name": "Mister Spex",
+    "hq_country": "DE",
+    "hq_city": "Berlin, Germany",
+    "eu_status": "eu",
+    "founded": 2007,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "misterspex.com"
+    ]
+  },
+  {
+    "id": "fielmann",
+    "name": "Fielmann",
+    "hq_country": "DE",
+    "hq_city": "Hamburg, Germany",
+    "eu_status": "eu",
+    "founded": 1972,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "fielmann.com"
+    ]
+  },
+  {
+    "id": "specsavers",
+    "name": "Specsavers",
+    "hq_country": "GB",
+    "hq_city": "Guernsey, UK",
+    "eu_status": "non-eu",
+    "founded": 1984,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "specsavers.com"
+    ]
+  },
+  {
+    "id": "essilor-luxottica",
+    "name": "EssilorLuxottica",
+    "hq_country": "FR",
+    "hq_city": "Paris, France",
+    "eu_status": "eu",
+    "founded": 2018,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "essilorluxottica.com"
+    ]
+  },
+  {
+    "id": "ray-ban",
+    "name": "Ray-Ban",
+    "hq_country": "IT",
+    "hq_city": "Milan, Italy",
+    "eu_status": "eu",
+    "founded": 1936,
+    "confidence": "high",
+    "parent_company": "EssilorLuxottica",
+    "ultimate_owner": "EssilorLuxottica",
+    "ultimate_owner_country": "FR",
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "ray-ban.com"
+    ]
+  },
+  {
+    "id": "oakley",
+    "name": "Oakley",
+    "hq_country": "US",
+    "hq_city": "Foothill Ranch, California",
+    "eu_status": "non-eu",
+    "founded": 1975,
+    "confidence": "high",
+    "parent_company": "EssilorLuxottica",
+    "ultimate_owner": "EssilorLuxottica",
+    "ultimate_owner_country": "FR",
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "oakley.com"
+    ]
+  },
+  {
+    "id": "snipes",
+    "name": "SNIPES",
+    "hq_country": "DE",
+    "hq_city": "Cologne, Germany",
+    "eu_status": "eu",
+    "founded": 1998,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "snipes.com"
+    ]
+  },
+  {
+    "id": "deichmann",
+    "name": "Deichmann",
+    "hq_country": "DE",
+    "hq_city": "Essen, Germany",
+    "eu_status": "eu",
+    "founded": 1913,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "deichmann.com"
+    ]
+  },
+  {
+    "id": "home24",
+    "name": "Home24",
+    "hq_country": "DE",
+    "hq_city": "Berlin, Germany",
+    "eu_status": "eu",
+    "founded": 2009,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "home24.com"
+    ]
+  },
+  {
+    "id": "westwing",
+    "name": "Westwing",
+    "hq_country": "DE",
+    "hq_city": "Munich, Germany",
+    "eu_status": "eu",
+    "founded": 2011,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "westwing.com"
+    ]
+  },
+  {
+    "id": "flaconi",
+    "name": "Flaconi",
+    "hq_country": "DE",
+    "hq_city": "Berlin, Germany",
+    "eu_status": "eu",
+    "founded": 2011,
+    "confidence": "high",
+    "parent_company": "ProSiebenSat.1",
+    "ultimate_owner": "ProSiebenSat.1",
+    "ultimate_owner_country": "DE",
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "flaconi.de"
+    ]
+  },
+  {
+    "id": "breuninger",
+    "name": "Breuninger",
+    "hq_country": "DE",
+    "hq_city": "Stuttgart, Germany",
+    "eu_status": "eu",
+    "founded": 1881,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "breuninger.com"
+    ]
+  },
+  {
+    "id": "galeria",
+    "name": "Galeria",
+    "hq_country": "DE",
+    "hq_city": "Essen, Germany",
+    "eu_status": "eu",
+    "founded": 1879,
+    "confidence": "high",
+    "parent_company": "Signa",
+    "ultimate_owner": "Signa",
+    "ultimate_owner_country": "AT",
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "galeria.de"
+    ]
+  },
+  {
+    "id": "kadewe",
+    "name": "KaDeWe",
+    "hq_country": "DE",
+    "hq_city": "Berlin, Germany",
+    "eu_status": "eu",
+    "founded": 1907,
+    "confidence": "high",
+    "parent_company": "Signa",
+    "ultimate_owner": "Signa",
+    "ultimate_owner_country": "AT",
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "kadewe.de"
+    ]
+  },
+  {
+    "id": "printemps",
+    "name": "Printemps",
+    "hq_country": "FR",
+    "hq_city": "Paris, France",
+    "eu_status": "eu",
+    "founded": 1865,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "printemps.com"
+    ]
+  },
+  {
+    "id": "galeries-lafayette",
+    "name": "Galeries Lafayette",
+    "hq_country": "FR",
+    "hq_city": "Paris, France",
+    "eu_status": "eu",
+    "founded": 1893,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "galerieslafayette.com"
+    ]
+  },
+  {
+    "id": "le-bon-marche",
+    "name": "Le Bon Marché",
+    "hq_country": "FR",
+    "hq_city": "Paris, France",
+    "eu_status": "eu",
+    "founded": 1838,
+    "confidence": "high",
+    "parent_company": "LVMH",
+    "ultimate_owner": "LVMH",
+    "ultimate_owner_country": "FR",
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "lebonmarche.com"
+    ]
+  },
+  {
+    "id": "selfridges",
+    "name": "Selfridges",
+    "hq_country": "GB",
+    "hq_city": "London, UK",
+    "eu_status": "non-eu",
+    "founded": 1909,
+    "confidence": "high",
+    "parent_company": "Signa",
+    "ultimate_owner": "Signa",
+    "ultimate_owner_country": "AT",
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "selfridges.com"
+    ]
+  },
+  {
+    "id": "harrods",
+    "name": "Harrods",
+    "hq_country": "GB",
+    "hq_city": "London, UK",
+    "eu_status": "non-eu",
+    "founded": 1849,
+    "confidence": "high",
+    "parent_company": "Qatar Holding",
+    "ultimate_owner": "Qatar Investment Authority",
+    "ultimate_owner_country": "QA",
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "harrods.com"
+    ]
+  },
+  {
+    "id": "liberty",
+    "name": "Liberty",
+    "hq_country": "GB",
+    "hq_city": "London, UK",
+    "eu_status": "non-eu",
+    "founded": 1875,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "libertylondon.com"
+    ]
+  },
+  {
+    "id": "nordstrom",
+    "name": "Nordstrom",
+    "hq_country": "US",
+    "hq_city": "Seattle, Washington",
+    "eu_status": "non-eu",
+    "founded": 1901,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "nordstrom.com"
+    ]
+  },
+  {
+    "id": "macys",
+    "name": "Macy's",
+    "hq_country": "US",
+    "hq_city": "New York, NY",
+    "eu_status": "non-eu",
+    "founded": 1858,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "macys.com"
+    ]
+  },
+  {
+    "id": "saks",
+    "name": "Saks Fifth Avenue",
+    "hq_country": "US",
+    "hq_city": "New York, NY",
+    "eu_status": "non-eu",
+    "founded": 1924,
+    "confidence": "high",
+    "parent_company": "Hudson's Bay",
+    "ultimate_owner": "Hudson's Bay",
+    "ultimate_owner_country": "CA",
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "saksfifthavenue.com"
+    ]
+  },
+  {
+    "id": "neiman-marcus",
+    "name": "Neiman Marcus",
+    "hq_country": "US",
+    "hq_city": "Dallas, Texas",
+    "eu_status": "non-eu",
+    "founded": 1907,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "neimanmarcus.com"
+    ]
+  },
+  {
+    "id": "la-rinascente",
+    "name": "La Rinascente",
+    "hq_country": "IT",
+    "hq_city": "Milan, Italy",
+    "eu_status": "eu",
+    "founded": 1917,
+    "confidence": "high",
+    "parent_company": "Signa",
+    "ultimate_owner": "Signa",
+    "ultimate_owner_country": "AT",
+    "industry": "retail",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "rinascente.it"
+    ]
+  },
+  {
+    "id": "weibo",
+    "name": "Weibo",
+    "hq_country": "CN",
+    "hq_city": "Beijing, China",
+    "eu_status": "non-eu",
+    "founded": 2009,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "social",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "weibo.com"
+    ]
+  },
+  {
+    "id": "baidu",
+    "name": "Baidu",
+    "hq_country": "CN",
+    "hq_city": "Beijing, China",
+    "eu_status": "non-eu",
+    "founded": 2000,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "baidu.com"
+    ]
+  },
+  {
+    "id": "kakao",
+    "name": "Kakao",
+    "hq_country": "KR",
+    "hq_city": "Jeju City, South Korea",
+    "eu_status": "non-eu",
+    "founded": 2010,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "kakao.com",
+      "kakaocorp.com"
+    ]
+  },
+  {
+    "id": "naver",
+    "name": "Naver Corporation",
+    "hq_country": "KR",
+    "hq_city": "Seongnam, South Korea",
+    "eu_status": "non-eu",
+    "founded": 1999,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "naver.com"
+    ]
+  },
+  {
+    "id": "yandex",
+    "name": "Yandex",
+    "hq_country": "NL",
+    "hq_city": "Amsterdam, Netherlands",
+    "eu_status": "eu",
+    "founded": 1997,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "tech",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "yandex.com"
+    ]
+  },
+  {
+    "id": "vk",
+    "name": "VKontakte",
+    "hq_country": "RU",
+    "hq_city": "Saint Petersburg, Russia",
+    "eu_status": "non-eu",
+    "founded": 2006,
+    "confidence": "high",
+    "parent_company": "VK Company",
+    "ultimate_owner": "VK Company",
+    "ultimate_owner_country": "RU",
+    "industry": "social",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "vk.com"
+    ]
+  },
+  {
+    "id": "xing",
+    "name": "XING",
+    "hq_country": "DE",
+    "hq_city": "Hamburg, Germany",
+    "eu_status": "eu",
+    "founded": 2003,
+    "confidence": "high",
+    "parent_company": "New Work SE",
+    "ultimate_owner": "New Work SE",
+    "ultimate_owner_country": "DE",
+    "industry": "social",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "xing.com"
+    ]
+  },
+  {
+    "id": "meetup",
+    "name": "Meetup",
+    "hq_country": "US",
+    "hq_city": "New York, NY",
+    "eu_status": "non-eu",
+    "founded": 2002,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "social",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "meetup.com"
+    ]
+  },
+  {
+    "id": "nextdoor",
+    "name": "Nextdoor",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2008,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "social",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "nextdoor.com"
+    ]
+  },
+  {
+    "id": "strava",
+    "name": "Strava",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2009,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "social",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "strava.com"
+    ]
+  },
+  {
+    "id": "komoot",
+    "name": "Komoot",
+    "hq_country": "DE",
+    "hq_city": "Potsdam, Germany",
+    "eu_status": "eu",
+    "founded": 2010,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "social",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "komoot.com"
+    ]
+  },
+  {
+    "id": "goodreads",
+    "name": "Goodreads",
+    "hq_country": "US",
+    "hq_city": "San Francisco, California",
+    "eu_status": "non-eu",
+    "founded": 2007,
+    "confidence": "high",
+    "parent_company": "Amazon",
+    "ultimate_owner": "Amazon",
+    "ultimate_owner_country": "US",
+    "industry": "social",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "goodreads.com"
+    ]
+  },
+  {
+    "id": "letterboxd",
+    "name": "Letterboxd",
+    "hq_country": "NZ",
+    "hq_city": "Auckland, New Zealand",
+    "eu_status": "non-eu",
+    "founded": 2011,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "social",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "letterboxd.com"
+    ]
+  },
+  {
+    "id": "mastodon",
+    "name": "Mastodon",
+    "hq_country": "DE",
+    "hq_city": "Berlin, Germany",
+    "eu_status": "eu",
+    "founded": 2016,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "social",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "joinmastodon.org"
+    ]
+  },
+  {
+    "id": "bluesky",
+    "name": "Bluesky",
+    "hq_country": "US",
+    "hq_city": "Seattle, Washington",
+    "eu_status": "non-eu",
+    "founded": 2021,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "social",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "bsky.app"
+    ]
+  },
+  {
+    "id": "threads",
+    "name": "Threads",
+    "hq_country": "US",
+    "hq_city": "Menlo Park, California",
+    "eu_status": "non-eu",
+    "founded": 2023,
+    "confidence": "high",
+    "parent_company": "Meta Platforms",
+    "ultimate_owner": "Meta Platforms",
+    "ultimate_owner_country": "US",
+    "industry": "social",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "threads.net"
+    ]
+  },
+  {
+    "id": "bereal",
+    "name": "BeReal",
+    "hq_country": "FR",
+    "hq_city": "Paris, France",
+    "eu_status": "eu",
+    "founded": 2020,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "social",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "bfrn.al"
+    ]
+  },
+  {
+    "id": "microsoft-teams",
+    "name": "Microsoft Teams",
+    "hq_country": "US",
+    "hq_city": "Redmond, Washington",
+    "eu_status": "non-eu",
+    "founded": 2017,
+    "confidence": "high",
+    "parent_company": "Microsoft",
+    "ultimate_owner": "Microsoft",
+    "ultimate_owner_country": "US",
+    "industry": "social",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "teams.microsoft.com"
+    ]
+  },
+  {
+    "id": "webex",
+    "name": "Webex",
+    "hq_country": "US",
+    "hq_city": "San Jose, California",
+    "eu_status": "non-eu",
+    "founded": 1995,
+    "confidence": "high",
+    "parent_company": "Cisco",
+    "ultimate_owner": "Cisco",
+    "ultimate_owner_country": "US",
+    "industry": "social",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "webex.com"
+    ]
+  },
+  {
+    "id": "google-meet",
+    "name": "Google Meet",
+    "hq_country": "US",
+    "hq_city": "Mountain View, California",
+    "eu_status": "non-eu",
+    "founded": 2017,
+    "confidence": "high",
+    "parent_company": "Google",
+    "ultimate_owner": "Alphabet",
+    "ultimate_owner_country": "US",
+    "industry": "social",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "meet.google.com"
+    ]
+  },
+  {
+    "id": "skype",
+    "name": "Skype",
+    "hq_country": "LU",
+    "hq_city": "Luxembourg",
+    "eu_status": "eu",
+    "founded": 2003,
+    "confidence": "high",
+    "parent_company": "Microsoft",
+    "ultimate_owner": "Microsoft",
+    "ultimate_owner_country": "US",
+    "industry": "social",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "skype.com"
+    ]
+  },
+  {
+    "id": "element",
+    "name": "Element",
+    "hq_country": "GB",
+    "hq_city": "London, UK",
+    "eu_status": "non-eu",
+    "founded": 2016,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "social",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "element.io"
+    ]
+  },
+  {
+    "id": "mattermost",
+    "name": "Mattermost",
+    "hq_country": "US",
+    "hq_city": "Palo Alto, California",
+    "eu_status": "non-eu",
+    "founded": 2015,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "social",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "mattermost.com"
+    ]
+  },
+  {
+    "id": "bilibili-social",
+    "name": "Bilibili",
+    "hq_country": "CN",
+    "hq_city": "Shanghai, China",
+    "eu_status": "non-eu",
+    "founded": 2009,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "social",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "bilibili.com"
+    ]
+  },
+  {
+    "id": "xiaohongshu",
+    "name": "Xiaohongshu",
+    "hq_country": "CN",
+    "hq_city": "Shanghai, China",
+    "eu_status": "non-eu",
+    "founded": 2013,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "social",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "xiaohongshu.com"
+    ]
+  },
+  {
+    "id": "kuaishou",
+    "name": "Kuaishou",
+    "hq_country": "CN",
+    "hq_city": "Beijing, China",
+    "eu_status": "non-eu",
+    "founded": 2011,
+    "confidence": "high",
+    "parent_company": null,
+    "ultimate_owner": null,
+    "ultimate_owner_country": null,
+    "industry": "social",
+    "sources": [
+      "wikipedia",
+      "official"
+    ],
+    "domains": [
+      "kuaishou.com"
+    ]
+  }
+]

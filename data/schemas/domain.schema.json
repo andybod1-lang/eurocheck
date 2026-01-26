@@ -1,0 +1,74 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://eurocheck.eu/schemas/domain.schema.json",
+  "title": "EuroCheck Domain Mappings",
+  "description": "Schema for the EuroCheck domains.json database file mapping domains to companies",
+  "type": "object",
+  "required": ["$schema", "version", "generated", "domains"],
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "description": "Reference to this schema file"
+    },
+    "version": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$",
+      "description": "Semantic version of the data file (should match companies.json version)"
+    },
+    "generated": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp when this file was generated"
+    },
+    "domains": {
+      "type": "array",
+      "description": "Array of domain-to-company mappings",
+      "items": {
+        "$ref": "#/$defs/DomainMapping"
+      }
+    }
+  },
+  "$defs": {
+    "DomainMapping": {
+      "type": "object",
+      "description": "A mapping from a domain to its owning company",
+      "required": ["domain", "company_id"],
+      "additionalProperties": false,
+      "properties": {
+        "domain": {
+          "type": "string",
+          "pattern": "^([a-zA-Z0-9]([a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?\\.)+[a-zA-Z]{2,}$",
+          "maxLength": 253,
+          "description": "Fully qualified domain name without protocol (e.g., 'google.com', 'aws.amazon.com')"
+        },
+        "company_id": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9-]*[a-z0-9]$|^[a-z0-9]$",
+          "minLength": 1,
+          "maxLength": 64,
+          "description": "Foreign key referencing companies[].id"
+        },
+        "is_primary": {
+          "type": "boolean",
+          "default": false,
+          "description": "True if this is the company's primary/main domain"
+        },
+        "country_specific": {
+          "type": "string",
+          "pattern": "^[A-Z]{2}$",
+          "description": "ISO 3166-1 alpha-2 country code if this is a country-specific domain (e.g., 'DE' for amazon.de)"
+        },
+        "acquired_date": {
+          "type": "string",
+          "format": "date",
+          "description": "ISO 8601 date when this domain was acquired (if relevant for ownership tracking)"
+        },
+        "notes": {
+          "type": "string",
+          "maxLength": 512,
+          "description": "Additional context about the domain mapping"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1984 @@
+{
+  "domains": [
+    {
+      "domain": "amazon.com",
+      "company_id": "amazon",
+      "is_primary": true
+    },
+    {
+      "domain": "amazon.de",
+      "company_id": "amazon",
+      "country_specific": "DE"
+    },
+    {
+      "domain": "amazon.co.uk",
+      "company_id": "amazon",
+      "country_specific": "GB"
+    },
+    {
+      "domain": "amazon.fr",
+      "company_id": "amazon",
+      "country_specific": "FR"
+    },
+    {
+      "domain": "amazon.es",
+      "company_id": "amazon",
+      "country_specific": "ES"
+    },
+    {
+      "domain": "amazon.it",
+      "company_id": "amazon",
+      "country_specific": "IT"
+    },
+    {
+      "domain": "amazon.nl",
+      "company_id": "amazon",
+      "country_specific": "NL"
+    },
+    {
+      "domain": "amazon.se",
+      "company_id": "amazon",
+      "country_specific": "SE"
+    },
+    {
+      "domain": "amazon.pl",
+      "company_id": "amazon",
+      "country_specific": "PL"
+    },
+    {
+      "domain": "aws.amazon.com",
+      "company_id": "amazon-web-services"
+    },
+    {
+      "domain": "ebay.com",
+      "company_id": "ebay",
+      "is_primary": true
+    },
+    {
+      "domain": "ebay.de",
+      "company_id": "ebay",
+      "country_specific": "DE"
+    },
+    {
+      "domain": "ebay.co.uk",
+      "company_id": "ebay",
+      "country_specific": "GB"
+    },
+    {
+      "domain": "zalando.com",
+      "company_id": "zalando",
+      "is_primary": true
+    },
+    {
+      "domain": "zalando.de",
+      "company_id": "zalando",
+      "country_specific": "DE"
+    },
+    {
+      "domain": "zalando.fr",
+      "company_id": "zalando",
+      "country_specific": "FR"
+    },
+    {
+      "domain": "zalando.nl",
+      "company_id": "zalando",
+      "country_specific": "NL"
+    },
+    {
+      "domain": "zalando.fi",
+      "company_id": "zalando",
+      "country_specific": "FI"
+    },
+    {
+      "domain": "alibaba.com",
+      "company_id": "alibaba",
+      "is_primary": true
+    },
+    {
+      "domain": "aliexpress.com",
+      "company_id": "alibaba"
+    },
+    {
+      "domain": "asos.com",
+      "company_id": "asos",
+      "is_primary": true
+    },
+    {
+      "domain": "otto.de",
+      "company_id": "otto-group",
+      "is_primary": true
+    },
+    {
+      "domain": "bol.com",
+      "company_id": "bol-com",
+      "is_primary": true
+    },
+    {
+      "domain": "cdiscount.com",
+      "company_id": "cdiscount",
+      "is_primary": true
+    },
+    {
+      "domain": "allegro.pl",
+      "company_id": "allegro",
+      "is_primary": true
+    },
+    {
+      "domain": "mercadolibre.com",
+      "company_id": "mercado-libre",
+      "is_primary": true
+    },
+    {
+      "domain": "shopify.com",
+      "company_id": "shopify",
+      "is_primary": true
+    },
+    {
+      "domain": "etsy.com",
+      "company_id": "etsy",
+      "is_primary": true
+    },
+    {
+      "domain": "wayfair.com",
+      "company_id": "wayfair",
+      "is_primary": true
+    },
+    {
+      "domain": "wish.com",
+      "company_id": "wish",
+      "is_primary": true
+    },
+    {
+      "domain": "jd.com",
+      "company_id": "jd-com",
+      "is_primary": true
+    },
+    {
+      "domain": "rakuten.com",
+      "company_id": "rakuten",
+      "is_primary": true
+    },
+    {
+      "domain": "coupang.com",
+      "company_id": "coupang",
+      "is_primary": true
+    },
+    {
+      "domain": "flipkart.com",
+      "company_id": "flipkart",
+      "is_primary": true
+    },
+    {
+      "domain": "pinduoduo.com",
+      "company_id": "pinduoduo",
+      "is_primary": true
+    },
+    {
+      "domain": "shein.com",
+      "company_id": "shein",
+      "is_primary": true
+    },
+    {
+      "domain": "temu.com",
+      "company_id": "temu",
+      "is_primary": true
+    },
+    {
+      "domain": "aboutyou.com",
+      "company_id": "about-you",
+      "is_primary": true
+    },
+    {
+      "domain": "aboutyou.de",
+      "company_id": "about-you",
+      "country_specific": "DE"
+    },
+    {
+      "domain": "veepee.com",
+      "company_id": "veepee",
+      "is_primary": true
+    },
+    {
+      "domain": "privalia.com",
+      "company_id": "privalia",
+      "is_primary": true
+    },
+    {
+      "domain": "coolblue.nl",
+      "company_id": "coolblue",
+      "is_primary": true
+    },
+    {
+      "domain": "coolblue.be",
+      "company_id": "coolblue",
+      "country_specific": "BE"
+    },
+    {
+      "domain": "mediamarkt.de",
+      "company_id": "mediamarkt",
+      "is_primary": true
+    },
+    {
+      "domain": "mediamarkt.nl",
+      "company_id": "mediamarkt",
+      "country_specific": "NL"
+    },
+    {
+      "domain": "saturn.de",
+      "company_id": "saturn",
+      "is_primary": true
+    },
+    {
+      "domain": "fnac.com",
+      "company_id": "fnac",
+      "is_primary": true
+    },
+    {
+      "domain": "darty.com",
+      "company_id": "darty",
+      "is_primary": true
+    },
+    {
+      "domain": "elcorteingles.es",
+      "company_id": "el-corte-ingles",
+      "is_primary": true
+    },
+    {
+      "domain": "kaufland.de",
+      "company_id": "kaufland",
+      "is_primary": true
+    },
+    {
+      "domain": "lidl.com",
+      "company_id": "lidl",
+      "is_primary": true
+    },
+    {
+      "domain": "lidl.de",
+      "company_id": "lidl",
+      "country_specific": "DE"
+    },
+    {
+      "domain": "lidl.fi",
+      "company_id": "lidl",
+      "country_specific": "FI"
+    },
+    {
+      "domain": "aldi-nord.de",
+      "company_id": "aldi-nord",
+      "is_primary": true
+    },
+    {
+      "domain": "aldi-sued.de",
+      "company_id": "aldi-sud",
+      "is_primary": true
+    },
+    {
+      "domain": "aldi.us",
+      "company_id": "aldi-sud",
+      "country_specific": "US"
+    },
+    {
+      "domain": "carrefour.com",
+      "company_id": "carrefour",
+      "is_primary": true
+    },
+    {
+      "domain": "carrefour.fr",
+      "company_id": "carrefour",
+      "country_specific": "FR"
+    },
+    {
+      "domain": "tesco.com",
+      "company_id": "tesco",
+      "is_primary": true
+    },
+    {
+      "domain": "sainsburys.co.uk",
+      "company_id": "sainsburys",
+      "is_primary": true
+    },
+    {
+      "domain": "asda.com",
+      "company_id": "asda",
+      "is_primary": true
+    },
+    {
+      "domain": "morrisons.com",
+      "company_id": "morrisons",
+      "is_primary": true
+    },
+    {
+      "domain": "ocado.com",
+      "company_id": "ocado",
+      "is_primary": true
+    },
+    {
+      "domain": "rewe.de",
+      "company_id": "rewe",
+      "is_primary": true
+    },
+    {
+      "domain": "edeka.de",
+      "company_id": "edeka",
+      "is_primary": true
+    },
+    {
+      "domain": "auchan.fr",
+      "company_id": "auchan",
+      "is_primary": true
+    },
+    {
+      "domain": "leclerc.fr",
+      "company_id": "leclerc",
+      "is_primary": true
+    },
+    {
+      "domain": "intermarche.com",
+      "company_id": "intermarche",
+      "is_primary": true
+    },
+    {
+      "domain": "mercadona.es",
+      "company_id": "mercadona",
+      "is_primary": true
+    },
+    {
+      "domain": "esselunga.it",
+      "company_id": "esselunga",
+      "is_primary": true
+    },
+    {
+      "domain": "e-coop.it",
+      "company_id": "coop-italia",
+      "is_primary": true
+    },
+    {
+      "domain": "conad.it",
+      "company_id": "conad",
+      "is_primary": true
+    },
+    {
+      "domain": "jumbo.com",
+      "company_id": "jumbo",
+      "is_primary": true
+    },
+    {
+      "domain": "ah.nl",
+      "company_id": "albert-heijn",
+      "is_primary": true
+    },
+    {
+      "domain": "delhaize.be",
+      "company_id": "delhaize",
+      "is_primary": true
+    },
+    {
+      "domain": "colruyt.be",
+      "company_id": "colruyt",
+      "is_primary": true
+    },
+    {
+      "domain": "spar.com",
+      "company_id": "spar",
+      "is_primary": true
+    },
+    {
+      "domain": "migros.ch",
+      "company_id": "migros",
+      "is_primary": true
+    },
+    {
+      "domain": "coop.ch",
+      "company_id": "coop-switzerland",
+      "is_primary": true
+    },
+    {
+      "domain": "target.com",
+      "company_id": "target",
+      "is_primary": true
+    },
+    {
+      "domain": "walmart.com",
+      "company_id": "walmart",
+      "is_primary": true
+    },
+    {
+      "domain": "costco.com",
+      "company_id": "costco",
+      "is_primary": true
+    },
+    {
+      "domain": "kroger.com",
+      "company_id": "kroger",
+      "is_primary": true
+    },
+    {
+      "domain": "homedepot.com",
+      "company_id": "home-depot",
+      "is_primary": true
+    },
+    {
+      "domain": "lowes.com",
+      "company_id": "lowes",
+      "is_primary": true
+    },
+    {
+      "domain": "bestbuy.com",
+      "company_id": "best-buy",
+      "is_primary": true
+    },
+    {
+      "domain": "newegg.com",
+      "company_id": "newegg",
+      "is_primary": true
+    },
+    {
+      "domain": "overstock.com",
+      "company_id": "overstock",
+      "is_primary": true
+    },
+    {
+      "domain": "chewy.com",
+      "company_id": "chewy",
+      "is_primary": true
+    },
+    {
+      "domain": "petsmart.com",
+      "company_id": "petsmart",
+      "is_primary": true
+    },
+    {
+      "domain": "zooplus.com",
+      "company_id": "zooplus",
+      "is_primary": true
+    },
+    {
+      "domain": "zooplus.de",
+      "company_id": "zooplus",
+      "country_specific": "DE"
+    },
+    {
+      "domain": "fressnapf.de",
+      "company_id": "fressnapf",
+      "is_primary": true
+    },
+    {
+      "domain": "douglas.de",
+      "company_id": "douglas",
+      "is_primary": true
+    },
+    {
+      "domain": "douglas.nl",
+      "company_id": "douglas",
+      "country_specific": "NL"
+    },
+    {
+      "domain": "sephora.com",
+      "company_id": "sephora",
+      "is_primary": true
+    },
+    {
+      "domain": "notino.com",
+      "company_id": "notino",
+      "is_primary": true
+    },
+    {
+      "domain": "lookfantastic.com",
+      "company_id": "lookfantastic",
+      "is_primary": true
+    },
+    {
+      "domain": "booking.com",
+      "company_id": "booking-com",
+      "is_primary": true
+    },
+    {
+      "domain": "priceline.com",
+      "company_id": "booking-holdings"
+    },
+    {
+      "domain": "agoda.com",
+      "company_id": "booking-holdings"
+    },
+    {
+      "domain": "expedia.com",
+      "company_id": "expedia",
+      "is_primary": true
+    },
+    {
+      "domain": "hotels.com",
+      "company_id": "expedia"
+    },
+    {
+      "domain": "vrbo.com",
+      "company_id": "expedia"
+    },
+    {
+      "domain": "airbnb.com",
+      "company_id": "airbnb",
+      "is_primary": true
+    },
+    {
+      "domain": "tripadvisor.com",
+      "company_id": "tripadvisor",
+      "is_primary": true
+    },
+    {
+      "domain": "trivago.com",
+      "company_id": "trivago",
+      "is_primary": true
+    },
+    {
+      "domain": "skyscanner.com",
+      "company_id": "skyscanner",
+      "is_primary": true
+    },
+    {
+      "domain": "kayak.com",
+      "company_id": "kayak",
+      "is_primary": true
+    },
+    {
+      "domain": "lastminute.com",
+      "company_id": "lastminute",
+      "is_primary": true
+    },
+    {
+      "domain": "opodo.com",
+      "company_id": "opodo",
+      "is_primary": true
+    },
+    {
+      "domain": "edreams.com",
+      "company_id": "edreams",
+      "is_primary": true
+    },
+    {
+      "domain": "google.com",
+      "company_id": "google",
+      "is_primary": true
+    },
+    {
+      "domain": "google.de",
+      "company_id": "google",
+      "country_specific": "DE"
+    },
+    {
+      "domain": "google.fi",
+      "company_id": "google",
+      "country_specific": "FI"
+    },
+    {
+      "domain": "google.fr",
+      "company_id": "google",
+      "country_specific": "FR"
+    },
+    {
+      "domain": "google.co.uk",
+      "company_id": "google",
+      "country_specific": "GB"
+    },
+    {
+      "domain": "gmail.com",
+      "company_id": "google"
+    },
+    {
+      "domain": "youtube.com",
+      "company_id": "youtube",
+      "is_primary": true
+    },
+    {
+      "domain": "abc.xyz",
+      "company_id": "alphabet",
+      "is_primary": true
+    },
+    {
+      "domain": "microsoft.com",
+      "company_id": "microsoft",
+      "is_primary": true
+    },
+    {
+      "domain": "office.com",
+      "company_id": "microsoft"
+    },
+    {
+      "domain": "outlook.com",
+      "company_id": "microsoft"
+    },
+    {
+      "domain": "live.com",
+      "company_id": "microsoft"
+    },
+    {
+      "domain": "bing.com",
+      "company_id": "microsoft"
+    },
+    {
+      "domain": "linkedin.com",
+      "company_id": "linkedin",
+      "is_primary": true
+    },
+    {
+      "domain": "github.com",
+      "company_id": "github",
+      "is_primary": true
+    },
+    {
+      "domain": "apple.com",
+      "company_id": "apple",
+      "is_primary": true
+    },
+    {
+      "domain": "icloud.com",
+      "company_id": "apple"
+    },
+    {
+      "domain": "facebook.com",
+      "company_id": "facebook",
+      "is_primary": true
+    },
+    {
+      "domain": "fb.com",
+      "company_id": "facebook"
+    },
+    {
+      "domain": "instagram.com",
+      "company_id": "instagram",
+      "is_primary": true
+    },
+    {
+      "domain": "whatsapp.com",
+      "company_id": "whatsapp",
+      "is_primary": true
+    },
+    {
+      "domain": "meta.com",
+      "company_id": "meta",
+      "is_primary": true
+    },
+    {
+      "domain": "twitter.com",
+      "company_id": "twitter",
+      "is_primary": true
+    },
+    {
+      "domain": "x.com",
+      "company_id": "twitter"
+    },
+    {
+      "domain": "tiktok.com",
+      "company_id": "tiktok",
+      "is_primary": true
+    },
+    {
+      "domain": "bytedance.com",
+      "company_id": "bytedance",
+      "is_primary": true
+    },
+    {
+      "domain": "snapchat.com",
+      "company_id": "snapchat",
+      "is_primary": true
+    },
+    {
+      "domain": "pinterest.com",
+      "company_id": "pinterest",
+      "is_primary": true
+    },
+    {
+      "domain": "reddit.com",
+      "company_id": "reddit",
+      "is_primary": true
+    },
+    {
+      "domain": "twitch.tv",
+      "company_id": "twitch",
+      "is_primary": true
+    },
+    {
+      "domain": "discord.com",
+      "company_id": "discord",
+      "is_primary": true
+    },
+    {
+      "domain": "discordapp.com",
+      "company_id": "discord"
+    },
+    {
+      "domain": "slack.com",
+      "company_id": "slack",
+      "is_primary": true
+    },
+    {
+      "domain": "zoom.us",
+      "company_id": "zoom",
+      "is_primary": true
+    },
+    {
+      "domain": "spotify.com",
+      "company_id": "spotify",
+      "is_primary": true
+    },
+    {
+      "domain": "netflix.com",
+      "company_id": "netflix",
+      "is_primary": true
+    },
+    {
+      "domain": "disneyplus.com",
+      "company_id": "disney-plus",
+      "is_primary": true
+    },
+    {
+      "domain": "hbomax.com",
+      "company_id": "hbo-max",
+      "is_primary": true
+    },
+    {
+      "domain": "max.com",
+      "company_id": "hbo-max"
+    },
+    {
+      "domain": "paramountplus.com",
+      "company_id": "paramount-plus",
+      "is_primary": true
+    },
+    {
+      "domain": "peacocktv.com",
+      "company_id": "peacock",
+      "is_primary": true
+    },
+    {
+      "domain": "tv.apple.com",
+      "company_id": "apple-tv-plus",
+      "is_primary": true
+    },
+    {
+      "domain": "primevideo.com",
+      "company_id": "amazon-prime-video",
+      "is_primary": true
+    },
+    {
+      "domain": "deezer.com",
+      "company_id": "deezer",
+      "is_primary": true
+    },
+    {
+      "domain": "soundcloud.com",
+      "company_id": "soundcloud",
+      "is_primary": true
+    },
+    {
+      "domain": "tidal.com",
+      "company_id": "tidal",
+      "is_primary": true
+    },
+    {
+      "domain": "wechat.com",
+      "company_id": "wechat",
+      "is_primary": true
+    },
+    {
+      "domain": "qq.com",
+      "company_id": "tencent"
+    },
+    {
+      "domain": "tencent.com",
+      "company_id": "tencent",
+      "is_primary": true
+    },
+    {
+      "domain": "telegram.org",
+      "company_id": "telegram",
+      "is_primary": true
+    },
+    {
+      "domain": "signal.org",
+      "company_id": "signal",
+      "is_primary": true
+    },
+    {
+      "domain": "viber.com",
+      "company_id": "viber",
+      "is_primary": true
+    },
+    {
+      "domain": "line.me",
+      "company_id": "line",
+      "is_primary": true
+    },
+    {
+      "domain": "paypal.com",
+      "company_id": "paypal",
+      "is_primary": true
+    },
+    {
+      "domain": "klarna.com",
+      "company_id": "klarna",
+      "is_primary": true
+    },
+    {
+      "domain": "revolut.com",
+      "company_id": "revolut",
+      "is_primary": true
+    },
+    {
+      "domain": "n26.com",
+      "company_id": "n26",
+      "is_primary": true
+    },
+    {
+      "domain": "wise.com",
+      "company_id": "wise",
+      "is_primary": true
+    },
+    {
+      "domain": "transferwise.com",
+      "company_id": "wise"
+    },
+    {
+      "domain": "adyen.com",
+      "company_id": "adyen",
+      "is_primary": true
+    },
+    {
+      "domain": "checkout.com",
+      "company_id": "checkout-com",
+      "is_primary": true
+    },
+    {
+      "domain": "mollie.com",
+      "company_id": "mollie",
+      "is_primary": true
+    },
+    {
+      "domain": "sumup.com",
+      "company_id": "sumup",
+      "is_primary": true
+    },
+    {
+      "domain": "squareup.com",
+      "company_id": "square",
+      "is_primary": true
+    },
+    {
+      "domain": "square.com",
+      "company_id": "square"
+    },
+    {
+      "domain": "block.xyz",
+      "company_id": "block-inc",
+      "is_primary": true
+    },
+    {
+      "domain": "stripe.com",
+      "company_id": "stripe",
+      "is_primary": true
+    },
+    {
+      "domain": "visa.com",
+      "company_id": "visa",
+      "is_primary": true
+    },
+    {
+      "domain": "mastercard.com",
+      "company_id": "mastercard",
+      "is_primary": true
+    },
+    {
+      "domain": "americanexpress.com",
+      "company_id": "american-express",
+      "is_primary": true
+    },
+    {
+      "domain": "amex.com",
+      "company_id": "american-express"
+    },
+    {
+      "domain": "sap.com",
+      "company_id": "sap",
+      "is_primary": true
+    },
+    {
+      "domain": "salesforce.com",
+      "company_id": "salesforce",
+      "is_primary": true
+    },
+    {
+      "domain": "oracle.com",
+      "company_id": "oracle",
+      "is_primary": true
+    },
+    {
+      "domain": "ibm.com",
+      "company_id": "ibm",
+      "is_primary": true
+    },
+    {
+      "domain": "adobe.com",
+      "company_id": "adobe",
+      "is_primary": true
+    },
+    {
+      "domain": "atlassian.com",
+      "company_id": "atlassian",
+      "is_primary": true
+    },
+    {
+      "domain": "jira.com",
+      "company_id": "atlassian"
+    },
+    {
+      "domain": "trello.com",
+      "company_id": "atlassian"
+    },
+    {
+      "domain": "bitbucket.org",
+      "company_id": "bitbucket",
+      "is_primary": true
+    },
+    {
+      "domain": "servicenow.com",
+      "company_id": "servicenow",
+      "is_primary": true
+    },
+    {
+      "domain": "workday.com",
+      "company_id": "workday",
+      "is_primary": true
+    },
+    {
+      "domain": "snowflake.com",
+      "company_id": "snowflake",
+      "is_primary": true
+    },
+    {
+      "domain": "databricks.com",
+      "company_id": "databricks",
+      "is_primary": true
+    },
+    {
+      "domain": "nvidia.com",
+      "company_id": "nvidia",
+      "is_primary": true
+    },
+    {
+      "domain": "intel.com",
+      "company_id": "intel",
+      "is_primary": true
+    },
+    {
+      "domain": "amd.com",
+      "company_id": "amd",
+      "is_primary": true
+    },
+    {
+      "domain": "cisco.com",
+      "company_id": "cisco",
+      "is_primary": true
+    },
+    {
+      "domain": "vmware.com",
+      "company_id": "vmware",
+      "is_primary": true
+    },
+    {
+      "domain": "broadcom.com",
+      "company_id": "broadcom",
+      "is_primary": true
+    },
+    {
+      "domain": "qualcomm.com",
+      "company_id": "qualcomm",
+      "is_primary": true
+    },
+    {
+      "domain": "arm.com",
+      "company_id": "arm",
+      "is_primary": true
+    },
+    {
+      "domain": "asml.com",
+      "company_id": "asml",
+      "is_primary": true
+    },
+    {
+      "domain": "nxp.com",
+      "company_id": "nxp",
+      "is_primary": true
+    },
+    {
+      "domain": "infineon.com",
+      "company_id": "infineon",
+      "is_primary": true
+    },
+    {
+      "domain": "st.com",
+      "company_id": "stmicroelectronics",
+      "is_primary": true
+    },
+    {
+      "domain": "ericsson.com",
+      "company_id": "ericsson",
+      "is_primary": true
+    },
+    {
+      "domain": "nokia.com",
+      "company_id": "nokia",
+      "is_primary": true
+    },
+    {
+      "domain": "siemens.com",
+      "company_id": "siemens",
+      "is_primary": true
+    },
+    {
+      "domain": "se.com",
+      "company_id": "schneider-electric",
+      "is_primary": true
+    },
+    {
+      "domain": "bosch.com",
+      "company_id": "bosch",
+      "is_primary": true
+    },
+    {
+      "domain": "philips.com",
+      "company_id": "philips",
+      "is_primary": true
+    },
+    {
+      "domain": "capgemini.com",
+      "company_id": "capgemini",
+      "is_primary": true
+    },
+    {
+      "domain": "accenture.com",
+      "company_id": "accenture",
+      "is_primary": true
+    },
+    {
+      "domain": "soprasteria.com",
+      "company_id": "sopra-steria",
+      "is_primary": true
+    },
+    {
+      "domain": "atos.net",
+      "company_id": "atos",
+      "is_primary": true
+    },
+    {
+      "domain": "dxc.com",
+      "company_id": "dxc-technology",
+      "is_primary": true
+    },
+    {
+      "domain": "tcs.com",
+      "company_id": "tata-consultancy",
+      "is_primary": true
+    },
+    {
+      "domain": "infosys.com",
+      "company_id": "infosys",
+      "is_primary": true
+    },
+    {
+      "domain": "wipro.com",
+      "company_id": "wipro",
+      "is_primary": true
+    },
+    {
+      "domain": "cognizant.com",
+      "company_id": "cognizant",
+      "is_primary": true
+    },
+    {
+      "domain": "hcltech.com",
+      "company_id": "hcl-technologies",
+      "is_primary": true
+    },
+    {
+      "domain": "palantir.com",
+      "company_id": "palantir",
+      "is_primary": true
+    },
+    {
+      "domain": "splunk.com",
+      "company_id": "splunk",
+      "is_primary": true
+    },
+    {
+      "domain": "elastic.co",
+      "company_id": "elastic",
+      "is_primary": true
+    },
+    {
+      "domain": "datadoghq.com",
+      "company_id": "datadog",
+      "is_primary": true
+    },
+    {
+      "domain": "cloudflare.com",
+      "company_id": "cloudflare",
+      "is_primary": true
+    },
+    {
+      "domain": "akamai.com",
+      "company_id": "akamai",
+      "is_primary": true
+    },
+    {
+      "domain": "fastly.com",
+      "company_id": "fastly",
+      "is_primary": true
+    },
+    {
+      "domain": "digitalocean.com",
+      "company_id": "digitalocean",
+      "is_primary": true
+    },
+    {
+      "domain": "linode.com",
+      "company_id": "linode",
+      "is_primary": true
+    },
+    {
+      "domain": "ovhcloud.com",
+      "company_id": "ovhcloud",
+      "is_primary": true
+    },
+    {
+      "domain": "ovh.com",
+      "company_id": "ovhcloud"
+    },
+    {
+      "domain": "hetzner.com",
+      "company_id": "hetzner",
+      "is_primary": true
+    },
+    {
+      "domain": "scaleway.com",
+      "company_id": "scaleway",
+      "is_primary": true
+    },
+    {
+      "domain": "ionos.com",
+      "company_id": "ionos",
+      "is_primary": true
+    },
+    {
+      "domain": "gitlab.com",
+      "company_id": "gitlab",
+      "is_primary": true
+    },
+    {
+      "domain": "jetbrains.com",
+      "company_id": "jetbrains",
+      "is_primary": true
+    },
+    {
+      "domain": "hashicorp.com",
+      "company_id": "hashicorp",
+      "is_primary": true
+    },
+    {
+      "domain": "docker.com",
+      "company_id": "docker",
+      "is_primary": true
+    },
+    {
+      "domain": "redhat.com",
+      "company_id": "redhat",
+      "is_primary": true
+    },
+    {
+      "domain": "canonical.com",
+      "company_id": "canonical",
+      "is_primary": true
+    },
+    {
+      "domain": "ubuntu.com",
+      "company_id": "canonical"
+    },
+    {
+      "domain": "suse.com",
+      "company_id": "suse",
+      "is_primary": true
+    },
+    {
+      "domain": "mongodb.com",
+      "company_id": "mongodb",
+      "is_primary": true
+    },
+    {
+      "domain": "confluent.io",
+      "company_id": "confluent",
+      "is_primary": true
+    },
+    {
+      "domain": "twilio.com",
+      "company_id": "twilio",
+      "is_primary": true
+    },
+    {
+      "domain": "sendgrid.com",
+      "company_id": "sendgrid",
+      "is_primary": true
+    },
+    {
+      "domain": "mailchimp.com",
+      "company_id": "mailchimp",
+      "is_primary": true
+    },
+    {
+      "domain": "hubspot.com",
+      "company_id": "hubspot",
+      "is_primary": true
+    },
+    {
+      "domain": "zendesk.com",
+      "company_id": "zendesk",
+      "is_primary": true
+    },
+    {
+      "domain": "freshworks.com",
+      "company_id": "freshworks",
+      "is_primary": true
+    },
+    {
+      "domain": "intercom.com",
+      "company_id": "intercom",
+      "is_primary": true
+    },
+    {
+      "domain": "notion.so",
+      "company_id": "notion",
+      "is_primary": true
+    },
+    {
+      "domain": "asana.com",
+      "company_id": "asana",
+      "is_primary": true
+    },
+    {
+      "domain": "monday.com",
+      "company_id": "monday",
+      "is_primary": true
+    },
+    {
+      "domain": "clickup.com",
+      "company_id": "clickup",
+      "is_primary": true
+    },
+    {
+      "domain": "airtable.com",
+      "company_id": "airtable",
+      "is_primary": true
+    },
+    {
+      "domain": "figma.com",
+      "company_id": "figma",
+      "is_primary": true
+    },
+    {
+      "domain": "canva.com",
+      "company_id": "canva",
+      "is_primary": true
+    },
+    {
+      "domain": "miro.com",
+      "company_id": "miro",
+      "is_primary": true
+    },
+    {
+      "domain": "lucid.co",
+      "company_id": "lucid",
+      "is_primary": true
+    },
+    {
+      "domain": "lucidchart.com",
+      "company_id": "lucid"
+    },
+    {
+      "domain": "monzo.com",
+      "company_id": "monzo",
+      "is_primary": true
+    },
+    {
+      "domain": "starlingbank.com",
+      "company_id": "starling-bank",
+      "is_primary": true
+    },
+    {
+      "domain": "chime.com",
+      "company_id": "chime",
+      "is_primary": true
+    },
+    {
+      "domain": "robinhood.com",
+      "company_id": "robinhood",
+      "is_primary": true
+    },
+    {
+      "domain": "coinbase.com",
+      "company_id": "coinbase",
+      "is_primary": true
+    },
+    {
+      "domain": "bolt.eu",
+      "company_id": "bolt",
+      "is_primary": true
+    },
+    {
+      "domain": "food.bolt.eu",
+      "company_id": "bolt"
+    },
+    {
+      "domain": "deliveryhero.com",
+      "company_id": "delivery-hero",
+      "is_primary": true
+    },
+    {
+      "domain": "hellofresh.com",
+      "company_id": "hellofresh",
+      "is_primary": true
+    },
+    {
+      "domain": "hellofresh.de",
+      "company_id": "hellofresh",
+      "country_specific": "DE"
+    },
+    {
+      "domain": "hellofresh.co.uk",
+      "company_id": "hellofresh",
+      "country_specific": "GB"
+    },
+    {
+      "domain": "wolt.com",
+      "company_id": "wolt",
+      "is_primary": true
+    },
+    {
+      "domain": "justeattakeaway.com",
+      "company_id": "just-eat-takeaway",
+      "is_primary": true
+    },
+    {
+      "domain": "just-eat.co.uk",
+      "company_id": "just-eat-takeaway",
+      "country_specific": "GB"
+    },
+    {
+      "domain": "lieferando.de",
+      "company_id": "just-eat-takeaway",
+      "country_specific": "DE"
+    },
+    {
+      "domain": "thuisbezorgd.nl",
+      "company_id": "just-eat-takeaway",
+      "country_specific": "NL"
+    },
+    {
+      "domain": "pyszne.pl",
+      "company_id": "just-eat-takeaway",
+      "country_specific": "PL"
+    },
+    {
+      "domain": "skipthedishes.com",
+      "company_id": "just-eat-takeaway"
+    },
+    {
+      "domain": "menulog.com.au",
+      "company_id": "just-eat-takeaway",
+      "country_specific": "AU"
+    },
+    {
+      "domain": "ubisoft.com",
+      "company_id": "ubisoft",
+      "is_primary": true
+    },
+    {
+      "domain": "ubi.com",
+      "company_id": "ubisoft"
+    },
+    {
+      "domain": "cdprojekt.com",
+      "company_id": "cd-projekt",
+      "is_primary": true
+    },
+    {
+      "domain": "cdprojektred.com",
+      "company_id": "cd-projekt"
+    },
+    {
+      "domain": "gog.com",
+      "company_id": "cd-projekt"
+    },
+    {
+      "domain": "supercell.com",
+      "company_id": "supercell",
+      "is_primary": true
+    },
+    {
+      "domain": "rovio.com",
+      "company_id": "rovio",
+      "is_primary": true
+    },
+    {
+      "domain": "remedygames.com",
+      "company_id": "remedy-entertainment",
+      "is_primary": true
+    },
+    {
+      "domain": "housemarque.com",
+      "company_id": "housemarque",
+      "is_primary": true
+    },
+    {
+      "domain": "ouraring.com",
+      "company_id": "oura",
+      "is_primary": true
+    },
+    {
+      "domain": "polar.com",
+      "company_id": "polar-electro",
+      "is_primary": true
+    },
+    {
+      "domain": "suunto.com",
+      "company_id": "suunto",
+      "is_primary": true
+    },
+    {
+      "domain": "marimekko.com",
+      "company_id": "marimekko",
+      "is_primary": true
+    },
+    {
+      "domain": "fazer.com",
+      "company_id": "fazer",
+      "is_primary": true
+    },
+    {
+      "domain": "fazer.fi",
+      "company_id": "fazer",
+      "country_specific": "FI"
+    },
+    {
+      "domain": "valio.com",
+      "company_id": "valio",
+      "is_primary": true
+    },
+    {
+      "domain": "valio.fi",
+      "company_id": "valio",
+      "country_specific": "FI"
+    },
+    {
+      "domain": "king.com",
+      "company_id": "king",
+      "is_primary": true
+    },
+    {
+      "domain": "glovoapp.com",
+      "company_id": "glovo",
+      "is_primary": true
+    },
+    {
+      "domain": "blablacar.com",
+      "company_id": "blablacar",
+      "is_primary": true
+    },
+    {
+      "domain": "blablacar.fr",
+      "company_id": "blablacar",
+      "country_specific": "FR"
+    },
+    {
+      "domain": "blablacar.de",
+      "company_id": "blablacar",
+      "country_specific": "DE"
+    },
+    {
+      "domain": "goflink.com",
+      "company_id": "flink",
+      "is_primary": true
+    },
+    {
+      "domain": "traderepublic.com",
+      "company_id": "trade-republic",
+      "is_primary": true
+    },
+    {
+      "domain": "celonis.com",
+      "company_id": "celonis",
+      "is_primary": true
+    },
+    {
+      "domain": "flixbus.com",
+      "company_id": "flixbus",
+      "is_primary": true
+    },
+    {
+      "domain": "flixbus.de",
+      "company_id": "flixbus",
+      "country_specific": "DE"
+    },
+    {
+      "domain": "flixtrain.com",
+      "company_id": "flixbus"
+    },
+    {
+      "domain": "getir.com",
+      "company_id": "getir",
+      "is_primary": true
+    },
+    {
+      "domain": "bird.com",
+      "company_id": "messagebird",
+      "is_primary": true
+    },
+    {
+      "domain": "messagebird.com",
+      "company_id": "messagebird"
+    },
+    {
+      "domain": "personio.com",
+      "company_id": "personio",
+      "is_primary": true
+    },
+    {
+      "domain": "personio.de",
+      "company_id": "personio",
+      "country_specific": "DE"
+    },
+    {
+      "domain": "contentful.com",
+      "company_id": "contentful",
+      "is_primary": true
+    },
+    {
+      "domain": "mambu.com",
+      "company_id": "mambu",
+      "is_primary": true
+    },
+    {
+      "domain": "sennder.com",
+      "company_id": "sennder",
+      "is_primary": true
+    },
+    {
+      "domain": "doctolib.fr",
+      "company_id": "doctolib",
+      "is_primary": true
+    },
+    {
+      "domain": "doctolib.de",
+      "company_id": "doctolib",
+      "country_specific": "DE"
+    },
+    {
+      "domain": "doctolib.it",
+      "company_id": "doctolib",
+      "country_specific": "IT"
+    },
+    {
+      "domain": "backmarket.com",
+      "company_id": "back-market",
+      "is_primary": true
+    },
+    {
+      "domain": "backmarket.fr",
+      "company_id": "back-market",
+      "country_specific": "FR"
+    },
+    {
+      "domain": "sorare.com",
+      "company_id": "sorare",
+      "is_primary": true
+    },
+    {
+      "domain": "mirakl.com",
+      "company_id": "mirakl",
+      "is_primary": true
+    },
+    {
+      "domain": "alan.com",
+      "company_id": "alan",
+      "is_primary": true
+    },
+    {
+      "domain": "ledger.com",
+      "company_id": "ledger",
+      "is_primary": true
+    },
+    {
+      "domain": "qonto.com",
+      "company_id": "qonto",
+      "is_primary": true
+    },
+    {
+      "domain": "spendesk.com",
+      "company_id": "spendesk",
+      "is_primary": true
+    },
+    {
+      "domain": "payfit.com",
+      "company_id": "payfit",
+      "is_primary": true
+    },
+    {
+      "domain": "swile.co",
+      "company_id": "swile",
+      "is_primary": true
+    },
+    {
+      "domain": "contentsquare.com",
+      "company_id": "contentsquare",
+      "is_primary": true
+    },
+    {
+      "domain": "kry.se",
+      "company_id": "kry",
+      "is_primary": true
+    },
+    {
+      "domain": "livi.co.uk",
+      "company_id": "kry"
+    },
+    {
+      "domain": "northvolt.com",
+      "company_id": "northvolt",
+      "is_primary": true
+    },
+    {
+      "domain": "einride.tech",
+      "company_id": "einride",
+      "is_primary": true
+    },
+    {
+      "domain": "truecaller.com",
+      "company_id": "truecaller",
+      "is_primary": true
+    },
+    {
+      "domain": "kahoot.com",
+      "company_id": "kahoot",
+      "is_primary": true
+    },
+    {
+      "domain": "vipps.no",
+      "company_id": "vipps",
+      "is_primary": true
+    },
+    {
+      "domain": "mobilepay.dk",
+      "company_id": "vipps",
+      "country_specific": "DK"
+    },
+    {
+      "domain": "oda.com",
+      "company_id": "oda",
+      "is_primary": true
+    },
+    {
+      "domain": "picnic.app",
+      "company_id": "picnic",
+      "is_primary": true
+    },
+    {
+      "domain": "bunq.com",
+      "company_id": "bunq",
+      "is_primary": true
+    },
+    {
+      "domain": "remote.com",
+      "company_id": "remote",
+      "is_primary": true
+    },
+    {
+      "domain": "bitpanda.com",
+      "company_id": "bitpanda",
+      "is_primary": true
+    },
+    {
+      "domain": "gocardless.com",
+      "company_id": "gocardless",
+      "is_primary": true
+    },
+    {
+      "domain": "deliveroo.com",
+      "company_id": "deliveroo",
+      "is_primary": true
+    },
+    {
+      "domain": "deliveroo.co.uk",
+      "company_id": "deliveroo",
+      "country_specific": "GB"
+    },
+    {
+      "domain": "cazoo.co.uk",
+      "company_id": "cazoo",
+      "is_primary": true
+    },
+    {
+      "domain": "gymshark.com",
+      "company_id": "gymshark",
+      "is_primary": true
+    },
+    {
+      "domain": "brewdog.com",
+      "company_id": "brewdog",
+      "is_primary": true
+    },
+    {
+      "domain": "transfergo.com",
+      "company_id": "transfer-go",
+      "is_primary": true
+    },
+    {
+      "domain": "gousto.co.uk",
+      "company_id": "gousto",
+      "is_primary": true
+    },
+    {
+      "domain": "babylonhealth.com",
+      "company_id": "babylon-health",
+      "is_primary": true
+    },
+    {
+      "domain": "multiverse.io",
+      "company_id": "multiverse",
+      "is_primary": true
+    },
+    {
+      "domain": "rapyd.net",
+      "company_id": "rapyd",
+      "is_primary": true
+    },
+    {
+      "domain": "hopin.com",
+      "company_id": "hopin",
+      "is_primary": true
+    },
+    {
+      "domain": "snyk.io",
+      "company_id": "snyk",
+      "is_primary": true
+    },
+    {
+      "domain": "graphcore.ai",
+      "company_id": "graphcore",
+      "is_primary": true
+    },
+    {
+      "domain": "improbable.io",
+      "company_id": "improbable",
+      "is_primary": true
+    },
+    {
+      "domain": "octopus.energy",
+      "company_id": "octopus-energy",
+      "is_primary": true
+    },
+    {
+      "domain": "aliexpress.ru",
+      "company_id": "aliexpress",
+      "country_specific": "RU"
+    },
+    {
+      "domain": "vinted.com",
+      "company_id": "vinted",
+      "is_primary": true
+    },
+    {
+      "domain": "vinted.fr",
+      "company_id": "vinted",
+      "country_specific": "FR"
+    },
+    {
+      "domain": "vinted.de",
+      "company_id": "vinted",
+      "country_specific": "DE"
+    },
+    {
+      "domain": "vinted.pl",
+      "company_id": "vinted",
+      "country_specific": "PL"
+    },
+    {
+      "domain": "vinted.lt",
+      "company_id": "vinted",
+      "country_specific": "LT"
+    },
+    {
+      "domain": "pipedrive.com",
+      "company_id": "pipedrive",
+      "is_primary": true
+    },
+    {
+      "domain": "veriff.com",
+      "company_id": "veriff",
+      "is_primary": true
+    },
+    {
+      "domain": "posti.fi",
+      "company_id": "posti",
+      "is_primary": true
+    },
+    {
+      "domain": "s-kaupat.fi",
+      "company_id": "s-group",
+      "is_primary": true
+    },
+    {
+      "domain": "prisma.fi",
+      "company_id": "s-group"
+    },
+    {
+      "domain": "foodie.fi",
+      "company_id": "s-group"
+    },
+    {
+      "domain": "kesko.fi",
+      "company_id": "kesko",
+      "is_primary": true
+    },
+    {
+      "domain": "k-ruoka.fi",
+      "company_id": "kesko"
+    },
+    {
+      "domain": "kone.com",
+      "company_id": "kone",
+      "is_primary": true
+    },
+    {
+      "domain": "upm.com",
+      "company_id": "upm",
+      "is_primary": true
+    },
+    {
+      "domain": "storaenso.com",
+      "company_id": "stora-enso",
+      "is_primary": true
+    },
+    {
+      "domain": "wartsila.com",
+      "company_id": "wartsila",
+      "is_primary": true
+    },
+    {
+      "domain": "neste.com",
+      "company_id": "neste",
+      "is_primary": true
+    },
+    {
+      "domain": "fortum.com",
+      "company_id": "fortum",
+      "is_primary": true
+    },
+    {
+      "domain": "elisa.fi",
+      "company_id": "elisa",
+      "is_primary": true
+    },
+    {
+      "domain": "elisa.ee",
+      "company_id": "elisa",
+      "country_specific": "EE"
+    },
+    {
+      "domain": "telia.fi",
+      "company_id": "telia-finland",
+      "is_primary": true
+    },
+    {
+      "domain": "telia.se",
+      "company_id": "telia-company",
+      "country_specific": "SE"
+    },
+    {
+      "domain": "teliacompany.com",
+      "company_id": "telia-company",
+      "is_primary": true
+    },
+    {
+      "domain": "telenor.com",
+      "company_id": "telenor",
+      "is_primary": true
+    },
+    {
+      "domain": "telenor.no",
+      "company_id": "telenor",
+      "country_specific": "NO"
+    },
+    {
+      "domain": "orange.com",
+      "company_id": "orange",
+      "is_primary": true
+    },
+    {
+      "domain": "orange.fr",
+      "company_id": "orange",
+      "country_specific": "FR"
+    },
+    {
+      "domain": "telekom.de",
+      "company_id": "deutsche-telekom",
+      "is_primary": true
+    },
+    {
+      "domain": "t-mobile.com",
+      "company_id": "deutsche-telekom"
+    },
+    {
+      "domain": "telefonica.com",
+      "company_id": "telefonica",
+      "is_primary": true
+    },
+    {
+      "domain": "movistar.es",
+      "company_id": "telefonica",
+      "country_specific": "ES"
+    },
+    {
+      "domain": "o2.de",
+      "company_id": "telefonica",
+      "country_specific": "DE"
+    },
+    {
+      "domain": "vodafone.com",
+      "company_id": "vodafone",
+      "is_primary": true
+    },
+    {
+      "domain": "vodafone.co.uk",
+      "company_id": "vodafone",
+      "country_specific": "GB"
+    },
+    {
+      "domain": "vodafone.de",
+      "company_id": "vodafone",
+      "country_specific": "DE"
+    },
+    {
+      "domain": "three.co.uk",
+      "company_id": "three-uk",
+      "is_primary": true
+    },
+    {
+      "domain": "foodpanda.com",
+      "company_id": "delivery-hero"
+    },
+    {
+      "domain": "foodora.com",
+      "company_id": "delivery-hero"
+    },
+    {
+      "domain": "talabat.com",
+      "company_id": "delivery-hero"
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "results": {
+    "eu": [
+      {
+        "domain": "spotify.com",
+        "state": "company",
+        "status": "EU",
+        "statusText": "European Company",
+        "name": "Spotify",
+        "location": "Stockholm, Sweden",
+        "flag": "🇸🇪",
+        "hasOwnership": false,
+        "founded": "2006",
+        "confidence": "High"
+      },
+      {
+        "domain": "zalando.de",
+        "state": "company",
+        "status": "EU",
+        "statusText": "European Company",
+        "name": "Zalando",
+        "location": "Berlin, Germany",
+        "flag": "🇩🇪",
+        "hasOwnership": false,
+        "founded": "2008",
+        "confidence": "High"
+      },
+      {
+        "domain": "klarna.com",
+        "state": "company",
+        "status": "EU",
+        "statusText": "European Company",
+        "name": "Klarna",
+        "location": "Stockholm, Sweden",
+        "flag": "🇸🇪",
+        "hasOwnership": false,
+        "founded": "2005",
+        "confidence": "High"
+      },
+      {
+        "domain": "booking.com",
+        "state": "company",
+        "status": "MIX",
+        "statusText": "Mixed Ownership",
+        "name": "Booking.com",
+        "location": "Amsterdam, Netherlands",
+        "flag": "🇳🇱",
+        "hasOwnership": true,
+        "founded": "1996",
+        "confidence": "High"
+      },
+      {
+        "domain": "nokia.com",
+        "state": "company",
+        "status": "EU",
+        "statusText": "European Company",
+        "name": "Nokia",
+        "location": "Espoo, Finland",
+        "flag": "🇫🇮",
+        "hasOwnership": false,
+        "founded": "1865",
+        "confidence": "High"
+      },
+      {
+        "domain": "ericsson.com",
+        "state": "company",
+        "status": "EU",
+        "statusText": "European Company",
+        "name": "Ericsson",
+        "location": "Stockholm, Sweden",
+        "flag": "🇸🇪",
+        "hasOwnership": false,
+        "founded": "1876",
+        "confidence": "High"
+      },
+      {
+        "domain": "sap.com",
+        "state": "company",
+        "status": "EU",
+        "statusText": "European Company",
+        "name": "SAP",
+        "location": "Walldorf, Germany",
+        "flag": "🇩🇪",
+        "hasOwnership": false,
+        "founded": "1972",
+        "confidence": "High"
+      },
+      {
+        "domain": "philips.com",
+        "state": "company",
+        "status": "EU",
+        "statusText": "European Company",
+        "name": "Philips",
+        "location": "Amsterdam, Netherlands",
+        "flag": "🇳🇱",
+        "hasOwnership": false,
+        "founded": "1891",
+        "confidence": "High"
+      }
+    ],
+    "nonEu": [
+      {
+        "domain": "amazon.com",
+        "state": "company",
+        "status": "!EU",
+        "statusText": "Non-European Company",
+        "name": "Amazon",
+        "location": "Seattle, United States",
+        "flag": "🇺🇸",
+        "hasOwnership": false,
+        "founded": "1994",
+        "confidence": "High"
+      },
+      {
+        "domain": "google.com",
+        "state": "company",
+        "status": "!EU",
+        "statusText": "Non-European Company",
+        "name": "Google",
+        "location": "Mountain View, United States",
+        "flag": "🇺🇸",
+        "hasOwnership": true,
+        "founded": "1998",
+        "confidence": "High"
+      },
+      {
+        "domain": "facebook.com",
+        "state": "company",
+        "status": "!EU",
+        "statusText": "Non-European Company",
+        "name": "Facebook",
+        "location": "Menlo Park, United States",
+        "flag": "🇺🇸",
+        "hasOwnership": true,
+        "founded": "2004",
+        "confidence": "High"
+      },
+      {
+        "domain": "apple.com",
+        "state": "company",
+        "status": "!EU",
+        "statusText": "Non-European Company",
+        "name": "Apple",
+        "location": "Cupertino, United States",
+        "flag": "🇺🇸",
+        "hasOwnership": false,
+        "founded": "1976",
+        "confidence": "High"
+      },
+      {
+        "domain": "microsoft.com",
+        "state": "company",
+        "status": "!EU",
+        "statusText": "Non-European Company",
+        "name": "Microsoft",
+        "location": "Redmond, United States",
+        "flag": "🇺🇸",
+        "hasOwnership": false,
+        "founded": "1975",
+        "confidence": "High"
+      },
+      {
+        "domain": "netflix.com",
+        "state": "company",
+        "status": "!EU",
+        "statusText": "Non-European Company",
+        "name": "Netflix",
+        "location": "Los Gatos, United States",
+        "flag": "🇺🇸",
+        "hasOwnership": false,
+        "founded": "1997",
+        "confidence": "High"
+      },
+      {
+        "domain": "twitter.com",
+        "state": "company",
+        "status": "!EU",
+        "statusText": "Non-European Company",
+        "name": "X (Twitter)",
+        "location": "San Francisco, United States",
+        "flag": "🇺🇸",
+        "hasOwnership": true,
+        "founded": "2006",
+        "confidence": "High"
+      },
+      {
+        "domain": "tiktok.com",
+        "state": "company",
+        "status": "!EU",
+        "statusText": "Non-European Company",
+        "name": "TikTok",
+        "location": "Culver City, United States",
+        "flag": "🇺🇸",
+        "hasOwnership": true,
+        "founded": "2016",
+        "confidence": "High"
+      }
+    ],
+    "subdomains": [
+      {
+        "domain": "aws.amazon.com",
+        "state": "company",
+        "status": "!EU",
+        "statusText": "statusNonEu",
+        "name": "Amazon Web Services",
+        "location": "Seattle, United States",
+        "flag": "🇺🇸",
+        "hasOwnership": true,
+        "founded": "2006",
+        "confidence": "confidenceHigh"
+      },
+      {
+        "domain": "drive.google.com",
+        "state": "unknown",
+        "message": "unknownNoData"
+      },
+      {
+        "domain": "mail.google.com",
+        "state": "unknown",
+        "message": "unknownNoData"
+      }
+    ],
+    "countryDomains": [
+      {
+        "domain": "amazon.de",
+        "state": "company",
+        "status": "!EU",
+        "statusText": "statusNonEu",
+        "name": "Amazon",
+        "location": "Seattle, United States",
+        "flag": "🇺🇸",
+        "hasOwnership": false,
+        "founded": "1994",
+        "confidence": "confidenceHigh"
+      },
+      {
+        "domain": "google.fr",
+        "state": "company",
+        "status": "!EU",
+        "statusText": "statusNonEu",
+        "name": "Google",
+        "location": "Mountain View, United States",
+        "flag": "🇺🇸",
+        "hasOwnership": true,
+        "founded": "1998",
+        "confidence": "confidenceHigh"
+      },
+      {
+        "domain": "google.fi",
+        "state": "company",
+        "status": "!EU",
+        "statusText": "statusNonEu",
+        "name": "Google",
+        "location": "Mountain View, United States",
+        "flag": "🇺🇸",
+        "hasOwnership": true,
+        "founded": "1998",
+        "confidence": "confidenceHigh"
+      }
+    ],
+    "unknown": [
+      {
+        "domain": "example.com",
+        "state": "unknown",
+        "message": "unknownNoData"
+      },
+      {
+        "domain": "randomsite123.org",
+        "state": "unknown",
+        "message": "unknownNoData"
+      },
+      {
+        "domain": "unknown-company.fi",
+        "state": "unknown",
+        "message": "unknownNoData"
+      }
+    ],
+    "mixed": [
+      {
+        "domain": "booking.com",
+        "state": "company",
+        "status": "MIX",
+        "statusText": "statusMixed",
+        "name": "Booking.com",
+        "location": "Amsterdam, Netherlands",
+        "flag": "🇳🇱",
+        "hasOwnership": true,
+        "founded": "1996",
+        "confidence": "confidenceHigh"
+      },
+      {
+        "domain": "trivago.com",
+        "state": "company",
+        "status": "MIX",
+        "statusText": "statusMixed",
+        "name": "Trivago",
+        "location": "Düsseldorf, Germany",
+        "flag": "🇩🇪",
+        "hasOwnership": true,
+        "founded": "2005",
+        "confidence": "confidenceHigh"
+      },
+      {
+        "domain": "zooplus.com",
+        "state": "company",
+        "status": "MIX",
+        "statusText": "statusMixed",
+        "name": "Zooplus",
+        "location": "Munich, Germany",
+        "flag": "🇩🇪",
+        "hasOwnership": true,
+        "founded": "1999",
+        "confidence": "confidenceMedium"
+      }
+    ]
+  },
+  "bugs": []
+}

@@ -1,0 +1,76 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    name: Validate & Build
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Validate JSON files
+        run: |
+          echo "Validating companies.json..."
+          node -e "JSON.parse(require('fs').readFileSync('data/companies.json'))"
+          echo "Validating domains.json..."
+          node -e "JSON.parse(require('fs').readFileSync('data/domains.json'))"
+          echo "✅ All JSON valid"
+
+      - name: Build Chrome
+        run: npm run build:chrome
+
+      - name: Build Firefox
+        run: npm run build:firefox
+
+      - name: Lint Firefox extension
+        run: npx web-ext lint --source-dir=dist/firefox
+
+      - name: Upload Chrome build
+        uses: actions/upload-artifact@v4
+        with:
+          name: eurocheck-chrome
+          path: dist/chrome/
+
+      - name: Upload Firefox build
+        uses: actions/upload-artifact@v4
+        with:
+          name: eurocheck-firefox
+          path: dist/firefox/
+
+  stats:
+    name: Database Stats
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Report stats
+        run: |
+          echo "## 📊 Database Stats" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          COMPANIES=$(node -e "console.log(JSON.parse(require('fs').readFileSync('data/companies.json')).length)")
+          DOMAINS=$(node -e "console.log(JSON.parse(require('fs').readFileSync('data/domains.json')).domains.length)")
+          EU=$(node -e "console.log(JSON.parse(require('fs').readFileSync('data/companies.json')).filter(c => c.eu_status === 'eu').length)")
+          echo "| Metric | Count |" >> $GITHUB_STEP_SUMMARY
+          echo "|--------|-------|" >> $GITHUB_STEP_SUMMARY
+          echo "| Companies | $COMPANIES |" >> $GITHUB_STEP_SUMMARY
+          echo "| Domains | $DOMAINS |" >> $GITHUB_STEP_SUMMARY
+          echo "| EU Companies | $EU |" >> $GITHUB_STEP_SUMMARY
+          echo "| Non-EU Companies | $((COMPANIES - EU)) |" >> $GITHUB_STEP_SUMMARY

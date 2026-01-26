@@ -26,8 +26,17 @@
   ],
   "author": "Pekka",
   "license": "MIT",
-  "devDependencies": {},
+  "devDependencies": {
+    "ajv": "^8.17.1",
+    "ajv-draft-04": "^1.0.0",
+    "ajv-formats": "^3.0.1",
+    "sharp": "^0.34.5",
+    "typescript": "^5.9.3"
+  },
   "engines": {
     "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "puppeteer-core": "^24.36.0"
   }
 }
