@@ -1,0 +1,33 @@
+{
+  "name": "eurocheck",
+  "version": "0.1.0",
+  "description": "Browser extension to identify EU vs non-EU company ownership",
+  "main": "src/background.js",
+  "scripts": {
+    "build:chrome": "node scripts/build.js chrome",
+    "build:firefox": "node scripts/build.js firefox",
+    "build:safari": "node scripts/build.js safari",
+    "build:all": "npm run build:chrome && npm run build:firefox && npm run build:safari",
+    "package:chrome": "node scripts/build.js chrome --zip",
+    "package:firefox": "node scripts/build.js firefox --zip",
+    "package:all": "npm run package:chrome && npm run package:firefox",
+    "test": "node --test src/**/*.test.js",
+    "lint": "eslint src/"
+  },
+  "keywords": [
+    "browser-extension",
+    "eu",
+    "european",
+    "company",
+    "ownership",
+    "chrome-extension",
+    "firefox-addon",
+    "safari-extension"
+  ],
+  "author": "Pekka",
+  "license": "MIT",
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

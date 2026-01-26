@@ -1,0 +1,120 @@
+# EuroCheck 🇪🇺
+
+**Know if it's European** — A browser extension that instantly shows whether the website you're visiting belongs to a European or non-European company.
+
+## Features
+
+- 🔍 **Instant identification** — See EU status with one click
+- 🌳 **Ownership chains** — Trace company ownership to ultimate parent
+- 🔒 **Privacy-first** — All lookups happen locally, no data sent anywhere
+- 🌐 **Multi-browser** — Chrome, Firefox, and Safari support
+- 📊 **1000+ companies** — Comprehensive database of major companies
+
+## Installation
+
+- **Chrome**: [Chrome Web Store](#) (coming soon)
+- **Firefox**: [Firefox Add-ons](#) (coming soon)
+- **Safari**: [Mac App Store](#) (coming soon)
+
+## Status Indicators
+
+| Badge | Meaning |
+|-------|---------|
+| 🟢 Green | European company (HQ and ownership in EU/EEA) |
+| 🟡 Yellow | Mixed ownership (EU presence but non-EU ultimate parent) |
+| 🔴 Red | Non-European company |
+| ⚪ Gray | Unknown / Not in database |
+
+## Development
+
+### Prerequisites
+
+- Node.js 18+
+- npm
+
+### Setup
+
+```bash
+cd projects/004-eurocheck
+npm install
+```
+
+### Build
+
+```bash
+# Build for Chrome
+npm run build:chrome
+
+# Build for Firefox
+npm run build:firefox
+
+# Build all
+npm run build:all
+```
+
+### Test
+
+```bash
+npm test
+```
+
+## Project Structure
+
+```
+004-eurocheck/
+├── src/
+│   ├── manifest.json      # Extension manifest (Chrome MV3)
+│   ├── background.js      # Service worker
+│   ├── popup/             # Popup UI
+│   ├── content/           # Content scripts
+│   ├── options/           # Settings page
+│   ├── utils/             # Shared utilities
+│   ├── icons/             # Extension icons
+│   └── _locales/          # i18n translations
+├── data/
+│   ├── companies.json     # Company database
+│   ├── domains.json       # Domain mappings
+│   └── schemas/           # JSON schemas
+├── scripts/
+│   ├── build.js           # Build script
+│   └── ingest/            # Data ingestion scripts
+├── docs/                  # Documentation
+├── store/                 # Store listing assets
+├── landing/               # Landing page
+└── dist/                  # Built extensions
+```
+
+## Data Sources
+
+- [Wikidata](https://www.wikidata.org/) — Company headquarters and ownership
+- [GLEIF](https://www.gleif.org/) — Legal Entity Identifier data
+- Manual curation and verification
+
+## Contributing
+
+Contributions welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+### Adding Companies
+
+1. Fork the repo
+2. Add company to `data/companies.json`
+3. Add domains to `data/domains.json`
+4. Submit PR with sources
+
+## Privacy
+
+EuroCheck is designed with privacy in mind:
+- **No tracking** — We don't collect any user data
+- **Local lookups** — All company lookups happen on your device
+- **No network requests** — The extension works entirely offline
+- **Open source** — Verify our claims by reading the code
+
+See [Privacy Policy](docs/privacy-policy.md) for details.
+
+## License
+
+MIT License — see [LICENSE](LICENSE) for details.
+
+---
+
+Made with 🇪🇺 by [Pekka](https://github.com/ea-pekka)
