@@ -1,7 +1,46 @@
 /**
- * EuroCheck - Domain Utilities
+ * EuroCheck - Domain Utilities (Optimized)
  * Functions for extracting and looking up domains
+ * 
+ * Optimizations:
+ * - Pre-compiled regex patterns
+ * - Set for O(1) TLD lookup
+ * - Cached country flag code points
+ * - Set for O(1) EU country check
  */
+
+// === PRE-COMPILED PATTERNS ===
+const IP_PATTERN = /^\d+\.\d+\.\d+\.\d+$/;
+const PROTOCOL_PATTERN = /^https?:\/\//i;
+const WWW_PATTERN = /^www\./;
+
+// === PRE-BUILT SETS FOR O(1) LOOKUP ===
+// Stored without leading dot for faster suffix extraction
+const TWO_PART_TLDS = new Set([
+  'co.uk', 'co.jp', 'co.kr', 'co.nz', 'co.za', 'co.in',
+  'com.au', 'com.br', 'com.cn', 'com.mx', 'com.sg', 'com.tw',
+  'org.uk', 'org.au', 'net.au', 'gov.uk', 'ac.uk',
+  'co.at', 'or.jp', 'ne.jp', 'gv.at', 'or.at'
+]);
+
+// === DOMAIN INDEX CACHE ===
+// Lazily built Map for O(1) domain->company lookups
+let domainIndexCache = null;
+let companiesMapCache = null;
+
+const EU_COUNTRIES = new Set([
+  // EU members
+  'AT', 'BE', 'BG', 'HR', 'CY', 'CZ', 'DK', 'EE', 'FI', 'FR',
+  'DE', 'GR', 'HU', 'IE', 'IT', 'LV', 'LT', 'LU', 'MT', 'NL',
+  'PL', 'PT', 'RO', 'SK', 'SI', 'ES', 'SE',
+  // EEA (non-EU)
+  'IS', 'LI', 'NO',
+  // Associated (often treated as EU for business)
+  'CH'
+]);
+
+// Regional indicator base for flag emojis (cached)
+const REGIONAL_INDICATOR_BASE = 127397;
 
 /**
  * Extract the registered domain from a URL
@@ -19,53 +58,87 @@ export function extractDomain(url) {
     
     // Skip localhost, IPs, and browser internal URLs
     if (hostname === 'localhost' || 
-        /^\d+\.\d+\.\d+\.\d+$/.test(hostname) ||
+        IP_PATTERN.test(hostname) ||
         hostname.endsWith('.local')) {
       return null;
     }
     
-    // Handle common country code TLDs (two-part TLDs)
-    const twoPartTLDs = [
-      '.co.uk', '.co.jp', '.co.kr', '.co.nz', '.co.za', '.co.in',
-      '.com.au', '.com.br', '.com.cn', '.com.mx', '.com.sg', '.com.tw',
-      '.org.uk', '.org.au', '.net.au', '.gov.uk', '.ac.uk',
-      '.co.at', '.or.jp', '.ne.jp', '.gv.at', '.or.at'
-    ];
+    const parts = hostname.split('.');
+    const partsLen = parts.length;
     
-    // Check if hostname ends with a two-part TLD
-    let effectiveTLD = '';
-    for (const tld of twoPartTLDs) {
-      if (hostname.endsWith(tld)) {
-        effectiveTLD = tld;
-        break;
+    // Check for two-part TLD using direct Set lookup (O(1) vs O(n) iteration)
+    if (partsLen >= 3) {
+      const potentialTwoPartTLD = parts[partsLen - 2] + '.' + parts[partsLen - 1];
+      if (TWO_PART_TLDS.has(potentialTwoPartTLD)) {
+        // Return domain + two-part TLD
+        return parts[partsLen - 3] + '.' + potentialTwoPartTLD;
       }
     }
     
-    let domain;
-    if (effectiveTLD) {
-      // Extract domain with two-part TLD
-      const withoutTLD = hostname.slice(0, -effectiveTLD.length);
-      const parts = withoutTLD.split('.');
-      domain = parts[parts.length - 1] + effectiveTLD;
-    } else {
-      // Standard single TLD
-      const parts = hostname.split('.');
-      if (parts.length >= 2) {
-        domain = parts.slice(-2).join('.');
-      } else {
-        domain = hostname;
-      }
+    // Standard single TLD - return last two parts
+    if (partsLen >= 2) {
+      return parts[partsLen - 2] + '.' + parts[partsLen - 1];
     }
+    return hostname;
     
-    return domain;
-  } catch (error) {
-    console.error('[EuroCheck] Error extracting domain:', error);
+  } catch {
     return null;
   }
 }
 
 /**
+ * Build domain index for O(1) lookups (cached)
+ * @private
+ */
+function buildDomainIndex(domainsData) {
+  if (domainIndexCache && domainIndexCache._source === domainsData) {
+    return domainIndexCache;
+  }
+  
+  const index = new Map();
+  const domains = domainsData.domains;
+  const len = domains.length;
+  
+  for (let i = 0; i < len; i++) {
+    const entry = domains[i];
+    const domain = entry.domain.toLowerCase();
+    index.set(domain, entry.company_id);
+    
+    // Also index without www
+    if (domain.startsWith('www.')) {
+      index.set(domain.slice(4), entry.company_id);
+    }
+  }
+  
+  index._source = domainsData; // Track source for cache invalidation
+  domainIndexCache = index;
+  return index;
+}
+
+/**
+ * Build companies Map for O(1) lookups (cached)
+ * @private
+ */
+function buildCompaniesMap(companiesData) {
+  if (companiesMapCache && companiesMapCache._source === companiesData) {
+    return companiesMapCache;
+  }
+  
+  const map = new Map();
+  const len = companiesData.length;
+  
+  for (let i = 0; i < len; i++) {
+    map.set(companiesData[i].id, companiesData[i]);
+  }
+  
+  map._source = companiesData;
+  companiesMapCache = map;
+  return map;
+}
+
+/**
  * Look up a company by domain
+ * Optimized with indexed lookups: O(1) instead of O(n)
  * 
  * @param {string} domain - Domain to look up
  * @param {Object} domainsData - Domain mapping data {domains: [{domain, company_id, is_primary}]}
@@ -77,51 +150,39 @@ export function lookupCompany(domain, domainsData, companiesData) {
     return null;
   }
   
-  // Normalize domain for comparison
+  // Build/retrieve cached indexes
+  const domainIndex = buildDomainIndex(domainsData);
+  const companiesMap = buildCompaniesMap(companiesData);
+  
   const normalizedDomain = domain.toLowerCase();
   
-  // Find domain entry
-  const domainEntry = domainsData.domains.find(d => 
-    d.domain.toLowerCase() === normalizedDomain
-  );
+  // Direct lookup (O(1))
+  let companyId = domainIndex.get(normalizedDomain);
   
-  if (!domainEntry) {
-    // Try without www prefix
-    const withoutWww = normalizedDomain.replace(/^www\./, '');
-    const altEntry = domainsData.domains.find(d => 
-      d.domain.toLowerCase() === withoutWww
-    );
-    if (altEntry) {
-      return findCompanyById(altEntry.company_id, companiesData);
+  // Try without www prefix (O(1))
+  if (!companyId) {
+    const withoutWww = normalizedDomain.replace(WWW_PATTERN, '');
+    if (withoutWww !== normalizedDomain) {
+      companyId = domainIndex.get(withoutWww);
     }
-    
-    // Try parent domain fallback (for subdomains like drive.google.com)
-    const parts = withoutWww.split('.');
-    if (parts.length > 2) {
-      const parentDomain = parts.slice(-2).join('.');
-      const parentEntry = domainsData.domains.find(d => 
-        d.domain.toLowerCase() === parentDomain
-      );
-      if (parentEntry) {
-        return findCompanyById(parentEntry.company_id, companiesData);
-      }
-    }
-    
-    return null;
   }
   
-  return findCompanyById(domainEntry.company_id, companiesData);
-}
-
-/**
- * Find a company by ID
- * 
- * @param {string} companyId - Company ID to find
- * @param {Array} companiesData - Array of company objects
- * @returns {Object|null} - Company object or null if not found
- */
-function findCompanyById(companyId, companiesData) {
-  return companiesData.find(c => c.id === companyId) || null;
+  // Try parent domain fallback (O(1))
+  if (!companyId) {
+    const dotIndex = normalizedDomain.indexOf('.');
+    if (dotIndex > 0) {
+      const afterFirst = normalizedDomain.slice(dotIndex + 1);
+      // Only try if there's still a dot (subdomain scenario)
+      if (afterFirst.includes('.')) {
+        companyId = domainIndex.get(afterFirst);
+      }
+    }
+  }
+  
+  if (!companyId) return null;
+  
+  // Find company by ID (O(1))
+  return companiesMap.get(companyId) || null;
 }
 
 /**
@@ -135,15 +196,16 @@ export function normalizeUrl(url) {
   
   try {
     // Add protocol if missing
-    if (!url.match(/^https?:\/\//i)) {
+    if (!PROTOCOL_PATTERN.test(url)) {
       url = 'https://' + url;
     }
     
     const urlObj = new URL(url);
     
     // Return normalized URL without trailing slash
-    return urlObj.origin + urlObj.pathname.replace(/\/$/, '');
-  } catch (error) {
+    const pathname = urlObj.pathname;
+    return urlObj.origin + (pathname.endsWith('/') ? pathname.slice(0, -1) : pathname);
+  } catch {
     return null;
   }
 }
@@ -157,12 +219,11 @@ export function normalizeUrl(url) {
 export function getCountryFlag(countryCode) {
   if (!countryCode || countryCode.length !== 2) return '🏳️';
   
-  const codePoints = countryCode
-    .toUpperCase()
-    .split('')
-    .map(char => 127397 + char.charCodeAt(0));
+  const upper = countryCode.toUpperCase();
+  const first = REGIONAL_INDICATOR_BASE + upper.charCodeAt(0);
+  const second = REGIONAL_INDICATOR_BASE + upper.charCodeAt(1);
   
-  return String.fromCodePoint(...codePoints);
+  return String.fromCodePoint(first, second);
 }
 
 /**
@@ -172,16 +233,5 @@ export function getCountryFlag(countryCode) {
  * @returns {boolean} - True if EU/EEA country
  */
 export function isEUCountry(countryCode) {
-  const euCountries = [
-    // EU members
-    'AT', 'BE', 'BG', 'HR', 'CY', 'CZ', 'DK', 'EE', 'FI', 'FR',
-    'DE', 'GR', 'HU', 'IE', 'IT', 'LV', 'LT', 'LU', 'MT', 'NL',
-    'PL', 'PT', 'RO', 'SK', 'SI', 'ES', 'SE',
-    // EEA (non-EU)
-    'IS', 'LI', 'NO',
-    // Associated (often treated as EU for business)
-    'CH'
-  ];
-  
-  return euCountries.includes(countryCode?.toUpperCase());
+  return countryCode ? EU_COUNTRIES.has(countryCode.toUpperCase()) : false;
 }

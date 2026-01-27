@@ -5,16 +5,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>EuroCheck</title>
   <link rel="stylesheet" href="popup.css">
+  <!-- Preload critical resources -->
+  <link rel="preload" href="../icons/icon-32.png" as="image">
 </head>
 <body>
   <div id="app">
     <!-- Header -->
     <header class="header">
-      <img src="../icons/icon-32.png" alt="EuroCheck" class="logo">
+      <img src="../icons/icon-32.png" alt="EuroCheck" class="logo" width="32" height="32">
       <span class="title" data-i18n="appTitle">EuroCheck</span>
     </header>
 
-    <!-- Loading State -->
+    <!-- Loading State (initially visible) -->
     <div id="loading" class="loading">
       <div class="spinner"></div>
       <span data-i18n="loading">Checking...</span>
@@ -43,10 +45,7 @@
           <span class="ownership-title" data-i18n="ownershipChain">Ownership Chain</span>
           <span id="ownership-warning" class="ownership-warning hidden" data-i18n="ownershipWarning">⚠️ Non-EU owned</span>
         </summary>
-        <div id="ownership-chain" class="ownership-chain">
-          <!-- Ownership chain visualization - populated by JS -->
-          <!-- Structure: Ultimate Parent → Parent → Current Company -->
-        </div>
+        <div id="ownership-chain" class="ownership-chain"></div>
       </details>
 
       <!-- Additional Info -->
@@ -87,7 +86,7 @@
     <footer class="footer">
       <a href="#" id="settings-link" class="footer-link" data-i18n="settings">Settings</a>
       <span class="separator">•</span>
-      <a href="https://github.com/pekka-eu/eurocheck" target="_blank" class="footer-link">GitHub</a>
+      <a href="https://github.com/pekka-eu/eurocheck" target="_blank" rel="noopener" class="footer-link">GitHub</a>
     </footer>
   </div>
 

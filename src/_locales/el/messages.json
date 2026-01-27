@@ -1,0 +1,136 @@
+{
+  "extensionName": {
+    "message": "EuroCheck - Αναγνώριση Ευρωπαϊκών Εταιρειών",
+    "description": "Extension name shown in browser and store"
+  },
+  "extensionDescription": {
+    "message": "Δείτε αμέσως αν μια ιστοσελίδα ανήκει σε ευρωπαϊκή ή μη ευρωπαϊκή εταιρεία",
+    "description": "Extension description for store listing"
+  },
+  "appTitle": {
+    "message": "EuroCheck",
+    "description": "Short app title shown in popup header"
+  },
+  "statusEu": {
+    "message": "Ευρωπαϊκή Εταιρεία",
+    "description": "Status shown for EU companies"
+  },
+  "statusNonEu": {
+    "message": "Μη Ευρωπαϊκή Εταιρεία",
+    "description": "Status shown for non-EU companies"
+  },
+  "statusMixed": {
+    "message": "Μικτή Ιδιοκτησία",
+    "description": "Status shown for companies with mixed EU/non-EU ownership"
+  },
+  "statusUnknown": {
+    "message": "Άγνωστο",
+    "description": "Status shown when company origin is unknown"
+  },
+  "loading": {
+    "message": "Έλεγχος...",
+    "description": "Loading state text"
+  },
+  "details": {
+    "message": "Λεπτομέρειες",
+    "description": "Details section header"
+  },
+  "settings": {
+    "message": "Ρυθμίσεις",
+    "description": "Settings link text"
+  },
+  "requestCompany": {
+    "message": "Αίτηση για αυτή την εταιρεία",
+    "description": "Button to request data for unknown company"
+  },
+  "requestSubmitted": {
+    "message": "Η αίτηση υποβλήθηκε!",
+    "description": "Confirmation after request is submitted"
+  },
+  "ownershipChain": {
+    "message": "Αλυσίδα Ιδιοκτησίας",
+    "description": "Section showing company ownership hierarchy"
+  },
+  "ownershipWarning": {
+    "message": "Ανήκει σε μη ΕΕ εταιρεία",
+    "description": "Warning shown when EU company is owned by non-EU parent"
+  },
+  "labelFounded": {
+    "message": "Ιδρύθηκε:",
+    "description": "Label for company founding year"
+  },
+  "labelConfidence": {
+    "message": "Αξιοπιστία:",
+    "description": "Label for data confidence level"
+  },
+  "labelLastVerified": {
+    "message": "Τελευταία επαλήθευση:",
+    "description": "Label for last verification date"
+  },
+  "confidenceHigh": {
+    "message": "Υψηλή",
+    "description": "High confidence level"
+  },
+  "confidenceMedium": {
+    "message": "Μέτρια",
+    "description": "Medium confidence level"
+  },
+  "confidenceLow": {
+    "message": "Χαμηλή",
+    "description": "Low confidence level"
+  },
+  "unknownNoData": {
+    "message": "Δεν υπάρχουν δεδομένα για $DOMAIN$",
+    "description": "Message when no company data exists for domain",
+    "placeholders": {
+      "domain": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "errorGeneric": {
+    "message": "Κάτι πήγε στραβά",
+    "description": "Generic error message"
+  },
+  "errorCannotAccess": {
+    "message": "Δεν είναι δυνατή η πρόσβαση σε αυτή τη σελίδα",
+    "description": "Error when tab URL cannot be accessed"
+  },
+  "errorNotValidSite": {
+    "message": "Δεν είναι έγκυρη ιστοσελίδα",
+    "description": "Error when URL is not a valid website"
+  },
+  "errorFailedToLoad": {
+    "message": "Αποτυχία φόρτωσης δεδομένων",
+    "description": "Error when data loading fails"
+  },
+  "settingsTitle": {
+    "message": "Ρυθμίσεις EuroCheck",
+    "description": "Settings page title"
+  },
+  "settingsShowBadge": {
+    "message": "Εμφάνιση σήματος στο εικονίδιο της γραμμής εργαλείων",
+    "description": "Setting to show/hide toolbar badge"
+  },
+  "settingsNotifications": {
+    "message": "Εμφάνιση ειδοποιήσεων για ιστοσελίδες εκτός ΕΕ",
+    "description": "Setting to enable/disable notifications"
+  },
+  "settingsComingSoon": {
+    "message": "Περισσότερες ρυθμίσεις σύντομα...",
+    "description": "Placeholder for future settings"
+  },
+  "badgeCurrent": {
+    "message": "Τρέχουσα",
+    "description": "Badge for current company in ownership chain"
+  },
+  "badgeParent": {
+    "message": "Μητρική",
+    "description": "Badge for parent company in ownership chain"
+  },
+  "badgeUltimate": {
+    "message": "Τελική",
+    "description": "Badge for ultimate parent in ownership chain"
+  }
+}

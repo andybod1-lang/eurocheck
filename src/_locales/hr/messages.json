@@ -1,0 +1,136 @@
+{
+  "extensionName": {
+    "message": "EuroCheck - Identifikator tvrtki EU",
+    "description": "Extension name shown in browser and store"
+  },
+  "extensionDescription": {
+    "message": "Odmah saznajte pripada li web stranica europskoj ili neeuropskoj tvrtki",
+    "description": "Extension description for store listing"
+  },
+  "appTitle": {
+    "message": "EuroCheck",
+    "description": "Short app title shown in popup header"
+  },
+  "statusEu": {
+    "message": "Europska tvrtka",
+    "description": "Status shown for EU companies"
+  },
+  "statusNonEu": {
+    "message": "Neeuropska tvrtka",
+    "description": "Status shown for non-EU companies"
+  },
+  "statusMixed": {
+    "message": "Mješovito vlasništvo",
+    "description": "Status shown for companies with mixed EU/non-EU ownership"
+  },
+  "statusUnknown": {
+    "message": "Nepoznato",
+    "description": "Status shown when company origin is unknown"
+  },
+  "loading": {
+    "message": "Provjeravam...",
+    "description": "Loading state text"
+  },
+  "details": {
+    "message": "Detalji",
+    "description": "Details section header"
+  },
+  "settings": {
+    "message": "Postavke",
+    "description": "Settings link text"
+  },
+  "requestCompany": {
+    "message": "Zatraži ovu tvrtku",
+    "description": "Button to request data for unknown company"
+  },
+  "requestSubmitted": {
+    "message": "Zahtjev poslan!",
+    "description": "Confirmation after request is submitted"
+  },
+  "ownershipChain": {
+    "message": "Vlasnički lanac",
+    "description": "Section showing company ownership hierarchy"
+  },
+  "ownershipWarning": {
+    "message": "U vlasništvu izvan EU",
+    "description": "Warning shown when EU company is owned by non-EU parent"
+  },
+  "labelFounded": {
+    "message": "Osnovano:",
+    "description": "Label for company founding year"
+  },
+  "labelConfidence": {
+    "message": "Pouzdanost:",
+    "description": "Label for data confidence level"
+  },
+  "labelLastVerified": {
+    "message": "Zadnje provjereno:",
+    "description": "Label for last verification date"
+  },
+  "confidenceHigh": {
+    "message": "Visoka",
+    "description": "High confidence level"
+  },
+  "confidenceMedium": {
+    "message": "Srednja",
+    "description": "Medium confidence level"
+  },
+  "confidenceLow": {
+    "message": "Niska",
+    "description": "Low confidence level"
+  },
+  "unknownNoData": {
+    "message": "Nema podataka za $DOMAIN$",
+    "description": "Message when no company data exists for domain",
+    "placeholders": {
+      "domain": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "errorGeneric": {
+    "message": "Nešto je pošlo po zlu",
+    "description": "Generic error message"
+  },
+  "errorCannotAccess": {
+    "message": "Nije moguće pristupiti ovoj stranici",
+    "description": "Error when tab URL cannot be accessed"
+  },
+  "errorNotValidSite": {
+    "message": "Nije valjana web stranica",
+    "description": "Error when URL is not a valid website"
+  },
+  "errorFailedToLoad": {
+    "message": "Učitavanje podataka nije uspjelo",
+    "description": "Error when data loading fails"
+  },
+  "settingsTitle": {
+    "message": "EuroCheck postavke",
+    "description": "Settings page title"
+  },
+  "settingsShowBadge": {
+    "message": "Prikaži značku na ikoni alatne trake",
+    "description": "Setting to show/hide toolbar badge"
+  },
+  "settingsNotifications": {
+    "message": "Prikaži obavijesti za stranice izvan EU",
+    "description": "Setting to enable/disable notifications"
+  },
+  "settingsComingSoon": {
+    "message": "Više postavki uskoro...",
+    "description": "Placeholder for future settings"
+  },
+  "badgeCurrent": {
+    "message": "Trenutna",
+    "description": "Badge for current company in ownership chain"
+  },
+  "badgeParent": {
+    "message": "Matična",
+    "description": "Badge for parent company in ownership chain"
+  },
+  "badgeUltimate": {
+    "message": "Krajnja",
+    "description": "Badge for ultimate parent in ownership chain"
+  }
+}

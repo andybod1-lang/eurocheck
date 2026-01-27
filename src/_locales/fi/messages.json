@@ -1,0 +1,136 @@
+{
+  "extensionName": {
+    "message": "EuroCheck - EU-yritystunnistin",
+    "description": "Extension name shown in browser and store"
+  },
+  "extensionDescription": {
+    "message": "Näe heti, kuuluuko verkkosivusto eurooppalaiselle vai ei-eurooppalaiselle yritykselle",
+    "description": "Extension description for store listing"
+  },
+  "appTitle": {
+    "message": "EuroCheck",
+    "description": "Short app title shown in popup header"
+  },
+  "statusEu": {
+    "message": "Eurooppalainen Yritys",
+    "description": "Status shown for EU companies"
+  },
+  "statusNonEu": {
+    "message": "Ei-eurooppalainen Yritys",
+    "description": "Status shown for non-EU companies"
+  },
+  "statusMixed": {
+    "message": "Sekalainen Omistus",
+    "description": "Status shown for companies with mixed EU/non-EU ownership"
+  },
+  "statusUnknown": {
+    "message": "Tuntematon",
+    "description": "Status shown when company origin is unknown"
+  },
+  "loading": {
+    "message": "Tarkistetaan...",
+    "description": "Loading state text"
+  },
+  "details": {
+    "message": "Tiedot",
+    "description": "Details section header"
+  },
+  "settings": {
+    "message": "Asetukset",
+    "description": "Settings link text"
+  },
+  "requestCompany": {
+    "message": "Pyydä tämän yrityksen tietoja",
+    "description": "Button to request data for unknown company"
+  },
+  "requestSubmitted": {
+    "message": "Pyyntö lähetetty!",
+    "description": "Confirmation after request is submitted"
+  },
+  "ownershipChain": {
+    "message": "Omistusketju",
+    "description": "Section showing company ownership hierarchy"
+  },
+  "ownershipWarning": {
+    "message": "Ei-eurooppalaisessa omistuksessa",
+    "description": "Warning shown when EU company is owned by non-EU parent"
+  },
+  "labelFounded": {
+    "message": "Perustettu:",
+    "description": "Label for company founding year"
+  },
+  "labelConfidence": {
+    "message": "Luotettavuus:",
+    "description": "Label for data confidence level"
+  },
+  "labelLastVerified": {
+    "message": "Viimeksi vahvistettu:",
+    "description": "Label for last verification date"
+  },
+  "confidenceHigh": {
+    "message": "Korkea",
+    "description": "High confidence level"
+  },
+  "confidenceMedium": {
+    "message": "Keskitaso",
+    "description": "Medium confidence level"
+  },
+  "confidenceLow": {
+    "message": "Matala",
+    "description": "Low confidence level"
+  },
+  "unknownNoData": {
+    "message": "Tietoja ei saatavilla sivustolle $DOMAIN$",
+    "description": "Message when no company data exists for domain",
+    "placeholders": {
+      "domain": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "errorGeneric": {
+    "message": "Jokin meni pieleen",
+    "description": "Generic error message"
+  },
+  "errorCannotAccess": {
+    "message": "Ei pääsyä tälle sivulle",
+    "description": "Error when tab URL cannot be accessed"
+  },
+  "errorNotValidSite": {
+    "message": "Ei kelvollinen verkkosivusto",
+    "description": "Error when URL is not a valid website"
+  },
+  "errorFailedToLoad": {
+    "message": "Tietojen lataus epäonnistui",
+    "description": "Error when data loading fails"
+  },
+  "settingsTitle": {
+    "message": "EuroCheck Asetukset",
+    "description": "Settings page title"
+  },
+  "settingsShowBadge": {
+    "message": "Näytä merkki työkalupalkin kuvakkeessa",
+    "description": "Setting to show/hide toolbar badge"
+  },
+  "settingsNotifications": {
+    "message": "Näytä ilmoitukset ei-eurooppalaisista sivustoista",
+    "description": "Setting to enable/disable notifications"
+  },
+  "settingsComingSoon": {
+    "message": "Lisää asetuksia tulossa...",
+    "description": "Placeholder for future settings"
+  },
+  "badgeCurrent": {
+    "message": "Nykyinen",
+    "description": "Badge for current company in ownership chain"
+  },
+  "badgeParent": {
+    "message": "Emoyhtiö",
+    "description": "Badge for parent company in ownership chain"
+  },
+  "badgeUltimate": {
+    "message": "Konsernin pää",
+    "description": "Badge for ultimate parent in ownership chain"
+  }
+}

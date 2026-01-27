@@ -1,0 +1,136 @@
+{
+  "extensionName": {
+    "message": "EuroCheck - EU-selskapsidentifikator",
+    "description": "Extension name shown in browser and store"
+  },
+  "extensionDescription": {
+    "message": "Se umiddelbart om et nettsted tilhører et europeisk eller ikke-europeisk selskap",
+    "description": "Extension description for store listing"
+  },
+  "appTitle": {
+    "message": "EuroCheck",
+    "description": "Short app title shown in popup header"
+  },
+  "statusEu": {
+    "message": "Europeisk selskap",
+    "description": "Status shown for EU companies"
+  },
+  "statusNonEu": {
+    "message": "Ikke-europeisk selskap",
+    "description": "Status shown for non-EU companies"
+  },
+  "statusMixed": {
+    "message": "Blandet eierskap",
+    "description": "Status shown for companies with mixed EU/non-EU ownership"
+  },
+  "statusUnknown": {
+    "message": "Ukjent",
+    "description": "Status shown when company origin is unknown"
+  },
+  "loading": {
+    "message": "Sjekker...",
+    "description": "Loading state text"
+  },
+  "details": {
+    "message": "Detaljer",
+    "description": "Details section header"
+  },
+  "settings": {
+    "message": "Innstillinger",
+    "description": "Settings link text"
+  },
+  "requestCompany": {
+    "message": "Be om dette selskapet",
+    "description": "Button to request data for unknown company"
+  },
+  "requestSubmitted": {
+    "message": "Forespørsel sendt!",
+    "description": "Confirmation after request is submitted"
+  },
+  "ownershipChain": {
+    "message": "Eierkjede",
+    "description": "Section showing company ownership hierarchy"
+  },
+  "ownershipWarning": {
+    "message": "Eid utenfor EU",
+    "description": "Warning shown when EU company is owned by non-EU parent"
+  },
+  "labelFounded": {
+    "message": "Grunnlagt:",
+    "description": "Label for company founding year"
+  },
+  "labelConfidence": {
+    "message": "Sikkerhet:",
+    "description": "Label for data confidence level"
+  },
+  "labelLastVerified": {
+    "message": "Sist verifisert:",
+    "description": "Label for last verification date"
+  },
+  "confidenceHigh": {
+    "message": "Høy",
+    "description": "High confidence level"
+  },
+  "confidenceMedium": {
+    "message": "Middels",
+    "description": "Medium confidence level"
+  },
+  "confidenceLow": {
+    "message": "Lav",
+    "description": "Low confidence level"
+  },
+  "unknownNoData": {
+    "message": "Ingen data tilgjengelig for $DOMAIN$",
+    "description": "Message when no company data exists for domain",
+    "placeholders": {
+      "domain": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "errorGeneric": {
+    "message": "Noe gikk galt",
+    "description": "Generic error message"
+  },
+  "errorCannotAccess": {
+    "message": "Kan ikke få tilgang til denne siden",
+    "description": "Error when tab URL cannot be accessed"
+  },
+  "errorNotValidSite": {
+    "message": "Ikke et gyldig nettsted",
+    "description": "Error when URL is not a valid website"
+  },
+  "errorFailedToLoad": {
+    "message": "Kunne ikke laste data",
+    "description": "Error when data loading fails"
+  },
+  "settingsTitle": {
+    "message": "EuroCheck-innstillinger",
+    "description": "Settings page title"
+  },
+  "settingsShowBadge": {
+    "message": "Vis merke på verktøylinjeikon",
+    "description": "Setting to show/hide toolbar badge"
+  },
+  "settingsNotifications": {
+    "message": "Vis varsler for ikke-EU-nettsteder",
+    "description": "Setting to enable/disable notifications"
+  },
+  "settingsComingSoon": {
+    "message": "Flere innstillinger kommer snart...",
+    "description": "Placeholder for future settings"
+  },
+  "badgeCurrent": {
+    "message": "Nåværende",
+    "description": "Badge for current company in ownership chain"
+  },
+  "badgeParent": {
+    "message": "Morselskap",
+    "description": "Badge for parent company in ownership chain"
+  },
+  "badgeUltimate": {
+    "message": "Øverste",
+    "description": "Badge for ultimate parent in ownership chain"
+  }
+}

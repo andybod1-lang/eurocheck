@@ -1,0 +1,136 @@
+{
+  "extensionName": {
+    "message": "EuroCheck - Aitheantóir Cuideachtaí an AE",
+    "description": "Extension name shown in browser and store"
+  },
+  "extensionDescription": {
+    "message": "Féach láithreach an mbaineann suíomh gréasáin le cuideachta Eorpach nó neamh-Eorpach",
+    "description": "Extension description for store listing"
+  },
+  "appTitle": {
+    "message": "EuroCheck",
+    "description": "Short app title shown in popup header"
+  },
+  "statusEu": {
+    "message": "Cuideachta Eorpach",
+    "description": "Status shown for EU companies"
+  },
+  "statusNonEu": {
+    "message": "Cuideachta Neamh-Eorpach",
+    "description": "Status shown for non-EU companies"
+  },
+  "statusMixed": {
+    "message": "Úinéireacht Mheasctha",
+    "description": "Status shown for companies with mixed EU/non-EU ownership"
+  },
+  "statusUnknown": {
+    "message": "Anaithnid",
+    "description": "Status shown when company origin is unknown"
+  },
+  "loading": {
+    "message": "Ag seiceáil...",
+    "description": "Loading state text"
+  },
+  "details": {
+    "message": "Sonraí",
+    "description": "Details section header"
+  },
+  "settings": {
+    "message": "Socruithe",
+    "description": "Settings link text"
+  },
+  "requestCompany": {
+    "message": "Iarr an chuideachta seo",
+    "description": "Button to request data for unknown company"
+  },
+  "requestSubmitted": {
+    "message": "Iarratas curtha isteach!",
+    "description": "Confirmation after request is submitted"
+  },
+  "ownershipChain": {
+    "message": "Slabhra Úinéireachta",
+    "description": "Section showing company ownership hierarchy"
+  },
+  "ownershipWarning": {
+    "message": "Faoi úinéireacht neamh-AE",
+    "description": "Warning shown when EU company is owned by non-EU parent"
+  },
+  "labelFounded": {
+    "message": "Bunaithe:",
+    "description": "Label for company founding year"
+  },
+  "labelConfidence": {
+    "message": "Muinín:",
+    "description": "Label for data confidence level"
+  },
+  "labelLastVerified": {
+    "message": "Deimhnithe go deireanach:",
+    "description": "Label for last verification date"
+  },
+  "confidenceHigh": {
+    "message": "Ard",
+    "description": "High confidence level"
+  },
+  "confidenceMedium": {
+    "message": "Meánach",
+    "description": "Medium confidence level"
+  },
+  "confidenceLow": {
+    "message": "Íseal",
+    "description": "Low confidence level"
+  },
+  "unknownNoData": {
+    "message": "Níl aon sonraí ar fáil do $DOMAIN$",
+    "description": "Message when no company data exists for domain",
+    "placeholders": {
+      "domain": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "errorGeneric": {
+    "message": "Chuaigh rud éigin mícheart",
+    "description": "Generic error message"
+  },
+  "errorCannotAccess": {
+    "message": "Ní féidir rochtain a fháil ar an leathanach seo",
+    "description": "Error when tab URL cannot be accessed"
+  },
+  "errorNotValidSite": {
+    "message": "Ní suíomh gréasáin bailí é",
+    "description": "Error when URL is not a valid website"
+  },
+  "errorFailedToLoad": {
+    "message": "Theip ar lódáil na sonraí",
+    "description": "Error when data loading fails"
+  },
+  "settingsTitle": {
+    "message": "Socruithe EuroCheck",
+    "description": "Settings page title"
+  },
+  "settingsShowBadge": {
+    "message": "Taispeáin suaitheantas ar dheilbhín an bharra uirlisí",
+    "description": "Setting to show/hide toolbar badge"
+  },
+  "settingsNotifications": {
+    "message": "Taispeáin fógraí do shuímh neamh-Eorpacha",
+    "description": "Setting to enable/disable notifications"
+  },
+  "settingsComingSoon": {
+    "message": "Tuilleadh socruithe ag teacht go luath...",
+    "description": "Placeholder for future settings"
+  },
+  "badgeCurrent": {
+    "message": "Reatha",
+    "description": "Badge for current company in ownership chain"
+  },
+  "badgeParent": {
+    "message": "Tuismitheoir",
+    "description": "Badge for parent company in ownership chain"
+  },
+  "badgeUltimate": {
+    "message": "Deiridh",
+    "description": "Badge for ultimate parent in ownership chain"
+  }
+}

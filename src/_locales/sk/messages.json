@@ -1,0 +1,136 @@
+{
+  "extensionName": {
+    "message": "EuroCheck - Identifikátor firiem EÚ",
+    "description": "Extension name shown in browser and store"
+  },
+  "extensionDescription": {
+    "message": "Okamžite zistite, či webová stránka patrí európskej alebo neeurópskej spoločnosti",
+    "description": "Extension description for store listing"
+  },
+  "appTitle": {
+    "message": "EuroCheck",
+    "description": "Short app title shown in popup header"
+  },
+  "statusEu": {
+    "message": "Európska spoločnosť",
+    "description": "Status shown for EU companies"
+  },
+  "statusNonEu": {
+    "message": "Neeurópska spoločnosť",
+    "description": "Status shown for non-EU companies"
+  },
+  "statusMixed": {
+    "message": "Zmiešané vlastníctvo",
+    "description": "Status shown for companies with mixed EU/non-EU ownership"
+  },
+  "statusUnknown": {
+    "message": "Neznáme",
+    "description": "Status shown when company origin is unknown"
+  },
+  "loading": {
+    "message": "Overujem...",
+    "description": "Loading state text"
+  },
+  "details": {
+    "message": "Podrobnosti",
+    "description": "Details section header"
+  },
+  "settings": {
+    "message": "Nastavenia",
+    "description": "Settings link text"
+  },
+  "requestCompany": {
+    "message": "Požiadať o túto spoločnosť",
+    "description": "Button to request data for unknown company"
+  },
+  "requestSubmitted": {
+    "message": "Žiadosť odoslaná!",
+    "description": "Confirmation after request is submitted"
+  },
+  "ownershipChain": {
+    "message": "Vlastnícka štruktúra",
+    "description": "Section showing company ownership hierarchy"
+  },
+  "ownershipWarning": {
+    "message": "Vlastnené mimo EÚ",
+    "description": "Warning shown when EU company is owned by non-EU parent"
+  },
+  "labelFounded": {
+    "message": "Založené:",
+    "description": "Label for company founding year"
+  },
+  "labelConfidence": {
+    "message": "Spoľahlivosť:",
+    "description": "Label for data confidence level"
+  },
+  "labelLastVerified": {
+    "message": "Naposledy overené:",
+    "description": "Label for last verification date"
+  },
+  "confidenceHigh": {
+    "message": "Vysoká",
+    "description": "High confidence level"
+  },
+  "confidenceMedium": {
+    "message": "Stredná",
+    "description": "Medium confidence level"
+  },
+  "confidenceLow": {
+    "message": "Nízka",
+    "description": "Low confidence level"
+  },
+  "unknownNoData": {
+    "message": "Žiadne údaje pre $DOMAIN$",
+    "description": "Message when no company data exists for domain",
+    "placeholders": {
+      "domain": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "errorGeneric": {
+    "message": "Niečo sa pokazilo",
+    "description": "Generic error message"
+  },
+  "errorCannotAccess": {
+    "message": "Nedá sa pristúpiť k tejto stránke",
+    "description": "Error when tab URL cannot be accessed"
+  },
+  "errorNotValidSite": {
+    "message": "Nie je platná webová stránka",
+    "description": "Error when URL is not a valid website"
+  },
+  "errorFailedToLoad": {
+    "message": "Nepodarilo sa načítať údaje",
+    "description": "Error when data loading fails"
+  },
+  "settingsTitle": {
+    "message": "Nastavenia EuroCheck",
+    "description": "Settings page title"
+  },
+  "settingsShowBadge": {
+    "message": "Zobraziť odznak na ikone panela nástrojov",
+    "description": "Setting to show/hide toolbar badge"
+  },
+  "settingsNotifications": {
+    "message": "Zobraziť upozornenia pre stránky mimo EÚ",
+    "description": "Setting to enable/disable notifications"
+  },
+  "settingsComingSoon": {
+    "message": "Ďalšie nastavenia čoskoro...",
+    "description": "Placeholder for future settings"
+  },
+  "badgeCurrent": {
+    "message": "Aktuálna",
+    "description": "Badge for current company in ownership chain"
+  },
+  "badgeParent": {
+    "message": "Materská",
+    "description": "Badge for parent company in ownership chain"
+  },
+  "badgeUltimate": {
+    "message": "Konečná",
+    "description": "Badge for ultimate parent in ownership chain"
+  }
+}

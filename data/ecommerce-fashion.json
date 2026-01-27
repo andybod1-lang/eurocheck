@@ -1,0 +1,3014 @@
+[
+  {
+    "name": "YOOX Net-a-Porter Group",
+    "website": "https://www.ynap.com",
+    "hq_country": "IT",
+    "hq_city": "Milan",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Fashion",
+    "founded_year": 2015,
+    "ultimate_parent": "LuxExperience B.V.",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/YOOX_Net-a-Porter_Group",
+      "https://www.ynap.com"
+    ]
+  },
+  {
+    "name": "24S",
+    "website": "https://www.24s.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Fashion",
+    "founded_year": 2017,
+    "ultimate_parent": "LVMH",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/24S",
+      "https://www.24s.com"
+    ]
+  },
+  {
+    "name": "La Redoute",
+    "website": "https://www.laredoute.com",
+    "hq_country": "FR",
+    "hq_city": "Roubaix",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion & Home",
+    "founded_year": 1837,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/La_Redoute",
+      "https://www.laredoute.com"
+    ]
+  },
+  {
+    "name": "Matches Fashion",
+    "website": "https://www.matchesfashion.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Fashion",
+    "founded_year": 1987,
+    "ultimate_parent": "Hulcan",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Matches_Fashion",
+      "https://www.matchesfashion.com"
+    ]
+  },
+  {
+    "name": "3 Suisses",
+    "website": "https://www.3suisses.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 1932,
+    "ultimate_parent": "Otto GmbH",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/3_Suisses",
+      "https://www.3suisses.com"
+    ]
+  },
+  {
+    "name": "Gilt Groupe",
+    "website": "https://www.gilt.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion Flash Sales",
+    "founded_year": 2007,
+    "ultimate_parent": "Rue La La",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gilt_Groupe",
+      "https://www.gilt.com"
+    ]
+  },
+  {
+    "name": "Rent the Runway",
+    "website": "https://www.renttherunway.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion Rental",
+    "founded_year": 2009,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rent_the_Runway",
+      "https://www.renttherunway.com"
+    ]
+  },
+  {
+    "name": "Zappos",
+    "website": "https://www.zappos.com",
+    "hq_country": "US",
+    "hq_city": "Las Vegas",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Shoes & Fashion",
+    "founded_year": 1999,
+    "ultimate_parent": "Amazon",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Zappos",
+      "https://www.zappos.com"
+    ]
+  },
+  {
+    "name": "Stitch Fix",
+    "website": "https://www.stitchfix.com",
+    "hq_country": "US",
+    "hq_city": "San Francisco",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion Styling Service",
+    "founded_year": 2011,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Stitch_Fix",
+      "https://www.stitchfix.com"
+    ]
+  },
+  {
+    "name": "Fashion Nova",
+    "website": "https://www.fashionnova.com",
+    "hq_country": "US",
+    "hq_city": "Los Angeles",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fast Fashion",
+    "founded_year": 2006,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Fashion_Nova",
+      "https://www.fashionnova.com"
+    ]
+  },
+  {
+    "name": "The Outnet",
+    "website": "https://www.theoutnet.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Fashion Outlet",
+    "founded_year": 2009,
+    "ultimate_parent": "LuxExperience B.V.",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/YOOX_Net-a-Porter_Group",
+      "https://www.theoutnet.com"
+    ]
+  },
+  {
+    "name": "Rue La La",
+    "website": "https://www.ruelala.com",
+    "hq_country": "US",
+    "hq_city": "Boston",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion Flash Sales",
+    "founded_year": 2007,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.ruelala.com"
+    ]
+  },
+  {
+    "name": "Vente-Privee",
+    "website": "https://www.veepee.com",
+    "hq_country": "FR",
+    "hq_city": "La Plaine Saint-Denis",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion Flash Sales",
+    "founded_year": 2001,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.veepee.com",
+      "https://en.wikipedia.org/wiki/Veepee"
+    ]
+  },
+  {
+    "name": "Spartoo",
+    "website": "https://www.spartoo.com",
+    "hq_country": "FR",
+    "hq_city": "Grenoble",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Shoes & Fashion",
+    "founded_year": 2006,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.spartoo.com"
+    ]
+  },
+  {
+    "name": "Sarenza",
+    "website": "https://www.sarenza.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Shoes",
+    "founded_year": 2005,
+    "ultimate_parent": "Monoprix",
+    "confidence": "high",
+    "sources": [
+      "https://www.sarenza.com"
+    ]
+  },
+  {
+    "name": "BrandAlley",
+    "website": "https://www.brandalley.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion Flash Sales",
+    "founded_year": 2006,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.brandalley.com"
+    ]
+  },
+  {
+    "name": "Rebelle",
+    "website": "https://www.rebelle.com",
+    "hq_country": "DE",
+    "hq_city": "Hamburg",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Resale",
+    "founded_year": 2013,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.rebelle.com"
+    ]
+  },
+  {
+    "name": "Miinto",
+    "website": "https://www.miinto.com",
+    "hq_country": "DK",
+    "hq_city": "Copenhagen",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion Marketplace",
+    "founded_year": 2009,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.miinto.com"
+    ]
+  },
+  {
+    "name": "Trendsales",
+    "website": "https://www.trendsales.dk",
+    "hq_country": "DK",
+    "hq_city": "Copenhagen",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion Resale",
+    "founded_year": 2008,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.trendsales.dk"
+    ]
+  },
+  {
+    "name": "Sellpy",
+    "website": "https://www.sellpy.com",
+    "hq_country": "SE",
+    "hq_city": "Stockholm",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion Resale",
+    "founded_year": 2014,
+    "ultimate_parent": "H&M",
+    "confidence": "high",
+    "sources": [
+      "https://www.sellpy.com"
+    ]
+  },
+  {
+    "name": "Tradera",
+    "website": "https://www.tradera.com",
+    "hq_country": "SE",
+    "hq_city": "Stockholm",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion Marketplace",
+    "founded_year": 1999,
+    "ultimate_parent": "PayPal",
+    "confidence": "high",
+    "sources": [
+      "https://www.tradera.com"
+    ]
+  },
+  {
+    "name": "Nelly.com",
+    "website": "https://www.nelly.com",
+    "hq_country": "SE",
+    "hq_city": "Borås",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 2004,
+    "ultimate_parent": "Qliro Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.nelly.com"
+    ]
+  },
+  {
+    "name": "NA-KD",
+    "website": "https://www.na-kd.com",
+    "hq_country": "SE",
+    "hq_city": "Gothenburg",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fast Fashion",
+    "founded_year": 2015,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.na-kd.com"
+    ]
+  },
+  {
+    "name": "Bubbleroom",
+    "website": "https://www.bubbleroom.se",
+    "hq_country": "SE",
+    "hq_city": "Borås",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 2005,
+    "ultimate_parent": "Qliro Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.bubbleroom.se"
+    ]
+  },
+  {
+    "name": "Wakakuu",
+    "website": "https://www.wakakuu.com",
+    "hq_country": "SE",
+    "hq_city": "Stockholm",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Fashion",
+    "founded_year": 2012,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.wakakuu.com"
+    ]
+  },
+  {
+    "name": "Footway",
+    "website": "https://www.footway.com",
+    "hq_country": "SE",
+    "hq_city": "Stockholm",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Shoes",
+    "founded_year": 2010,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.footway.com"
+    ]
+  },
+  {
+    "name": "Ellos",
+    "website": "https://www.ellos.se",
+    "hq_country": "SE",
+    "hq_city": "Borås",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion & Home",
+    "founded_year": 1947,
+    "ultimate_parent": "Ellos Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.ellos.se"
+    ]
+  },
+  {
+    "name": "Cubus",
+    "website": "https://www.cubus.com",
+    "hq_country": "NO",
+    "hq_city": "Oslo",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 1977,
+    "ultimate_parent": "Varner",
+    "confidence": "high",
+    "sources": [
+      "https://www.cubus.com"
+    ]
+  },
+  {
+    "name": "Bik Bok",
+    "website": "https://www.bikbok.com",
+    "hq_country": "NO",
+    "hq_city": "Oslo",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 1973,
+    "ultimate_parent": "Varner",
+    "confidence": "high",
+    "sources": [
+      "https://www.bikbok.com"
+    ]
+  },
+  {
+    "name": "Carlings",
+    "website": "https://www.carlings.com",
+    "hq_country": "NO",
+    "hq_city": "Oslo",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Denim & Streetwear",
+    "founded_year": 1965,
+    "ultimate_parent": "Varner",
+    "confidence": "high",
+    "sources": [
+      "https://www.carlings.com"
+    ]
+  },
+  {
+    "name": "Junkyard",
+    "website": "https://www.junkyard.com",
+    "hq_country": "SE",
+    "hq_city": "Stockholm",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Streetwear",
+    "founded_year": 2002,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.junkyard.com"
+    ]
+  },
+  {
+    "name": "Caliroots",
+    "website": "https://www.caliroots.com",
+    "hq_country": "SE",
+    "hq_city": "Stockholm",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Sneakers & Streetwear",
+    "founded_year": 2003,
+    "ultimate_parent": "JD Sports",
+    "confidence": "high",
+    "sources": [
+      "https://www.caliroots.com"
+    ]
+  },
+  {
+    "name": "Sneakersnstuff",
+    "website": "https://www.sneakersnstuff.com",
+    "hq_country": "SE",
+    "hq_city": "Stockholm",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Sneakers",
+    "founded_year": 1999,
+    "ultimate_parent": "LVMH",
+    "confidence": "high",
+    "sources": [
+      "https://www.sneakersnstuff.com"
+    ]
+  },
+  {
+    "name": "END.",
+    "website": "https://www.endclothing.com",
+    "hq_country": "GB",
+    "hq_city": "Newcastle upon Tyne",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Streetwear",
+    "founded_year": 2005,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.endclothing.com"
+    ]
+  },
+  {
+    "name": "Oi Polloi",
+    "website": "https://www.oipolloi.com",
+    "hq_country": "GB",
+    "hq_city": "Manchester",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Menswear",
+    "founded_year": 2002,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.oipolloi.com"
+    ]
+  },
+  {
+    "name": "Browns",
+    "website": "https://www.brownsfashion.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Fashion",
+    "founded_year": 1970,
+    "ultimate_parent": "Farfetch",
+    "confidence": "high",
+    "sources": [
+      "https://www.brownsfashion.com"
+    ]
+  },
+  {
+    "name": "Harvey Nichols",
+    "website": "https://www.harveynichols.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Fashion",
+    "founded_year": 1831,
+    "ultimate_parent": "Dickson Concepts",
+    "confidence": "high",
+    "sources": [
+      "https://www.harveynichols.com"
+    ]
+  },
+  {
+    "name": "Liberty London",
+    "website": "https://www.libertylondon.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Fashion",
+    "founded_year": 1875,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.libertylondon.com"
+    ]
+  },
+  {
+    "name": "Flannels",
+    "website": "https://www.flannels.com",
+    "hq_country": "GB",
+    "hq_city": "Shirebrook",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Fashion",
+    "founded_year": 1976,
+    "ultimate_parent": "Frasers Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.flannels.com"
+    ]
+  },
+  {
+    "name": "Very",
+    "website": "https://www.very.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Liverpool",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion & Home",
+    "founded_year": 2009,
+    "ultimate_parent": "The Very Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.very.co.uk"
+    ]
+  },
+  {
+    "name": "Littlewoods",
+    "website": "https://www.littlewoods.com",
+    "hq_country": "GB",
+    "hq_city": "Liverpool",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion & Home",
+    "founded_year": 1932,
+    "ultimate_parent": "The Very Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.littlewoods.com"
+    ]
+  },
+  {
+    "name": "Littlewoods Ireland",
+    "website": "https://www.littlewoodsireland.ie",
+    "hq_country": "IE",
+    "hq_city": "Dublin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion & Home",
+    "founded_year": 1932,
+    "ultimate_parent": "The Very Group",
+    "confidence": "medium",
+    "sources": [
+      "https://www.littlewoodsireland.ie"
+    ]
+  },
+  {
+    "name": "SimplyBe",
+    "website": "https://www.simplybe.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Manchester",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Plus Size Fashion",
+    "founded_year": 2002,
+    "ultimate_parent": "N Brown Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.simplybe.co.uk"
+    ]
+  },
+  {
+    "name": "JD Williams",
+    "website": "https://www.jdwilliams.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Manchester",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 1875,
+    "ultimate_parent": "N Brown Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.jdwilliams.co.uk"
+    ]
+  },
+  {
+    "name": "Jacamo",
+    "website": "https://www.jacamo.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Manchester",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Plus Size Menswear",
+    "founded_year": 2007,
+    "ultimate_parent": "N Brown Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.jacamo.co.uk"
+    ]
+  },
+  {
+    "name": "River Island",
+    "website": "https://www.riverisland.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fast Fashion",
+    "founded_year": 1948,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.riverisland.com"
+    ]
+  },
+  {
+    "name": "New Look",
+    "website": "https://www.newlook.com",
+    "hq_country": "GB",
+    "hq_city": "Weymouth",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fast Fashion",
+    "founded_year": 1969,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.newlook.com"
+    ]
+  },
+  {
+    "name": "Topshop",
+    "website": "https://www.topshop.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 1964,
+    "ultimate_parent": "ASOS",
+    "confidence": "high",
+    "sources": [
+      "https://www.topshop.com"
+    ]
+  },
+  {
+    "name": "Topman",
+    "website": "https://www.topman.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Menswear",
+    "founded_year": 1978,
+    "ultimate_parent": "ASOS",
+    "confidence": "high",
+    "sources": [
+      "https://www.topman.com"
+    ]
+  },
+  {
+    "name": "Miss Selfridge",
+    "website": "https://www.missselfridge.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 1966,
+    "ultimate_parent": "ASOS",
+    "confidence": "high",
+    "sources": [
+      "https://www.missselfridge.com"
+    ]
+  },
+  {
+    "name": "Karen Millen",
+    "website": "https://www.karenmillen.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 1981,
+    "ultimate_parent": "Boohoo Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.karenmillen.com"
+    ]
+  },
+  {
+    "name": "Coast",
+    "website": "https://www.coastfashion.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 1996,
+    "ultimate_parent": "Boohoo Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.coastfashion.com"
+    ]
+  },
+  {
+    "name": "Oasis",
+    "website": "https://www.oasis-stores.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 1991,
+    "ultimate_parent": "Boohoo Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.oasis-stores.com"
+    ]
+  },
+  {
+    "name": "Warehouse",
+    "website": "https://www.warehousefashion.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 1976,
+    "ultimate_parent": "Boohoo Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.warehousefashion.com"
+    ]
+  },
+  {
+    "name": "Dorothy Perkins",
+    "website": "https://www.dorothyperkins.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 1909,
+    "ultimate_parent": "Boohoo Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.dorothyperkins.com"
+    ]
+  },
+  {
+    "name": "Burton Menswear",
+    "website": "https://www.burton.co.uk",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Menswear",
+    "founded_year": 1903,
+    "ultimate_parent": "Boohoo Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.burton.co.uk"
+    ]
+  },
+  {
+    "name": "Wallis",
+    "website": "https://www.wallis.co.uk",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 1923,
+    "ultimate_parent": "Boohoo Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.wallis.co.uk"
+    ]
+  },
+  {
+    "name": "Evans",
+    "website": "https://www.evans.co.uk",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Plus Size Fashion",
+    "founded_year": 1930,
+    "ultimate_parent": "City Chic",
+    "confidence": "high",
+    "sources": [
+      "https://www.evans.co.uk"
+    ]
+  },
+  {
+    "name": "Debenhams",
+    "website": "https://www.debenhams.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion & Home",
+    "founded_year": 1778,
+    "ultimate_parent": "Boohoo Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.debenhams.com"
+    ]
+  },
+  {
+    "name": "Monki",
+    "website": "https://www.monki.com",
+    "hq_country": "SE",
+    "hq_city": "Stockholm",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 2006,
+    "ultimate_parent": "H&M",
+    "confidence": "high",
+    "sources": [
+      "https://www.monki.com"
+    ]
+  },
+  {
+    "name": "& Other Stories",
+    "website": "https://www.stories.com",
+    "hq_country": "SE",
+    "hq_city": "Stockholm",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 2013,
+    "ultimate_parent": "H&M",
+    "confidence": "high",
+    "sources": [
+      "https://www.stories.com"
+    ]
+  },
+  {
+    "name": "Afound",
+    "website": "https://www.afound.com",
+    "hq_country": "SE",
+    "hq_city": "Stockholm",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion Outlet",
+    "founded_year": 2018,
+    "ultimate_parent": "H&M",
+    "confidence": "high",
+    "sources": [
+      "https://www.afound.com"
+    ]
+  },
+  {
+    "name": "Reserved",
+    "website": "https://www.reserved.com",
+    "hq_country": "PL",
+    "hq_city": "Gdańsk",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fast Fashion",
+    "founded_year": 1999,
+    "ultimate_parent": "LPP",
+    "confidence": "high",
+    "sources": [
+      "https://www.reserved.com"
+    ]
+  },
+  {
+    "name": "Cropp",
+    "website": "https://www.cropp.com",
+    "hq_country": "PL",
+    "hq_city": "Gdańsk",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Streetwear",
+    "founded_year": 2004,
+    "ultimate_parent": "LPP",
+    "confidence": "high",
+    "sources": [
+      "https://www.cropp.com"
+    ]
+  },
+  {
+    "name": "House",
+    "website": "https://www.housebrand.com",
+    "hq_country": "PL",
+    "hq_city": "Gdańsk",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 2001,
+    "ultimate_parent": "LPP",
+    "confidence": "high",
+    "sources": [
+      "https://www.housebrand.com"
+    ]
+  },
+  {
+    "name": "Mohito",
+    "website": "https://www.mohito.com",
+    "hq_country": "PL",
+    "hq_city": "Gdańsk",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 2007,
+    "ultimate_parent": "LPP",
+    "confidence": "high",
+    "sources": [
+      "https://www.mohito.com"
+    ]
+  },
+  {
+    "name": "Sinsay",
+    "website": "https://www.sinsay.com",
+    "hq_country": "PL",
+    "hq_city": "Gdańsk",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fast Fashion",
+    "founded_year": 2013,
+    "ultimate_parent": "LPP",
+    "confidence": "high",
+    "sources": [
+      "https://www.sinsay.com"
+    ]
+  },
+  {
+    "name": "Answear",
+    "website": "https://www.answear.com",
+    "hq_country": "PL",
+    "hq_city": "Kraków",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion Marketplace",
+    "founded_year": 2011,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.answear.com"
+    ]
+  },
+  {
+    "name": "Modivo",
+    "website": "https://www.modivo.com",
+    "hq_country": "PL",
+    "hq_city": "Szczecin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 2019,
+    "ultimate_parent": "CCC Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.modivo.com"
+    ]
+  },
+  {
+    "name": "eobuwie.pl",
+    "website": "https://www.eobuwie.pl",
+    "hq_country": "PL",
+    "hq_city": "Szczecin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Shoes",
+    "founded_year": 2008,
+    "ultimate_parent": "CCC Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.eobuwie.pl"
+    ]
+  },
+  {
+    "name": "Görtz",
+    "website": "https://www.goertz.de",
+    "hq_country": "DE",
+    "hq_city": "Hamburg",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Shoes",
+    "founded_year": 1875,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.goertz.de"
+    ]
+  },
+  {
+    "name": "Humanic",
+    "website": "https://www.humanic.net",
+    "hq_country": "AT",
+    "hq_city": "Graz",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Shoes",
+    "founded_year": 1907,
+    "ultimate_parent": "Leder & Schuh AG",
+    "confidence": "high",
+    "sources": [
+      "https://www.humanic.net"
+    ]
+  },
+  {
+    "name": "Tamaris",
+    "website": "https://www.tamaris.com",
+    "hq_country": "DE",
+    "hq_city": "Detmold",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Shoes",
+    "founded_year": 1917,
+    "ultimate_parent": "Wortmann Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.tamaris.com"
+    ]
+  },
+  {
+    "name": "Gabor",
+    "website": "https://www.gabor.de",
+    "hq_country": "DE",
+    "hq_city": "Rosenheim",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Shoes",
+    "founded_year": 1949,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.gabor.de"
+    ]
+  },
+  {
+    "name": "Geox",
+    "website": "https://www.geox.com",
+    "hq_country": "IT",
+    "hq_city": "Montebelluna",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Shoes",
+    "founded_year": 1995,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.geox.com"
+    ]
+  },
+  {
+    "name": "Ecco",
+    "website": "https://www.ecco.com",
+    "hq_country": "DK",
+    "hq_city": "Bredebro",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Shoes",
+    "founded_year": 1963,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.ecco.com"
+    ]
+  },
+  {
+    "name": "Clarks",
+    "website": "https://www.clarks.com",
+    "hq_country": "GB",
+    "hq_city": "Street",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Shoes",
+    "founded_year": 1825,
+    "ultimate_parent": "LionRock Capital",
+    "confidence": "high",
+    "sources": [
+      "https://www.clarks.com"
+    ]
+  },
+  {
+    "name": "Office Shoes",
+    "website": "https://www.office.co.uk",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Shoes",
+    "founded_year": 1981,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.office.co.uk"
+    ]
+  },
+  {
+    "name": "Schuh",
+    "website": "https://www.schuh.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Livingston",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Shoes",
+    "founded_year": 1981,
+    "ultimate_parent": "Genesco",
+    "confidence": "high",
+    "sources": [
+      "https://www.schuh.co.uk"
+    ]
+  },
+  {
+    "name": "Size?",
+    "website": "https://www.size.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Bury",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Sneakers",
+    "founded_year": 2000,
+    "ultimate_parent": "JD Sports",
+    "confidence": "high",
+    "sources": [
+      "https://www.size.co.uk"
+    ]
+  },
+  {
+    "name": "Footlocker",
+    "website": "https://www.footlocker.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Sneakers",
+    "founded_year": 1974,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.footlocker.com"
+    ]
+  },
+  {
+    "name": "Snipes",
+    "website": "https://www.snipes.com",
+    "hq_country": "DE",
+    "hq_city": "Cologne",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Sneakers & Streetwear",
+    "founded_year": 1998,
+    "ultimate_parent": "Deichmann",
+    "confidence": "high",
+    "sources": [
+      "https://www.snipes.com"
+    ]
+  },
+  {
+    "name": "Asphaltgold",
+    "website": "https://www.asphaltgold.com",
+    "hq_country": "DE",
+    "hq_city": "Darmstadt",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Sneakers",
+    "founded_year": 2008,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.asphaltgold.com"
+    ]
+  },
+  {
+    "name": "Afew Store",
+    "website": "https://www.afew-store.com",
+    "hq_country": "DE",
+    "hq_city": "Düsseldorf",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Sneakers",
+    "founded_year": 2008,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.afew-store.com"
+    ]
+  },
+  {
+    "name": "43einhalb",
+    "website": "https://www.43einhalb.com",
+    "hq_country": "DE",
+    "hq_city": "Fulda",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Sneakers",
+    "founded_year": 2003,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.43einhalb.com"
+    ]
+  },
+  {
+    "name": "Luisaviaroma",
+    "website": "https://www.luisaviaroma.com",
+    "hq_country": "IT",
+    "hq_city": "Florence",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Fashion",
+    "founded_year": 1930,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.luisaviaroma.com"
+    ]
+  },
+  {
+    "name": "Antonioli",
+    "website": "https://www.antonioli.eu",
+    "hq_country": "IT",
+    "hq_city": "Milan",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Fashion",
+    "founded_year": 1987,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.antonioli.eu"
+    ]
+  },
+  {
+    "name": "Slam Jam",
+    "website": "https://www.slamjam.com",
+    "hq_country": "IT",
+    "hq_city": "Ferrara",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Streetwear",
+    "founded_year": 1989,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.slamjam.com"
+    ]
+  },
+  {
+    "name": "Giglio",
+    "website": "https://www.giglio.com",
+    "hq_country": "IT",
+    "hq_city": "Palermo",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Fashion",
+    "founded_year": 1965,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.giglio.com"
+    ]
+  },
+  {
+    "name": "Tessabit",
+    "website": "https://www.tessabit.com",
+    "hq_country": "IT",
+    "hq_city": "Como",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Fashion",
+    "founded_year": 1953,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.tessabit.com"
+    ]
+  },
+  {
+    "name": "Modes",
+    "website": "https://www.modesens.com",
+    "hq_country": "IT",
+    "hq_city": "Milan",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Fashion",
+    "founded_year": 1958,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.modesens.com"
+    ]
+  },
+  {
+    "name": "Thecorner.com",
+    "website": "https://www.thecorner.com",
+    "hq_country": "IT",
+    "hq_city": "Milan",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Fashion",
+    "founded_year": 2008,
+    "ultimate_parent": "YOOX Net-a-Porter Group",
+    "confidence": "medium",
+    "sources": [
+      "https://www.thecorner.com"
+    ]
+  },
+  {
+    "name": "24 Sèvres",
+    "website": "https://www.24s.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Fashion",
+    "founded_year": 2017,
+    "ultimate_parent": "LVMH",
+    "confidence": "high",
+    "sources": [
+      "https://www.24s.com"
+    ]
+  },
+  {
+    "name": "MyPrivateDressing",
+    "website": "https://www.myprivatedressing.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Resale",
+    "founded_year": 2011,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.myprivatedressing.com"
+    ]
+  },
+  {
+    "name": "Collector Square",
+    "website": "https://www.collectorsquare.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Resale",
+    "founded_year": 2013,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.collectorsquare.com"
+    ]
+  },
+  {
+    "name": "Instant Luxe",
+    "website": "https://www.instantluxe.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Resale",
+    "founded_year": 2009,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.instantluxe.com"
+    ]
+  },
+  {
+    "name": "Videdressing",
+    "website": "https://www.videdressing.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion Resale",
+    "founded_year": 2009,
+    "ultimate_parent": "Leboncoin",
+    "confidence": "high",
+    "sources": [
+      "https://www.videdressing.com"
+    ]
+  },
+  {
+    "name": "Catchys",
+    "website": "https://www.catchys.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Resale",
+    "founded_year": 2010,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.catchys.com"
+    ]
+  },
+  {
+    "name": "Vestiaire Collective International",
+    "website": "https://www.vestiairecollective.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Resale",
+    "founded_year": 2009,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.vestiairecollective.com"
+    ]
+  },
+  {
+    "name": "Rebag",
+    "website": "https://www.rebag.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Handbag Resale",
+    "founded_year": 2014,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.rebag.com"
+    ]
+  },
+  {
+    "name": "Tradesy",
+    "website": "https://www.tradesy.com",
+    "hq_country": "US",
+    "hq_city": "Santa Monica",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Resale",
+    "founded_year": 2012,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.tradesy.com"
+    ]
+  },
+  {
+    "name": "The Luxury Closet",
+    "website": "https://www.theluxurycloset.com",
+    "hq_country": "AE",
+    "hq_city": "Dubai",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Resale",
+    "founded_year": 2012,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.theluxurycloset.com"
+    ]
+  },
+  {
+    "name": "Cudoni",
+    "website": "https://www.cudoni.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Resale",
+    "founded_year": 2017,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.cudoni.com"
+    ]
+  },
+  {
+    "name": "Hardly Ever Worn It",
+    "website": "https://www.hardlyeverwornit.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Resale",
+    "founded_year": 2012,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.hardlyeverwornit.com"
+    ]
+  },
+  {
+    "name": "Vite EnVogue",
+    "website": "https://www.viteenvogue.com",
+    "hq_country": "DE",
+    "hq_city": "Munich",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Resale",
+    "founded_year": 2012,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.viteenvogue.com"
+    ]
+  },
+  {
+    "name": "Stadium Goods",
+    "website": "https://www.stadiumgoods.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Sneakers",
+    "founded_year": 2015,
+    "ultimate_parent": "Farfetch",
+    "confidence": "high",
+    "sources": [
+      "https://www.stadiumgoods.com"
+    ]
+  },
+  {
+    "name": "Flight Club",
+    "website": "https://www.flightclub.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Sneakers Resale",
+    "founded_year": 2005,
+    "ultimate_parent": "GOAT",
+    "confidence": "high",
+    "sources": [
+      "https://www.flightclub.com"
+    ]
+  },
+  {
+    "name": "Grailed",
+    "website": "https://www.grailed.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Menswear Resale",
+    "founded_year": 2013,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.grailed.com"
+    ]
+  },
+  {
+    "name": "Kixify",
+    "website": "https://www.kixify.com",
+    "hq_country": "US",
+    "hq_city": "Los Angeles",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Sneakers Marketplace",
+    "founded_year": 2011,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.kixify.com"
+    ]
+  },
+  {
+    "name": "SNKRS",
+    "website": "https://www.nike.com/snkrs",
+    "hq_country": "US",
+    "hq_city": "Beaverton",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Sneakers",
+    "founded_year": 2015,
+    "ultimate_parent": "Nike",
+    "confidence": "high",
+    "sources": [
+      "https://www.nike.com/snkrs"
+    ]
+  },
+  {
+    "name": "Confirmed",
+    "website": "https://www.adidas.com/confirmed",
+    "hq_country": "DE",
+    "hq_city": "Herzogenaurach",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Sneakers",
+    "founded_year": 2015,
+    "ultimate_parent": "Adidas",
+    "confidence": "high",
+    "sources": [
+      "https://www.adidas.com"
+    ]
+  },
+  {
+    "name": "Revolve",
+    "website": "https://www.revolve.com",
+    "hq_country": "US",
+    "hq_city": "Cerritos",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 2003,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.revolve.com"
+    ]
+  },
+  {
+    "name": "Forward by Elyse Walker",
+    "website": "https://www.fwrd.com",
+    "hq_country": "US",
+    "hq_city": "Cerritos",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Fashion",
+    "founded_year": 2008,
+    "ultimate_parent": "Revolve Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.fwrd.com"
+    ]
+  },
+  {
+    "name": "Saks OFF 5TH",
+    "website": "https://www.saksoff5th.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion Outlet",
+    "founded_year": 1990,
+    "ultimate_parent": "Saks Global",
+    "confidence": "high",
+    "sources": [
+      "https://www.saksoff5th.com"
+    ]
+  },
+  {
+    "name": "Bergdorf Goodman",
+    "website": "https://www.bergdorfgoodman.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Fashion",
+    "founded_year": 1899,
+    "ultimate_parent": "Saks Global",
+    "confidence": "high",
+    "sources": [
+      "https://www.bergdorfgoodman.com"
+    ]
+  },
+  {
+    "name": "Bloomingdale's",
+    "website": "https://www.bloomingdales.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Department Store Fashion",
+    "founded_year": 1861,
+    "ultimate_parent": "Macy's Inc.",
+    "confidence": "high",
+    "sources": [
+      "https://www.bloomingdales.com"
+    ]
+  },
+  {
+    "name": "Dillard's",
+    "website": "https://www.dillards.com",
+    "hq_country": "US",
+    "hq_city": "Little Rock",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Department Store Fashion",
+    "founded_year": 1938,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.dillards.com"
+    ]
+  },
+  {
+    "name": "Belk",
+    "website": "https://www.belk.com",
+    "hq_country": "US",
+    "hq_city": "Charlotte",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Department Store Fashion",
+    "founded_year": 1888,
+    "ultimate_parent": "Sycamore Partners",
+    "confidence": "high",
+    "sources": [
+      "https://www.belk.com"
+    ]
+  },
+  {
+    "name": "Kohl's",
+    "website": "https://www.kohls.com",
+    "hq_country": "US",
+    "hq_city": "Menomonee Falls",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Department Store Fashion",
+    "founded_year": 1962,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.kohls.com"
+    ]
+  },
+  {
+    "name": "JCPenney",
+    "website": "https://www.jcpenney.com",
+    "hq_country": "US",
+    "hq_city": "Plano",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Department Store Fashion",
+    "founded_year": 1902,
+    "ultimate_parent": "Simon Property Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.jcpenney.com"
+    ]
+  },
+  {
+    "name": "Urban Outfitters",
+    "website": "https://www.urbanoutfitters.com",
+    "hq_country": "US",
+    "hq_city": "Philadelphia",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion & Lifestyle",
+    "founded_year": 1970,
+    "ultimate_parent": "URBN",
+    "confidence": "high",
+    "sources": [
+      "https://www.urbanoutfitters.com"
+    ]
+  },
+  {
+    "name": "Anthropologie",
+    "website": "https://www.anthropologie.com",
+    "hq_country": "US",
+    "hq_city": "Philadelphia",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion & Home",
+    "founded_year": 1992,
+    "ultimate_parent": "URBN",
+    "confidence": "high",
+    "sources": [
+      "https://www.anthropologie.com"
+    ]
+  },
+  {
+    "name": "Free People",
+    "website": "https://www.freepeople.com",
+    "hq_country": "US",
+    "hq_city": "Philadelphia",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Bohemian Fashion",
+    "founded_year": 1984,
+    "ultimate_parent": "URBN",
+    "confidence": "high",
+    "sources": [
+      "https://www.freepeople.com"
+    ]
+  },
+  {
+    "name": "Nuuly",
+    "website": "https://www.nuuly.com",
+    "hq_country": "US",
+    "hq_city": "Philadelphia",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion Rental",
+    "founded_year": 2019,
+    "ultimate_parent": "URBN",
+    "confidence": "high",
+    "sources": [
+      "https://www.nuuly.com"
+    ]
+  },
+  {
+    "name": "Express",
+    "website": "https://www.express.com",
+    "hq_country": "US",
+    "hq_city": "Columbus",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 1980,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.express.com"
+    ]
+  },
+  {
+    "name": "Forever 21",
+    "website": "https://www.forever21.com",
+    "hq_country": "US",
+    "hq_city": "Los Angeles",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fast Fashion",
+    "founded_year": 1984,
+    "ultimate_parent": "Authentic Brands Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.forever21.com"
+    ]
+  },
+  {
+    "name": "Charlotte Russe",
+    "website": "https://www.charlotterusse.com",
+    "hq_country": "US",
+    "hq_city": "San Diego",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fast Fashion",
+    "founded_year": 1975,
+    "ultimate_parent": "YM Inc.",
+    "confidence": "medium",
+    "sources": [
+      "https://www.charlotterusse.com"
+    ]
+  },
+  {
+    "name": "Torrid",
+    "website": "https://www.torrid.com",
+    "hq_country": "US",
+    "hq_city": "City of Industry",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Plus Size Fashion",
+    "founded_year": 2001,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.torrid.com"
+    ]
+  },
+  {
+    "name": "Hot Topic",
+    "website": "https://www.hottopic.com",
+    "hq_country": "US",
+    "hq_city": "City of Industry",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Alternative Fashion",
+    "founded_year": 1989,
+    "ultimate_parent": "Sycamore Partners",
+    "confidence": "high",
+    "sources": [
+      "https://www.hottopic.com"
+    ]
+  },
+  {
+    "name": "Francesca's",
+    "website": "https://www.francescas.com",
+    "hq_country": "US",
+    "hq_city": "Houston",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion & Accessories",
+    "founded_year": 1999,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.francescas.com"
+    ]
+  },
+  {
+    "name": "Lulus",
+    "website": "https://www.lulus.com",
+    "hq_country": "US",
+    "hq_city": "Chico",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 1996,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.lulus.com"
+    ]
+  },
+  {
+    "name": "Princess Polly",
+    "website": "https://www.princesspolly.com",
+    "hq_country": "AU",
+    "hq_city": "Gold Coast",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fast Fashion",
+    "founded_year": 2010,
+    "ultimate_parent": "a]cogent",
+    "confidence": "high",
+    "sources": [
+      "https://www.princesspolly.com"
+    ]
+  },
+  {
+    "name": "Showpo",
+    "website": "https://www.showpo.com",
+    "hq_country": "AU",
+    "hq_city": "Sydney",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fast Fashion",
+    "founded_year": 2010,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.showpo.com"
+    ]
+  },
+  {
+    "name": "The Iconic",
+    "website": "https://www.theiconic.com.au",
+    "hq_country": "AU",
+    "hq_city": "Sydney",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 2011,
+    "ultimate_parent": "Global Fashion Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.theiconic.com.au"
+    ]
+  },
+  {
+    "name": "Zalora",
+    "website": "https://www.zalora.com",
+    "hq_country": "SG",
+    "hq_city": "Singapore",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 2012,
+    "ultimate_parent": "Global Fashion Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.zalora.com"
+    ]
+  },
+  {
+    "name": "Dafiti",
+    "website": "https://www.dafiti.com.br",
+    "hq_country": "BR",
+    "hq_city": "São Paulo",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 2011,
+    "ultimate_parent": "Global Fashion Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.dafiti.com.br"
+    ]
+  },
+  {
+    "name": "Lamoda",
+    "website": "https://www.lamoda.ru",
+    "hq_country": "RU",
+    "hq_city": "Moscow",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 2011,
+    "ultimate_parent": "Global Fashion Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.lamoda.ru"
+    ]
+  },
+  {
+    "name": "Namshi",
+    "website": "https://www.namshi.com",
+    "hq_country": "AE",
+    "hq_city": "Dubai",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 2011,
+    "ultimate_parent": "Noon.com",
+    "confidence": "high",
+    "sources": [
+      "https://www.namshi.com"
+    ]
+  },
+  {
+    "name": "Myntra",
+    "website": "https://www.myntra.com",
+    "hq_country": "IN",
+    "hq_city": "Bangalore",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 2007,
+    "ultimate_parent": "Flipkart",
+    "confidence": "high",
+    "sources": [
+      "https://www.myntra.com"
+    ]
+  },
+  {
+    "name": "Ajio",
+    "website": "https://www.ajio.com",
+    "hq_country": "IN",
+    "hq_city": "Mumbai",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 2016,
+    "ultimate_parent": "Reliance Retail",
+    "confidence": "high",
+    "sources": [
+      "https://www.ajio.com"
+    ]
+  },
+  {
+    "name": "Nykaa Fashion",
+    "website": "https://www.nykaafashion.com",
+    "hq_country": "IN",
+    "hq_city": "Mumbai",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 2018,
+    "ultimate_parent": "Nykaa",
+    "confidence": "high",
+    "sources": [
+      "https://www.nykaafashion.com"
+    ]
+  },
+  {
+    "name": "Tata Cliq Fashion",
+    "website": "https://www.tatacliq.com",
+    "hq_country": "IN",
+    "hq_city": "Mumbai",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 2016,
+    "ultimate_parent": "Tata Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.tatacliq.com"
+    ]
+  },
+  {
+    "name": "Moda Operandi",
+    "website": "https://www.modaoperandi.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Fashion",
+    "founded_year": 2010,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.modaoperandi.com"
+    ]
+  },
+  {
+    "name": "Shopbop",
+    "website": "https://www.shopbop.com",
+    "hq_country": "US",
+    "hq_city": "Madison",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 2000,
+    "ultimate_parent": "Amazon",
+    "confidence": "high",
+    "sources": [
+      "https://www.shopbop.com"
+    ]
+  },
+  {
+    "name": "East Dane",
+    "website": "https://www.eastdane.com",
+    "hq_country": "US",
+    "hq_city": "Madison",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Menswear",
+    "founded_year": 2012,
+    "ultimate_parent": "Amazon",
+    "confidence": "high",
+    "sources": [
+      "https://www.eastdane.com"
+    ]
+  },
+  {
+    "name": "6pm.com",
+    "website": "https://www.6pm.com",
+    "hq_country": "US",
+    "hq_city": "Las Vegas",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion Outlet",
+    "founded_year": 2007,
+    "ultimate_parent": "Amazon",
+    "confidence": "high",
+    "sources": [
+      "https://www.6pm.com"
+    ]
+  },
+  {
+    "name": "ASOS Marketplace",
+    "website": "https://marketplace.asos.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion Marketplace",
+    "founded_year": 2010,
+    "ultimate_parent": "ASOS",
+    "confidence": "high",
+    "sources": [
+      "https://marketplace.asos.com"
+    ]
+  },
+  {
+    "name": "Bershka Online",
+    "website": "https://www.bershka.com",
+    "hq_country": "ES",
+    "hq_city": "A Coruña",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fast Fashion",
+    "founded_year": 1998,
+    "ultimate_parent": "Inditex",
+    "confidence": "high",
+    "sources": [
+      "https://www.bershka.com"
+    ]
+  },
+  {
+    "name": "Stradivarius Online",
+    "website": "https://www.stradivarius.com",
+    "hq_country": "ES",
+    "hq_city": "A Coruña",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fast Fashion",
+    "founded_year": 1994,
+    "ultimate_parent": "Inditex",
+    "confidence": "high",
+    "sources": [
+      "https://www.stradivarius.com"
+    ]
+  },
+  {
+    "name": "Uterqüe",
+    "website": "https://www.uterque.com",
+    "hq_country": "ES",
+    "hq_city": "A Coruña",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Accessories",
+    "founded_year": 2008,
+    "ultimate_parent": "Inditex",
+    "confidence": "high",
+    "sources": [
+      "https://www.uterque.com"
+    ]
+  },
+  {
+    "name": "Lefties",
+    "website": "https://www.lefties.com",
+    "hq_country": "ES",
+    "hq_city": "A Coruña",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Budget Fashion",
+    "founded_year": 1993,
+    "ultimate_parent": "Inditex",
+    "confidence": "high",
+    "sources": [
+      "https://www.lefties.com"
+    ]
+  },
+  {
+    "name": "Desigual",
+    "website": "https://www.desigual.com",
+    "hq_country": "ES",
+    "hq_city": "Barcelona",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 1984,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.desigual.com"
+    ]
+  },
+  {
+    "name": "Promod",
+    "website": "https://www.promod.eu",
+    "hq_country": "FR",
+    "hq_city": "Marcq-en-Barœul",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 1975,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.promod.eu"
+    ]
+  },
+  {
+    "name": "Camaieu",
+    "website": "https://www.camaieu.fr",
+    "hq_country": "FR",
+    "hq_city": "Roubaix",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 1984,
+    "ultimate_parent": "Celio",
+    "confidence": "medium",
+    "sources": [
+      "https://www.camaieu.fr"
+    ]
+  },
+  {
+    "name": "Celio",
+    "website": "https://www.celio.com",
+    "hq_country": "FR",
+    "hq_city": "Saint-Ouen-sur-Seine",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Menswear",
+    "founded_year": 1978,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.celio.com"
+    ]
+  },
+  {
+    "name": "Jules",
+    "website": "https://www.jules.com",
+    "hq_country": "FR",
+    "hq_city": "Wattrelos",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Menswear",
+    "founded_year": 1970,
+    "ultimate_parent": "Happychic",
+    "confidence": "high",
+    "sources": [
+      "https://www.jules.com"
+    ]
+  },
+  {
+    "name": "Brice",
+    "website": "https://www.brice.fr",
+    "hq_country": "FR",
+    "hq_city": "Roubaix",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Menswear",
+    "founded_year": 1984,
+    "ultimate_parent": "Happychic",
+    "confidence": "high",
+    "sources": [
+      "https://www.brice.fr"
+    ]
+  },
+  {
+    "name": "Bizzbee",
+    "website": "https://www.bizzbee.com",
+    "hq_country": "FR",
+    "hq_city": "Roubaix",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Youth Fashion",
+    "founded_year": 2005,
+    "ultimate_parent": "Happychic",
+    "confidence": "high",
+    "sources": [
+      "https://www.bizzbee.com"
+    ]
+  },
+  {
+    "name": "Pimkie",
+    "website": "https://www.pimkie.com",
+    "hq_country": "FR",
+    "hq_city": "Villeneuve-d'Ascq",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 1971,
+    "ultimate_parent": "Mulliez Family",
+    "confidence": "high",
+    "sources": [
+      "https://www.pimkie.com"
+    ]
+  },
+  {
+    "name": "Jennyfer",
+    "website": "https://www.jennyfer.com",
+    "hq_country": "FR",
+    "hq_city": "Saint-Ouen",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Youth Fashion",
+    "founded_year": 1985,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.jennyfer.com"
+    ]
+  },
+  {
+    "name": "Cache Cache",
+    "website": "https://www.cache-cache.fr",
+    "hq_country": "FR",
+    "hq_city": "Fougères",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 1978,
+    "ultimate_parent": "Beaumanoir Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.cache-cache.fr"
+    ]
+  },
+  {
+    "name": "Bonobo Jeans",
+    "website": "https://www.bonoboplanet.com",
+    "hq_country": "FR",
+    "hq_city": "Fougères",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Denim",
+    "founded_year": 2006,
+    "ultimate_parent": "Beaumanoir Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.bonoboplanet.com"
+    ]
+  },
+  {
+    "name": "Morgan de Toi",
+    "website": "https://www.morgandetoi.fr",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 1947,
+    "ultimate_parent": "Beaumanoir Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.morgandetoi.fr"
+    ]
+  },
+  {
+    "name": "Gémo",
+    "website": "https://www.gemo.fr",
+    "hq_country": "FR",
+    "hq_city": "Saint-Pierre-Montlimart",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Budget Fashion & Shoes",
+    "founded_year": 1991,
+    "ultimate_parent": "Eram Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.gemo.fr"
+    ]
+  },
+  {
+    "name": "Orchestra Prémaman",
+    "website": "https://www.orchestra-premaman.com",
+    "hq_country": "FR",
+    "hq_city": "Saint-Aunès",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Kids Fashion",
+    "founded_year": 1995,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.orchestra-premaman.com"
+    ]
+  },
+  {
+    "name": "Jacadi",
+    "website": "https://www.jacadi.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Kids Fashion",
+    "founded_year": 1976,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.jacadi.com"
+    ]
+  },
+  {
+    "name": "Petit Bateau",
+    "website": "https://www.petit-bateau.com",
+    "hq_country": "FR",
+    "hq_city": "Troyes",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Kids & Adult Fashion",
+    "founded_year": 1893,
+    "ultimate_parent": "Rocher Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.petit-bateau.com"
+    ]
+  },
+  {
+    "name": "Okaïdi",
+    "website": "https://www.okaidi.com",
+    "hq_country": "FR",
+    "hq_city": "Roubaix",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Kids Fashion",
+    "founded_year": 1996,
+    "ultimate_parent": "ÏDKIDS",
+    "confidence": "high",
+    "sources": [
+      "https://www.okaidi.com"
+    ]
+  },
+  {
+    "name": "Obaibi",
+    "website": "https://www.obaibi.com",
+    "hq_country": "FR",
+    "hq_city": "Roubaix",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Baby Fashion",
+    "founded_year": 2000,
+    "ultimate_parent": "ÏDKIDS",
+    "confidence": "high",
+    "sources": [
+      "https://www.obaibi.com"
+    ]
+  },
+  {
+    "name": "Verbaudet",
+    "website": "https://www.vertbaudet.com",
+    "hq_country": "FR",
+    "hq_city": "Tourcoing",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Kids Fashion",
+    "founded_year": 1963,
+    "ultimate_parent": "Redcats",
+    "confidence": "high",
+    "sources": [
+      "https://www.vertbaudet.com"
+    ]
+  },
+  {
+    "name": "Tape à l'Œil",
+    "website": "https://www.tape-a-loeil.com",
+    "hq_country": "FR",
+    "hq_city": "Wasquehal",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Kids Fashion",
+    "founded_year": 1993,
+    "ultimate_parent": "Mulliez Family",
+    "confidence": "high",
+    "sources": [
+      "https://www.tape-a-loeil.com"
+    ]
+  },
+  {
+    "name": "Sergent Major",
+    "website": "https://www.sergent-major.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Kids Fashion",
+    "founded_year": 1987,
+    "ultimate_parent": "Naf Naf",
+    "confidence": "high",
+    "sources": [
+      "https://www.sergent-major.com"
+    ]
+  },
+  {
+    "name": "Naf Naf",
+    "website": "https://www.nafnaf.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 1973,
+    "ultimate_parent": "SY Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.nafnaf.com"
+    ]
+  },
+  {
+    "name": "Sandro",
+    "website": "https://www.sandro-paris.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Premium Fashion",
+    "founded_year": 1984,
+    "ultimate_parent": "SMCP",
+    "confidence": "high",
+    "sources": [
+      "https://www.sandro-paris.com"
+    ]
+  },
+  {
+    "name": "Maje",
+    "website": "https://www.maje.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Premium Fashion",
+    "founded_year": 1998,
+    "ultimate_parent": "SMCP",
+    "confidence": "high",
+    "sources": [
+      "https://www.maje.com"
+    ]
+  },
+  {
+    "name": "Claudie Pierlot",
+    "website": "https://www.claudiepierlot.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Premium Fashion",
+    "founded_year": 1984,
+    "ultimate_parent": "SMCP",
+    "confidence": "high",
+    "sources": [
+      "https://www.claudiepierlot.com"
+    ]
+  },
+  {
+    "name": "De Fursac",
+    "website": "https://www.defursac.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Premium Menswear",
+    "founded_year": 1973,
+    "ultimate_parent": "SMCP",
+    "confidence": "high",
+    "sources": [
+      "https://www.defursac.com"
+    ]
+  },
+  {
+    "name": "The Kooples",
+    "website": "https://www.thekooples.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Premium Fashion",
+    "founded_year": 2008,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.thekooples.com"
+    ]
+  },
+  {
+    "name": "Zadig & Voltaire",
+    "website": "https://www.zadig-et-voltaire.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Premium Fashion",
+    "founded_year": 1997,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.zadig-et-voltaire.com"
+    ]
+  },
+  {
+    "name": "Ba&sh",
+    "website": "https://www.ba-sh.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Premium Fashion",
+    "founded_year": 2003,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.ba-sh.com"
+    ]
+  },
+  {
+    "name": "IRO Paris",
+    "website": "https://www.iroparis.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Premium Fashion",
+    "founded_year": 2004,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.iroparis.com"
+    ]
+  },
+  {
+    "name": "Sézane",
+    "website": "https://www.sezane.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Premium Fashion",
+    "founded_year": 2013,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.sezane.com"
+    ]
+  },
+  {
+    "name": "Rouje",
+    "website": "https://www.rouje.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion",
+    "founded_year": 2016,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.rouje.com"
+    ]
+  },
+  {
+    "name": "Reformation",
+    "website": "https://www.thereformation.com",
+    "hq_country": "US",
+    "hq_city": "Los Angeles",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Sustainable Fashion",
+    "founded_year": 2009,
+    "ultimate_parent": "Permira",
+    "confidence": "high",
+    "sources": [
+      "https://www.thereformation.com"
+    ]
+  },
+  {
+    "name": "Cuyana",
+    "website": "https://www.cuyana.com",
+    "hq_country": "US",
+    "hq_city": "San Francisco",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Sustainable Fashion",
+    "founded_year": 2011,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.cuyana.com"
+    ]
+  },
+  {
+    "name": "Amour Vert",
+    "website": "https://www.amourvert.com",
+    "hq_country": "US",
+    "hq_city": "San Francisco",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Sustainable Fashion",
+    "founded_year": 2010,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.amourvert.com"
+    ]
+  },
+  {
+    "name": "Eileen Fisher",
+    "website": "https://www.eileenfisher.com",
+    "hq_country": "US",
+    "hq_city": "Irvington",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Sustainable Fashion",
+    "founded_year": 1984,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.eileenfisher.com"
+    ]
+  },
+  {
+    "name": "Veja",
+    "website": "https://www.veja-store.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Sustainable Sneakers",
+    "founded_year": 2005,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.veja-store.com"
+    ]
+  },
+  {
+    "name": "Arket",
+    "website": "https://www.arket.com",
+    "hq_country": "SE",
+    "hq_city": "Stockholm",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Sustainable Fashion",
+    "founded_year": 2017,
+    "ultimate_parent": "H&M",
+    "confidence": "high",
+    "sources": [
+      "https://www.arket.com"
+    ]
+  },
+  {
+    "name": "Totême",
+    "website": "https://www.toteme-studio.com",
+    "hq_country": "SE",
+    "hq_city": "Stockholm",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Premium Fashion",
+    "founded_year": 2014,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.toteme-studio.com"
+    ]
+  },
+  {
+    "name": "Acne Studios",
+    "website": "https://www.acnestudios.com",
+    "hq_country": "SE",
+    "hq_city": "Stockholm",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Premium Fashion",
+    "founded_year": 1996,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.acnestudios.com"
+    ]
+  },
+  {
+    "name": "Filippa K",
+    "website": "https://www.filippa-k.com",
+    "hq_country": "SE",
+    "hq_city": "Stockholm",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Premium Fashion",
+    "founded_year": 1993,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.filippa-k.com"
+    ]
+  },
+  {
+    "name": "Tiger of Sweden",
+    "website": "https://www.tigerofsweden.com",
+    "hq_country": "SE",
+    "hq_city": "Stockholm",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Premium Fashion",
+    "founded_year": 1903,
+    "ultimate_parent": "IC Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.tigerofsweden.com"
+    ]
+  },
+  {
+    "name": "J.Lindeberg",
+    "website": "https://www.jlindeberg.com",
+    "hq_country": "SE",
+    "hq_city": "Stockholm",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Premium Fashion",
+    "founded_year": 1996,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.jlindeberg.com"
+    ]
+  },
+  {
+    "name": "Ganni",
+    "website": "https://www.ganni.com",
+    "hq_country": "DK",
+    "hq_city": "Copenhagen",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Premium Fashion",
+    "founded_year": 2000,
+    "ultimate_parent": "L Catterton",
+    "confidence": "high",
+    "sources": [
+      "https://www.ganni.com"
+    ]
+  },
+  {
+    "name": "By Malene Birger",
+    "website": "https://www.bymalenebirger.com",
+    "hq_country": "DK",
+    "hq_city": "Copenhagen",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Premium Fashion",
+    "founded_year": 2003,
+    "ultimate_parent": "IC Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.bymalenebirger.com"
+    ]
+  },
+  {
+    "name": "Baum und Pferdgarten",
+    "website": "https://www.baumundpferdgarten.com",
+    "hq_country": "DK",
+    "hq_city": "Copenhagen",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Premium Fashion",
+    "founded_year": 1999,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.baumundpferdgarten.com"
+    ]
+  },
+  {
+    "name": "Stine Goya",
+    "website": "https://www.stinegoya.com",
+    "hq_country": "DK",
+    "hq_city": "Copenhagen",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Premium Fashion",
+    "founded_year": 2006,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.stinegoya.com"
+    ]
+  },
+  {
+    "name": "Rotate Birger Christensen",
+    "website": "https://www.rotatebirgerchristensen.com",
+    "hq_country": "DK",
+    "hq_city": "Copenhagen",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Premium Fashion",
+    "founded_year": 2018,
+    "ultimate_parent": "Birger Christensen",
+    "confidence": "high",
+    "sources": [
+      "https://www.rotatebirgerchristensen.com"
+    ]
+  },
+  {
+    "name": "Ounass",
+    "website": "https://www.ounass.com",
+    "hq_country": "AE",
+    "hq_city": "Dubai",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Fashion",
+    "founded_year": 2016,
+    "ultimate_parent": "Al Tayer Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.ounass.com"
+    ]
+  }
+]

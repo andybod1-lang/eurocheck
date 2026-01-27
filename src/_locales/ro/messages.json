@@ -1,0 +1,136 @@
+{
+  "extensionName": {
+    "message": "EuroCheck - Identificator de Companii UE",
+    "description": "Extension name shown in browser and store"
+  },
+  "extensionDescription": {
+    "message": "Vezi instant dacă un site web aparține unei companii europene sau non-europene",
+    "description": "Extension description for store listing"
+  },
+  "appTitle": {
+    "message": "EuroCheck",
+    "description": "Short app title shown in popup header"
+  },
+  "statusEu": {
+    "message": "Companie Europeană",
+    "description": "Status shown for EU companies"
+  },
+  "statusNonEu": {
+    "message": "Companie Non-Europeană",
+    "description": "Status shown for non-EU companies"
+  },
+  "statusMixed": {
+    "message": "Proprietate Mixtă",
+    "description": "Status shown for companies with mixed EU/non-EU ownership"
+  },
+  "statusUnknown": {
+    "message": "Necunoscut",
+    "description": "Status shown when company origin is unknown"
+  },
+  "loading": {
+    "message": "Se verifică...",
+    "description": "Loading state text"
+  },
+  "details": {
+    "message": "Detalii",
+    "description": "Details section header"
+  },
+  "settings": {
+    "message": "Setări",
+    "description": "Settings link text"
+  },
+  "requestCompany": {
+    "message": "Solicită această companie",
+    "description": "Button to request data for unknown company"
+  },
+  "requestSubmitted": {
+    "message": "Solicitare trimisă!",
+    "description": "Confirmation after request is submitted"
+  },
+  "ownershipChain": {
+    "message": "Lanț de Proprietate",
+    "description": "Section showing company ownership hierarchy"
+  },
+  "ownershipWarning": {
+    "message": "Deținută de entitate non-UE",
+    "description": "Warning shown when EU company is owned by non-EU parent"
+  },
+  "labelFounded": {
+    "message": "Fondată:",
+    "description": "Label for company founding year"
+  },
+  "labelConfidence": {
+    "message": "Încredere:",
+    "description": "Label for data confidence level"
+  },
+  "labelLastVerified": {
+    "message": "Ultima verificare:",
+    "description": "Label for last verification date"
+  },
+  "confidenceHigh": {
+    "message": "Ridicată",
+    "description": "High confidence level"
+  },
+  "confidenceMedium": {
+    "message": "Medie",
+    "description": "Medium confidence level"
+  },
+  "confidenceLow": {
+    "message": "Scăzută",
+    "description": "Low confidence level"
+  },
+  "unknownNoData": {
+    "message": "Nu există date pentru $DOMAIN$",
+    "description": "Message when no company data exists for domain",
+    "placeholders": {
+      "domain": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "errorGeneric": {
+    "message": "Ceva nu a funcționat",
+    "description": "Generic error message"
+  },
+  "errorCannotAccess": {
+    "message": "Nu se poate accesa această pagină",
+    "description": "Error when tab URL cannot be accessed"
+  },
+  "errorNotValidSite": {
+    "message": "Nu este un site web valid",
+    "description": "Error when URL is not a valid website"
+  },
+  "errorFailedToLoad": {
+    "message": "Încărcarea datelor a eșuat",
+    "description": "Error when data loading fails"
+  },
+  "settingsTitle": {
+    "message": "Setări EuroCheck",
+    "description": "Settings page title"
+  },
+  "settingsShowBadge": {
+    "message": "Afișează insigna pe pictograma din bara de instrumente",
+    "description": "Setting to show/hide toolbar badge"
+  },
+  "settingsNotifications": {
+    "message": "Afișează notificări pentru site-uri non-UE",
+    "description": "Setting to enable/disable notifications"
+  },
+  "settingsComingSoon": {
+    "message": "Mai multe setări în curând...",
+    "description": "Placeholder for future settings"
+  },
+  "badgeCurrent": {
+    "message": "Curent",
+    "description": "Badge for current company in ownership chain"
+  },
+  "badgeParent": {
+    "message": "Părinte",
+    "description": "Badge for parent company in ownership chain"
+  },
+  "badgeUltimate": {
+    "message": "Final",
+    "description": "Badge for ultimate parent in ownership chain"
+  }
+}

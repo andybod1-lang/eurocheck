@@ -1,0 +1,136 @@
+{
+  "extensionName": {
+    "message": "EuroCheck - Identificador de Empresas de la UE",
+    "description": "Extension name shown in browser and store"
+  },
+  "extensionDescription": {
+    "message": "Comprueba al instante si un sitio web pertenece a una empresa europea o no europea",
+    "description": "Extension description for store listing"
+  },
+  "appTitle": {
+    "message": "EuroCheck",
+    "description": "Short app title shown in popup header"
+  },
+  "statusEu": {
+    "message": "Empresa Europea",
+    "description": "Status shown for EU companies"
+  },
+  "statusNonEu": {
+    "message": "Empresa No Europea",
+    "description": "Status shown for non-EU companies"
+  },
+  "statusMixed": {
+    "message": "Propiedad Mixta",
+    "description": "Status shown for companies with mixed EU/non-EU ownership"
+  },
+  "statusUnknown": {
+    "message": "Desconocido",
+    "description": "Status shown when company origin is unknown"
+  },
+  "loading": {
+    "message": "Comprobando...",
+    "description": "Loading state text"
+  },
+  "details": {
+    "message": "Detalles",
+    "description": "Details section header"
+  },
+  "settings": {
+    "message": "Configuración",
+    "description": "Settings link text"
+  },
+  "requestCompany": {
+    "message": "Solicitar esta empresa",
+    "description": "Button to request data for unknown company"
+  },
+  "requestSubmitted": {
+    "message": "¡Solicitud enviada!",
+    "description": "Confirmation after request is submitted"
+  },
+  "ownershipChain": {
+    "message": "Cadena de Propiedad",
+    "description": "Section showing company ownership hierarchy"
+  },
+  "ownershipWarning": {
+    "message": "Propiedad no europea",
+    "description": "Warning shown when EU company is owned by non-EU parent"
+  },
+  "labelFounded": {
+    "message": "Fundada:",
+    "description": "Label for company founding year"
+  },
+  "labelConfidence": {
+    "message": "Fiabilidad:",
+    "description": "Label for data confidence level"
+  },
+  "labelLastVerified": {
+    "message": "Última verificación:",
+    "description": "Label for last verification date"
+  },
+  "confidenceHigh": {
+    "message": "Alta",
+    "description": "High confidence level"
+  },
+  "confidenceMedium": {
+    "message": "Media",
+    "description": "Medium confidence level"
+  },
+  "confidenceLow": {
+    "message": "Baja",
+    "description": "Low confidence level"
+  },
+  "unknownNoData": {
+    "message": "No hay datos disponibles para $DOMAIN$",
+    "description": "Message when no company data exists for domain",
+    "placeholders": {
+      "domain": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "errorGeneric": {
+    "message": "Algo salió mal",
+    "description": "Generic error message"
+  },
+  "errorCannotAccess": {
+    "message": "No se puede acceder a esta página",
+    "description": "Error when tab URL cannot be accessed"
+  },
+  "errorNotValidSite": {
+    "message": "No es un sitio web válido",
+    "description": "Error when URL is not a valid website"
+  },
+  "errorFailedToLoad": {
+    "message": "Error al cargar los datos",
+    "description": "Error when data loading fails"
+  },
+  "settingsTitle": {
+    "message": "Configuración de EuroCheck",
+    "description": "Settings page title"
+  },
+  "settingsShowBadge": {
+    "message": "Mostrar insignia en el icono de la barra de herramientas",
+    "description": "Setting to show/hide toolbar badge"
+  },
+  "settingsNotifications": {
+    "message": "Mostrar notificaciones para sitios no europeos",
+    "description": "Setting to enable/disable notifications"
+  },
+  "settingsComingSoon": {
+    "message": "Más ajustes próximamente...",
+    "description": "Placeholder for future settings"
+  },
+  "badgeCurrent": {
+    "message": "Actual",
+    "description": "Badge for current company in ownership chain"
+  },
+  "badgeParent": {
+    "message": "Matriz",
+    "description": "Badge for parent company in ownership chain"
+  },
+  "badgeUltimate": {
+    "message": "Principal",
+    "description": "Badge for ultimate parent in ownership chain"
+  }
+}

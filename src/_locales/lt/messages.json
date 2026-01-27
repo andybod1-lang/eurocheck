@@ -1,0 +1,136 @@
+{
+  "extensionName": {
+    "message": "EuroCheck - ES įmonių identifikatorius",
+    "description": "Extension name shown in browser and store"
+  },
+  "extensionDescription": {
+    "message": "Iškart sužinokite, ar svetainė priklauso Europos, ar ne Europos įmonei",
+    "description": "Extension description for store listing"
+  },
+  "appTitle": {
+    "message": "EuroCheck",
+    "description": "Short app title shown in popup header"
+  },
+  "statusEu": {
+    "message": "Europos įmonė",
+    "description": "Status shown for EU companies"
+  },
+  "statusNonEu": {
+    "message": "Ne Europos įmonė",
+    "description": "Status shown for non-EU companies"
+  },
+  "statusMixed": {
+    "message": "Mišri nuosavybė",
+    "description": "Status shown for companies with mixed EU/non-EU ownership"
+  },
+  "statusUnknown": {
+    "message": "Nežinoma",
+    "description": "Status shown when company origin is unknown"
+  },
+  "loading": {
+    "message": "Tikrinama...",
+    "description": "Loading state text"
+  },
+  "details": {
+    "message": "Išsamiau",
+    "description": "Details section header"
+  },
+  "settings": {
+    "message": "Nustatymai",
+    "description": "Settings link text"
+  },
+  "requestCompany": {
+    "message": "Užklausti šią įmonę",
+    "description": "Button to request data for unknown company"
+  },
+  "requestSubmitted": {
+    "message": "Užklausa pateikta!",
+    "description": "Confirmation after request is submitted"
+  },
+  "ownershipChain": {
+    "message": "Nuosavybės grandinė",
+    "description": "Section showing company ownership hierarchy"
+  },
+  "ownershipWarning": {
+    "message": "Ne ES nuosavybė",
+    "description": "Warning shown when EU company is owned by non-EU parent"
+  },
+  "labelFounded": {
+    "message": "Įkurta:",
+    "description": "Label for company founding year"
+  },
+  "labelConfidence": {
+    "message": "Patikimumas:",
+    "description": "Label for data confidence level"
+  },
+  "labelLastVerified": {
+    "message": "Paskutinį kartą patikrinta:",
+    "description": "Label for last verification date"
+  },
+  "confidenceHigh": {
+    "message": "Aukštas",
+    "description": "High confidence level"
+  },
+  "confidenceMedium": {
+    "message": "Vidutinis",
+    "description": "Medium confidence level"
+  },
+  "confidenceLow": {
+    "message": "Žemas",
+    "description": "Low confidence level"
+  },
+  "unknownNoData": {
+    "message": "Nėra duomenų apie $DOMAIN$",
+    "description": "Message when no company data exists for domain",
+    "placeholders": {
+      "domain": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "errorGeneric": {
+    "message": "Kažkas nepavyko",
+    "description": "Generic error message"
+  },
+  "errorCannotAccess": {
+    "message": "Nepavyksta pasiekti šio puslapio",
+    "description": "Error when tab URL cannot be accessed"
+  },
+  "errorNotValidSite": {
+    "message": "Tai nėra tinkama svetainė",
+    "description": "Error when URL is not a valid website"
+  },
+  "errorFailedToLoad": {
+    "message": "Nepavyko įkelti duomenų",
+    "description": "Error when data loading fails"
+  },
+  "settingsTitle": {
+    "message": "EuroCheck nustatymai",
+    "description": "Settings page title"
+  },
+  "settingsShowBadge": {
+    "message": "Rodyti ženklelį įrankių juostos piktogramoje",
+    "description": "Setting to show/hide toolbar badge"
+  },
+  "settingsNotifications": {
+    "message": "Rodyti pranešimus apie ne ES svetaines",
+    "description": "Setting to enable/disable notifications"
+  },
+  "settingsComingSoon": {
+    "message": "Daugiau nustatymų netrukus...",
+    "description": "Placeholder for future settings"
+  },
+  "badgeCurrent": {
+    "message": "Dabartinė",
+    "description": "Badge for current company in ownership chain"
+  },
+  "badgeParent": {
+    "message": "Patronuojanti",
+    "description": "Badge for parent company in ownership chain"
+  },
+  "badgeUltimate": {
+    "message": "Galutinė",
+    "description": "Badge for ultimate parent in ownership chain"
+  }
+}

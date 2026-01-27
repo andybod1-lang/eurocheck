@@ -1,0 +1,136 @@
+{
+  "extensionName": {
+    "message": "EuroCheck - Identifikuesi i Kompanive të BE-së",
+    "description": "Extension name shown in browser and store"
+  },
+  "extensionDescription": {
+    "message": "Shikoni menjëherë nëse një faqe interneti i përket një kompanie evropiane apo jo-evropiane",
+    "description": "Extension description for store listing"
+  },
+  "appTitle": {
+    "message": "EuroCheck",
+    "description": "Short app title shown in popup header"
+  },
+  "statusEu": {
+    "message": "Kompani Evropiane",
+    "description": "Status shown for EU companies"
+  },
+  "statusNonEu": {
+    "message": "Kompani Jo-Evropiane",
+    "description": "Status shown for non-EU companies"
+  },
+  "statusMixed": {
+    "message": "Pronësi e Përzier",
+    "description": "Status shown for companies with mixed EU/non-EU ownership"
+  },
+  "statusUnknown": {
+    "message": "E panjohur",
+    "description": "Status shown when company origin is unknown"
+  },
+  "loading": {
+    "message": "Po kontrollohet...",
+    "description": "Loading state text"
+  },
+  "details": {
+    "message": "Detajet",
+    "description": "Details section header"
+  },
+  "settings": {
+    "message": "Cilësimet",
+    "description": "Settings link text"
+  },
+  "requestCompany": {
+    "message": "Kërko këtë kompani",
+    "description": "Button to request data for unknown company"
+  },
+  "requestSubmitted": {
+    "message": "Kërkesa u dërgua!",
+    "description": "Confirmation after request is submitted"
+  },
+  "ownershipChain": {
+    "message": "Zinxhiri i Pronësisë",
+    "description": "Section showing company ownership hierarchy"
+  },
+  "ownershipWarning": {
+    "message": "Në pronësi jo-BE",
+    "description": "Warning shown when EU company is owned by non-EU parent"
+  },
+  "labelFounded": {
+    "message": "Themeluar:",
+    "description": "Label for company founding year"
+  },
+  "labelConfidence": {
+    "message": "Besueshmëria:",
+    "description": "Label for data confidence level"
+  },
+  "labelLastVerified": {
+    "message": "Verifikuar për herë të fundit:",
+    "description": "Label for last verification date"
+  },
+  "confidenceHigh": {
+    "message": "E lartë",
+    "description": "High confidence level"
+  },
+  "confidenceMedium": {
+    "message": "E mesme",
+    "description": "Medium confidence level"
+  },
+  "confidenceLow": {
+    "message": "E ulët",
+    "description": "Low confidence level"
+  },
+  "unknownNoData": {
+    "message": "Nuk ka të dhëna për $DOMAIN$",
+    "description": "Message when no company data exists for domain",
+    "placeholders": {
+      "domain": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "errorGeneric": {
+    "message": "Diçka shkoi keq",
+    "description": "Generic error message"
+  },
+  "errorCannotAccess": {
+    "message": "Nuk mund të qaseni në këtë faqe",
+    "description": "Error when tab URL cannot be accessed"
+  },
+  "errorNotValidSite": {
+    "message": "Nuk është një faqe e vlefshme",
+    "description": "Error when URL is not a valid website"
+  },
+  "errorFailedToLoad": {
+    "message": "Dështoi ngarkimi i të dhënave",
+    "description": "Error when data loading fails"
+  },
+  "settingsTitle": {
+    "message": "Cilësimet e EuroCheck",
+    "description": "Settings page title"
+  },
+  "settingsShowBadge": {
+    "message": "Shfaq distinktiv në ikonën e shiritit të veglave",
+    "description": "Setting to show/hide toolbar badge"
+  },
+  "settingsNotifications": {
+    "message": "Shfaq njoftime për faqet jo-BE",
+    "description": "Setting to enable/disable notifications"
+  },
+  "settingsComingSoon": {
+    "message": "Më shumë cilësime së shpejti...",
+    "description": "Placeholder for future settings"
+  },
+  "badgeCurrent": {
+    "message": "Aktuale",
+    "description": "Badge for current company in ownership chain"
+  },
+  "badgeParent": {
+    "message": "Mëmë",
+    "description": "Badge for parent company in ownership chain"
+  },
+  "badgeUltimate": {
+    "message": "Përfundimtare",
+    "description": "Badge for ultimate parent in ownership chain"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "extensionName": {
+    "message": "EuroCheck - Идентификатор на ЕС Компании",
+    "description": "Extension name shown in browser and store"
+  },
+  "extensionDescription": {
+    "message": "Вижте незабавно дали уебсайтът принадлежи на европейска или неевропейска компания",
+    "description": "Extension description for store listing"
+  },
+  "appTitle": {
+    "message": "EuroCheck",
+    "description": "Short app title shown in popup header"
+  },
+  "statusEu": {
+    "message": "Европейска Компания",
+    "description": "Status shown for EU companies"
+  },
+  "statusNonEu": {
+    "message": "Неевропейска Компания",
+    "description": "Status shown for non-EU companies"
+  },
+  "statusMixed": {
+    "message": "Смесена Собственост",
+    "description": "Status shown for companies with mixed EU/non-EU ownership"
+  },
+  "statusUnknown": {
+    "message": "Неизвестно",
+    "description": "Status shown when company origin is unknown"
+  },
+  "loading": {
+    "message": "Проверка...",
+    "description": "Loading state text"
+  },
+  "details": {
+    "message": "Детайли",
+    "description": "Details section header"
+  },
+  "settings": {
+    "message": "Настройки",
+    "description": "Settings link text"
+  },
+  "requestCompany": {
+    "message": "Заявете тази компания",
+    "description": "Button to request data for unknown company"
+  },
+  "requestSubmitted": {
+    "message": "Заявката е изпратена!",
+    "description": "Confirmation after request is submitted"
+  },
+  "ownershipChain": {
+    "message": "Верига на Собственост",
+    "description": "Section showing company ownership hierarchy"
+  },
+  "ownershipWarning": {
+    "message": "Притежава се от извън ЕС",
+    "description": "Warning shown when EU company is owned by non-EU parent"
+  },
+  "labelFounded": {
+    "message": "Основана:",
+    "description": "Label for company founding year"
+  },
+  "labelConfidence": {
+    "message": "Достоверност:",
+    "description": "Label for data confidence level"
+  },
+  "labelLastVerified": {
+    "message": "Последна проверка:",
+    "description": "Label for last verification date"
+  },
+  "confidenceHigh": {
+    "message": "Висока",
+    "description": "High confidence level"
+  },
+  "confidenceMedium": {
+    "message": "Средна",
+    "description": "Medium confidence level"
+  },
+  "confidenceLow": {
+    "message": "Ниска",
+    "description": "Low confidence level"
+  },
+  "unknownNoData": {
+    "message": "Няма данни за $DOMAIN$",
+    "description": "Message when no company data exists for domain",
+    "placeholders": {
+      "domain": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "errorGeneric": {
+    "message": "Нещо се обърка",
+    "description": "Generic error message"
+  },
+  "errorCannotAccess": {
+    "message": "Няма достъп до тази страница",
+    "description": "Error when tab URL cannot be accessed"
+  },
+  "errorNotValidSite": {
+    "message": "Не е валиден уебсайт",
+    "description": "Error when URL is not a valid website"
+  },
+  "errorFailedToLoad": {
+    "message": "Неуспешно зареждане на данни",
+    "description": "Error when data loading fails"
+  },
+  "settingsTitle": {
+    "message": "Настройки на EuroCheck",
+    "description": "Settings page title"
+  },
+  "settingsShowBadge": {
+    "message": "Показвай значка върху иконата в лентата с инструменти",
+    "description": "Setting to show/hide toolbar badge"
+  },
+  "settingsNotifications": {
+    "message": "Показвай известия за сайтове извън ЕС",
+    "description": "Setting to enable/disable notifications"
+  },
+  "settingsComingSoon": {
+    "message": "Повече настройки очаквайте скоро...",
+    "description": "Placeholder for future settings"
+  },
+  "badgeCurrent": {
+    "message": "Текуща",
+    "description": "Badge for current company in ownership chain"
+  },
+  "badgeParent": {
+    "message": "Родител",
+    "description": "Badge for parent company in ownership chain"
+  },
+  "badgeUltimate": {
+    "message": "Краен",
+    "description": "Badge for ultimate parent in ownership chain"
+  }
+}

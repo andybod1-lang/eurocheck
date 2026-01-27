@@ -1,0 +1,3072 @@
+[
+  {
+    "name": "Rohlik Group",
+    "website": "rohlik.cz",
+    "hq_country": "CZ",
+    "hq_city": "Prague",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Online Grocery",
+    "founded_year": 2014,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.rohlik.cz/",
+      "https://www.rohlik.group/"
+    ]
+  },
+  {
+    "name": "Crisp",
+    "website": "crisp.nl",
+    "hq_country": "NL",
+    "hq_city": "Amsterdam",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Online Grocery",
+    "founded_year": 2018,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://crisp.nl/"
+    ]
+  },
+  {
+    "name": "Marley Spoon",
+    "website": "marleyspoon.com",
+    "hq_country": "DE",
+    "hq_city": "Berlin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meal Kit Delivery",
+    "founded_year": 2014,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://marleyspoon.com/",
+      "https://www.marleyspoon.com.au/about"
+    ]
+  },
+  {
+    "name": "Foodspring",
+    "website": "foodspring.de",
+    "hq_country": "DE",
+    "hq_city": "Berlin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Sports Nutrition",
+    "founded_year": 2013,
+    "ultimate_parent": "Mars Inc.",
+    "confidence": "high",
+    "sources": [
+      "https://www.foodspring.de/",
+      "https://www.mars.com/"
+    ]
+  },
+  {
+    "name": "KoRo",
+    "website": "koro.de",
+    "hq_country": "DE",
+    "hq_city": "Berlin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Specialty Food",
+    "founded_year": 2014,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.koro.de/"
+    ]
+  },
+  {
+    "name": "Vivino",
+    "website": "vivino.com",
+    "hq_country": "DK",
+    "hq_city": "Copenhagen",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Wine & Alcohol",
+    "founded_year": 2010,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vivino",
+      "https://www.vivino.com/"
+    ]
+  },
+  {
+    "name": "Naked Wines",
+    "website": "nakedwines.com",
+    "hq_country": "GB",
+    "hq_city": "Norwich",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Wine & Alcohol",
+    "founded_year": 2008,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Naked_Wines",
+      "https://www.nakedwines.com/"
+    ]
+  },
+  {
+    "name": "Majestic Wine",
+    "website": "majestic.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Watford",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Wine & Alcohol",
+    "founded_year": 1980,
+    "ultimate_parent": "Fortress Investment Group",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Majestic_Wine",
+      "https://www.majestic.co.uk/"
+    ]
+  },
+  {
+    "name": "Bitiba",
+    "website": "bitiba.de",
+    "hq_country": "DE",
+    "hq_city": "Munich",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Pet Food",
+    "founded_year": 2012,
+    "ultimate_parent": "Zooplus (Hellman & Friedman)",
+    "confidence": "medium",
+    "sources": [
+      "https://www.bitiba.de/"
+    ]
+  },
+  {
+    "name": "FreshDirect",
+    "website": "freshdirect.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Online Grocery",
+    "founded_year": 1999,
+    "ultimate_parent": "Getir",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/FreshDirect",
+      "https://www.freshdirect.com/"
+    ]
+  },
+  {
+    "name": "Peapod",
+    "website": "peapod.com",
+    "hq_country": "US",
+    "hq_city": "Chicago",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Online Grocery",
+    "founded_year": 1989,
+    "ultimate_parent": "Ahold Delhaize",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Peapod",
+      "https://www.peapod.com/"
+    ]
+  },
+  {
+    "name": "Shipt",
+    "website": "shipt.com",
+    "hq_country": "US",
+    "hq_city": "Birmingham",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Grocery Delivery",
+    "founded_year": 2014,
+    "ultimate_parent": "Target Corporation",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Shipt",
+      "https://www.shipt.com/"
+    ]
+  },
+  {
+    "name": "Dinnerly",
+    "website": "dinnerly.com",
+    "hq_country": "DE",
+    "hq_city": "Berlin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meal Kit Delivery",
+    "founded_year": 2017,
+    "ultimate_parent": "Marley Spoon",
+    "confidence": "high",
+    "sources": [
+      "https://dinnerly.com/"
+    ]
+  },
+  {
+    "name": "Green Chef",
+    "website": "greenchef.com",
+    "hq_country": "US",
+    "hq_city": "Boulder",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meal Kit Delivery",
+    "founded_year": 2014,
+    "ultimate_parent": "HelloFresh",
+    "confidence": "high",
+    "sources": [
+      "https://www.greenchef.com/"
+    ]
+  },
+  {
+    "name": "Factor",
+    "website": "factor75.com",
+    "hq_country": "US",
+    "hq_city": "Batavia",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meal Delivery",
+    "founded_year": 2013,
+    "ultimate_parent": "HelloFresh",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/HelloFresh",
+      "https://www.factor75.com/"
+    ]
+  },
+  {
+    "name": "Home Chef",
+    "website": "homechef.com",
+    "hq_country": "US",
+    "hq_city": "Chicago",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meal Kit Delivery",
+    "founded_year": 2013,
+    "ultimate_parent": "Kroger",
+    "confidence": "high",
+    "sources": [
+      "https://www.homechef.com/"
+    ]
+  },
+  {
+    "name": "Sunbasket",
+    "website": "sunbasket.com",
+    "hq_country": "US",
+    "hq_city": "San Francisco",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meal Kit Delivery",
+    "founded_year": 2014,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.sunbasket.com/"
+    ]
+  },
+  {
+    "name": "Purple Carrot",
+    "website": "purplecarrot.com",
+    "hq_country": "US",
+    "hq_city": "Needham",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meal Kit Delivery",
+    "founded_year": 2014,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.purplecarrot.com/"
+    ]
+  },
+  {
+    "name": "EveryPlate",
+    "website": "everyplate.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meal Kit Delivery",
+    "founded_year": 2018,
+    "ultimate_parent": "HelloFresh",
+    "confidence": "high",
+    "sources": [
+      "https://www.everyplate.com/"
+    ]
+  },
+  {
+    "name": "Goodfood",
+    "website": "makegoodfood.ca",
+    "hq_country": "CA",
+    "hq_city": "Montreal",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meal Kit Delivery",
+    "founded_year": 2014,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.makegoodfood.ca/"
+    ]
+  },
+  {
+    "name": "Cook It",
+    "website": "chefcookit.com",
+    "hq_country": "CA",
+    "hq_city": "Montreal",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meal Kit Delivery",
+    "founded_year": 2014,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.chefcookit.com/"
+    ]
+  },
+  {
+    "name": "My Food Bag",
+    "website": "myfoodbag.co.nz",
+    "hq_country": "NZ",
+    "hq_city": "Auckland",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meal Kit Delivery",
+    "founded_year": 2013,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.myfoodbag.co.nz/"
+    ]
+  },
+  {
+    "name": "Linas Matkasse",
+    "website": "linasmatkasse.se",
+    "hq_country": "SE",
+    "hq_city": "Stockholm",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meal Kit Delivery",
+    "founded_year": 2008,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.linasmatkasse.se/"
+    ]
+  },
+  {
+    "name": "Middagsfrid",
+    "website": "middagsfrid.se",
+    "hq_country": "SE",
+    "hq_city": "Stockholm",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meal Kit Delivery",
+    "founded_year": 2007,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.middagsfrid.se/"
+    ]
+  },
+  {
+    "name": "Mathem",
+    "website": "mathem.se",
+    "hq_country": "SE",
+    "hq_city": "Stockholm",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Online Grocery",
+    "founded_year": 2006,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.mathem.se/"
+    ]
+  },
+  {
+    "name": "Mat.se",
+    "website": "mat.se",
+    "hq_country": "SE",
+    "hq_city": "Stockholm",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Online Grocery",
+    "founded_year": 2007,
+    "ultimate_parent": "Axfood",
+    "confidence": "high",
+    "sources": [
+      "https://www.mat.se/"
+    ]
+  },
+  {
+    "name": "Adams Matkasse",
+    "website": "adamsmatkasse.no",
+    "hq_country": "NO",
+    "hq_city": "Oslo",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meal Kit Delivery",
+    "founded_year": 2015,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.adamsmatkasse.no/"
+    ]
+  },
+  {
+    "name": "Nemlig",
+    "website": "nemlig.com",
+    "hq_country": "DK",
+    "hq_city": "Copenhagen",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Online Grocery",
+    "founded_year": 2010,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.nemlig.com/"
+    ]
+  },
+  {
+    "name": "Aarstiderne",
+    "website": "aarstiderne.com",
+    "hq_country": "DK",
+    "hq_city": "Barritskov",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Organic Food Delivery",
+    "founded_year": 1999,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.aarstiderne.com/"
+    ]
+  },
+  {
+    "name": "Simple Feast",
+    "website": "simplefeast.com",
+    "hq_country": "DK",
+    "hq_city": "Copenhagen",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meal Kit Delivery",
+    "founded_year": 2014,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.simplefeast.com/"
+    ]
+  },
+  {
+    "name": "Farmdrop",
+    "website": "farmdrop.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Online Grocery",
+    "founded_year": 2012,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.farmdrop.com/"
+    ]
+  },
+  {
+    "name": "Abel & Cole",
+    "website": "abelandcole.co.uk",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Organic Food Delivery",
+    "founded_year": 1988,
+    "ultimate_parent": "William Jackson Food Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.abelandcole.co.uk/"
+    ]
+  },
+  {
+    "name": "Riverford",
+    "website": "riverford.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Buckfastleigh",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Organic Food Delivery",
+    "founded_year": 1987,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.riverford.co.uk/"
+    ]
+  },
+  {
+    "name": "Oddbox",
+    "website": "oddbox.co.uk",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Specialty Food",
+    "founded_year": 2016,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.oddbox.co.uk/"
+    ]
+  },
+  {
+    "name": "Allplants",
+    "website": "allplants.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meal Delivery",
+    "founded_year": 2017,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.allplants.com/"
+    ]
+  },
+  {
+    "name": "Pasta Evangelists",
+    "website": "pastaevangelists.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meal Kit Delivery",
+    "founded_year": 2016,
+    "ultimate_parent": "Barilla",
+    "confidence": "high",
+    "sources": [
+      "https://www.pastaevangelists.com/"
+    ]
+  },
+  {
+    "name": "Potager City",
+    "website": "potagercity.fr",
+    "hq_country": "FR",
+    "hq_city": "Lyon",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Online Grocery",
+    "founded_year": 2007,
+    "ultimate_parent": "Carrefour",
+    "confidence": "high",
+    "sources": [
+      "https://www.potagercity.fr/"
+    ]
+  },
+  {
+    "name": "Quitoque",
+    "website": "quitoque.fr",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meal Kit Delivery",
+    "founded_year": 2015,
+    "ultimate_parent": "Carrefour",
+    "confidence": "high",
+    "sources": [
+      "https://www.quitoque.fr/"
+    ]
+  },
+  {
+    "name": "Rutabago",
+    "website": "rutabago.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meal Kit Delivery",
+    "founded_year": 2017,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.rutabago.com/"
+    ]
+  },
+  {
+    "name": "La Ruche qui dit Oui",
+    "website": "laruchequiditoui.fr",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Online Grocery",
+    "founded_year": 2011,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.laruchequiditoui.fr/"
+    ]
+  },
+  {
+    "name": "Pourdebon",
+    "website": "pourdebon.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Specialty Food",
+    "founded_year": 2015,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.pourdebon.com/"
+    ]
+  },
+  {
+    "name": "Mon Marché",
+    "website": "mon-marche.fr",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Online Grocery",
+    "founded_year": 2016,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.mon-marche.fr/"
+    ]
+  },
+  {
+    "name": "Bofrost",
+    "website": "bofrost.de",
+    "hq_country": "DE",
+    "hq_city": "Straelen",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Frozen Food Delivery",
+    "founded_year": 1966,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.bofrost.de/"
+    ]
+  },
+  {
+    "name": "Flaschenpost",
+    "website": "flaschenpost.de",
+    "hq_country": "DE",
+    "hq_city": "Münster",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Beverage Delivery",
+    "founded_year": 2012,
+    "ultimate_parent": "Dr. Oetker",
+    "confidence": "high",
+    "sources": [
+      "https://www.flaschenpost.de/"
+    ]
+  },
+  {
+    "name": "Getnow",
+    "website": "getnow.de",
+    "hq_country": "DE",
+    "hq_city": "Berlin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Online Grocery",
+    "founded_year": 2014,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.getnow.de/"
+    ]
+  },
+  {
+    "name": "Allyouneedfresh",
+    "website": "allyouneedfresh.de",
+    "hq_country": "DE",
+    "hq_city": "Bonn",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Online Grocery",
+    "founded_year": 2014,
+    "ultimate_parent": "Deutsche Post DHL",
+    "confidence": "medium",
+    "sources": [
+      "https://www.allyouneedfresh.de/"
+    ]
+  },
+  {
+    "name": "myTime.de",
+    "website": "mytime.de",
+    "hq_country": "DE",
+    "hq_city": "Schenefeld",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Online Grocery",
+    "founded_year": 2011,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.mytime.de/"
+    ]
+  },
+  {
+    "name": "Knuspr",
+    "website": "knuspr.de",
+    "hq_country": "DE",
+    "hq_city": "Munich",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Online Grocery",
+    "founded_year": 2021,
+    "ultimate_parent": "Rohlik Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.knuspr.de/"
+    ]
+  },
+  {
+    "name": "Everli",
+    "website": "everli.com",
+    "hq_country": "IT",
+    "hq_city": "Verona",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Online Grocery",
+    "founded_year": 2014,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.everli.com/"
+    ]
+  },
+  {
+    "name": "Cortilia",
+    "website": "cortilia.it",
+    "hq_country": "IT",
+    "hq_city": "Milan",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Organic Food Delivery",
+    "founded_year": 2011,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.cortilia.it/"
+    ]
+  },
+  {
+    "name": "Fruttaweb",
+    "website": "fruttaweb.com",
+    "hq_country": "IT",
+    "hq_city": "Bologna",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Online Grocery",
+    "founded_year": 2014,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.fruttaweb.com/"
+    ]
+  },
+  {
+    "name": "Ulabox",
+    "website": "ulabox.com",
+    "hq_country": "ES",
+    "hq_city": "Barcelona",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Online Grocery",
+    "founded_year": 2011,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.ulabox.com/"
+    ]
+  },
+  {
+    "name": "Deliberry",
+    "website": "deliberry.com",
+    "hq_country": "ES",
+    "hq_city": "Madrid",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Online Grocery",
+    "founded_year": 2015,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.deliberry.com/"
+    ]
+  },
+  {
+    "name": "Tudespensa",
+    "website": "tudespensa.com",
+    "hq_country": "ES",
+    "hq_city": "Madrid",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Online Grocery",
+    "founded_year": 2012,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.tudespensa.com/"
+    ]
+  },
+  {
+    "name": "Continente Online",
+    "website": "continente.pt",
+    "hq_country": "PT",
+    "hq_city": "Matosinhos",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Online Grocery",
+    "founded_year": 2001,
+    "ultimate_parent": "Sonae",
+    "confidence": "high",
+    "sources": [
+      "https://www.continente.pt/"
+    ]
+  },
+  {
+    "name": "Fresco",
+    "website": "fresco.pl",
+    "hq_country": "PL",
+    "hq_city": "Warsaw",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Online Grocery",
+    "founded_year": 2015,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.fresco.pl/"
+    ]
+  },
+  {
+    "name": "Szopi",
+    "website": "szopi.pl",
+    "hq_country": "PL",
+    "hq_city": "Katowice",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Online Grocery",
+    "founded_year": 2018,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.szopi.pl/"
+    ]
+  },
+  {
+    "name": "Barbora",
+    "website": "barbora.lt",
+    "hq_country": "LT",
+    "hq_city": "Vilnius",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Online Grocery",
+    "founded_year": 2014,
+    "ultimate_parent": "Maxima Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.barbora.lt/"
+    ]
+  },
+  {
+    "name": "Gurkerl.at",
+    "website": "gurkerl.at",
+    "hq_country": "AT",
+    "hq_city": "Vienna",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Online Grocery",
+    "founded_year": 2021,
+    "ultimate_parent": "Rohlik Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.gurkerl.at/"
+    ]
+  },
+  {
+    "name": "Kifli.hu",
+    "website": "kifli.hu",
+    "hq_country": "HU",
+    "hq_city": "Budapest",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Online Grocery",
+    "founded_year": 2019,
+    "ultimate_parent": "Rohlik Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.kifli.hu/"
+    ]
+  },
+  {
+    "name": "Winelivery",
+    "website": "winelivery.com",
+    "hq_country": "IT",
+    "hq_city": "Milan",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Wine & Alcohol",
+    "founded_year": 2015,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.winelivery.com/"
+    ]
+  },
+  {
+    "name": "Tannico",
+    "website": "tannico.it",
+    "hq_country": "IT",
+    "hq_city": "Milan",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Wine & Alcohol",
+    "founded_year": 2013,
+    "ultimate_parent": "Campari Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.tannico.it/"
+    ]
+  },
+  {
+    "name": "Vinatis",
+    "website": "vinatis.com",
+    "hq_country": "FR",
+    "hq_city": "Beaune",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Wine & Alcohol",
+    "founded_year": 2002,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.vinatis.com/"
+    ]
+  },
+  {
+    "name": "Wine.com",
+    "website": "wine.com",
+    "hq_country": "US",
+    "hq_city": "San Francisco",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Wine & Alcohol",
+    "founded_year": 1998,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.wine.com/"
+    ]
+  },
+  {
+    "name": "Drizly",
+    "website": "drizly.com",
+    "hq_country": "US",
+    "hq_city": "Boston",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Wine & Alcohol",
+    "founded_year": 2012,
+    "ultimate_parent": "Uber",
+    "confidence": "high",
+    "sources": [
+      "https://www.drizly.com/"
+    ]
+  },
+  {
+    "name": "Minibar Delivery",
+    "website": "minibardelivery.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Wine & Alcohol",
+    "founded_year": 2014,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.minibardelivery.com/"
+    ]
+  },
+  {
+    "name": "Virgin Wines",
+    "website": "virginwines.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Norwich",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Wine & Alcohol",
+    "founded_year": 2000,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.virginwines.co.uk/"
+    ]
+  },
+  {
+    "name": "Laithwaites",
+    "website": "laithwaites.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Gloucester",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Wine & Alcohol",
+    "founded_year": 1969,
+    "ultimate_parent": "Direct Wines",
+    "confidence": "high",
+    "sources": [
+      "https://www.laithwaites.co.uk/"
+    ]
+  },
+  {
+    "name": "The Wine Society",
+    "website": "thewinesociety.com",
+    "hq_country": "GB",
+    "hq_city": "Stevenage",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Wine & Alcohol",
+    "founded_year": 1874,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.thewinesociety.com/"
+    ]
+  },
+  {
+    "name": "Berry Bros. & Rudd",
+    "website": "bbr.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Wine & Alcohol",
+    "founded_year": 1698,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.bbr.com/"
+    ]
+  },
+  {
+    "name": "Pet Circle",
+    "website": "petcircle.com.au",
+    "hq_country": "AU",
+    "hq_city": "Sydney",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Pet Food",
+    "founded_year": 2011,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.petcircle.com.au/"
+    ]
+  },
+  {
+    "name": "Pets at Home",
+    "website": "petsathome.com",
+    "hq_country": "GB",
+    "hq_city": "Handforth",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Pet Food",
+    "founded_year": 1991,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.petsathome.com/"
+    ]
+  },
+  {
+    "name": "Zoo.co.uk",
+    "website": "zoo.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Sheffield",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Pet Food",
+    "founded_year": 2010,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.zoo.co.uk/"
+    ]
+  },
+  {
+    "name": "Medpets",
+    "website": "medpets.nl",
+    "hq_country": "NL",
+    "hq_city": "Tilburg",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Pet Food",
+    "founded_year": 2007,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.medpets.nl/"
+    ]
+  },
+  {
+    "name": "PetsDeli",
+    "website": "petsdeli.de",
+    "hq_country": "DE",
+    "hq_city": "Berlin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Pet Food",
+    "founded_year": 2014,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.petsdeli.de/"
+    ]
+  },
+  {
+    "name": "Tails.com",
+    "website": "tails.com",
+    "hq_country": "GB",
+    "hq_city": "Richmond",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Pet Food",
+    "founded_year": 2014,
+    "ultimate_parent": "Nestlé Purina",
+    "confidence": "high",
+    "sources": [
+      "https://www.tails.com/"
+    ]
+  },
+  {
+    "name": "Butternut Box",
+    "website": "butternutbox.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Pet Food",
+    "founded_year": 2016,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.butternutbox.com/"
+    ]
+  },
+  {
+    "name": "The Farmer's Dog",
+    "website": "thefarmersdog.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Pet Food",
+    "founded_year": 2014,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.thefarmersdog.com/"
+    ]
+  },
+  {
+    "name": "Ollie",
+    "website": "myollie.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Pet Food",
+    "founded_year": 2015,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.myollie.com/"
+    ]
+  },
+  {
+    "name": "Nom Nom",
+    "website": "nomnomnow.com",
+    "hq_country": "US",
+    "hq_city": "Nashville",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Pet Food",
+    "founded_year": 2015,
+    "ultimate_parent": "Mars Petcare",
+    "confidence": "high",
+    "sources": [
+      "https://www.nomnomnow.com/"
+    ]
+  },
+  {
+    "name": "BarkBox",
+    "website": "barkbox.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Pet Products",
+    "founded_year": 2012,
+    "ultimate_parent": "Bark",
+    "confidence": "high",
+    "sources": [
+      "https://www.barkbox.com/"
+    ]
+  },
+  {
+    "name": "PetPlate",
+    "website": "petplate.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Pet Food",
+    "founded_year": 2016,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.petplate.com/"
+    ]
+  },
+  {
+    "name": "JustFoodForDogs",
+    "website": "justfoodfordogs.com",
+    "hq_country": "US",
+    "hq_city": "Irvine",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Pet Food",
+    "founded_year": 2010,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.justfoodfordogs.com/"
+    ]
+  },
+  {
+    "name": "Thrive Market",
+    "website": "thrivemarket.com",
+    "hq_country": "US",
+    "hq_city": "Los Angeles",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Organic Food",
+    "founded_year": 2014,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.thrivemarket.com/"
+    ]
+  },
+  {
+    "name": "Imperfect Foods",
+    "website": "imperfectfoods.com",
+    "hq_country": "US",
+    "hq_city": "San Francisco",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Online Grocery",
+    "founded_year": 2015,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.imperfectfoods.com/"
+    ]
+  },
+  {
+    "name": "Misfits Market",
+    "website": "misfitsmarket.com",
+    "hq_country": "US",
+    "hq_city": "Pennsauken",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Online Grocery",
+    "founded_year": 2018,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.misfitsmarket.com/"
+    ]
+  },
+  {
+    "name": "Hungryroot",
+    "website": "hungryroot.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Online Grocery",
+    "founded_year": 2015,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.hungryroot.com/"
+    ]
+  },
+  {
+    "name": "Tovala",
+    "website": "tovala.com",
+    "hq_country": "US",
+    "hq_city": "Chicago",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meal Delivery",
+    "founded_year": 2015,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.tovala.com/"
+    ]
+  },
+  {
+    "name": "Daily Harvest",
+    "website": "daily-harvest.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meal Delivery",
+    "founded_year": 2015,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.daily-harvest.com/"
+    ]
+  },
+  {
+    "name": "CookUnity",
+    "website": "cookunity.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meal Delivery",
+    "founded_year": 2015,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.cookunity.com/"
+    ]
+  },
+  {
+    "name": "Snap Kitchen",
+    "website": "snapkitchen.com",
+    "hq_country": "US",
+    "hq_city": "Austin",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meal Delivery",
+    "founded_year": 2010,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.snapkitchen.com/"
+    ]
+  },
+  {
+    "name": "Territory Foods",
+    "website": "territoryfoods.com",
+    "hq_country": "US",
+    "hq_city": "Washington D.C.",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meal Delivery",
+    "founded_year": 2015,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.territoryfoods.com/"
+    ]
+  },
+  {
+    "name": "Splendid Spoon",
+    "website": "splendidspoon.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meal Delivery",
+    "founded_year": 2013,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.splendidspoon.com/"
+    ]
+  },
+  {
+    "name": "Mosaic Foods",
+    "website": "mosaicfoods.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meal Delivery",
+    "founded_year": 2017,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.mosaicfoods.com/"
+    ]
+  },
+  {
+    "name": "Sakara Life",
+    "website": "sakara.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meal Delivery",
+    "founded_year": 2012,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.sakara.com/"
+    ]
+  },
+  {
+    "name": "Veestro",
+    "website": "veestro.com",
+    "hq_country": "US",
+    "hq_city": "Los Angeles",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meal Delivery",
+    "founded_year": 2013,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.veestro.com/"
+    ]
+  },
+  {
+    "name": "Thistle",
+    "website": "thistle.co",
+    "hq_country": "US",
+    "hq_city": "San Francisco",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meal Delivery",
+    "founded_year": 2013,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.thistle.co/"
+    ]
+  },
+  {
+    "name": "Gobble",
+    "website": "gobble.com",
+    "hq_country": "US",
+    "hq_city": "Palo Alto",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meal Kit Delivery",
+    "founded_year": 2011,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.gobble.com/"
+    ]
+  },
+  {
+    "name": "Chefs Plate",
+    "website": "chefsplate.com",
+    "hq_country": "CA",
+    "hq_city": "Toronto",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meal Kit Delivery",
+    "founded_year": 2014,
+    "ultimate_parent": "HelloFresh",
+    "confidence": "high",
+    "sources": [
+      "https://www.chefsplate.com/"
+    ]
+  },
+  {
+    "name": "Youfoodz",
+    "website": "youfoodz.com",
+    "hq_country": "AU",
+    "hq_city": "Brisbane",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meal Delivery",
+    "founded_year": 2012,
+    "ultimate_parent": "HelloFresh",
+    "confidence": "high",
+    "sources": [
+      "https://www.youfoodz.com/"
+    ]
+  },
+  {
+    "name": "Muscle Food",
+    "website": "musclefood.com",
+    "hq_country": "GB",
+    "hq_city": "Nottingham",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Specialty Food",
+    "founded_year": 2013,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.musclefood.com/"
+    ]
+  },
+  {
+    "name": "Simply Cook",
+    "website": "simplycook.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Recipe Box",
+    "founded_year": 2014,
+    "ultimate_parent": "Nestlé",
+    "confidence": "high",
+    "sources": [
+      "https://www.simplycook.com/"
+    ]
+  },
+  {
+    "name": "Detox Kitchen",
+    "website": "detoxkitchen.co.uk",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meal Delivery",
+    "founded_year": 2012,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.detoxkitchen.co.uk/"
+    ]
+  },
+  {
+    "name": "Balance Box",
+    "website": "balancebox.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meal Delivery",
+    "founded_year": 2012,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.balancebox.com/"
+    ]
+  },
+  {
+    "name": "The Vegan Kind",
+    "website": "thevegankind.com",
+    "hq_country": "GB",
+    "hq_city": "Glasgow",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Specialty Food",
+    "founded_year": 2013,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.thevegankind.com/"
+    ]
+  },
+  {
+    "name": "Kazidomi",
+    "website": "kazidomi.com",
+    "hq_country": "BE",
+    "hq_city": "Brussels",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Organic Food",
+    "founded_year": 2016,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.kazidomi.com/"
+    ]
+  },
+  {
+    "name": "Farmy",
+    "website": "farmy.ch",
+    "hq_country": "CH",
+    "hq_city": "Zurich",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Online Grocery",
+    "founded_year": 2014,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.farmy.ch/"
+    ]
+  },
+  {
+    "name": "Nu3",
+    "website": "nu3.de",
+    "hq_country": "DE",
+    "hq_city": "Berlin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Health Food",
+    "founded_year": 2011,
+    "ultimate_parent": "Shop Apotheke Europe",
+    "confidence": "high",
+    "sources": [
+      "https://www.nu3.de/"
+    ]
+  },
+  {
+    "name": "Myprotein",
+    "website": "myprotein.com",
+    "hq_country": "GB",
+    "hq_city": "Manchester",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Sports Nutrition",
+    "founded_year": 2004,
+    "ultimate_parent": "The Hut Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.myprotein.com/"
+    ]
+  },
+  {
+    "name": "Bulk Powders",
+    "website": "bulk.com",
+    "hq_country": "GB",
+    "hq_city": "Colchester",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Sports Nutrition",
+    "founded_year": 2006,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.bulk.com/"
+    ]
+  },
+  {
+    "name": "Prozis",
+    "website": "prozis.com",
+    "hq_country": "PT",
+    "hq_city": "Maia",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Sports Nutrition",
+    "founded_year": 2007,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.prozis.com/"
+    ]
+  },
+  {
+    "name": "ESN",
+    "website": "esn.com",
+    "hq_country": "DE",
+    "hq_city": "Düsseldorf",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Sports Nutrition",
+    "founded_year": 2005,
+    "ultimate_parent": "Fitmart",
+    "confidence": "high",
+    "sources": [
+      "https://www.esn.com/"
+    ]
+  },
+  {
+    "name": "Body&Fit",
+    "website": "bodyandfit.com",
+    "hq_country": "NL",
+    "hq_city": "Amsterdam",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Sports Nutrition",
+    "founded_year": 1995,
+    "ultimate_parent": "Glanbia",
+    "confidence": "high",
+    "sources": [
+      "https://www.bodyandfit.com/"
+    ]
+  },
+  {
+    "name": "Naak",
+    "website": "naak.com",
+    "hq_country": "CA",
+    "hq_city": "Montreal",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Sports Nutrition",
+    "founded_year": 2016,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.naak.com/"
+    ]
+  },
+  {
+    "name": "Graze",
+    "website": "graze.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Snack Subscription",
+    "founded_year": 2008,
+    "ultimate_parent": "Unilever",
+    "confidence": "high",
+    "sources": [
+      "https://www.graze.com/"
+    ]
+  },
+  {
+    "name": "NatureBox",
+    "website": "naturebox.com",
+    "hq_country": "US",
+    "hq_city": "Redwood City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Snack Subscription",
+    "founded_year": 2012,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.naturebox.com/"
+    ]
+  },
+  {
+    "name": "SnackNation",
+    "website": "snacknation.com",
+    "hq_country": "US",
+    "hq_city": "Los Angeles",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Snack Subscription",
+    "founded_year": 2014,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.snacknation.com/"
+    ]
+  },
+  {
+    "name": "Love With Food",
+    "website": "lovewithfood.com",
+    "hq_country": "US",
+    "hq_city": "San Francisco",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Snack Subscription",
+    "founded_year": 2012,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.lovewithfood.com/"
+    ]
+  },
+  {
+    "name": "MunchPak",
+    "website": "munchpak.com",
+    "hq_country": "US",
+    "hq_city": "Pittsburgh",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Snack Subscription",
+    "founded_year": 2012,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.munchpak.com/"
+    ]
+  },
+  {
+    "name": "Crowd Cow",
+    "website": "crowdcow.com",
+    "hq_country": "US",
+    "hq_city": "Seattle",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meat Delivery",
+    "founded_year": 2015,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.crowdcow.com/"
+    ]
+  },
+  {
+    "name": "ButcherBox",
+    "website": "butcherbox.com",
+    "hq_country": "US",
+    "hq_city": "Boston",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meat Delivery",
+    "founded_year": 2015,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.butcherbox.com/"
+    ]
+  },
+  {
+    "name": "Porter Road",
+    "website": "porterroad.com",
+    "hq_country": "US",
+    "hq_city": "Nashville",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meat Delivery",
+    "founded_year": 2011,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.porterroad.com/"
+    ]
+  },
+  {
+    "name": "Snake River Farms",
+    "website": "snakeriverfarms.com",
+    "hq_country": "US",
+    "hq_city": "Boise",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meat Delivery",
+    "founded_year": 1968,
+    "ultimate_parent": "Agri Beef Co.",
+    "confidence": "high",
+    "sources": [
+      "https://www.snakeriverfarms.com/"
+    ]
+  },
+  {
+    "name": "Holy Grail Steak",
+    "website": "holygrailsteak.com",
+    "hq_country": "US",
+    "hq_city": "Charleston",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meat Delivery",
+    "founded_year": 2016,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.holygrailsteak.com/"
+    ]
+  },
+  {
+    "name": "Farmison & Co",
+    "website": "farmison.com",
+    "hq_country": "GB",
+    "hq_city": "Ripon",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meat Delivery",
+    "founded_year": 2011,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.farmison.com/"
+    ]
+  },
+  {
+    "name": "Field&Flower",
+    "website": "fieldandflower.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Bristol",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meat Delivery",
+    "founded_year": 2015,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.fieldandflower.co.uk/"
+    ]
+  },
+  {
+    "name": "Wild Alaskan Company",
+    "website": "wildalaskancompany.com",
+    "hq_country": "US",
+    "hq_city": "Denver",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Seafood Delivery",
+    "founded_year": 2017,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.wildalaskancompany.com/"
+    ]
+  },
+  {
+    "name": "Sizzlefish",
+    "website": "sizzlefish.com",
+    "hq_country": "US",
+    "hq_city": "Virginia Beach",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Seafood Delivery",
+    "founded_year": 2012,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.sizzlefish.com/"
+    ]
+  },
+  {
+    "name": "Fulton Fish Market",
+    "website": "fultonfishmarket.com",
+    "hq_country": "US",
+    "hq_city": "Bronx",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Seafood Delivery",
+    "founded_year": 2017,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.fultonfishmarket.com/"
+    ]
+  },
+  {
+    "name": "Vital Choice",
+    "website": "vitalchoice.com",
+    "hq_country": "US",
+    "hq_city": "Bellingham",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Seafood Delivery",
+    "founded_year": 2001,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.vitalchoice.com/"
+    ]
+  },
+  {
+    "name": "Getfish",
+    "website": "getfish.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Grimsby",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Seafood Delivery",
+    "founded_year": 2020,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.getfish.co.uk/"
+    ]
+  },
+  {
+    "name": "FishBox",
+    "website": "fishbox.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Kent",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Seafood Delivery",
+    "founded_year": 2018,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.fishbox.co.uk/"
+    ]
+  },
+  {
+    "name": "Panda Express",
+    "website": "pandaexpress.com",
+    "hq_country": "US",
+    "hq_city": "Rosemead",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Food Delivery",
+    "founded_year": 1983,
+    "ultimate_parent": "Panda Restaurant Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.pandaexpress.com/"
+    ]
+  },
+  {
+    "name": "Natures Best",
+    "website": "naturesbest.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Tunbridge Wells",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Health Food",
+    "founded_year": 1992,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.naturesbest.co.uk/"
+    ]
+  },
+  {
+    "name": "Holland & Barrett",
+    "website": "hollandandbarrett.com",
+    "hq_country": "GB",
+    "hq_city": "Nuneaton",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Health Food",
+    "founded_year": 1870,
+    "ultimate_parent": "LetterOne",
+    "confidence": "high",
+    "sources": [
+      "https://www.hollandandbarrett.com/"
+    ]
+  },
+  {
+    "name": "iHerb",
+    "website": "iherb.com",
+    "hq_country": "US",
+    "hq_city": "Irvine",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Health Food",
+    "founded_year": 1996,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.iherb.com/"
+    ]
+  },
+  {
+    "name": "Vitacost",
+    "website": "vitacost.com",
+    "hq_country": "US",
+    "hq_city": "Boca Raton",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Health Food",
+    "founded_year": 1994,
+    "ultimate_parent": "Kroger",
+    "confidence": "high",
+    "sources": [
+      "https://www.vitacost.com/"
+    ]
+  },
+  {
+    "name": "Swanson Health",
+    "website": "swansonvitamins.com",
+    "hq_country": "US",
+    "hq_city": "Fargo",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Health Food",
+    "founded_year": 1969,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.swansonvitamins.com/"
+    ]
+  },
+  {
+    "name": "Lucky Vitamin",
+    "website": "luckyvitamin.com",
+    "hq_country": "US",
+    "hq_city": "Conshohocken",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Health Food",
+    "founded_year": 2004,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.luckyvitamin.com/"
+    ]
+  },
+  {
+    "name": "Ocado Retail",
+    "website": "ocado.com",
+    "hq_country": "GB",
+    "hq_city": "Hatfield",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Online Grocery",
+    "founded_year": 2000,
+    "ultimate_parent": "Ocado Group / M&S",
+    "confidence": "high",
+    "sources": [
+      "https://www.ocado.com/"
+    ]
+  },
+  {
+    "name": "Amazon Fresh",
+    "website": "amazon.com/fresh",
+    "hq_country": "US",
+    "hq_city": "Seattle",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Online Grocery",
+    "founded_year": 2007,
+    "ultimate_parent": "Amazon",
+    "confidence": "high",
+    "sources": [
+      "https://www.amazon.com/fresh"
+    ]
+  },
+  {
+    "name": "Whole Foods Market Online",
+    "website": "wholefoodsmarket.com",
+    "hq_country": "US",
+    "hq_city": "Austin",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Organic Grocery",
+    "founded_year": 1980,
+    "ultimate_parent": "Amazon",
+    "confidence": "high",
+    "sources": [
+      "https://www.wholefoodsmarket.com/"
+    ]
+  },
+  {
+    "name": "Boxed",
+    "website": "boxed.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Wholesale Grocery",
+    "founded_year": 2013,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.boxed.com/"
+    ]
+  },
+  {
+    "name": "Milk & More",
+    "website": "milkandmore.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Esher",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Dairy Delivery",
+    "founded_year": 2005,
+    "ultimate_parent": "Müller UK & Ireland",
+    "confidence": "high",
+    "sources": [
+      "https://www.milkandmore.co.uk/"
+    ]
+  },
+  {
+    "name": "Cowsoko",
+    "website": "cowsoko.com",
+    "hq_country": "KE",
+    "hq_city": "Nairobi",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Dairy Delivery",
+    "founded_year": 2015,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.cowsoko.com/"
+    ]
+  },
+  {
+    "name": "Yumbles",
+    "website": "yumbles.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Specialty Food",
+    "founded_year": 2013,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.yumbles.com/"
+    ]
+  },
+  {
+    "name": "Formaggi Ocello",
+    "website": "ocello.com.au",
+    "hq_country": "AU",
+    "hq_city": "Sydney",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Cheese Delivery",
+    "founded_year": 2008,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.ocello.com.au/"
+    ]
+  },
+  {
+    "name": "The Cheese Society",
+    "website": "thecheesesociety.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Lincoln",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Cheese Delivery",
+    "founded_year": 1995,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.thecheesesociety.co.uk/"
+    ]
+  },
+  {
+    "name": "Paxton & Whitfield",
+    "website": "paxtonandwhitfield.co.uk",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Cheese Delivery",
+    "founded_year": 1797,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.paxtonandwhitfield.co.uk/"
+    ]
+  },
+  {
+    "name": "Murray's Cheese",
+    "website": "murrayscheese.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Cheese Delivery",
+    "founded_year": 1940,
+    "ultimate_parent": "Kroger",
+    "confidence": "high",
+    "sources": [
+      "https://www.murrayscheese.com/"
+    ]
+  },
+  {
+    "name": "Mouth",
+    "website": "mouth.com",
+    "hq_country": "US",
+    "hq_city": "Brooklyn",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Specialty Food",
+    "founded_year": 2011,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.mouth.com/"
+    ]
+  },
+  {
+    "name": "Goldbelly",
+    "website": "goldbelly.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Specialty Food",
+    "founded_year": 2013,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.goldbelly.com/"
+    ]
+  },
+  {
+    "name": "Dean & DeLuca",
+    "website": "deandeluca.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Gourmet Food",
+    "founded_year": 1977,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.deandeluca.com/"
+    ]
+  },
+  {
+    "name": "Fortnum & Mason",
+    "website": "fortnumandmason.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Gourmet Food",
+    "founded_year": 1707,
+    "ultimate_parent": "Wittington Investments",
+    "confidence": "high",
+    "sources": [
+      "https://www.fortnumandmason.com/"
+    ]
+  },
+  {
+    "name": "Zabar's",
+    "website": "zabars.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Gourmet Food",
+    "founded_year": 1934,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.zabars.com/"
+    ]
+  },
+  {
+    "name": "Russ & Daughters",
+    "website": "russanddaughters.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Specialty Food",
+    "founded_year": 1914,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.russanddaughters.com/"
+    ]
+  },
+  {
+    "name": "Di Bruno Bros",
+    "website": "dibruno.com",
+    "hq_country": "US",
+    "hq_city": "Philadelphia",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Specialty Food",
+    "founded_year": 1939,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.dibruno.com/"
+    ]
+  },
+  {
+    "name": "Zingerman's",
+    "website": "zingermans.com",
+    "hq_country": "US",
+    "hq_city": "Ann Arbor",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Specialty Food",
+    "founded_year": 1982,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.zingermans.com/"
+    ]
+  },
+  {
+    "name": "Eataly",
+    "website": "eataly.com",
+    "hq_country": "IT",
+    "hq_city": "Turin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Italian Food",
+    "founded_year": 2007,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.eataly.com/"
+    ]
+  },
+  {
+    "name": "Gustiamo",
+    "website": "gustiamo.com",
+    "hq_country": "US",
+    "hq_city": "Bronx",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Italian Food",
+    "founded_year": 1999,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.gustiamo.com/"
+    ]
+  },
+  {
+    "name": "Formaggio Kitchen",
+    "website": "formaggiokitchen.com",
+    "hq_country": "US",
+    "hq_city": "Cambridge",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Specialty Food",
+    "founded_year": 1978,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.formaggiokitchen.com/"
+    ]
+  },
+  {
+    "name": "La Tienda",
+    "website": "latienda.com",
+    "hq_country": "US",
+    "hq_city": "Williamsburg",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Spanish Food",
+    "founded_year": 1996,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.latienda.com/"
+    ]
+  },
+  {
+    "name": "igourmet",
+    "website": "igourmet.com",
+    "hq_country": "US",
+    "hq_city": "West Pittston",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Gourmet Food",
+    "founded_year": 1997,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.igourmet.com/"
+    ]
+  },
+  {
+    "name": "D'Artagnan",
+    "website": "dartagnan.com",
+    "hq_country": "US",
+    "hq_city": "Union",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Meat & Gourmet",
+    "founded_year": 1985,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.dartagnan.com/"
+    ]
+  },
+  {
+    "name": "Marx Foods",
+    "website": "marxfoods.com",
+    "hq_country": "US",
+    "hq_city": "Seattle",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Specialty Food",
+    "founded_year": 2007,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.marxfoods.com/"
+    ]
+  },
+  {
+    "name": "Baldor Specialty Foods",
+    "website": "baldorfood.com",
+    "hq_country": "US",
+    "hq_city": "Bronx",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Specialty Food",
+    "founded_year": 1991,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.baldorfood.com/"
+    ]
+  },
+  {
+    "name": "Epicurious",
+    "website": "epicurious.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Recipe & Food",
+    "founded_year": 1995,
+    "ultimate_parent": "Condé Nast",
+    "confidence": "high",
+    "sources": [
+      "https://www.epicurious.com/"
+    ]
+  },
+  {
+    "name": "Milk Bar",
+    "website": "milkbarstore.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Dessert Delivery",
+    "founded_year": 2008,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.milkbarstore.com/"
+    ]
+  },
+  {
+    "name": "Baked by Melissa",
+    "website": "bakedbymelissa.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Dessert Delivery",
+    "founded_year": 2008,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.bakedbymelissa.com/"
+    ]
+  },
+  {
+    "name": "Sprinkles",
+    "website": "sprinkles.com",
+    "hq_country": "US",
+    "hq_city": "Dallas",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Dessert Delivery",
+    "founded_year": 2005,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.sprinkles.com/"
+    ]
+  },
+  {
+    "name": "Georgetown Cupcake",
+    "website": "georgetowncupcake.com",
+    "hq_country": "US",
+    "hq_city": "Washington D.C.",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Dessert Delivery",
+    "founded_year": 2008,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.georgetowncupcake.com/"
+    ]
+  },
+  {
+    "name": "Insomnia Cookies",
+    "website": "insomniacookies.com",
+    "hq_country": "US",
+    "hq_city": "Philadelphia",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Dessert Delivery",
+    "founded_year": 2003,
+    "ultimate_parent": "Krispy Kreme",
+    "confidence": "high",
+    "sources": [
+      "https://www.insomniacookies.com/"
+    ]
+  },
+  {
+    "name": "Levain Bakery",
+    "website": "levainbakery.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Bakery Delivery",
+    "founded_year": 1995,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.levainbakery.com/"
+    ]
+  },
+  {
+    "name": "Crumbl Cookies",
+    "website": "crumblcookies.com",
+    "hq_country": "US",
+    "hq_city": "Lindon",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Dessert Delivery",
+    "founded_year": 2017,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.crumblcookies.com/"
+    ]
+  },
+  {
+    "name": "Laduree",
+    "website": "laduree.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Patisserie",
+    "founded_year": 1862,
+    "ultimate_parent": "Holder Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.laduree.com/"
+    ]
+  },
+  {
+    "name": "Pierre Hermé Paris",
+    "website": "pierreherme.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Patisserie",
+    "founded_year": 1998,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.pierreherme.com/"
+    ]
+  },
+  {
+    "name": "MilkRun",
+    "website": "milkrun.com",
+    "hq_country": "US",
+    "hq_city": "Portland",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Local Food Delivery",
+    "founded_year": 2018,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.milkrun.com/"
+    ]
+  },
+  {
+    "name": "Good Eggs",
+    "website": "goodeggs.com",
+    "hq_country": "US",
+    "hq_city": "San Francisco",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Local Food Delivery",
+    "founded_year": 2011,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.goodeggs.com/"
+    ]
+  },
+  {
+    "name": "Mercato",
+    "website": "mercato.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Local Grocery",
+    "founded_year": 2015,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.mercato.com/"
+    ]
+  },
+  {
+    "name": "Weee!",
+    "website": "sayweee.com",
+    "hq_country": "US",
+    "hq_city": "Fremont",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Asian Grocery",
+    "founded_year": 2015,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.sayweee.com/"
+    ]
+  },
+  {
+    "name": "Umamicart",
+    "website": "umamicart.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Asian Grocery",
+    "founded_year": 2021,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.umamicart.com/"
+    ]
+  },
+  {
+    "name": "H Mart",
+    "website": "hmart.com",
+    "hq_country": "US",
+    "hq_city": "Lyndhurst",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Asian Grocery",
+    "founded_year": 1982,
+    "ultimate_parent": "Hanahreum Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.hmart.com/"
+    ]
+  },
+  {
+    "name": "99 Ranch Market",
+    "website": "99ranch.com",
+    "hq_country": "US",
+    "hq_city": "Buena Park",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Asian Grocery",
+    "founded_year": 1984,
+    "ultimate_parent": "Tawa Supermarket",
+    "confidence": "high",
+    "sources": [
+      "https://www.99ranch.com/"
+    ]
+  },
+  {
+    "name": "Yamibuy",
+    "website": "yamibuy.com",
+    "hq_country": "US",
+    "hq_city": "Brea",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Asian Grocery",
+    "founded_year": 2013,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.yamibuy.com/"
+    ]
+  },
+  {
+    "name": "JapanCrate",
+    "website": "japancrate.com",
+    "hq_country": "US",
+    "hq_city": "San Diego",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Snack Subscription",
+    "founded_year": 2014,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.japancrate.com/"
+    ]
+  },
+  {
+    "name": "Bokksu",
+    "website": "bokksu.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Japanese Snack Subscription",
+    "founded_year": 2016,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.bokksu.com/"
+    ]
+  },
+  {
+    "name": "TokyoTreat",
+    "website": "tokyotreat.com",
+    "hq_country": "JP",
+    "hq_city": "Tokyo",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Japanese Snack Subscription",
+    "founded_year": 2015,
+    "ultimate_parent": "ICHIGO Inc.",
+    "confidence": "high",
+    "sources": [
+      "https://www.tokyotreat.com/"
+    ]
+  },
+  {
+    "name": "Try The World",
+    "website": "trytheworld.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "International Food Subscription",
+    "founded_year": 2012,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.trytheworld.com/"
+    ]
+  },
+  {
+    "name": "Universal Yums",
+    "website": "universalyums.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "International Snack Subscription",
+    "founded_year": 2014,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.universalyums.com/"
+    ]
+  },
+  {
+    "name": "Craft Coffee",
+    "website": "craftcoffee.com",
+    "hq_country": "US",
+    "hq_city": "San Francisco",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Coffee Subscription",
+    "founded_year": 2012,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.craftcoffee.com/"
+    ]
+  },
+  {
+    "name": "Trade Coffee",
+    "website": "drinktrade.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Coffee Subscription",
+    "founded_year": 2018,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.drinktrade.com/"
+    ]
+  },
+  {
+    "name": "Atlas Coffee Club",
+    "website": "atlascoffeeclub.com",
+    "hq_country": "US",
+    "hq_city": "Austin",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Coffee Subscription",
+    "founded_year": 2014,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.atlascoffeeclub.com/"
+    ]
+  },
+  {
+    "name": "Bean Box",
+    "website": "beanbox.com",
+    "hq_country": "US",
+    "hq_city": "Seattle",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Coffee Subscription",
+    "founded_year": 2014,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.beanbox.com/"
+    ]
+  },
+  {
+    "name": "Blue Bottle Coffee",
+    "website": "bluebottlecoffee.com",
+    "hq_country": "US",
+    "hq_city": "Oakland",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Coffee",
+    "founded_year": 2002,
+    "ultimate_parent": "Nestlé",
+    "confidence": "high",
+    "sources": [
+      "https://www.bluebottlecoffee.com/"
+    ]
+  },
+  {
+    "name": "Stumptown Coffee",
+    "website": "stumptowncoffee.com",
+    "hq_country": "US",
+    "hq_city": "Portland",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Coffee",
+    "founded_year": 1999,
+    "ultimate_parent": "Peet's Coffee",
+    "confidence": "high",
+    "sources": [
+      "https://www.stumptowncoffee.com/"
+    ]
+  },
+  {
+    "name": "Intelligentsia Coffee",
+    "website": "intelligentsia.com",
+    "hq_country": "US",
+    "hq_city": "Chicago",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Coffee",
+    "founded_year": 1995,
+    "ultimate_parent": "Peet's Coffee",
+    "confidence": "high",
+    "sources": [
+      "https://www.intelligentsia.com/"
+    ]
+  },
+  {
+    "name": "Counter Culture Coffee",
+    "website": "counterculturecoffee.com",
+    "hq_country": "US",
+    "hq_city": "Durham",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Coffee",
+    "founded_year": 1995,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.counterculturecoffee.com/"
+    ]
+  },
+  {
+    "name": "Verve Coffee Roasters",
+    "website": "vervecoffee.com",
+    "hq_country": "US",
+    "hq_city": "Santa Cruz",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Coffee",
+    "founded_year": 2007,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.vervecoffee.com/"
+    ]
+  },
+  {
+    "name": "Pact Coffee",
+    "website": "pactcoffee.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Coffee Subscription",
+    "founded_year": 2012,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.pactcoffee.com/"
+    ]
+  },
+  {
+    "name": "Has Bean Coffee",
+    "website": "hasbean.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Stafford",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Coffee",
+    "founded_year": 2000,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.hasbean.co.uk/"
+    ]
+  },
+  {
+    "name": "Oatly (online sales)",
+    "website": "oatly.com",
+    "hq_country": "SE",
+    "hq_city": "Malmö",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Plant-Based Food",
+    "founded_year": 1994,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.oatly.com/"
+    ]
+  },
+  {
+    "name": "Alpro (online sales)",
+    "website": "alpro.com",
+    "hq_country": "BE",
+    "hq_city": "Ghent",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Plant-Based Food",
+    "founded_year": 1980,
+    "ultimate_parent": "Danone",
+    "confidence": "high",
+    "sources": [
+      "https://www.alpro.com/"
+    ]
+  },
+  {
+    "name": "Minor Figures",
+    "website": "minorfigures.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Plant-Based Food",
+    "founded_year": 2014,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.minorfigures.com/"
+    ]
+  },
+  {
+    "name": "Oat Milk Co",
+    "website": "oatmilk.co",
+    "hq_country": "US",
+    "hq_city": "Denver",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Plant-Based Food",
+    "founded_year": 2019,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.oatmilk.co/"
+    ]
+  }
+]

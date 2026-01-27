@@ -1,0 +1,3090 @@
+[
+  {
+    "name": "Elkjøp",
+    "website": "elkjop.no",
+    "hq_country": "NO",
+    "hq_city": "Oslo (Nydalen)",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1962,
+    "ultimate_parent": "Currys plc",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Elkj%C3%B8p",
+      "https://www.elkjop.no"
+    ]
+  },
+  {
+    "name": "CeX",
+    "website": "webuy.com",
+    "hq_country": "GB",
+    "hq_city": "Watford",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Refurbished Electronics",
+    "founded_year": 1992,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/CeX_(retailer)",
+      "https://uk.webuy.com"
+    ]
+  },
+  {
+    "name": "Currys plc",
+    "website": "currysplc.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 2014,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Currys_plc",
+      "https://www.currysplc.com"
+    ]
+  },
+  {
+    "name": "Caseking",
+    "website": "caseking.de",
+    "hq_country": "DE",
+    "hq_city": "Berlin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 2003,
+    "ultimate_parent": "Hero HoldCo GmbH",
+    "confidence": "high",
+    "sources": [
+      "https://de.wikipedia.org/wiki/Caseking",
+      "https://www.caseking.de"
+    ]
+  },
+  {
+    "name": "Proshop",
+    "website": "proshop.de",
+    "hq_country": "DK",
+    "hq_city": "Aarhus (Højbjerg)",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1995,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://de.wikipedia.org/wiki/Proshop",
+      "https://www.proshop.de"
+    ]
+  },
+  {
+    "name": "Rebuy",
+    "website": "rebuy.de",
+    "hq_country": "DE",
+    "hq_city": "Berlin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Refurbished Electronics",
+    "founded_year": 2009,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://de.wikipedia.org/wiki/Rebuy",
+      "https://www.rebuy.de"
+    ]
+  },
+  {
+    "name": "Conrad Electronic",
+    "website": "conrad.com",
+    "hq_country": "DE",
+    "hq_city": "Hirschau",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics & Components",
+    "founded_year": 1923,
+    "ultimate_parent": "Conrad Holding SE",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Conrad_Electronic",
+      "https://www.conrad.com"
+    ]
+  },
+  {
+    "name": "Expert International",
+    "website": "expert.org",
+    "hq_country": "CH",
+    "hq_city": "Zug",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1967,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Expert_(company)",
+      "https://www.expert.org"
+    ]
+  },
+  {
+    "name": "Euronics International",
+    "website": "euronics.com",
+    "hq_country": "NL",
+    "hq_city": "Amsterdam",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1990,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Euronics",
+      "https://www.euronics.com"
+    ]
+  },
+  {
+    "name": "Micro Center",
+    "website": "microcenter.com",
+    "hq_country": "US",
+    "hq_city": "Hilliard, Ohio",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 1979,
+    "ultimate_parent": "Micro Electronics, Inc.",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Micro_Center",
+      "https://www.microcenter.com"
+    ]
+  },
+  {
+    "name": "Power International AS",
+    "website": "power.dk",
+    "hq_country": "DK",
+    "hq_city": "Aarhus",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1996,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.power.dk",
+      "https://da.wikipedia.org/wiki/Power_(elektronik)"
+    ]
+  },
+  {
+    "name": "NetOnNet",
+    "website": "netonnet.se",
+    "hq_country": "SE",
+    "hq_city": "Borås",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1999,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.netonnet.se",
+      "https://sv.wikipedia.org/wiki/NetOnNet"
+    ]
+  },
+  {
+    "name": "Overclockers UK",
+    "website": "overclockers.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Newcastle-under-Lyme",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 1999,
+    "ultimate_parent": "Caseking (Hero HoldCo GmbH)",
+    "confidence": "high",
+    "sources": [
+      "https://www.overclockers.co.uk",
+      "https://de.wikipedia.org/wiki/Caseking"
+    ]
+  },
+  {
+    "name": "Scan Computers",
+    "website": "scan.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Bolton",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 1989,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.scan.co.uk"
+    ]
+  },
+  {
+    "name": "CCL Computers",
+    "website": "cclonline.com",
+    "hq_country": "GB",
+    "hq_city": "Bradford",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 1986,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.cclonline.com"
+    ]
+  },
+  {
+    "name": "Ebuyer",
+    "website": "ebuyer.com",
+    "hq_country": "GB",
+    "hq_city": "Howden",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 1999,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.ebuyer.com"
+    ]
+  },
+  {
+    "name": "Box",
+    "website": "box.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Birmingham",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 2003,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.box.co.uk"
+    ]
+  },
+  {
+    "name": "Notebooksbilliger.de",
+    "website": "notebooksbilliger.de",
+    "hq_country": "DE",
+    "hq_city": "Munich",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 2002,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.notebooksbilliger.de",
+      "https://de.wikipedia.org/wiki/Notebooksbilliger.de"
+    ]
+  },
+  {
+    "name": "computeruniverse",
+    "website": "computeruniverse.net",
+    "hq_country": "DE",
+    "hq_city": "Friedberg",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1999,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.computeruniverse.net"
+    ]
+  },
+  {
+    "name": "Jacob Elektronik",
+    "website": "jacob.de",
+    "hq_country": "DE",
+    "hq_city": "Karlsruhe",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1990,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.jacob.de"
+    ]
+  },
+  {
+    "name": "ARLT Computer",
+    "website": "arlt.com",
+    "hq_country": "DE",
+    "hq_city": "Bayreuth",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 1983,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.arlt.com"
+    ]
+  },
+  {
+    "name": "Megekko",
+    "website": "megekko.nl",
+    "hq_country": "NL",
+    "hq_city": "Zaandam",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 2004,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.megekko.nl"
+    ]
+  },
+  {
+    "name": "Azerty",
+    "website": "azerty.nl",
+    "hq_country": "NL",
+    "hq_city": "Amsterdam",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 1999,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.azerty.nl"
+    ]
+  },
+  {
+    "name": "Informatique.nl",
+    "website": "informatique.nl",
+    "hq_country": "NL",
+    "hq_city": "Rotterdam",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 2004,
+    "ultimate_parent": null,
+    "confidence": "low",
+    "sources": [
+      "https://www.informatique.nl"
+    ]
+  },
+  {
+    "name": "Paradigit",
+    "website": "paradigit.nl",
+    "hq_country": "NL",
+    "hq_city": "Eindhoven",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 1987,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.paradigit.nl"
+    ]
+  },
+  {
+    "name": "Materiel.net",
+    "website": "materiel.net",
+    "hq_country": "FR",
+    "hq_city": "Nantes (Grandchamp-des-Fontaines)",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 2000,
+    "ultimate_parent": "LDLC Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.materiel.net",
+      "https://fr.wikipedia.org/wiki/Mat%C3%A9riel.net"
+    ]
+  },
+  {
+    "name": "Rue du Commerce",
+    "website": "rueducommerce.fr",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1999,
+    "ultimate_parent": "Carrefour",
+    "confidence": "high",
+    "sources": [
+      "https://www.rueducommerce.fr",
+      "https://fr.wikipedia.org/wiki/Rue_du_Commerce"
+    ]
+  },
+  {
+    "name": "GrosBill",
+    "website": "grosbill.com",
+    "hq_country": "FR",
+    "hq_city": "Paris (Gennevilliers)",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 1998,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.grosbill.com"
+    ]
+  },
+  {
+    "name": "Top Achat",
+    "website": "topachat.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 1999,
+    "ultimate_parent": "LDLC Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.topachat.com"
+    ]
+  },
+  {
+    "name": "Boulanger",
+    "website": "boulanger.com",
+    "hq_country": "FR",
+    "hq_city": "Lesquin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1954,
+    "ultimate_parent": "Association Familiale Mulliez",
+    "confidence": "high",
+    "sources": [
+      "https://www.boulanger.com",
+      "https://fr.wikipedia.org/wiki/Boulanger_(enseigne)"
+    ]
+  },
+  {
+    "name": "Worten",
+    "website": "worten.pt",
+    "hq_country": "PT",
+    "hq_city": "Lisbon (Carnaxide)",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1996,
+    "ultimate_parent": "Sonae",
+    "confidence": "high",
+    "sources": [
+      "https://www.worten.pt",
+      "https://pt.wikipedia.org/wiki/Worten"
+    ]
+  },
+  {
+    "name": "Radio Popular",
+    "website": "radiopopular.pt",
+    "hq_country": "PT",
+    "hq_city": "Porto",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1963,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.radiopopular.pt"
+    ]
+  },
+  {
+    "name": "MediaWorld",
+    "website": "mediaworld.it",
+    "hq_country": "IT",
+    "hq_city": "Milan (Curno)",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1991,
+    "ultimate_parent": "Ceconomy (MediaMarktSaturn)",
+    "confidence": "high",
+    "sources": [
+      "https://www.mediaworld.it",
+      "https://it.wikipedia.org/wiki/MediaWorld"
+    ]
+  },
+  {
+    "name": "Unieuro",
+    "website": "unieuro.it",
+    "hq_country": "IT",
+    "hq_city": "Forlì",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1967,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.unieuro.it",
+      "https://it.wikipedia.org/wiki/Unieuro"
+    ]
+  },
+  {
+    "name": "Trony",
+    "website": "trony.it",
+    "hq_country": "IT",
+    "hq_city": "Milan",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1991,
+    "ultimate_parent": "GRE - Grossisti Riuniti Elettrodomestici",
+    "confidence": "medium",
+    "sources": [
+      "https://www.trony.it"
+    ]
+  },
+  {
+    "name": "Eldi",
+    "website": "eldi.be",
+    "hq_country": "BE",
+    "hq_city": "Antwerp",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1954,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.eldi.be"
+    ]
+  },
+  {
+    "name": "Krefel",
+    "website": "krefel.be",
+    "hq_country": "BE",
+    "hq_city": "Leuven",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1952,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.krefel.be",
+      "https://nl.wikipedia.org/wiki/Krefel"
+    ]
+  },
+  {
+    "name": "Vanden Borre",
+    "website": "vandenborre.be",
+    "hq_country": "BE",
+    "hq_city": "Brussels (Woluwe-Saint-Pierre)",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1969,
+    "ultimate_parent": "Fnac Darty",
+    "confidence": "high",
+    "sources": [
+      "https://www.vandenborre.be",
+      "https://nl.wikipedia.org/wiki/Vanden_Borre"
+    ]
+  },
+  {
+    "name": "MediaExpert",
+    "website": "mediaexpert.pl",
+    "hq_country": "PL",
+    "hq_city": "Łódź",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 2001,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.mediaexpert.pl",
+      "https://pl.wikipedia.org/wiki/Media_Expert"
+    ]
+  },
+  {
+    "name": "RTV Euro AGD",
+    "website": "euro.com.pl",
+    "hq_country": "PL",
+    "hq_city": "Warsaw",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1990,
+    "ultimate_parent": "Eldorado Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.euro.com.pl",
+      "https://pl.wikipedia.org/wiki/RTV_Euro_AGD"
+    ]
+  },
+  {
+    "name": "Neonet",
+    "website": "neonet.pl",
+    "hq_country": "PL",
+    "hq_city": "Wrocław",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 2003,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.neonet.pl"
+    ]
+  },
+  {
+    "name": "Morele.net",
+    "website": "morele.net",
+    "hq_country": "PL",
+    "hq_city": "Kraków",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 2005,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.morele.net"
+    ]
+  },
+  {
+    "name": "x-kom",
+    "website": "x-kom.pl",
+    "hq_country": "PL",
+    "hq_city": "Częstochowa",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 2002,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.x-kom.pl",
+      "https://pl.wikipedia.org/wiki/X-kom"
+    ]
+  },
+  {
+    "name": "Komputronik",
+    "website": "komputronik.pl",
+    "hq_country": "PL",
+    "hq_city": "Poznań",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 1996,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.komputronik.pl",
+      "https://pl.wikipedia.org/wiki/Komputronik"
+    ]
+  },
+  {
+    "name": "Alza.cz",
+    "website": "alza.cz",
+    "hq_country": "CZ",
+    "hq_city": "Prague",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1994,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.alza.cz",
+      "https://cs.wikipedia.org/wiki/Alza.cz"
+    ]
+  },
+  {
+    "name": "CZC.cz",
+    "website": "czc.cz",
+    "hq_country": "CZ",
+    "hq_city": "Prague",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 1999,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.czc.cz"
+    ]
+  },
+  {
+    "name": "Datart",
+    "website": "datart.cz",
+    "hq_country": "CZ",
+    "hq_city": "Prague",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1992,
+    "ultimate_parent": "HP Tronic",
+    "confidence": "high",
+    "sources": [
+      "https://www.datart.cz",
+      "https://cs.wikipedia.org/wiki/Datart"
+    ]
+  },
+  {
+    "name": "Electroworld",
+    "website": "electroworld.cz",
+    "hq_country": "CZ",
+    "hq_city": "Prague",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 2002,
+    "ultimate_parent": "NAY Group",
+    "confidence": "medium",
+    "sources": [
+      "https://www.electroworld.cz"
+    ]
+  },
+  {
+    "name": "NAY",
+    "website": "nay.sk",
+    "hq_country": "SK",
+    "hq_city": "Bratislava",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1991,
+    "ultimate_parent": "NAY Group",
+    "confidence": "medium",
+    "sources": [
+      "https://www.nay.sk"
+    ]
+  },
+  {
+    "name": "eMAG",
+    "website": "emag.ro",
+    "hq_country": "RO",
+    "hq_city": "Bucharest",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 2001,
+    "ultimate_parent": "Naspers/Prosus",
+    "confidence": "high",
+    "sources": [
+      "https://www.emag.ro",
+      "https://ro.wikipedia.org/wiki/EMag"
+    ]
+  },
+  {
+    "name": "Altex",
+    "website": "altex.ro",
+    "hq_country": "RO",
+    "hq_city": "Bucharest",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1992,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.altex.ro"
+    ]
+  },
+  {
+    "name": "Flanco",
+    "website": "flanco.ro",
+    "hq_country": "RO",
+    "hq_city": "Bucharest",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1994,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.flanco.ro"
+    ]
+  },
+  {
+    "name": "eMag Hungary",
+    "website": "emag.hu",
+    "hq_country": "HU",
+    "hq_city": "Budapest",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 2012,
+    "ultimate_parent": "Naspers/Prosus",
+    "confidence": "high",
+    "sources": [
+      "https://www.emag.hu"
+    ]
+  },
+  {
+    "name": "Extreme Digital",
+    "website": "edigital.hu",
+    "hq_country": "HU",
+    "hq_city": "Budapest",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 2001,
+    "ultimate_parent": "eMAG/Naspers/Prosus",
+    "confidence": "high",
+    "sources": [
+      "https://www.edigital.hu"
+    ]
+  },
+  {
+    "name": "Praktiker",
+    "website": "praktiker.hu",
+    "hq_country": "HU",
+    "hq_city": "Budapest",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics & Home Improvement",
+    "founded_year": 1998,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.praktiker.hu"
+    ]
+  },
+  {
+    "name": "Elkjop Norway",
+    "website": "elkjop.no",
+    "hq_country": "NO",
+    "hq_city": "Oslo",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1962,
+    "ultimate_parent": "Currys plc",
+    "confidence": "high",
+    "sources": [
+      "https://www.elkjop.no"
+    ]
+  },
+  {
+    "name": "Komplett Group",
+    "website": "komplett.no",
+    "hq_country": "NO",
+    "hq_city": "Sandefjord",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1991,
+    "ultimate_parent": "Canica AS",
+    "confidence": "high",
+    "sources": [
+      "https://www.komplett.no",
+      "https://no.wikipedia.org/wiki/Komplett"
+    ]
+  },
+  {
+    "name": "Power Norway",
+    "website": "power.no",
+    "hq_country": "NO",
+    "hq_city": "Fredrikstad",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 2016,
+    "ultimate_parent": "Power International AS",
+    "confidence": "high",
+    "sources": [
+      "https://www.power.no"
+    ]
+  },
+  {
+    "name": "Inet",
+    "website": "inet.se",
+    "hq_country": "SE",
+    "hq_city": "Sisjön (Gothenburg)",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 1999,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.inet.se",
+      "https://sv.wikipedia.org/wiki/Inet"
+    ]
+  },
+  {
+    "name": "Multitronic",
+    "website": "multitronic.fi",
+    "hq_country": "FI",
+    "hq_city": "Oulu",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 1992,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.multitronic.fi"
+    ]
+  },
+  {
+    "name": "Jimm's PC Store",
+    "website": "jimms.fi",
+    "hq_country": "FI",
+    "hq_city": "Helsinki",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 1994,
+    "ultimate_parent": "Caseking (Hero HoldCo GmbH)",
+    "confidence": "high",
+    "sources": [
+      "https://www.jimms.fi"
+    ]
+  },
+  {
+    "name": "Computersalg",
+    "website": "computersalg.dk",
+    "hq_country": "DK",
+    "hq_city": "Odense",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 1998,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.computersalg.dk"
+    ]
+  },
+  {
+    "name": "Elgiganten Denmark",
+    "website": "elgiganten.dk",
+    "hq_country": "DK",
+    "hq_city": "Copenhagen",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1999,
+    "ultimate_parent": "Currys plc",
+    "confidence": "high",
+    "sources": [
+      "https://www.elgiganten.dk"
+    ]
+  },
+  {
+    "name": "El-Salg",
+    "website": "el-salg.dk",
+    "hq_country": "DK",
+    "hq_city": "Frederiksberg",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1976,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.el-salg.dk"
+    ]
+  },
+  {
+    "name": "Dustin Sweden",
+    "website": "dustin.se",
+    "hq_country": "SE",
+    "hq_city": "Nacka (Stockholm area)",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "B2B Electronics",
+    "founded_year": 1984,
+    "ultimate_parent": "Dustin Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.dustin.se",
+      "https://sv.wikipedia.org/wiki/Dustin_Group"
+    ]
+  },
+  {
+    "name": "Elko Iceland",
+    "website": "elko.is",
+    "hq_country": "IS",
+    "hq_city": "Reykjavik",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1959,
+    "ultimate_parent": "Festi hf (franchise of Currys plc)",
+    "confidence": "medium",
+    "sources": [
+      "https://www.elko.is"
+    ]
+  },
+  {
+    "name": "Telia Finland Store",
+    "website": "telia.fi",
+    "hq_country": "FI",
+    "hq_city": "Helsinki",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Smartphones & Mobile",
+    "founded_year": 2002,
+    "ultimate_parent": "Telia Company",
+    "confidence": "high",
+    "sources": [
+      "https://www.telia.fi"
+    ]
+  },
+  {
+    "name": "DNA Kauppa",
+    "website": "dna.fi",
+    "hq_country": "FI",
+    "hq_city": "Helsinki",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Smartphones & Mobile",
+    "founded_year": 2007,
+    "ultimate_parent": "Telenor",
+    "confidence": "high",
+    "sources": [
+      "https://www.dna.fi"
+    ]
+  },
+  {
+    "name": "Elisa Viihde",
+    "website": "elisa.fi",
+    "hq_country": "FI",
+    "hq_city": "Helsinki",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics & Mobile",
+    "founded_year": 1882,
+    "ultimate_parent": "Elisa Corporation",
+    "confidence": "high",
+    "sources": [
+      "https://www.elisa.fi"
+    ]
+  },
+  {
+    "name": "OnBuy",
+    "website": "onbuy.com",
+    "hq_country": "GB",
+    "hq_city": "Bournemouth",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics Marketplace",
+    "founded_year": 2014,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.onbuy.com"
+    ]
+  },
+  {
+    "name": "AO.com",
+    "website": "ao.com",
+    "hq_country": "GB",
+    "hq_city": "Bolton",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics & Appliances",
+    "founded_year": 2000,
+    "ultimate_parent": "AO World plc",
+    "confidence": "high",
+    "sources": [
+      "https://www.ao.com",
+      "https://en.wikipedia.org/wiki/AO_World"
+    ]
+  },
+  {
+    "name": "Hughes",
+    "website": "hughes.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Norwich",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1921,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.hughes.co.uk"
+    ]
+  },
+  {
+    "name": "Laptops Direct",
+    "website": "laptopsdirect.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Huddersfield",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 1991,
+    "ultimate_parent": "BuyIt Direct",
+    "confidence": "medium",
+    "sources": [
+      "https://www.laptopsdirect.co.uk"
+    ]
+  },
+  {
+    "name": "MPB",
+    "website": "mpb.com",
+    "hq_country": "GB",
+    "hq_city": "Brighton",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Camera & Photo Equipment",
+    "founded_year": 2011,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.mpb.com"
+    ]
+  },
+  {
+    "name": "Wex Photo Video",
+    "website": "wexphotovideo.com",
+    "hq_country": "GB",
+    "hq_city": "Norwich",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Camera & Photo Equipment",
+    "founded_year": 1997,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.wexphotovideo.com"
+    ]
+  },
+  {
+    "name": "Park Cameras",
+    "website": "parkcameras.com",
+    "hq_country": "GB",
+    "hq_city": "Burgess Hill",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Camera & Photo Equipment",
+    "founded_year": 1971,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.parkcameras.com"
+    ]
+  },
+  {
+    "name": "Adorama",
+    "website": "adorama.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Camera & Electronics",
+    "founded_year": 1974,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.adorama.com",
+      "https://en.wikipedia.org/wiki/Adorama"
+    ]
+  },
+  {
+    "name": "Monoprice",
+    "website": "monoprice.com",
+    "hq_country": "US",
+    "hq_city": "Rancho Cucamonga, California",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics & Cables",
+    "founded_year": 2002,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.monoprice.com",
+      "https://en.wikipedia.org/wiki/Monoprice"
+    ]
+  },
+  {
+    "name": "Crutchfield",
+    "website": "crutchfield.com",
+    "hq_country": "US",
+    "hq_city": "Charlottesville, Virginia",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Audio & Car Electronics",
+    "founded_year": 1974,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.crutchfield.com",
+      "https://en.wikipedia.org/wiki/Crutchfield_Corporation"
+    ]
+  },
+  {
+    "name": "Sweetwater",
+    "website": "sweetwater.com",
+    "hq_country": "US",
+    "hq_city": "Fort Wayne, Indiana",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Audio & Music Electronics",
+    "founded_year": 1979,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.sweetwater.com",
+      "https://en.wikipedia.org/wiki/Sweetwater_Sound"
+    ]
+  },
+  {
+    "name": "Gazelle",
+    "website": "gazelle.com",
+    "hq_country": "US",
+    "hq_city": "Boston, Massachusetts",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Refurbished Electronics",
+    "founded_year": 2006,
+    "ultimate_parent": "EcoATM/Gazelle",
+    "confidence": "high",
+    "sources": [
+      "https://www.gazelle.com"
+    ]
+  },
+  {
+    "name": "Decluttr",
+    "website": "decluttr.com",
+    "hq_country": "US",
+    "hq_city": "Atlanta, Georgia",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Refurbished Electronics",
+    "founded_year": 2013,
+    "ultimate_parent": "musicMagpie",
+    "confidence": "high",
+    "sources": [
+      "https://www.decluttr.com"
+    ]
+  },
+  {
+    "name": "musicMagpie",
+    "website": "musicmagpie.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Stockport",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Refurbished Electronics",
+    "founded_year": 2007,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.musicmagpie.co.uk",
+      "https://en.wikipedia.org/wiki/MusicMagpie"
+    ]
+  },
+  {
+    "name": "Backmarket Germany",
+    "website": "backmarket.de",
+    "hq_country": "DE",
+    "hq_city": "Berlin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Refurbished Electronics",
+    "founded_year": 2014,
+    "ultimate_parent": "Back Market SAS",
+    "confidence": "high",
+    "sources": [
+      "https://www.backmarket.de"
+    ]
+  },
+  {
+    "name": "ASGOODASNEW",
+    "website": "asgoodasnew.com",
+    "hq_country": "DE",
+    "hq_city": "Frankfurt am Main",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Refurbished Electronics",
+    "founded_year": 2012,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.asgoodasnew.com"
+    ]
+  },
+  {
+    "name": "Recommerce Group",
+    "website": "recommerce.com",
+    "hq_country": "FR",
+    "hq_city": "Bordeaux",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Refurbished Electronics",
+    "founded_year": 2009,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.recommerce.com"
+    ]
+  },
+  {
+    "name": "Certideal",
+    "website": "certideal.com",
+    "hq_country": "FR",
+    "hq_city": "Lyon",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Refurbished Smartphones",
+    "founded_year": 2015,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.certideal.com"
+    ]
+  },
+  {
+    "name": "Smaatek",
+    "website": "smaatek.dk",
+    "hq_country": "DK",
+    "hq_city": "Copenhagen",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Refurbished Electronics",
+    "founded_year": 2017,
+    "ultimate_parent": null,
+    "confidence": "low",
+    "sources": [
+      "https://www.smaatek.dk"
+    ]
+  },
+  {
+    "name": "Loopphone",
+    "website": "loopphone.se",
+    "hq_country": "SE",
+    "hq_city": "Stockholm",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Refurbished Smartphones",
+    "founded_year": 2019,
+    "ultimate_parent": null,
+    "confidence": "low",
+    "sources": [
+      "https://www.loopphone.se"
+    ]
+  },
+  {
+    "name": "Reboxed",
+    "website": "reboxed.co",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Refurbished Smartphones",
+    "founded_year": 2019,
+    "ultimate_parent": null,
+    "confidence": "low",
+    "sources": [
+      "https://www.reboxed.co"
+    ]
+  },
+  {
+    "name": "RS Components",
+    "website": "rs-online.com",
+    "hq_country": "GB",
+    "hq_city": "Corby",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronic Components",
+    "founded_year": 1937,
+    "ultimate_parent": "RS Group plc",
+    "confidence": "high",
+    "sources": [
+      "https://www.rs-online.com",
+      "https://en.wikipedia.org/wiki/RS_Components"
+    ]
+  },
+  {
+    "name": "Farnell",
+    "website": "farnell.com",
+    "hq_country": "GB",
+    "hq_city": "Leeds",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronic Components",
+    "founded_year": 1939,
+    "ultimate_parent": "Avnet",
+    "confidence": "high",
+    "sources": [
+      "https://www.farnell.com",
+      "https://en.wikipedia.org/wiki/Farnell_(company)"
+    ]
+  },
+  {
+    "name": "Mouser Electronics",
+    "website": "mouser.com",
+    "hq_country": "US",
+    "hq_city": "Mansfield, Texas",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronic Components",
+    "founded_year": 1964,
+    "ultimate_parent": "TTI/Berkshire Hathaway",
+    "confidence": "high",
+    "sources": [
+      "https://www.mouser.com",
+      "https://en.wikipedia.org/wiki/Mouser_Electronics"
+    ]
+  },
+  {
+    "name": "Digi-Key",
+    "website": "digikey.com",
+    "hq_country": "US",
+    "hq_city": "Thief River Falls, Minnesota",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronic Components",
+    "founded_year": 1972,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.digikey.com",
+      "https://en.wikipedia.org/wiki/Digi-Key"
+    ]
+  },
+  {
+    "name": "Newark",
+    "website": "newark.com",
+    "hq_country": "US",
+    "hq_city": "Chicago, Illinois",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronic Components",
+    "founded_year": 1934,
+    "ultimate_parent": "Avnet",
+    "confidence": "high",
+    "sources": [
+      "https://www.newark.com"
+    ]
+  },
+  {
+    "name": "Arrow Electronics",
+    "website": "arrow.com",
+    "hq_country": "US",
+    "hq_city": "Centennial, Colorado",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronic Components",
+    "founded_year": 1935,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.arrow.com",
+      "https://en.wikipedia.org/wiki/Arrow_Electronics"
+    ]
+  },
+  {
+    "name": "Avnet",
+    "website": "avnet.com",
+    "hq_country": "US",
+    "hq_city": "Phoenix, Arizona",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronic Components",
+    "founded_year": 1921,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.avnet.com",
+      "https://en.wikipedia.org/wiki/Avnet"
+    ]
+  },
+  {
+    "name": "Reichelt Elektronik",
+    "website": "reichelt.de",
+    "hq_country": "DE",
+    "hq_city": "Sande",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronic Components",
+    "founded_year": 1969,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.reichelt.de",
+      "https://de.wikipedia.org/wiki/Reichelt_Elektronik"
+    ]
+  },
+  {
+    "name": "Pollin Electronic",
+    "website": "pollin.de",
+    "hq_country": "DE",
+    "hq_city": "Pförring",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronic Components",
+    "founded_year": 1983,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.pollin.de"
+    ]
+  },
+  {
+    "name": "Voelkner",
+    "website": "voelkner.de",
+    "hq_country": "DE",
+    "hq_city": "Braunschweig",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1959,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.voelkner.de"
+    ]
+  },
+  {
+    "name": "SMDV",
+    "website": "smdv.de",
+    "hq_country": "DE",
+    "hq_city": "Hannover",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1999,
+    "ultimate_parent": null,
+    "confidence": "low",
+    "sources": [
+      "https://www.smdv.de"
+    ]
+  },
+  {
+    "name": "ELV",
+    "website": "elv.com",
+    "hq_country": "DE",
+    "hq_city": "Leer (East Frisia)",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronic Components & Smart Home",
+    "founded_year": 1978,
+    "ultimate_parent": "eQ-3 Group",
+    "confidence": "medium",
+    "sources": [
+      "https://www.elv.com"
+    ]
+  },
+  {
+    "name": "BerryBase",
+    "website": "berrybase.de",
+    "hq_country": "DE",
+    "hq_city": "Hildesheim",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronic Components & Maker",
+    "founded_year": 2013,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.berrybase.de"
+    ]
+  },
+  {
+    "name": "exp-tech",
+    "website": "exp-tech.de",
+    "hq_country": "DE",
+    "hq_city": "Hamburg",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronic Components & Maker",
+    "founded_year": 2010,
+    "ultimate_parent": null,
+    "confidence": "low",
+    "sources": [
+      "https://www.exp-tech.de"
+    ]
+  },
+  {
+    "name": "TME",
+    "website": "tme.eu",
+    "hq_country": "PL",
+    "hq_city": "Łódź",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronic Components",
+    "founded_year": 1990,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.tme.eu"
+    ]
+  },
+  {
+    "name": "SOS electronic",
+    "website": "soselectronic.com",
+    "hq_country": "SK",
+    "hq_city": "Bratislava",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronic Components",
+    "founded_year": 1991,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.soselectronic.com"
+    ]
+  },
+  {
+    "name": "Future Electronics",
+    "website": "futureelectronics.com",
+    "hq_country": "CA",
+    "hq_city": "Montreal, Quebec",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronic Components",
+    "founded_year": 1968,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.futureelectronics.com"
+    ]
+  },
+  {
+    "name": "LCSC",
+    "website": "lcsc.com",
+    "hq_country": "CN",
+    "hq_city": "Shenzhen",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronic Components",
+    "founded_year": 2011,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.lcsc.com"
+    ]
+  },
+  {
+    "name": "JLCPCB",
+    "website": "jlcpcb.com",
+    "hq_country": "CN",
+    "hq_city": "Shenzhen",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronic Components & PCB",
+    "founded_year": 2006,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.jlcpcb.com"
+    ]
+  },
+  {
+    "name": "PCBWay",
+    "website": "pcbway.com",
+    "hq_country": "CN",
+    "hq_city": "Shenzhen",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronic Components & PCB",
+    "founded_year": 2003,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.pcbway.com"
+    ]
+  },
+  {
+    "name": "Gearbest",
+    "website": "gearbest.com",
+    "hq_country": "CN",
+    "hq_city": "Shenzhen",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 2014,
+    "ultimate_parent": "Globalegrow",
+    "confidence": "medium",
+    "sources": [
+      "https://www.gearbest.com"
+    ]
+  },
+  {
+    "name": "GameStop",
+    "website": "gamestop.com",
+    "hq_country": "US",
+    "hq_city": "Grapevine, Texas",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Gaming Hardware",
+    "founded_year": 1984,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.gamestop.com",
+      "https://en.wikipedia.org/wiki/GameStop"
+    ]
+  },
+  {
+    "name": "Gamestop Europe",
+    "website": "gamestop.eu",
+    "hq_country": "IE",
+    "hq_city": "Dublin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Gaming Hardware",
+    "founded_year": 2005,
+    "ultimate_parent": "GameStop Corp.",
+    "confidence": "high",
+    "sources": [
+      "https://www.gamestop.eu"
+    ]
+  },
+  {
+    "name": "GAME UK",
+    "website": "game.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Basingstoke",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Gaming Hardware",
+    "founded_year": 1991,
+    "ultimate_parent": "Frasers Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.game.co.uk",
+      "https://en.wikipedia.org/wiki/Game_(retailer)"
+    ]
+  },
+  {
+    "name": "Micromania-Zing",
+    "website": "micromania.fr",
+    "hq_country": "FR",
+    "hq_city": "Paris (Sophia-Antipolis)",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Gaming Hardware",
+    "founded_year": 1983,
+    "ultimate_parent": "GameStop Corp.",
+    "confidence": "high",
+    "sources": [
+      "https://www.micromania.fr"
+    ]
+  },
+  {
+    "name": "Microspot",
+    "website": "microspot.ch",
+    "hq_country": "CH",
+    "hq_city": "Jegenstorf",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 2001,
+    "ultimate_parent": "Coop Switzerland",
+    "confidence": "high",
+    "sources": [
+      "https://www.microspot.ch",
+      "https://de.wikipedia.org/wiki/Microspot"
+    ]
+  },
+  {
+    "name": "Digitec Galaxus",
+    "website": "digitec.ch",
+    "hq_country": "CH",
+    "hq_city": "Zurich",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 2001,
+    "ultimate_parent": "Migros",
+    "confidence": "high",
+    "sources": [
+      "https://www.digitec.ch",
+      "https://de.wikipedia.org/wiki/Digitec_Galaxus"
+    ]
+  },
+  {
+    "name": "Brack.ch",
+    "website": "brack.ch",
+    "hq_country": "CH",
+    "hq_city": "Mägenwil",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1994,
+    "ultimate_parent": "Competec",
+    "confidence": "high",
+    "sources": [
+      "https://www.brack.ch",
+      "https://de.wikipedia.org/wiki/Brack.ch"
+    ]
+  },
+  {
+    "name": "Interdiscount",
+    "website": "interdiscount.ch",
+    "hq_country": "CH",
+    "hq_city": "Jegenstorf",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1970,
+    "ultimate_parent": "Coop Switzerland",
+    "confidence": "high",
+    "sources": [
+      "https://www.interdiscount.ch",
+      "https://de.wikipedia.org/wiki/Interdiscount"
+    ]
+  },
+  {
+    "name": "Fust",
+    "website": "fust.ch",
+    "hq_country": "CH",
+    "hq_city": "Oberbüren",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1966,
+    "ultimate_parent": "Coop Switzerland",
+    "confidence": "high",
+    "sources": [
+      "https://www.fust.ch",
+      "https://de.wikipedia.org/wiki/Fust_(Unternehmen)"
+    ]
+  },
+  {
+    "name": "K-Tuin",
+    "website": "ktuin.com",
+    "hq_country": "ES",
+    "hq_city": "Madrid",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Apple Products",
+    "founded_year": 1996,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.ktuin.com"
+    ]
+  },
+  {
+    "name": "Macnificos",
+    "website": "macnificos.com",
+    "hq_country": "ES",
+    "hq_city": "Madrid",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Apple Products",
+    "founded_year": 2008,
+    "ultimate_parent": null,
+    "confidence": "low",
+    "sources": [
+      "https://www.macnificos.com"
+    ]
+  },
+  {
+    "name": "Gravis",
+    "website": "gravis.de",
+    "hq_country": "DE",
+    "hq_city": "Berlin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Apple Products",
+    "founded_year": 1986,
+    "ultimate_parent": "Freenet AG",
+    "confidence": "high",
+    "sources": [
+      "https://www.gravis.de",
+      "https://de.wikipedia.org/wiki/Gravis_(Unternehmen)"
+    ]
+  },
+  {
+    "name": "mStore",
+    "website": "mstore.de",
+    "hq_country": "DE",
+    "hq_city": "Frankfurt am Main",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Apple Products",
+    "founded_year": 2005,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.mstore.de"
+    ]
+  },
+  {
+    "name": "Amac",
+    "website": "amac.nl",
+    "hq_country": "NL",
+    "hq_city": "Amsterdam",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Apple Products",
+    "founded_year": 1987,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.amac.nl"
+    ]
+  },
+  {
+    "name": "Expert.de",
+    "website": "expert.de",
+    "hq_country": "DE",
+    "hq_city": "Langenhagen",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1962,
+    "ultimate_parent": "expert SE",
+    "confidence": "high",
+    "sources": [
+      "https://www.expert.de",
+      "https://de.wikipedia.org/wiki/Expert_SE"
+    ]
+  },
+  {
+    "name": "EP:Electronics Partner",
+    "website": "ep.de",
+    "hq_country": "DE",
+    "hq_city": "Düsseldorf",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1967,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.ep.de"
+    ]
+  },
+  {
+    "name": "Medimax",
+    "website": "medimax.de",
+    "hq_country": "DE",
+    "hq_city": "Berlin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1987,
+    "ultimate_parent": "expert SE",
+    "confidence": "medium",
+    "sources": [
+      "https://www.medimax.de"
+    ]
+  },
+  {
+    "name": "Euronics.de",
+    "website": "euronics.de",
+    "hq_country": "DE",
+    "hq_city": "Ditzingen",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1969,
+    "ultimate_parent": "Euronics Deutschland e.G.",
+    "confidence": "high",
+    "sources": [
+      "https://www.euronics.de"
+    ]
+  },
+  {
+    "name": "Techdata",
+    "website": "techdata.com",
+    "hq_country": "US",
+    "hq_city": "Clearwater, Florida",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "B2B Electronics Distribution",
+    "founded_year": 1974,
+    "ultimate_parent": "TD SYNNEX",
+    "confidence": "high",
+    "sources": [
+      "https://www.techdata.com",
+      "https://en.wikipedia.org/wiki/Tech_Data"
+    ]
+  },
+  {
+    "name": "Ingram Micro",
+    "website": "ingrammicro.com",
+    "hq_country": "US",
+    "hq_city": "Irvine, California",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "B2B Electronics Distribution",
+    "founded_year": 1979,
+    "ultimate_parent": "Platinum Equity",
+    "confidence": "high",
+    "sources": [
+      "https://www.ingrammicro.com",
+      "https://en.wikipedia.org/wiki/Ingram_Micro"
+    ]
+  },
+  {
+    "name": "ALSO Holding",
+    "website": "also.com",
+    "hq_country": "CH",
+    "hq_city": "Emmen",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "B2B Electronics Distribution",
+    "founded_year": 1984,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.also.com",
+      "https://en.wikipedia.org/wiki/Also_Holding"
+    ]
+  },
+  {
+    "name": "Westcoast",
+    "website": "westcoast.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Theale (Reading)",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "B2B Electronics Distribution",
+    "founded_year": 1984,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.westcoast.co.uk"
+    ]
+  },
+  {
+    "name": "Exertis",
+    "website": "exertis.com",
+    "hq_country": "GB",
+    "hq_city": "Basingstoke",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "B2B Electronics Distribution",
+    "founded_year": 2000,
+    "ultimate_parent": "DCC plc",
+    "confidence": "high",
+    "sources": [
+      "https://www.exertis.com"
+    ]
+  },
+  {
+    "name": "Midwich",
+    "website": "midwich.com",
+    "hq_country": "GB",
+    "hq_city": "Diss",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "B2B AV Electronics Distribution",
+    "founded_year": 1979,
+    "ultimate_parent": "Midwich Group plc",
+    "confidence": "high",
+    "sources": [
+      "https://www.midwich.com"
+    ]
+  },
+  {
+    "name": "Computerland",
+    "website": "computerland.be",
+    "hq_country": "BE",
+    "hq_city": "Brussels",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 1976,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.computerland.be"
+    ]
+  },
+  {
+    "name": "STEG Electronics",
+    "website": "steg-electronics.ch",
+    "hq_country": "CH",
+    "hq_city": "Lucerne",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 1993,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.steg-electronics.ch"
+    ]
+  },
+  {
+    "name": "PCP.ch",
+    "website": "pcp.ch",
+    "hq_country": "CH",
+    "hq_city": "Bern",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 2003,
+    "ultimate_parent": null,
+    "confidence": "low",
+    "sources": [
+      "https://www.pcp.ch"
+    ]
+  },
+  {
+    "name": "Toppreise.ch",
+    "website": "toppreise.ch",
+    "hq_country": "CH",
+    "hq_city": "Zurich",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics Price Comparison",
+    "founded_year": 2002,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.toppreise.ch"
+    ]
+  },
+  {
+    "name": "Geizhals",
+    "website": "geizhals.de",
+    "hq_country": "AT",
+    "hq_city": "Vienna",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics Price Comparison",
+    "founded_year": 1997,
+    "ultimate_parent": "Heise Gruppe",
+    "confidence": "high",
+    "sources": [
+      "https://geizhals.de",
+      "https://de.wikipedia.org/wiki/Geizhals"
+    ]
+  },
+  {
+    "name": "idealo",
+    "website": "idealo.de",
+    "hq_country": "DE",
+    "hq_city": "Berlin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics Price Comparison",
+    "founded_year": 2000,
+    "ultimate_parent": "Axel Springer SE",
+    "confidence": "high",
+    "sources": [
+      "https://www.idealo.de",
+      "https://de.wikipedia.org/wiki/Idealo"
+    ]
+  },
+  {
+    "name": "Prisjakt",
+    "website": "prisjakt.nu",
+    "hq_country": "SE",
+    "hq_city": "Ängelholm",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics Price Comparison",
+    "founded_year": 2000,
+    "ultimate_parent": "Schibsted",
+    "confidence": "high",
+    "sources": [
+      "https://www.prisjakt.nu",
+      "https://sv.wikipedia.org/wiki/Prisjakt"
+    ]
+  },
+  {
+    "name": "Heureka.cz",
+    "website": "heureka.cz",
+    "hq_country": "CZ",
+    "hq_city": "Prague",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics Price Comparison",
+    "founded_year": 2007,
+    "ultimate_parent": "Heureka Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.heureka.cz"
+    ]
+  },
+  {
+    "name": "Ceneo",
+    "website": "ceneo.pl",
+    "hq_country": "PL",
+    "hq_city": "Warsaw",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics Price Comparison",
+    "founded_year": 2005,
+    "ultimate_parent": "Naspers/Prosus (via Allegro)",
+    "confidence": "high",
+    "sources": [
+      "https://www.ceneo.pl"
+    ]
+  },
+  {
+    "name": "Skinflint",
+    "website": "skinflint.co.uk",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics Price Comparison",
+    "founded_year": 2015,
+    "ultimate_parent": "Heise Gruppe (Geizhals)",
+    "confidence": "medium",
+    "sources": [
+      "https://skinflint.co.uk"
+    ]
+  },
+  {
+    "name": "Harvey Norman",
+    "website": "harveynorman.com.au",
+    "hq_country": "AU",
+    "hq_city": "Sydney (Homebush West)",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1982,
+    "ultimate_parent": "Harvey Norman Holdings",
+    "confidence": "high",
+    "sources": [
+      "https://www.harveynorman.com.au",
+      "https://en.wikipedia.org/wiki/Harvey_Norman"
+    ]
+  },
+  {
+    "name": "JB Hi-Fi",
+    "website": "jbhifi.com.au",
+    "hq_country": "AU",
+    "hq_city": "Melbourne (Chadstone)",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1974,
+    "ultimate_parent": "JB Hi-Fi Limited",
+    "confidence": "high",
+    "sources": [
+      "https://www.jbhifi.com.au",
+      "https://en.wikipedia.org/wiki/JB_Hi-Fi"
+    ]
+  },
+  {
+    "name": "The Good Guys",
+    "website": "thegoodguys.com.au",
+    "hq_country": "AU",
+    "hq_city": "Melbourne (Essendon Fields)",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1952,
+    "ultimate_parent": "JB Hi-Fi Limited",
+    "confidence": "high",
+    "sources": [
+      "https://www.thegoodguys.com.au",
+      "https://en.wikipedia.org/wiki/The_Good_Guys_(Australian_company)"
+    ]
+  },
+  {
+    "name": "Scorptec",
+    "website": "scorptec.com.au",
+    "hq_country": "AU",
+    "hq_city": "Melbourne (Richmond)",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 1997,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.scorptec.com.au"
+    ]
+  },
+  {
+    "name": "PLE Computers",
+    "website": "ple.com.au",
+    "hq_country": "AU",
+    "hq_city": "Perth",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 1991,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.ple.com.au"
+    ]
+  },
+  {
+    "name": "PCCG (PC Case Gear)",
+    "website": "pccasegear.com",
+    "hq_country": "AU",
+    "hq_city": "Melbourne",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 2003,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.pccasegear.com"
+    ]
+  },
+  {
+    "name": "Mwave",
+    "website": "mwave.com.au",
+    "hq_country": "AU",
+    "hq_city": "Sydney",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 2003,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.mwave.com.au"
+    ]
+  },
+  {
+    "name": "PBTech",
+    "website": "pbtech.co.nz",
+    "hq_country": "NZ",
+    "hq_city": "Auckland",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 1993,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.pbtech.co.nz"
+    ]
+  },
+  {
+    "name": "Noel Leeming",
+    "website": "noelleeming.co.nz",
+    "hq_country": "NZ",
+    "hq_city": "Auckland",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1973,
+    "ultimate_parent": "The Warehouse Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.noelleeming.co.nz",
+      "https://en.wikipedia.org/wiki/Noel_Leeming"
+    ]
+  },
+  {
+    "name": "Memory Express",
+    "website": "memoryexpress.com",
+    "hq_country": "CA",
+    "hq_city": "Calgary, Alberta",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 1996,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.memoryexpress.com"
+    ]
+  },
+  {
+    "name": "Canada Computers",
+    "website": "canadacomputers.com",
+    "hq_country": "CA",
+    "hq_city": "Richmond Hill, Ontario",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 1991,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.canadacomputers.com"
+    ]
+  },
+  {
+    "name": "Kabum",
+    "website": "kabum.com.br",
+    "hq_country": "BR",
+    "hq_city": "Limeira, São Paulo",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 2003,
+    "ultimate_parent": "Magazine Luiza",
+    "confidence": "high",
+    "sources": [
+      "https://www.kabum.com.br"
+    ]
+  },
+  {
+    "name": "Pichau",
+    "website": "pichau.com.br",
+    "hq_country": "BR",
+    "hq_city": "Joinville, Santa Catarina",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 2007,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.pichau.com.br"
+    ]
+  },
+  {
+    "name": "Terabyte Shop",
+    "website": "terabyteshop.com.br",
+    "hq_country": "BR",
+    "hq_city": "Vitória, Espírito Santo",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 2003,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.terabyteshop.com.br"
+    ]
+  },
+  {
+    "name": "MercadoLivre Tech",
+    "website": "mercadolivre.com.br",
+    "hq_country": "BR",
+    "hq_city": "São Paulo",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics Marketplace",
+    "founded_year": 1999,
+    "ultimate_parent": "Mercado Libre",
+    "confidence": "high",
+    "sources": [
+      "https://www.mercadolivre.com.br"
+    ]
+  },
+  {
+    "name": "Yodobashi Camera",
+    "website": "yodobashi.com",
+    "hq_country": "JP",
+    "hq_city": "Tokyo (Shinjuku)",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1960,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.yodobashi.com",
+      "https://en.wikipedia.org/wiki/Yodobashi_Camera"
+    ]
+  },
+  {
+    "name": "Bic Camera",
+    "website": "biccamera.com",
+    "hq_country": "JP",
+    "hq_city": "Tokyo (Ikebukuro)",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1978,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.biccamera.com",
+      "https://en.wikipedia.org/wiki/Bic_Camera"
+    ]
+  },
+  {
+    "name": "Yamada Denki",
+    "website": "yamada-denkiweb.com",
+    "hq_country": "JP",
+    "hq_city": "Takasaki, Gunma",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1973,
+    "ultimate_parent": "Yamada Holdings",
+    "confidence": "high",
+    "sources": [
+      "https://www.yamada-denkiweb.com",
+      "https://en.wikipedia.org/wiki/Yamada_Denki"
+    ]
+  },
+  {
+    "name": "K's Denki",
+    "website": "ksdenki.com",
+    "hq_country": "JP",
+    "hq_city": "Mito, Ibaraki",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1947,
+    "ultimate_parent": "K's Holdings",
+    "confidence": "medium",
+    "sources": [
+      "https://www.ksdenki.com"
+    ]
+  },
+  {
+    "name": "Joshin Denki",
+    "website": "joshinweb.jp",
+    "hq_country": "JP",
+    "hq_city": "Osaka (Naniwa)",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1950,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.joshinweb.jp"
+    ]
+  },
+  {
+    "name": "Edion",
+    "website": "edion.com",
+    "hq_country": "JP",
+    "hq_city": "Osaka",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 2002,
+    "ultimate_parent": "Edion Corporation",
+    "confidence": "medium",
+    "sources": [
+      "https://www.edion.com"
+    ]
+  },
+  {
+    "name": "Sofmap",
+    "website": "sofmap.com",
+    "hq_country": "JP",
+    "hq_city": "Tokyo",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 1982,
+    "ultimate_parent": "Bic Camera",
+    "confidence": "medium",
+    "sources": [
+      "https://www.sofmap.com"
+    ]
+  },
+  {
+    "name": "Himaraya",
+    "website": "himaraya.co.jp",
+    "hq_country": "JP",
+    "hq_city": "Gifu",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics & Sports",
+    "founded_year": 1943,
+    "ultimate_parent": null,
+    "confidence": "low",
+    "sources": [
+      "https://www.himaraya.co.jp"
+    ]
+  },
+  {
+    "name": "Danawa",
+    "website": "danawa.com",
+    "hq_country": "KR",
+    "hq_city": "Seoul",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics Price Comparison",
+    "founded_year": 1999,
+    "ultimate_parent": "Comet",
+    "confidence": "high",
+    "sources": [
+      "https://www.danawa.com"
+    ]
+  },
+  {
+    "name": "Compuzone",
+    "website": "compuzone.co.kr",
+    "hq_country": "KR",
+    "hq_city": "Seoul",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 1998,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.compuzone.co.kr"
+    ]
+  },
+  {
+    "name": "Lotte Hi-Mart",
+    "website": "e-himart.co.kr",
+    "hq_country": "KR",
+    "hq_city": "Seoul",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1999,
+    "ultimate_parent": "Lotte Corporation",
+    "confidence": "high",
+    "sources": [
+      "https://www.e-himart.co.kr",
+      "https://en.wikipedia.org/wiki/Lotte_Hi-Mart"
+    ]
+  },
+  {
+    "name": "11Street",
+    "website": "11st.co.kr",
+    "hq_country": "KR",
+    "hq_city": "Seoul",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics Marketplace",
+    "founded_year": 2008,
+    "ultimate_parent": "SK Telecom",
+    "confidence": "high",
+    "sources": [
+      "https://www.11st.co.kr",
+      "https://en.wikipedia.org/wiki/11Street"
+    ]
+  },
+  {
+    "name": "Courts",
+    "website": "courts.com.sg",
+    "hq_country": "SG",
+    "hq_city": "Singapore",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1850,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.courts.com.sg",
+      "https://en.wikipedia.org/wiki/Courts_(retailer)"
+    ]
+  },
+  {
+    "name": "Senheng",
+    "website": "senheng.com.my",
+    "hq_country": "MY",
+    "hq_city": "Kuala Lumpur",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 1989,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.senheng.com.my"
+    ]
+  },
+  {
+    "name": "All IT Hypermarket",
+    "website": "allithypermarket.com.my",
+    "hq_country": "MY",
+    "hq_city": "Kuala Lumpur",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 2006,
+    "ultimate_parent": null,
+    "confidence": "low",
+    "sources": [
+      "https://www.allithypermarket.com.my"
+    ]
+  },
+  {
+    "name": "PC Home",
+    "website": "pchome.com.tw",
+    "hq_country": "TW",
+    "hq_city": "Taipei",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics Marketplace",
+    "founded_year": 1996,
+    "ultimate_parent": "PChome Online Inc.",
+    "confidence": "high",
+    "sources": [
+      "https://www.pchome.com.tw",
+      "https://en.wikipedia.org/wiki/PChome_Online"
+    ]
+  },
+  {
+    "name": "Momo",
+    "website": "momoshop.com.tw",
+    "hq_country": "TW",
+    "hq_city": "Taipei",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics Marketplace",
+    "founded_year": 2004,
+    "ultimate_parent": "Fubon Financial",
+    "confidence": "high",
+    "sources": [
+      "https://www.momoshop.com.tw"
+    ]
+  },
+  {
+    "name": "TKEC",
+    "website": "tkec.com.tw",
+    "hq_country": "TW",
+    "hq_city": "Taipei",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 1999,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.tkec.com.tw"
+    ]
+  },
+  {
+    "name": "Coolpc",
+    "website": "coolpc.com.tw",
+    "hq_country": "TW",
+    "hq_city": "Taipei",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Hardware",
+    "founded_year": 1998,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.coolpc.com.tw"
+    ]
+  },
+  {
+    "name": "Fnac Darty Group",
+    "website": "fnacdarty.com",
+    "hq_country": "FR",
+    "hq_city": "Ivry-sur-Seine",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 2016,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.fnacdarty.com",
+      "https://en.wikipedia.org/wiki/Fnac_Darty"
+    ]
+  },
+  {
+    "name": "Ceconomy AG",
+    "website": "ceconomy.de",
+    "hq_country": "DE",
+    "hq_city": "Düsseldorf",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Electronics",
+    "founded_year": 2017,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.ceconomy.de",
+      "https://en.wikipedia.org/wiki/Ceconomy"
+    ]
+  },
+  {
+    "name": "Clove Technology",
+    "website": "clove.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Bromsgrove",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Smartphones",
+    "founded_year": 1992,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.clove.co.uk"
+    ]
+  },
+  {
+    "name": "Handtec",
+    "website": "handtec.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Birmingham",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Smartphones",
+    "founded_year": 2006,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.handtec.co.uk"
+    ]
+  },
+  {
+    "name": "Mobile Fun",
+    "website": "mobilefun.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Birmingham",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Mobile Accessories",
+    "founded_year": 1999,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.mobilefun.co.uk"
+    ]
+  },
+  {
+    "name": "Pimoroni",
+    "website": "pimoroni.com",
+    "hq_country": "GB",
+    "hq_city": "Sheffield",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Maker Electronics",
+    "founded_year": 2012,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://shop.pimoroni.com"
+    ]
+  },
+  {
+    "name": "The Pi Hut",
+    "website": "thepihut.com",
+    "hq_country": "GB",
+    "hq_city": "Northampton",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Maker Electronics",
+    "founded_year": 2012,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://thepihut.com"
+    ]
+  },
+  {
+    "name": "Anker Direct",
+    "website": "anker.com",
+    "hq_country": "US",
+    "hq_city": "Seattle, Washington",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Mobile Accessories",
+    "founded_year": 2011,
+    "ultimate_parent": "Anker Innovations",
+    "confidence": "high",
+    "sources": [
+      "https://www.anker.com"
+    ]
+  },
+  {
+    "name": "Crucial",
+    "website": "crucial.com",
+    "hq_country": "US",
+    "hq_city": "Boise, Idaho",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Memory",
+    "founded_year": 1996,
+    "ultimate_parent": "Micron Technology",
+    "confidence": "high",
+    "sources": [
+      "https://www.crucial.com"
+    ]
+  },
+  {
+    "name": "Western Digital Store",
+    "website": "westerndigital.com",
+    "hq_country": "US",
+    "hq_city": "San Jose, California",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Storage",
+    "founded_year": 1970,
+    "ultimate_parent": "Western Digital Corporation",
+    "confidence": "high",
+    "sources": [
+      "https://www.westerndigital.com"
+    ]
+  },
+  {
+    "name": "Seagate Store",
+    "website": "seagate.com",
+    "hq_country": "US",
+    "hq_city": "Fremont, California",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Storage",
+    "founded_year": 1979,
+    "ultimate_parent": "Seagate Technology",
+    "confidence": "high",
+    "sources": [
+      "https://www.seagate.com"
+    ]
+  },
+  {
+    "name": "SanDisk Store",
+    "website": "sandisk.com",
+    "hq_country": "US",
+    "hq_city": "Milpitas, California",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Storage",
+    "founded_year": 1988,
+    "ultimate_parent": "Western Digital Corporation",
+    "confidence": "high",
+    "sources": [
+      "https://www.sandisk.com"
+    ]
+  },
+  {
+    "name": "Kingston Technology",
+    "website": "kingston.com",
+    "hq_country": "US",
+    "hq_city": "Fountain Valley, California",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Computer Memory",
+    "founded_year": 1987,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.kingston.com"
+    ]
+  },
+  {
+    "name": "Corsair Store",
+    "website": "corsair.com",
+    "hq_country": "US",
+    "hq_city": "Fremont, California",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Gaming Hardware",
+    "founded_year": 1994,
+    "ultimate_parent": "Corsair Gaming Inc.",
+    "confidence": "high",
+    "sources": [
+      "https://www.corsair.com"
+    ]
+  },
+  {
+    "name": "Logitech Store",
+    "website": "logitech.com",
+    "hq_country": "CH",
+    "hq_city": "Lausanne",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Peripherals",
+    "founded_year": 1981,
+    "ultimate_parent": "Logitech International SA",
+    "confidence": "high",
+    "sources": [
+      "https://www.logitech.com"
+    ]
+  },
+  {
+    "name": "Razer Store",
+    "website": "razer.com",
+    "hq_country": "SG",
+    "hq_city": "Singapore",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Gaming Hardware",
+    "founded_year": 2005,
+    "ultimate_parent": "Razer Inc.",
+    "confidence": "high",
+    "sources": [
+      "https://www.razer.com"
+    ]
+  },
+  {
+    "name": "SteelSeries Store",
+    "website": "steelseries.com",
+    "hq_country": "DK",
+    "hq_city": "Copenhagen",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Gaming Peripherals",
+    "founded_year": 2001,
+    "ultimate_parent": "GN Audio",
+    "confidence": "high",
+    "sources": [
+      "https://steelseries.com"
+    ]
+  },
+  {
+    "name": "HyperX Store",
+    "website": "hyperxgaming.com",
+    "hq_country": "US",
+    "hq_city": "Fountain Valley, California",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Gaming Peripherals",
+    "founded_year": 2002,
+    "ultimate_parent": "HP Inc.",
+    "confidence": "high",
+    "sources": [
+      "https://www.hyperxgaming.com"
+    ]
+  },
+  {
+    "name": "ROCCAT Store",
+    "website": "roccat.com",
+    "hq_country": "DE",
+    "hq_city": "Hamburg",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Gaming Peripherals",
+    "founded_year": 2007,
+    "ultimate_parent": "Turtle Beach Corporation",
+    "confidence": "high",
+    "sources": [
+      "https://www.roccat.com"
+    ]
+  },
+  {
+    "name": "NZXT Store",
+    "website": "nzxt.com",
+    "hq_country": "US",
+    "hq_city": "Los Angeles, California",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "PC Components",
+    "founded_year": 2004,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://nzxt.com"
+    ]
+  },
+  {
+    "name": "Cooler Master Store",
+    "website": "coolermaster.com",
+    "hq_country": "TW",
+    "hq_city": "New Taipei City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "PC Components",
+    "founded_year": 1992,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.coolermaster.com"
+    ]
+  },
+  {
+    "name": "be quiet! Store",
+    "website": "bequiet.com",
+    "hq_country": "DE",
+    "hq_city": "Glinde",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "PC Components",
+    "founded_year": 2001,
+    "ultimate_parent": "Listan GmbH",
+    "confidence": "high",
+    "sources": [
+      "https://www.bequiet.com"
+    ]
+  }
+]

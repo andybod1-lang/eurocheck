@@ -1,0 +1,136 @@
+{
+  "extensionName": {
+    "message": "EuroCheck - Ідентифікатор компаній ЄС",
+    "description": "Extension name shown in browser and store"
+  },
+  "extensionDescription": {
+    "message": "Миттєво дізнайтесь, чи належить вебсайт європейській або неєвропейській компанії",
+    "description": "Extension description for store listing"
+  },
+  "appTitle": {
+    "message": "EuroCheck",
+    "description": "Short app title shown in popup header"
+  },
+  "statusEu": {
+    "message": "Європейська компанія",
+    "description": "Status shown for EU companies"
+  },
+  "statusNonEu": {
+    "message": "Неєвропейська компанія",
+    "description": "Status shown for non-EU companies"
+  },
+  "statusMixed": {
+    "message": "Змішана власність",
+    "description": "Status shown for companies with mixed EU/non-EU ownership"
+  },
+  "statusUnknown": {
+    "message": "Невідомо",
+    "description": "Status shown when company origin is unknown"
+  },
+  "loading": {
+    "message": "Перевірка...",
+    "description": "Loading state text"
+  },
+  "details": {
+    "message": "Деталі",
+    "description": "Details section header"
+  },
+  "settings": {
+    "message": "Налаштування",
+    "description": "Settings link text"
+  },
+  "requestCompany": {
+    "message": "Запитати цю компанію",
+    "description": "Button to request data for unknown company"
+  },
+  "requestSubmitted": {
+    "message": "Запит надіслано!",
+    "description": "Confirmation after request is submitted"
+  },
+  "ownershipChain": {
+    "message": "Ланцюг власності",
+    "description": "Section showing company ownership hierarchy"
+  },
+  "ownershipWarning": {
+    "message": "Власник поза ЄС",
+    "description": "Warning shown when EU company is owned by non-EU parent"
+  },
+  "labelFounded": {
+    "message": "Засновано:",
+    "description": "Label for company founding year"
+  },
+  "labelConfidence": {
+    "message": "Достовірність:",
+    "description": "Label for data confidence level"
+  },
+  "labelLastVerified": {
+    "message": "Остання перевірка:",
+    "description": "Label for last verification date"
+  },
+  "confidenceHigh": {
+    "message": "Висока",
+    "description": "High confidence level"
+  },
+  "confidenceMedium": {
+    "message": "Середня",
+    "description": "Medium confidence level"
+  },
+  "confidenceLow": {
+    "message": "Низька",
+    "description": "Low confidence level"
+  },
+  "unknownNoData": {
+    "message": "Немає даних для $DOMAIN$",
+    "description": "Message when no company data exists for domain",
+    "placeholders": {
+      "domain": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "errorGeneric": {
+    "message": "Щось пішло не так",
+    "description": "Generic error message"
+  },
+  "errorCannotAccess": {
+    "message": "Немає доступу до цієї сторінки",
+    "description": "Error when tab URL cannot be accessed"
+  },
+  "errorNotValidSite": {
+    "message": "Недійсний вебсайт",
+    "description": "Error when URL is not a valid website"
+  },
+  "errorFailedToLoad": {
+    "message": "Не вдалося завантажити дані",
+    "description": "Error when data loading fails"
+  },
+  "settingsTitle": {
+    "message": "Налаштування EuroCheck",
+    "description": "Settings page title"
+  },
+  "settingsShowBadge": {
+    "message": "Показувати значок на панелі інструментів",
+    "description": "Setting to show/hide toolbar badge"
+  },
+  "settingsNotifications": {
+    "message": "Показувати сповіщення для сайтів поза ЄС",
+    "description": "Setting to enable/disable notifications"
+  },
+  "settingsComingSoon": {
+    "message": "Більше налаштувань незабаром...",
+    "description": "Placeholder for future settings"
+  },
+  "badgeCurrent": {
+    "message": "Поточна",
+    "description": "Badge for current company in ownership chain"
+  },
+  "badgeParent": {
+    "message": "Материнська",
+    "description": "Badge for parent company in ownership chain"
+  },
+  "badgeUltimate": {
+    "message": "Кінцева",
+    "description": "Badge for ultimate parent in ownership chain"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "extensionName": {
+    "message": "EuroCheck - EU-virksomhedsidentifikator",
+    "description": "Extension name shown in browser and store"
+  },
+  "extensionDescription": {
+    "message": "Se straks om en hjemmeside tilhører en europæisk eller ikke-europæisk virksomhed",
+    "description": "Extension description for store listing"
+  },
+  "appTitle": {
+    "message": "EuroCheck",
+    "description": "Short app title shown in popup header"
+  },
+  "statusEu": {
+    "message": "Europæisk virksomhed",
+    "description": "Status shown for EU companies"
+  },
+  "statusNonEu": {
+    "message": "Ikke-europæisk virksomhed",
+    "description": "Status shown for non-EU companies"
+  },
+  "statusMixed": {
+    "message": "Blandet ejerskab",
+    "description": "Status shown for companies with mixed EU/non-EU ownership"
+  },
+  "statusUnknown": {
+    "message": "Ukendt",
+    "description": "Status shown when company origin is unknown"
+  },
+  "loading": {
+    "message": "Tjekker...",
+    "description": "Loading state text"
+  },
+  "details": {
+    "message": "Detaljer",
+    "description": "Details section header"
+  },
+  "settings": {
+    "message": "Indstillinger",
+    "description": "Settings link text"
+  },
+  "requestCompany": {
+    "message": "Anmod om denne virksomhed",
+    "description": "Button to request data for unknown company"
+  },
+  "requestSubmitted": {
+    "message": "Anmodning sendt!",
+    "description": "Confirmation after request is submitted"
+  },
+  "ownershipChain": {
+    "message": "Ejerskabskæde",
+    "description": "Section showing company ownership hierarchy"
+  },
+  "ownershipWarning": {
+    "message": "Ejet uden for EU",
+    "description": "Warning shown when EU company is owned by non-EU parent"
+  },
+  "labelFounded": {
+    "message": "Grundlagt:",
+    "description": "Label for company founding year"
+  },
+  "labelConfidence": {
+    "message": "Sikkerhed:",
+    "description": "Label for data confidence level"
+  },
+  "labelLastVerified": {
+    "message": "Sidst verificeret:",
+    "description": "Label for last verification date"
+  },
+  "confidenceHigh": {
+    "message": "Høj",
+    "description": "High confidence level"
+  },
+  "confidenceMedium": {
+    "message": "Mellem",
+    "description": "Medium confidence level"
+  },
+  "confidenceLow": {
+    "message": "Lav",
+    "description": "Low confidence level"
+  },
+  "unknownNoData": {
+    "message": "Ingen data tilgængelig for $DOMAIN$",
+    "description": "Message when no company data exists for domain",
+    "placeholders": {
+      "domain": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "errorGeneric": {
+    "message": "Noget gik galt",
+    "description": "Generic error message"
+  },
+  "errorCannotAccess": {
+    "message": "Kan ikke få adgang til denne side",
+    "description": "Error when tab URL cannot be accessed"
+  },
+  "errorNotValidSite": {
+    "message": "Ikke en gyldig hjemmeside",
+    "description": "Error when URL is not a valid website"
+  },
+  "errorFailedToLoad": {
+    "message": "Kunne ikke indlæse data",
+    "description": "Error when data loading fails"
+  },
+  "settingsTitle": {
+    "message": "EuroCheck-indstillinger",
+    "description": "Settings page title"
+  },
+  "settingsShowBadge": {
+    "message": "Vis mærke på værktøjslinjeikon",
+    "description": "Setting to show/hide toolbar badge"
+  },
+  "settingsNotifications": {
+    "message": "Vis notifikationer for ikke-EU-sider",
+    "description": "Setting to enable/disable notifications"
+  },
+  "settingsComingSoon": {
+    "message": "Flere indstillinger kommer snart...",
+    "description": "Placeholder for future settings"
+  },
+  "badgeCurrent": {
+    "message": "Nuværende",
+    "description": "Badge for current company in ownership chain"
+  },
+  "badgeParent": {
+    "message": "Moderselskab",
+    "description": "Badge for parent company in ownership chain"
+  },
+  "badgeUltimate": {
+    "message": "Øverste",
+    "description": "Badge for ultimate parent in ownership chain"
+  }
+}

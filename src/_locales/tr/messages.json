@@ -1,0 +1,136 @@
+{
+  "extensionName": {
+    "message": "EuroCheck - AB Şirket Tanımlayıcı",
+    "description": "Extension name shown in browser and store"
+  },
+  "extensionDescription": {
+    "message": "Bir web sitesinin Avrupalı veya Avrupa dışı bir şirkete ait olup olmadığını anında görün",
+    "description": "Extension description for store listing"
+  },
+  "appTitle": {
+    "message": "EuroCheck",
+    "description": "Short app title shown in popup header"
+  },
+  "statusEu": {
+    "message": "Avrupalı Şirket",
+    "description": "Status shown for EU companies"
+  },
+  "statusNonEu": {
+    "message": "Avrupa Dışı Şirket",
+    "description": "Status shown for non-EU companies"
+  },
+  "statusMixed": {
+    "message": "Karma Sahiplik",
+    "description": "Status shown for companies with mixed EU/non-EU ownership"
+  },
+  "statusUnknown": {
+    "message": "Bilinmiyor",
+    "description": "Status shown when company origin is unknown"
+  },
+  "loading": {
+    "message": "Kontrol ediliyor...",
+    "description": "Loading state text"
+  },
+  "details": {
+    "message": "Detaylar",
+    "description": "Details section header"
+  },
+  "settings": {
+    "message": "Ayarlar",
+    "description": "Settings link text"
+  },
+  "requestCompany": {
+    "message": "Bu şirketi talep et",
+    "description": "Button to request data for unknown company"
+  },
+  "requestSubmitted": {
+    "message": "Talep gönderildi!",
+    "description": "Confirmation after request is submitted"
+  },
+  "ownershipChain": {
+    "message": "Sahiplik Zinciri",
+    "description": "Section showing company ownership hierarchy"
+  },
+  "ownershipWarning": {
+    "message": "AB dışı sahipliğinde",
+    "description": "Warning shown when EU company is owned by non-EU parent"
+  },
+  "labelFounded": {
+    "message": "Kuruluş:",
+    "description": "Label for company founding year"
+  },
+  "labelConfidence": {
+    "message": "Güvenilirlik:",
+    "description": "Label for data confidence level"
+  },
+  "labelLastVerified": {
+    "message": "Son doğrulama:",
+    "description": "Label for last verification date"
+  },
+  "confidenceHigh": {
+    "message": "Yüksek",
+    "description": "High confidence level"
+  },
+  "confidenceMedium": {
+    "message": "Orta",
+    "description": "Medium confidence level"
+  },
+  "confidenceLow": {
+    "message": "Düşük",
+    "description": "Low confidence level"
+  },
+  "unknownNoData": {
+    "message": "$DOMAIN$ için veri bulunamadı",
+    "description": "Message when no company data exists for domain",
+    "placeholders": {
+      "domain": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "errorGeneric": {
+    "message": "Bir şeyler yanlış gitti",
+    "description": "Generic error message"
+  },
+  "errorCannotAccess": {
+    "message": "Bu sayfaya erişilemiyor",
+    "description": "Error when tab URL cannot be accessed"
+  },
+  "errorNotValidSite": {
+    "message": "Geçerli bir web sitesi değil",
+    "description": "Error when URL is not a valid website"
+  },
+  "errorFailedToLoad": {
+    "message": "Veri yüklenemedi",
+    "description": "Error when data loading fails"
+  },
+  "settingsTitle": {
+    "message": "EuroCheck Ayarları",
+    "description": "Settings page title"
+  },
+  "settingsShowBadge": {
+    "message": "Araç çubuğu simgesinde rozet göster",
+    "description": "Setting to show/hide toolbar badge"
+  },
+  "settingsNotifications": {
+    "message": "AB dışı siteler için bildirim göster",
+    "description": "Setting to enable/disable notifications"
+  },
+  "settingsComingSoon": {
+    "message": "Daha fazla ayar yakında...",
+    "description": "Placeholder for future settings"
+  },
+  "badgeCurrent": {
+    "message": "Mevcut",
+    "description": "Badge for current company in ownership chain"
+  },
+  "badgeParent": {
+    "message": "Üst Şirket",
+    "description": "Badge for parent company in ownership chain"
+  },
+  "badgeUltimate": {
+    "message": "Nihai",
+    "description": "Badge for ultimate parent in ownership chain"
+  }
+}

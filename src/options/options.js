@@ -1,19 +1,48 @@
 /**
- * EuroCheck - Options Page Script
+ * EuroCheck - Options Page Script (Optimized)
  * Handles settings and i18n for the options page
+ * 
+ * Optimizations:
+ * - Cached DOM references
+ * - Debounced storage writes
+ * - Event delegation
+ * - Single DOMContentLoaded with { once: true }
  */
+
+// === CACHED DOM REFERENCES ===
+const DOM = {};
+
+// === CONFIGURATION ===
+const DEBOUNCE_MS = 300;
+
+// === STATE ===
+let saveTimeout = null;
+let pendingSettings = null;
+
+/**
+ * Cache all DOM references once
+ */
+function cacheDOMReferences() {
+  DOM.showBadge = document.getElementById('showBadge');
+  DOM.notifications = document.getElementById('notifications');
+  DOM.form = document.querySelector('.settings-form');
+}
 
 /**
  * Localize all elements with data-i18n attribute
  */
 function localizeUI() {
-  document.querySelectorAll('[data-i18n]').forEach(el => {
+  const elements = document.querySelectorAll('[data-i18n]');
+  const len = elements.length;
+  
+  for (let i = 0; i < len; i++) {
+    const el = elements[i];
     const key = el.getAttribute('data-i18n');
     const message = chrome.i18n.getMessage(key);
     if (message) {
       el.textContent = message;
     }
-  });
+  }
   
   // Update page title
   const titleKey = document.querySelector('title')?.getAttribute('data-i18n');
@@ -36,32 +65,73 @@ async function loadSettings() {
   
   try {
     const result = await chrome.storage.sync.get(defaults);
-    document.getElementById('showBadge').checked = result.showBadge;
-    document.getElementById('notifications').checked = result.notifications;
+    DOM.showBadge.checked = result.showBadge;
+    DOM.notifications.checked = result.notifications;
   } catch (error) {
     console.error('[EuroCheck] Failed to load settings:', error);
   }
 }
 
 /**
- * Save settings on change
+ * Save settings (debounced to batch rapid changes)
  */
-function setupSettingsListeners() {
-  const showBadge = document.getElementById('showBadge');
-  const notifications = document.getElementById('notifications');
+function saveSettings() {
+  // Clear existing timeout
+  if (saveTimeout) {
+    clearTimeout(saveTimeout);
+  }
   
-  showBadge.addEventListener('change', () => {
-    chrome.storage.sync.set({ showBadge: showBadge.checked });
-  });
+  // Capture current state
+  pendingSettings = {
+    showBadge: DOM.showBadge.checked,
+    notifications: DOM.notifications.checked
+  };
   
-  notifications.addEventListener('change', () => {
-    chrome.storage.sync.set({ notifications: notifications.checked });
+  // Debounce the actual save
+  saveTimeout = setTimeout(async () => {
+    try {
+      await chrome.storage.sync.set(pendingSettings);
+      pendingSettings = null;
+    } catch (error) {
+      console.error('[EuroCheck] Failed to save settings:', error);
+    }
+  }, DEBOUNCE_MS);
+}
+
+/**
+ * Setup event delegation (single listener)
+ */
+function setupEventDelegation() {
+  // Use change event on parent for delegation
+  document.body.addEventListener('change', (e) => {
+    const target = e.target;
+    
+    if (target.id === 'showBadge' || target.id === 'notifications') {
+      saveSettings();
+    }
   });
 }
 
-// Initialize when DOM is ready
-document.addEventListener('DOMContentLoaded', () => {
+/**
+ * Initialize options page
+ */
+function init() {
+  // 1. Cache DOM references
+  cacheDOMReferences();
+  
+  // 2. Localize UI
   localizeUI();
+  
+  // 3. Load settings
   loadSettings();
-  setupSettingsListeners();
-});
+  
+  // 4. Setup event delegation
+  setupEventDelegation();
+}
+
+// Initialize when DOM is ready (with { once: true } to auto-remove listener)
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', init, { once: true });
+} else {
+  init();
+}

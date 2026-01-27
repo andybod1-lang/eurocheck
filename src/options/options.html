@@ -14,8 +14,15 @@
     h1 {
       color: #003399;
     }
+    h2 {
+      color: #444;
+      font-size: 1.1em;
+      margin-top: 30px;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 5px;
+    }
     .setting {
-      margin: 20px 0;
+      margin: 15px 0;
       padding: 15px;
       background: #f5f5f5;
       border-radius: 8px;
@@ -26,10 +33,55 @@
       gap: 10px;
       cursor: pointer;
     }
+    .cache-stats {
+      font-family: monospace;
+      font-size: 13px;
+      background: #2d2d2d;
+      color: #00ff00;
+      padding: 12px;
+      border-radius: 6px;
+      margin-top: 10px;
+    }
+    .cache-stats div {
+      margin: 4px 0;
+    }
+    .cache-stats .label {
+      color: #888;
+    }
+    .cache-stats .value {
+      color: #00ff00;
+    }
+    .cache-stats .good { color: #10B981; }
+    .cache-stats .warning { color: #F59E0B; }
+    button {
+      background: #003399;
+      color: white;
+      border: none;
+      padding: 8px 16px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 14px;
+      margin-top: 10px;
+    }
+    button:hover {
+      background: #002266;
+    }
+    button.danger {
+      background: #dc3545;
+    }
+    button.danger:hover {
+      background: #c82333;
+    }
+    .button-row {
+      display: flex;
+      gap: 10px;
+      margin-top: 10px;
+    }
   </style>
 </head>
 <body>
   <h1>🇪🇺 <span data-i18n="settingsTitle">EuroCheck Settings</span></h1>
+  
   <div class="setting">
     <label>
       <input type="checkbox" id="showBadge" checked>
@@ -42,6 +94,27 @@
       <span data-i18n="settingsNotifications">Show notifications for non-EU sites</span>
     </label>
   </div>
+  
+  <h2>🔧 Cache & Debug</h2>
+  <div class="setting">
+    <label>
+      <input type="checkbox" id="debugMode">
+      <span>Enable debug logging (in browser console)</span>
+    </label>
+    <div class="cache-stats" id="cacheStats">
+      <div><span class="label">Size:</span> <span class="value" id="statSize">-</span></div>
+      <div><span class="label">Hit Rate:</span> <span class="value" id="statHitRate">-</span></div>
+      <div><span class="label">Hits:</span> <span class="value" id="statHits">-</span></div>
+      <div><span class="label">Misses:</span> <span class="value" id="statMisses">-</span></div>
+      <div><span class="label">Evictions:</span> <span class="value" id="statEvictions">-</span></div>
+      <div><span class="label">Expirations:</span> <span class="value" id="statExpirations">-</span></div>
+    </div>
+    <div class="button-row">
+      <button id="refreshStats">Refresh Stats</button>
+      <button id="clearCache" class="danger">Clear Cache</button>
+    </div>
+  </div>
+  
   <p data-i18n="settingsComingSoon">More settings coming soon...</p>
   
   <script src="options.js"></script>

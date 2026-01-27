@@ -1,0 +1,136 @@
+{
+  "extensionName": {
+    "message": "EuroCheck - Identifikátor EU firem",
+    "description": "Extension name shown in browser and store"
+  },
+  "extensionDescription": {
+    "message": "Okamžitě zjistěte, zda web patří evropské nebo mimoevropské společnosti",
+    "description": "Extension description for store listing"
+  },
+  "appTitle": {
+    "message": "EuroCheck",
+    "description": "Short app title shown in popup header"
+  },
+  "statusEu": {
+    "message": "Evropská společnost",
+    "description": "Status shown for EU companies"
+  },
+  "statusNonEu": {
+    "message": "Mimoevropská společnost",
+    "description": "Status shown for non-EU companies"
+  },
+  "statusMixed": {
+    "message": "Smíšené vlastnictví",
+    "description": "Status shown for companies with mixed EU/non-EU ownership"
+  },
+  "statusUnknown": {
+    "message": "Neznámé",
+    "description": "Status shown when company origin is unknown"
+  },
+  "loading": {
+    "message": "Kontroluji...",
+    "description": "Loading state text"
+  },
+  "details": {
+    "message": "Podrobnosti",
+    "description": "Details section header"
+  },
+  "settings": {
+    "message": "Nastavení",
+    "description": "Settings link text"
+  },
+  "requestCompany": {
+    "message": "Požádat o tuto společnost",
+    "description": "Button to request data for unknown company"
+  },
+  "requestSubmitted": {
+    "message": "Požadavek odeslán!",
+    "description": "Confirmation after request is submitted"
+  },
+  "ownershipChain": {
+    "message": "Řetězec vlastnictví",
+    "description": "Section showing company ownership hierarchy"
+  },
+  "ownershipWarning": {
+    "message": "Vlastněno mimo EU",
+    "description": "Warning shown when EU company is owned by non-EU parent"
+  },
+  "labelFounded": {
+    "message": "Založeno:",
+    "description": "Label for company founding year"
+  },
+  "labelConfidence": {
+    "message": "Spolehlivost:",
+    "description": "Label for data confidence level"
+  },
+  "labelLastVerified": {
+    "message": "Naposledy ověřeno:",
+    "description": "Label for last verification date"
+  },
+  "confidenceHigh": {
+    "message": "Vysoká",
+    "description": "High confidence level"
+  },
+  "confidenceMedium": {
+    "message": "Střední",
+    "description": "Medium confidence level"
+  },
+  "confidenceLow": {
+    "message": "Nízká",
+    "description": "Low confidence level"
+  },
+  "unknownNoData": {
+    "message": "Žádná data pro $DOMAIN$",
+    "description": "Message when no company data exists for domain",
+    "placeholders": {
+      "domain": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "errorGeneric": {
+    "message": "Něco se pokazilo",
+    "description": "Generic error message"
+  },
+  "errorCannotAccess": {
+    "message": "Nelze přistoupit k této stránce",
+    "description": "Error when tab URL cannot be accessed"
+  },
+  "errorNotValidSite": {
+    "message": "Neplatná webová stránka",
+    "description": "Error when URL is not a valid website"
+  },
+  "errorFailedToLoad": {
+    "message": "Nepodařilo se načíst data",
+    "description": "Error when data loading fails"
+  },
+  "settingsTitle": {
+    "message": "Nastavení EuroCheck",
+    "description": "Settings page title"
+  },
+  "settingsShowBadge": {
+    "message": "Zobrazit odznak na ikoně v liště",
+    "description": "Setting to show/hide toolbar badge"
+  },
+  "settingsNotifications": {
+    "message": "Zobrazit upozornění pro weby mimo EU",
+    "description": "Setting to enable/disable notifications"
+  },
+  "settingsComingSoon": {
+    "message": "Další nastavení již brzy...",
+    "description": "Placeholder for future settings"
+  },
+  "badgeCurrent": {
+    "message": "Aktuální",
+    "description": "Badge for current company in ownership chain"
+  },
+  "badgeParent": {
+    "message": "Mateřská",
+    "description": "Badge for parent company in ownership chain"
+  },
+  "badgeUltimate": {
+    "message": "Nejvyšší",
+    "description": "Badge for ultimate parent in ownership chain"
+  }
+}

@@ -1,0 +1,3126 @@
+[
+  {
+    "name": "Maisons du Monde",
+    "website": "maisonsdumonde.com",
+    "hq_country": "FR",
+    "hq_city": "Vertou",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Home & Garden",
+    "founded_year": 1996,
+    "ultimate_parent": "Bain Capital",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Maisons_du_Monde",
+      "https://corporate.maisonsdumonde.com"
+    ]
+  },
+  {
+    "name": "Leroy Merlin",
+    "website": "leroymerlin.com",
+    "hq_country": "FR",
+    "hq_city": "Lille",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1923,
+    "ultimate_parent": "Groupe Adeo (Mulliez family)",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Leroy_Merlin",
+      "https://www.leroymerlin.com"
+    ]
+  },
+  {
+    "name": "OBI",
+    "website": "obi.de",
+    "hq_country": "DE",
+    "hq_city": "Wermelskirchen",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1970,
+    "ultimate_parent": "Tengelmann Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.obi.de",
+      "https://de.wikipedia.org/wiki/Obi_(Baumarkt)"
+    ]
+  },
+  {
+    "name": "Hornbach",
+    "website": "hornbach.de",
+    "hq_country": "DE",
+    "hq_city": "Bornheim",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1877,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.hornbach.de",
+      "https://de.wikipedia.org/wiki/Hornbach_(Baumarkt)"
+    ]
+  },
+  {
+    "name": "Bauhaus AG",
+    "website": "bauhaus.info",
+    "hq_country": "CH",
+    "hq_city": "Belp",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1960,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bauhaus_(company)",
+      "https://bauhaus.info"
+    ]
+  },
+  {
+    "name": "Screwfix",
+    "website": "screwfix.com",
+    "hq_country": "GB",
+    "hq_city": "Yeovil",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Hardware",
+    "founded_year": 1979,
+    "ultimate_parent": "Kingfisher plc",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Screwfix",
+      "https://www.screwfix.com"
+    ]
+  },
+  {
+    "name": "B&Q",
+    "website": "diy.com",
+    "hq_country": "GB",
+    "hq_city": "Eastleigh",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1969,
+    "ultimate_parent": "Kingfisher plc",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/B%26Q",
+      "https://www.diy.com"
+    ]
+  },
+  {
+    "name": "Castorama",
+    "website": "castorama.fr",
+    "hq_country": "FR",
+    "hq_city": "Templemars",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1969,
+    "ultimate_parent": "Kingfisher plc",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Castorama",
+      "https://www.castorama.fr"
+    ]
+  },
+  {
+    "name": "Brico Dépôt",
+    "website": "bricodepot.fr",
+    "hq_country": "FR",
+    "hq_city": "Longpont-sur-Orge",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1993,
+    "ultimate_parent": "Kingfisher plc",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Brico_D%C3%A9p%C3%B4t",
+      "https://www.bricodepot.fr"
+    ]
+  },
+  {
+    "name": "Wickes",
+    "website": "wickes.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Watford",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1972,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wickes",
+      "https://www.wickes.co.uk"
+    ]
+  },
+  {
+    "name": "Jysk",
+    "website": "jysk.com",
+    "hq_country": "DK",
+    "hq_city": "Brabrand",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Home & Garden",
+    "founded_year": 1979,
+    "ultimate_parent": "Lars Larsen Group",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jysk_(store)",
+      "https://www.jysk.com"
+    ]
+  },
+  {
+    "name": "Bricorama",
+    "website": "bricorama.fr",
+    "hq_country": "FR",
+    "hq_city": "Noisy-le-Grand",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1975,
+    "ultimate_parent": "Bourrelier Group",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bricorama",
+      "https://www.bricorama.fr"
+    ]
+  },
+  {
+    "name": "Bricomarché",
+    "website": "bricomarche.com",
+    "hq_country": "FR",
+    "hq_city": "Bondoufle",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1979,
+    "ultimate_parent": "Les Mousquetaires",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bricomarch%C3%A9",
+      "https://www.bricomarche.com"
+    ]
+  },
+  {
+    "name": "Conforama",
+    "website": "conforama.fr",
+    "hq_country": "FR",
+    "hq_city": "Lognes",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1967,
+    "ultimate_parent": "XXXLutz Group",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Conforama",
+      "https://www.conforama.fr"
+    ]
+  },
+  {
+    "name": "Casper Sleep",
+    "website": "casper.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Mattresses & Bedding",
+    "founded_year": 2014,
+    "ultimate_parent": "Carpenter Co.",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Casper_Sleep",
+      "https://casper.com"
+    ]
+  },
+  {
+    "name": "Emma Sleep",
+    "website": "emma-sleep.com",
+    "hq_country": "DE",
+    "hq_city": "Frankfurt",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Mattresses & Bedding",
+    "founded_year": 2015,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.emma-sleep.com",
+      "https://de.wikipedia.org/wiki/Emma_(Unternehmen)"
+    ]
+  },
+  {
+    "name": "Beliani",
+    "website": "beliani.com",
+    "hq_country": "CH",
+    "hq_city": "Baar",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 2009,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.beliani.com"
+    ]
+  },
+  {
+    "name": "Kingfisher plc",
+    "website": "kingfisher.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1982,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kingfisher_plc",
+      "https://www.kingfisher.com"
+    ]
+  },
+  {
+    "name": "XXXLutz",
+    "website": "xxxlutz.at",
+    "hq_country": "AT",
+    "hq_city": "Wels",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1945,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.xxxlutz.at",
+      "https://de.wikipedia.org/wiki/XXXLutz"
+    ]
+  },
+  {
+    "name": "Mömax",
+    "website": "moemax.at",
+    "hq_country": "AT",
+    "hq_city": "Wels",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1987,
+    "ultimate_parent": "XXXLutz Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.moemax.at"
+    ]
+  },
+  {
+    "name": "BUT",
+    "website": "but.fr",
+    "hq_country": "FR",
+    "hq_city": "Emerainville",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1972,
+    "ultimate_parent": "XXXLutz Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.but.fr"
+    ]
+  },
+  {
+    "name": "POCO Einrichtungsmärkte",
+    "website": "poco.de",
+    "hq_country": "DE",
+    "hq_city": "Bergkamen",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1989,
+    "ultimate_parent": "XXXLutz Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.poco.de"
+    ]
+  },
+  {
+    "name": "Möbel Höffner",
+    "website": "hoeffner.de",
+    "hq_country": "DE",
+    "hq_city": "Schönefeld",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1874,
+    "ultimate_parent": "Höffner Möbelgesellschaft",
+    "confidence": "high",
+    "sources": [
+      "https://www.hoeffner.de"
+    ]
+  },
+  {
+    "name": "Roller",
+    "website": "roller.de",
+    "hq_country": "DE",
+    "hq_city": "Gelsenkirchen",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1969,
+    "ultimate_parent": "Tessner Unternehmensgruppe",
+    "confidence": "high",
+    "sources": [
+      "https://www.roller.de"
+    ]
+  },
+  {
+    "name": "Segmüller",
+    "website": "segmueller.de",
+    "hq_country": "DE",
+    "hq_city": "Friedberg",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1925,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.segmueller.de"
+    ]
+  },
+  {
+    "name": "Porta Möbel",
+    "website": "porta.de",
+    "hq_country": "DE",
+    "hq_city": "Porta Westfalica",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1965,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.porta.de"
+    ]
+  },
+  {
+    "name": "Möbel Boss",
+    "website": "moebel-boss.de",
+    "hq_country": "DE",
+    "hq_city": "Porta Westfalica",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1985,
+    "ultimate_parent": "Porta Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.moebel-boss.de"
+    ]
+  },
+  {
+    "name": "Möbel Martin",
+    "website": "moebel-martin.de",
+    "hq_country": "DE",
+    "hq_city": "Saarbrücken",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1970,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.moebel-martin.de"
+    ]
+  },
+  {
+    "name": "Möbel Kraft",
+    "website": "moebel-kraft.de",
+    "hq_country": "DE",
+    "hq_city": "Bad Segeberg",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1892,
+    "ultimate_parent": "Höffner Möbelgesellschaft",
+    "confidence": "high",
+    "sources": [
+      "https://www.moebel-kraft.de"
+    ]
+  },
+  {
+    "name": "Dänisches Bettenlager",
+    "website": "daenischesbettenlager.de",
+    "hq_country": "DE",
+    "hq_city": "Handewitt",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Home & Garden",
+    "founded_year": 1984,
+    "ultimate_parent": "Lars Larsen Group (Jysk)",
+    "confidence": "high",
+    "sources": [
+      "https://www.daenischesbettenlager.de"
+    ]
+  },
+  {
+    "name": "Kika",
+    "website": "kika.at",
+    "hq_country": "AT",
+    "hq_city": "St. Pölten",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1973,
+    "ultimate_parent": "Signa Holding",
+    "confidence": "high",
+    "sources": [
+      "https://www.kika.at"
+    ]
+  },
+  {
+    "name": "Leiner",
+    "website": "leiner.at",
+    "hq_country": "AT",
+    "hq_city": "St. Pölten",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1910,
+    "ultimate_parent": "Signa Holding",
+    "confidence": "high",
+    "sources": [
+      "https://www.leiner.at"
+    ]
+  },
+  {
+    "name": "Lutz",
+    "website": "lutz.at",
+    "hq_country": "AT",
+    "hq_city": "Wels",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1996,
+    "ultimate_parent": "XXXLutz Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.lutz.at"
+    ]
+  },
+  {
+    "name": "Möbel Pfister",
+    "website": "pfister.ch",
+    "hq_country": "CH",
+    "hq_city": "Suhr",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1882,
+    "ultimate_parent": "XXXLutz Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.pfister.ch"
+    ]
+  },
+  {
+    "name": "Interio",
+    "website": "interio.ch",
+    "hq_country": "CH",
+    "hq_city": "Spreitenbach",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1970,
+    "ultimate_parent": "Migros",
+    "confidence": "high",
+    "sources": [
+      "https://www.interio.ch"
+    ]
+  },
+  {
+    "name": "Micasa",
+    "website": "micasa.ch",
+    "hq_country": "CH",
+    "hq_city": "Zurich",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1991,
+    "ultimate_parent": "Migros",
+    "confidence": "high",
+    "sources": [
+      "https://www.micasa.ch"
+    ]
+  },
+  {
+    "name": "Bolia",
+    "website": "bolia.com",
+    "hq_country": "DK",
+    "hq_city": "Aarhus",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 2000,
+    "ultimate_parent": "Lars Larsen Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.bolia.com"
+    ]
+  },
+  {
+    "name": "BoConcept",
+    "website": "boconcept.com",
+    "hq_country": "DK",
+    "hq_city": "Herning",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1952,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.boconcept.com"
+    ]
+  },
+  {
+    "name": "HAY",
+    "website": "hay.dk",
+    "hq_country": "DK",
+    "hq_city": "Horsens",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture & Home Decor",
+    "founded_year": 2002,
+    "ultimate_parent": "Herman Miller (MillerKnoll)",
+    "confidence": "high",
+    "sources": [
+      "https://www.hay.dk"
+    ]
+  },
+  {
+    "name": "Muuto",
+    "website": "muuto.com",
+    "hq_country": "DK",
+    "hq_city": "Copenhagen",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture & Home Decor",
+    "founded_year": 2006,
+    "ultimate_parent": "Knoll (MillerKnoll)",
+    "confidence": "high",
+    "sources": [
+      "https://www.muuto.com"
+    ]
+  },
+  {
+    "name": "Normann Copenhagen",
+    "website": "normann-copenhagen.com",
+    "hq_country": "DK",
+    "hq_city": "Copenhagen",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture & Home Decor",
+    "founded_year": 1999,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.normann-copenhagen.com"
+    ]
+  },
+  {
+    "name": "Menu",
+    "website": "menuspace.com",
+    "hq_country": "DK",
+    "hq_city": "Copenhagen",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture & Home Decor",
+    "founded_year": 1979,
+    "ultimate_parent": "Audo Copenhagen",
+    "confidence": "high",
+    "sources": [
+      "https://www.menuspace.com"
+    ]
+  },
+  {
+    "name": "String Furniture",
+    "website": "stringfurniture.com",
+    "hq_country": "SE",
+    "hq_city": "Malmö",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1949,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.stringfurniture.com"
+    ]
+  },
+  {
+    "name": "Svenskt Tenn",
+    "website": "svenskttenn.com",
+    "hq_country": "SE",
+    "hq_city": "Stockholm",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture & Home Decor",
+    "founded_year": 1924,
+    "ultimate_parent": "Kjell och Märta Beijers Stiftelse",
+    "confidence": "high",
+    "sources": [
+      "https://www.svenskttenn.com"
+    ]
+  },
+  {
+    "name": "Granit",
+    "website": "granit.com",
+    "hq_country": "SE",
+    "hq_city": "Stockholm",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Home Decor",
+    "founded_year": 1997,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.granit.com"
+    ]
+  },
+  {
+    "name": "EM Home",
+    "website": "em.com",
+    "hq_country": "SE",
+    "hq_city": "Borås",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1953,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.em.com"
+    ]
+  },
+  {
+    "name": "Mio",
+    "website": "mio.se",
+    "hq_country": "SE",
+    "hq_city": "Tibro",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1963,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.mio.se"
+    ]
+  },
+  {
+    "name": "Plantagen",
+    "website": "plantagen.se",
+    "hq_country": "NO",
+    "hq_city": "Strömstad",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Garden Supplies",
+    "founded_year": 1986,
+    "ultimate_parent": "Ratos",
+    "confidence": "high",
+    "sources": [
+      "https://www.plantagen.se"
+    ]
+  },
+  {
+    "name": "Blomsterlandet",
+    "website": "blomsterlandet.se",
+    "hq_country": "SE",
+    "hq_city": "Kungsbacka",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Garden Supplies",
+    "founded_year": 1975,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.blomsterlandet.se"
+    ]
+  },
+  {
+    "name": "Clas Ohlson",
+    "website": "clasohlson.com",
+    "hq_country": "SE",
+    "hq_city": "Insjön",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Home & Hardware",
+    "founded_year": 1918,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.clasohlson.com"
+    ]
+  },
+  {
+    "name": "Biltema",
+    "website": "biltema.com",
+    "hq_country": "SE",
+    "hq_city": "Linköping",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Home & Hardware",
+    "founded_year": 1963,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.biltema.com"
+    ]
+  },
+  {
+    "name": "Byggmax",
+    "website": "byggmax.se",
+    "hq_country": "SE",
+    "hq_city": "Stockholm",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1993,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.byggmax.se"
+    ]
+  },
+  {
+    "name": "Bauhaus Scandinavia",
+    "website": "bauhaus.se",
+    "hq_country": "SE",
+    "hq_city": "Malmö",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1988,
+    "ultimate_parent": "Bauhaus AG",
+    "confidence": "high",
+    "sources": [
+      "https://www.bauhaus.se"
+    ]
+  },
+  {
+    "name": "K-rauta",
+    "website": "k-rauta.fi",
+    "hq_country": "FI",
+    "hq_city": "Helsinki",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1966,
+    "ultimate_parent": "Kesko",
+    "confidence": "high",
+    "sources": [
+      "https://www.k-rauta.fi"
+    ]
+  },
+  {
+    "name": "Rautia",
+    "website": "rautia.fi",
+    "hq_country": "FI",
+    "hq_city": "Helsinki",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1950,
+    "ultimate_parent": "Kesko",
+    "confidence": "high",
+    "sources": [
+      "https://www.rautia.fi"
+    ]
+  },
+  {
+    "name": "Sotka",
+    "website": "sotka.fi",
+    "hq_country": "FI",
+    "hq_city": "Lahti",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1959,
+    "ultimate_parent": "Indoor Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.sotka.fi"
+    ]
+  },
+  {
+    "name": "Asko",
+    "website": "asko.fi",
+    "hq_country": "FI",
+    "hq_city": "Lahti",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1918,
+    "ultimate_parent": "Indoor Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.asko.fi"
+    ]
+  },
+  {
+    "name": "Isku",
+    "website": "isku.com",
+    "hq_country": "FI",
+    "hq_city": "Lahti",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1928,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.isku.com"
+    ]
+  },
+  {
+    "name": "Pentik",
+    "website": "pentik.com",
+    "hq_country": "FI",
+    "hq_city": "Posio",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Home Decor",
+    "founded_year": 1971,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.pentik.com"
+    ]
+  },
+  {
+    "name": "Kodin1",
+    "website": "kodin1.com",
+    "hq_country": "FI",
+    "hq_city": "Helsinki",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Home & Garden",
+    "founded_year": 2000,
+    "ultimate_parent": "Stockmann",
+    "confidence": "high",
+    "sources": [
+      "https://www.kodin1.com"
+    ]
+  },
+  {
+    "name": "Vepsäläinen",
+    "website": "vepsalainen.com",
+    "hq_country": "FI",
+    "hq_city": "Helsinki",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1999,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.vepsalainen.com"
+    ]
+  },
+  {
+    "name": "Skeidar",
+    "website": "skeidar.no",
+    "hq_country": "NO",
+    "hq_city": "Oslo",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1948,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.skeidar.no"
+    ]
+  },
+  {
+    "name": "Bohus",
+    "website": "bohus.no",
+    "hq_country": "NO",
+    "hq_city": "Sarpsborg",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1945,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.bohus.no"
+    ]
+  },
+  {
+    "name": "Living",
+    "website": "living.no",
+    "hq_country": "NO",
+    "hq_city": "Drammen",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1973,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.living.no"
+    ]
+  },
+  {
+    "name": "Maxbo",
+    "website": "maxbo.no",
+    "hq_country": "NO",
+    "hq_city": "Oslo",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1947,
+    "ultimate_parent": "Løvenskiold-Vækerø",
+    "confidence": "high",
+    "sources": [
+      "https://www.maxbo.no"
+    ]
+  },
+  {
+    "name": "Obs BYGG",
+    "website": "obsbygg.no",
+    "hq_country": "NO",
+    "hq_city": "Oslo",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1985,
+    "ultimate_parent": "Coop Norge",
+    "confidence": "high",
+    "sources": [
+      "https://www.obsbygg.no"
+    ]
+  },
+  {
+    "name": "ILVA",
+    "website": "ilva.dk",
+    "hq_country": "DK",
+    "hq_city": "Copenhagen",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1964,
+    "ultimate_parent": "Lars Larsen Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.ilva.dk"
+    ]
+  },
+  {
+    "name": "IDEmøbler",
+    "website": "idemobler.dk",
+    "hq_country": "DK",
+    "hq_city": "Silkeborg",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1969,
+    "ultimate_parent": "Lars Larsen Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.idemobler.dk"
+    ]
+  },
+  {
+    "name": "Silvan",
+    "website": "silvan.dk",
+    "hq_country": "DK",
+    "hq_city": "Glostrup",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1907,
+    "ultimate_parent": "Stark Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.silvan.dk"
+    ]
+  },
+  {
+    "name": "Harald Nyborg",
+    "website": "harald-nyborg.dk",
+    "hq_country": "DK",
+    "hq_city": "Odense",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Home & Hardware",
+    "founded_year": 1939,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.harald-nyborg.dk"
+    ]
+  },
+  {
+    "name": "Coop Bau+Hobby",
+    "website": "coop.ch/bau-hobby",
+    "hq_country": "CH",
+    "hq_city": "Basel",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1996,
+    "ultimate_parent": "Coop Switzerland",
+    "confidence": "high",
+    "sources": [
+      "https://www.coop.ch"
+    ]
+  },
+  {
+    "name": "Do it + Garden Migros",
+    "website": "doitgarden.ch",
+    "hq_country": "CH",
+    "hq_city": "Zurich",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Garden",
+    "founded_year": 1975,
+    "ultimate_parent": "Migros",
+    "confidence": "high",
+    "sources": [
+      "https://www.doitgarden.ch"
+    ]
+  },
+  {
+    "name": "Hornbach Switzerland",
+    "website": "hornbach.ch",
+    "hq_country": "CH",
+    "hq_city": "Villmergen",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 2003,
+    "ultimate_parent": "Hornbach Holding",
+    "confidence": "high",
+    "sources": [
+      "https://www.hornbach.ch"
+    ]
+  },
+  {
+    "name": "Dedeman",
+    "website": "dedeman.ro",
+    "hq_country": "RO",
+    "hq_city": "Bacău",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1992,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.dedeman.ro"
+    ]
+  },
+  {
+    "name": "Praktiker Romania",
+    "website": "praktiker.ro",
+    "hq_country": "RO",
+    "hq_city": "Bucharest",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 2002,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.praktiker.ro"
+    ]
+  },
+  {
+    "name": "Mobexpert",
+    "website": "mobexpert.ro",
+    "hq_country": "RO",
+    "hq_city": "Bucharest",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1993,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.mobexpert.ro"
+    ]
+  },
+  {
+    "name": "JYSK Romania",
+    "website": "jysk.ro",
+    "hq_country": "RO",
+    "hq_city": "Bucharest",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Home & Garden",
+    "founded_year": 2006,
+    "ultimate_parent": "Lars Larsen Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.jysk.ro"
+    ]
+  },
+  {
+    "name": "Black Red White",
+    "website": "brw.pl",
+    "hq_country": "PL",
+    "hq_city": "Biłgoraj",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1991,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.brw.pl"
+    ]
+  },
+  {
+    "name": "Agata Meble",
+    "website": "agatameble.pl",
+    "hq_country": "PL",
+    "hq_city": "Katowice",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1992,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.agatameble.pl"
+    ]
+  },
+  {
+    "name": "Bodzio",
+    "website": "bodzio.pl",
+    "hq_country": "PL",
+    "hq_city": "Lublin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1981,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.bodzio.pl"
+    ]
+  },
+  {
+    "name": "Castorama Poland",
+    "website": "castorama.pl",
+    "hq_country": "PL",
+    "hq_city": "Warsaw",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1997,
+    "ultimate_parent": "Kingfisher plc",
+    "confidence": "high",
+    "sources": [
+      "https://www.castorama.pl"
+    ]
+  },
+  {
+    "name": "Leroy Merlin Poland",
+    "website": "leroymerlin.pl",
+    "hq_country": "PL",
+    "hq_city": "Warsaw",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1996,
+    "ultimate_parent": "Groupe Adeo",
+    "confidence": "high",
+    "sources": [
+      "https://www.leroymerlin.pl"
+    ]
+  },
+  {
+    "name": "OBI Poland",
+    "website": "obi.pl",
+    "hq_country": "PL",
+    "hq_city": "Warsaw",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1998,
+    "ultimate_parent": "Tengelmann Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.obi.pl"
+    ]
+  },
+  {
+    "name": "Okazii Mobilier",
+    "website": "okaziimobilier.ro",
+    "hq_country": "RO",
+    "hq_city": "Bucharest",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 2008,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.okaziimobilier.ro"
+    ]
+  },
+  {
+    "name": "Leroymerlin.es",
+    "website": "leroymerlin.es",
+    "hq_country": "ES",
+    "hq_city": "Madrid",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1989,
+    "ultimate_parent": "Groupe Adeo",
+    "confidence": "high",
+    "sources": [
+      "https://www.leroymerlin.es"
+    ]
+  },
+  {
+    "name": "Conforama Spain",
+    "website": "conforama.es",
+    "hq_country": "ES",
+    "hq_city": "Madrid",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1988,
+    "ultimate_parent": "XXXLutz Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.conforama.es"
+    ]
+  },
+  {
+    "name": "Aki",
+    "website": "aki.es",
+    "hq_country": "ES",
+    "hq_city": "Madrid",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1990,
+    "ultimate_parent": "Groupe Adeo",
+    "confidence": "high",
+    "sources": [
+      "https://www.aki.es"
+    ]
+  },
+  {
+    "name": "Brico Dépôt Spain",
+    "website": "bricodepot.es",
+    "hq_country": "ES",
+    "hq_city": "Madrid",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 2003,
+    "ultimate_parent": "Kingfisher plc",
+    "confidence": "high",
+    "sources": [
+      "https://www.bricodepot.es"
+    ]
+  },
+  {
+    "name": "Kave Home",
+    "website": "kavehome.com",
+    "hq_country": "ES",
+    "hq_city": "Girona",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 2012,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.kavehome.com"
+    ]
+  },
+  {
+    "name": "Sklum",
+    "website": "sklum.com",
+    "hq_country": "ES",
+    "hq_city": "Valencia",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 2015,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.sklum.com"
+    ]
+  },
+  {
+    "name": "El Corte Inglés Hogar",
+    "website": "elcorteingles.es/hogar",
+    "hq_country": "ES",
+    "hq_city": "Madrid",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Home & Garden",
+    "founded_year": 1940,
+    "ultimate_parent": "El Corte Inglés",
+    "confidence": "high",
+    "sources": [
+      "https://www.elcorteingles.es"
+    ]
+  },
+  {
+    "name": "Leroy Merlin Italy",
+    "website": "leroymerlin.it",
+    "hq_country": "IT",
+    "hq_city": "Milan",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1996,
+    "ultimate_parent": "Groupe Adeo",
+    "confidence": "high",
+    "sources": [
+      "https://www.leroymerlin.it"
+    ]
+  },
+  {
+    "name": "Bricoman Italy",
+    "website": "bricoman.it",
+    "hq_country": "IT",
+    "hq_city": "Rozzano",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 2008,
+    "ultimate_parent": "Groupe Adeo",
+    "confidence": "high",
+    "sources": [
+      "https://www.bricoman.it"
+    ]
+  },
+  {
+    "name": "Mondo Convenienza",
+    "website": "mondoconv.it",
+    "hq_country": "IT",
+    "hq_city": "Civitavecchia",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1985,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.mondoconv.it"
+    ]
+  },
+  {
+    "name": "Poltronesofà",
+    "website": "poltronesofa.com",
+    "hq_country": "IT",
+    "hq_city": "Forlì",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1995,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.poltronesofa.com"
+    ]
+  },
+  {
+    "name": "Mercatone Uno",
+    "website": "mercatoneuno.com",
+    "hq_country": "IT",
+    "hq_city": "Imola",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1978,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.mercatoneuno.com"
+    ]
+  },
+  {
+    "name": "Chateau d'Ax",
+    "website": "chateaudax.it",
+    "hq_country": "IT",
+    "hq_city": "Lentate sul Seveso",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1948,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.chateaudax.it"
+    ]
+  },
+  {
+    "name": "Natuzzi",
+    "website": "natuzzi.com",
+    "hq_country": "IT",
+    "hq_city": "Santeramo in Colle",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1959,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.natuzzi.com"
+    ]
+  },
+  {
+    "name": "B&B Italia",
+    "website": "bebitalia.com",
+    "hq_country": "IT",
+    "hq_city": "Novedrate",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1966,
+    "ultimate_parent": "Investindustrial",
+    "confidence": "high",
+    "sources": [
+      "https://www.bebitalia.com"
+    ]
+  },
+  {
+    "name": "Kartell",
+    "website": "kartell.com",
+    "hq_country": "IT",
+    "hq_city": "Noviglio",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture & Home Decor",
+    "founded_year": 1949,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.kartell.com"
+    ]
+  },
+  {
+    "name": "Alessi",
+    "website": "alessi.com",
+    "hq_country": "IT",
+    "hq_city": "Crusinallo",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Home Decor & Kitchenware",
+    "founded_year": 1921,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.alessi.com"
+    ]
+  },
+  {
+    "name": "Artemide",
+    "website": "artemide.com",
+    "hq_country": "IT",
+    "hq_city": "Pregnana Milanese",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Lighting",
+    "founded_year": 1960,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.artemide.com"
+    ]
+  },
+  {
+    "name": "Flos",
+    "website": "flos.com",
+    "hq_country": "IT",
+    "hq_city": "Bovezzo",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Lighting",
+    "founded_year": 1962,
+    "ultimate_parent": "Design Holding",
+    "confidence": "high",
+    "sources": [
+      "https://www.flos.com"
+    ]
+  },
+  {
+    "name": "Foscarini",
+    "website": "foscarini.com",
+    "hq_country": "IT",
+    "hq_city": "Marcon",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Lighting",
+    "founded_year": 1981,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.foscarini.com"
+    ]
+  },
+  {
+    "name": "Luceplan",
+    "website": "luceplan.com",
+    "hq_country": "IT",
+    "hq_city": "Milan",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Lighting",
+    "founded_year": 1978,
+    "ultimate_parent": "Philips",
+    "confidence": "high",
+    "sources": [
+      "https://www.luceplan.com"
+    ]
+  },
+  {
+    "name": "Louis Poulsen",
+    "website": "louispoulsen.com",
+    "hq_country": "DK",
+    "hq_city": "Copenhagen",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Lighting",
+    "founded_year": 1874,
+    "ultimate_parent": "Polaris Private Equity",
+    "confidence": "high",
+    "sources": [
+      "https://www.louispoulsen.com"
+    ]
+  },
+  {
+    "name": "Fritz Hansen",
+    "website": "fritzhansen.com",
+    "hq_country": "DK",
+    "hq_city": "Allerød",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1872,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.fritzhansen.com"
+    ]
+  },
+  {
+    "name": "Carl Hansen & Søn",
+    "website": "carlhansen.com",
+    "hq_country": "DK",
+    "hq_city": "Aarup",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1908,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.carlhansen.com"
+    ]
+  },
+  {
+    "name": "PP Møbler",
+    "website": "pp.dk",
+    "hq_country": "DK",
+    "hq_city": "Allerød",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1953,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.pp.dk"
+    ]
+  },
+  {
+    "name": "Montana Furniture",
+    "website": "montanafurniture.com",
+    "hq_country": "DK",
+    "hq_city": "Haarby",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1982,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.montanafurniture.com"
+    ]
+  },
+  {
+    "name": "Gubi",
+    "website": "gubi.com",
+    "hq_country": "DK",
+    "hq_city": "Copenhagen",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture & Lighting",
+    "founded_year": 1967,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.gubi.com"
+    ]
+  },
+  {
+    "name": "Vitra",
+    "website": "vitra.com",
+    "hq_country": "CH",
+    "hq_city": "Birsfelden",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1950,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.vitra.com"
+    ]
+  },
+  {
+    "name": "USM Modular Furniture",
+    "website": "usm.com",
+    "hq_country": "CH",
+    "hq_city": "Münsingen",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1885,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.usm.com"
+    ]
+  },
+  {
+    "name": "de Sede",
+    "website": "desede.ch",
+    "hq_country": "CH",
+    "hq_city": "Klingnau",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1965,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.desede.ch"
+    ]
+  },
+  {
+    "name": "Roche Bobois",
+    "website": "roche-bobois.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1960,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.roche-bobois.com"
+    ]
+  },
+  {
+    "name": "Ligne Roset",
+    "website": "ligne-roset.com",
+    "hq_country": "FR",
+    "hq_city": "Briord",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1860,
+    "ultimate_parent": "Roset SA",
+    "confidence": "high",
+    "sources": [
+      "https://www.ligne-roset.com"
+    ]
+  },
+  {
+    "name": "Habitat",
+    "website": "habitat.fr",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture & Home Decor",
+    "founded_year": 1964,
+    "ultimate_parent": "Cafom",
+    "confidence": "high",
+    "sources": [
+      "https://www.habitat.fr"
+    ]
+  },
+  {
+    "name": "AM.PM",
+    "website": "ampm.fr",
+    "hq_country": "FR",
+    "hq_city": "Roubaix",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture & Home Decor",
+    "founded_year": 2008,
+    "ultimate_parent": "La Redoute",
+    "confidence": "high",
+    "sources": [
+      "https://www.ampm.fr"
+    ]
+  },
+  {
+    "name": "La Redoute Intérieurs",
+    "website": "laredoute.fr",
+    "hq_country": "FR",
+    "hq_city": "Roubaix",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture & Home Decor",
+    "founded_year": 1837,
+    "ultimate_parent": "Galeries Lafayette",
+    "confidence": "high",
+    "sources": [
+      "https://www.laredoute.fr"
+    ]
+  },
+  {
+    "name": "Alinéa",
+    "website": "alinea.com",
+    "hq_country": "FR",
+    "hq_city": "Avignon",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture & Home Decor",
+    "founded_year": 1989,
+    "ultimate_parent": "Altarea",
+    "confidence": "high",
+    "sources": [
+      "https://www.alinea.com"
+    ]
+  },
+  {
+    "name": "Miliboo",
+    "website": "miliboo.com",
+    "hq_country": "FR",
+    "hq_city": "Chavanod",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 2005,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.miliboo.com"
+    ]
+  },
+  {
+    "name": "Camif",
+    "website": "camif.fr",
+    "hq_country": "FR",
+    "hq_city": "Niort",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture & Home Decor",
+    "founded_year": 1947,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.camif.fr"
+    ]
+  },
+  {
+    "name": "Delamaison",
+    "website": "delamaison.fr",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Home Decor",
+    "founded_year": 2006,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.delamaison.fr"
+    ]
+  },
+  {
+    "name": "Truffaut",
+    "website": "truffaut.com",
+    "hq_country": "FR",
+    "hq_city": "Lisses",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Garden Supplies",
+    "founded_year": 1897,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.truffaut.com"
+    ]
+  },
+  {
+    "name": "Jardiland",
+    "website": "jardiland.com",
+    "hq_country": "FR",
+    "hq_city": "Ferrières-en-Brie",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Garden Supplies",
+    "founded_year": 1973,
+    "ultimate_parent": "InVivo",
+    "confidence": "high",
+    "sources": [
+      "https://www.jardiland.com"
+    ]
+  },
+  {
+    "name": "Gamm Vert",
+    "website": "gammvert.fr",
+    "hq_country": "FR",
+    "hq_city": "Lyon",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Garden Supplies",
+    "founded_year": 1975,
+    "ultimate_parent": "InVivo",
+    "confidence": "high",
+    "sources": [
+      "https://www.gammvert.fr"
+    ]
+  },
+  {
+    "name": "Botanic",
+    "website": "botanic.com",
+    "hq_country": "FR",
+    "hq_city": "Archamps",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Garden Supplies",
+    "founded_year": 1995,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.botanic.com"
+    ]
+  },
+  {
+    "name": "Vilmorin Jardin",
+    "website": "vilmorin-jardin.fr",
+    "hq_country": "FR",
+    "hq_city": "La Ménitré",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Garden Supplies",
+    "founded_year": 1743,
+    "ultimate_parent": "Limagrain",
+    "confidence": "high",
+    "sources": [
+      "https://www.vilmorin-jardin.fr"
+    ]
+  },
+  {
+    "name": "Villeroy & Boch",
+    "website": "villeroy-boch.com",
+    "hq_country": "DE",
+    "hq_city": "Mettlach",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Kitchen & Bath",
+    "founded_year": 1748,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.villeroy-boch.com"
+    ]
+  },
+  {
+    "name": "Duravit",
+    "website": "duravit.com",
+    "hq_country": "DE",
+    "hq_city": "Hornberg",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Kitchen & Bath",
+    "founded_year": 1817,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.duravit.com"
+    ]
+  },
+  {
+    "name": "Grohe",
+    "website": "grohe.com",
+    "hq_country": "DE",
+    "hq_city": "Hemer",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Kitchen & Bath",
+    "founded_year": 1936,
+    "ultimate_parent": "Lixil",
+    "confidence": "high",
+    "sources": [
+      "https://www.grohe.com"
+    ]
+  },
+  {
+    "name": "Hansgrohe",
+    "website": "hansgrohe.com",
+    "hq_country": "DE",
+    "hq_city": "Schiltach",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Kitchen & Bath",
+    "founded_year": 1901,
+    "ultimate_parent": "Masco Corporation",
+    "confidence": "high",
+    "sources": [
+      "https://www.hansgrohe.com"
+    ]
+  },
+  {
+    "name": "Roca",
+    "website": "roca.com",
+    "hq_country": "ES",
+    "hq_city": "Barcelona",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Kitchen & Bath",
+    "founded_year": 1917,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.roca.com"
+    ]
+  },
+  {
+    "name": "Porcelanosa",
+    "website": "porcelanosa.com",
+    "hq_country": "ES",
+    "hq_city": "Villarreal",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Kitchen & Bath",
+    "founded_year": 1973,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.porcelanosa.com"
+    ]
+  },
+  {
+    "name": "Ideal Standard",
+    "website": "idealstandard.com",
+    "hq_country": "BE",
+    "hq_city": "Brussels",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Kitchen & Bath",
+    "founded_year": 1901,
+    "ultimate_parent": "CVC Capital Partners",
+    "confidence": "high",
+    "sources": [
+      "https://www.idealstandard.com"
+    ]
+  },
+  {
+    "name": "Geberit",
+    "website": "geberit.com",
+    "hq_country": "CH",
+    "hq_city": "Rapperswil-Jona",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Kitchen & Bath",
+    "founded_year": 1874,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.geberit.com"
+    ]
+  },
+  {
+    "name": "Hansgrohe UK",
+    "website": "hansgrohe.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Wokingham",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Kitchen & Bath",
+    "founded_year": 1983,
+    "ultimate_parent": "Hansgrohe SE",
+    "confidence": "high",
+    "sources": [
+      "https://www.hansgrohe.co.uk"
+    ]
+  },
+  {
+    "name": "Victorian Plumbing",
+    "website": "victorianplumbing.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Formby",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Kitchen & Bath",
+    "founded_year": 1999,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.victorianplumbing.co.uk"
+    ]
+  },
+  {
+    "name": "Dunelm",
+    "website": "dunelm.com",
+    "hq_country": "GB",
+    "hq_city": "Syston",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Home Decor",
+    "founded_year": 1979,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.dunelm.com"
+    ]
+  },
+  {
+    "name": "The Range",
+    "website": "therange.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Plymouth",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Home & Garden",
+    "founded_year": 1989,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.therange.co.uk"
+    ]
+  },
+  {
+    "name": "Wilko",
+    "website": "wilko.com",
+    "hq_country": "GB",
+    "hq_city": "Worksop",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Home & Garden",
+    "founded_year": 1930,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.wilko.com"
+    ]
+  },
+  {
+    "name": "Robert Dyas",
+    "website": "robertdyas.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Hemel Hempstead",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Home & Hardware",
+    "founded_year": 1872,
+    "ultimate_parent": "Theo Paphitis Retail Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.robertdyas.co.uk"
+    ]
+  },
+  {
+    "name": "Lakeland",
+    "website": "lakeland.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Windermere",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Kitchenware",
+    "founded_year": 1963,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.lakeland.co.uk"
+    ]
+  },
+  {
+    "name": "ProCook",
+    "website": "procook.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Gloucester",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Kitchenware",
+    "founded_year": 1996,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.procook.co.uk"
+    ]
+  },
+  {
+    "name": "John Lewis Home",
+    "website": "johnlewis.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Home & Garden",
+    "founded_year": 1864,
+    "ultimate_parent": "John Lewis Partnership",
+    "confidence": "high",
+    "sources": [
+      "https://www.johnlewis.com"
+    ]
+  },
+  {
+    "name": "Dwell",
+    "website": "dwell.co.uk",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 2003,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.dwell.co.uk"
+    ]
+  },
+  {
+    "name": "Swoon",
+    "website": "swooneditions.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 2012,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.swooneditions.com"
+    ]
+  },
+  {
+    "name": "Heal's",
+    "website": "heals.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1810,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.heals.com"
+    ]
+  },
+  {
+    "name": "Loaf",
+    "website": "loaf.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 2008,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.loaf.com"
+    ]
+  },
+  {
+    "name": "Sofa.com",
+    "website": "sofa.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 2006,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.sofa.com"
+    ]
+  },
+  {
+    "name": "Cox & Cox",
+    "website": "coxandcox.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Frome",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Home Decor",
+    "founded_year": 2001,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.coxandcox.co.uk"
+    ]
+  },
+  {
+    "name": "Graham & Green",
+    "website": "grahamandgreen.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Bath",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Home Decor",
+    "founded_year": 1974,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.grahamandgreen.co.uk"
+    ]
+  },
+  {
+    "name": "The White Company",
+    "website": "thewhitecompany.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Home Decor & Bedding",
+    "founded_year": 1994,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.thewhitecompany.com"
+    ]
+  },
+  {
+    "name": "Oliver Bonas",
+    "website": "oliverbonas.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Home Decor",
+    "founded_year": 1993,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.oliverbonas.com"
+    ]
+  },
+  {
+    "name": "Anthropologie Home",
+    "website": "anthropologie.com",
+    "hq_country": "US",
+    "hq_city": "Philadelphia",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Home Decor",
+    "founded_year": 1992,
+    "ultimate_parent": "URBN",
+    "confidence": "high",
+    "sources": [
+      "https://www.anthropologie.com"
+    ]
+  },
+  {
+    "name": "West Elm",
+    "website": "westelm.com",
+    "hq_country": "US",
+    "hq_city": "Brooklyn",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture & Home Decor",
+    "founded_year": 2002,
+    "ultimate_parent": "Williams-Sonoma Inc.",
+    "confidence": "high",
+    "sources": [
+      "https://www.westelm.com"
+    ]
+  },
+  {
+    "name": "Pottery Barn",
+    "website": "potterybarn.com",
+    "hq_country": "US",
+    "hq_city": "San Francisco",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture & Home Decor",
+    "founded_year": 1949,
+    "ultimate_parent": "Williams-Sonoma Inc.",
+    "confidence": "high",
+    "sources": [
+      "https://www.potterybarn.com"
+    ]
+  },
+  {
+    "name": "Williams-Sonoma",
+    "website": "williams-sonoma.com",
+    "hq_country": "US",
+    "hq_city": "San Francisco",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Kitchenware & Home",
+    "founded_year": 1956,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.williams-sonoma.com"
+    ]
+  },
+  {
+    "name": "Crate & Barrel",
+    "website": "crateandbarrel.com",
+    "hq_country": "US",
+    "hq_city": "Northbrook",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture & Home Decor",
+    "founded_year": 1962,
+    "ultimate_parent": "Euromarket Designs",
+    "confidence": "high",
+    "sources": [
+      "https://www.crateandbarrel.com"
+    ]
+  },
+  {
+    "name": "CB2",
+    "website": "cb2.com",
+    "hq_country": "US",
+    "hq_city": "Northbrook",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture & Home Decor",
+    "founded_year": 2000,
+    "ultimate_parent": "Euromarket Designs",
+    "confidence": "high",
+    "sources": [
+      "https://www.cb2.com"
+    ]
+  },
+  {
+    "name": "Room & Board",
+    "website": "roomandboard.com",
+    "hq_country": "US",
+    "hq_city": "Minneapolis",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1980,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.roomandboard.com"
+    ]
+  },
+  {
+    "name": "Article",
+    "website": "article.com",
+    "hq_country": "CA",
+    "hq_city": "Vancouver",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 2013,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.article.com"
+    ]
+  },
+  {
+    "name": "Structube",
+    "website": "structube.com",
+    "hq_country": "CA",
+    "hq_city": "Montreal",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 1974,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.structube.com"
+    ]
+  },
+  {
+    "name": "EQ3",
+    "website": "eq3.com",
+    "hq_country": "CA",
+    "hq_city": "Winnipeg",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 2001,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.eq3.com"
+    ]
+  },
+  {
+    "name": "Canadian Tire Home",
+    "website": "canadiantire.ca",
+    "hq_country": "CA",
+    "hq_city": "Toronto",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Home & Garden",
+    "founded_year": 1922,
+    "ultimate_parent": "Canadian Tire Corporation",
+    "confidence": "high",
+    "sources": [
+      "https://www.canadiantire.ca"
+    ]
+  },
+  {
+    "name": "RONA",
+    "website": "rona.ca",
+    "hq_country": "CA",
+    "hq_city": "Boucherville",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1939,
+    "ultimate_parent": "Lowe's Companies Inc.",
+    "confidence": "high",
+    "sources": [
+      "https://www.rona.ca"
+    ]
+  },
+  {
+    "name": "Sleep Number",
+    "website": "sleepnumber.com",
+    "hq_country": "US",
+    "hq_city": "Minneapolis",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Mattresses & Bedding",
+    "founded_year": 1987,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.sleepnumber.com"
+    ]
+  },
+  {
+    "name": "Tuft & Needle",
+    "website": "tuftandneedle.com",
+    "hq_country": "US",
+    "hq_city": "Phoenix",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Mattresses & Bedding",
+    "founded_year": 2012,
+    "ultimate_parent": "Serta Simmons Bedding",
+    "confidence": "high",
+    "sources": [
+      "https://www.tuftandneedle.com"
+    ]
+  },
+  {
+    "name": "Purple",
+    "website": "purple.com",
+    "hq_country": "US",
+    "hq_city": "Lehi",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Mattresses & Bedding",
+    "founded_year": 2015,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.purple.com"
+    ]
+  },
+  {
+    "name": "Leesa Sleep",
+    "website": "leesa.com",
+    "hq_country": "US",
+    "hq_city": "Virginia Beach",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Mattresses & Bedding",
+    "founded_year": 2014,
+    "ultimate_parent": "3G Capital",
+    "confidence": "high",
+    "sources": [
+      "https://www.leesa.com"
+    ]
+  },
+  {
+    "name": "Nectar Sleep",
+    "website": "nectarsleep.com",
+    "hq_country": "US",
+    "hq_city": "Palo Alto",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Mattresses & Bedding",
+    "founded_year": 2016,
+    "ultimate_parent": "Resident Home",
+    "confidence": "high",
+    "sources": [
+      "https://www.nectarsleep.com"
+    ]
+  },
+  {
+    "name": "Saatva",
+    "website": "saatva.com",
+    "hq_country": "US",
+    "hq_city": "Westport",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Mattresses & Bedding",
+    "founded_year": 2010,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.saatva.com"
+    ]
+  },
+  {
+    "name": "Helix Sleep",
+    "website": "helixsleep.com",
+    "hq_country": "US",
+    "hq_city": "New York City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Mattresses & Bedding",
+    "founded_year": 2015,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.helixsleep.com"
+    ]
+  },
+  {
+    "name": "Simba Sleep",
+    "website": "simbasleep.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Mattresses & Bedding",
+    "founded_year": 2015,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.simbasleep.com"
+    ]
+  },
+  {
+    "name": "Otty Sleep",
+    "website": "otty.com",
+    "hq_country": "GB",
+    "hq_city": "Leicester",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Mattresses & Bedding",
+    "founded_year": 2017,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.otty.com"
+    ]
+  },
+  {
+    "name": "Dreams",
+    "website": "dreams.co.uk",
+    "hq_country": "GB",
+    "hq_city": "High Wycombe",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Mattresses & Bedding",
+    "founded_year": 1985,
+    "ultimate_parent": "Tempur Sealy International",
+    "confidence": "high",
+    "sources": [
+      "https://www.dreams.co.uk"
+    ]
+  },
+  {
+    "name": "Bensons for Beds",
+    "website": "bensonsforbeds.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Accrington",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Mattresses & Bedding",
+    "founded_year": 1963,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.bensonsforbeds.co.uk"
+    ]
+  },
+  {
+    "name": "Koçtaş",
+    "website": "koctas.com.tr",
+    "hq_country": "TR",
+    "hq_city": "Istanbul",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1996,
+    "ultimate_parent": "Kingfisher plc / Koç Holding",
+    "confidence": "high",
+    "sources": [
+      "https://www.koctas.com.tr"
+    ]
+  },
+  {
+    "name": "Praktiker Turkey",
+    "website": "praktiker.com.tr",
+    "hq_country": "TR",
+    "hq_city": "Istanbul",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 2007,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://www.praktiker.com.tr"
+    ]
+  },
+  {
+    "name": "Tekzen",
+    "website": "tekzen.com.tr",
+    "hq_country": "TR",
+    "hq_city": "Istanbul",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1994,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.tekzen.com.tr"
+    ]
+  },
+  {
+    "name": "Baumax",
+    "website": "baumax.hr",
+    "hq_country": "AT",
+    "hq_city": "Klosterneuburg",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1976,
+    "ultimate_parent": "OBI",
+    "confidence": "medium",
+    "sources": [
+      "https://www.baumax.hr"
+    ]
+  },
+  {
+    "name": "Bunnings UK",
+    "website": "bunnings.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Milton Keynes",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 2016,
+    "ultimate_parent": "Wesfarmers",
+    "confidence": "medium",
+    "sources": [
+      "https://www.bunnings.co.uk"
+    ]
+  },
+  {
+    "name": "Toolstation",
+    "website": "toolstation.com",
+    "hq_country": "GB",
+    "hq_city": "Bridgwater",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Hardware",
+    "founded_year": 2003,
+    "ultimate_parent": "Travis Perkins",
+    "confidence": "high",
+    "sources": [
+      "https://www.toolstation.com"
+    ]
+  },
+  {
+    "name": "FFX",
+    "website": "ffx.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Folkestone",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Hardware",
+    "founded_year": 1999,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.ffx.co.uk"
+    ]
+  },
+  {
+    "name": "ITS.co.uk",
+    "website": "its.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Milton Keynes",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Hardware",
+    "founded_year": 1995,
+    "ultimate_parent": "Travis Perkins",
+    "confidence": "high",
+    "sources": [
+      "https://www.its.co.uk"
+    ]
+  },
+  {
+    "name": "Selco Builders Warehouse",
+    "website": "selcobw.com",
+    "hq_country": "GB",
+    "hq_city": "Birmingham",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Building Materials",
+    "founded_year": 1982,
+    "ultimate_parent": "Grafton Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.selcobw.com"
+    ]
+  },
+  {
+    "name": "Eve Sleep",
+    "website": "evesleep.co.uk",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Mattresses & Bedding",
+    "founded_year": 2014,
+    "ultimate_parent": "Bensons for Beds",
+    "confidence": "high",
+    "sources": [
+      "https://www.evesleep.co.uk"
+    ]
+  },
+  {
+    "name": "Snooze Project",
+    "website": "snoozeproject.de",
+    "hq_country": "DE",
+    "hq_city": "Hamburg",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Mattresses & Bedding",
+    "founded_year": 2015,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.snoozeproject.de"
+    ]
+  },
+  {
+    "name": "Bett1.de",
+    "website": "bett1.de",
+    "hq_country": "DE",
+    "hq_city": "Berlin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Mattresses & Bedding",
+    "founded_year": 2004,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.bett1.de"
+    ]
+  },
+  {
+    "name": "Muji Home",
+    "website": "muji.eu",
+    "hq_country": "JP",
+    "hq_city": "Tokyo",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Home & Lifestyle",
+    "founded_year": 1980,
+    "ultimate_parent": "Ryohin Keikaku Co.",
+    "confidence": "high",
+    "sources": [
+      "https://www.muji.eu"
+    ]
+  },
+  {
+    "name": "Habitat UK",
+    "website": "habitat.co.uk",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture & Home Decor",
+    "founded_year": 1964,
+    "ultimate_parent": "Sainsburys",
+    "confidence": "high",
+    "sources": [
+      "https://www.habitat.co.uk"
+    ]
+  },
+  {
+    "name": "MADE.com",
+    "website": "made.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Furniture",
+    "founded_year": 2010,
+    "ultimate_parent": "Next plc",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Made.com",
+      "https://www.made.com"
+    ]
+  },
+  {
+    "name": "Toom Baumarkt",
+    "website": "toom.de",
+    "hq_country": "DE",
+    "hq_city": "Cologne",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1972,
+    "ultimate_parent": "REWE Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.toom.de"
+    ]
+  },
+  {
+    "name": "Hagebaumarkt",
+    "website": "hagebau.de",
+    "hq_country": "DE",
+    "hq_city": "Soltau",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1964,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.hagebau.de"
+    ]
+  },
+  {
+    "name": "Hellweg",
+    "website": "hellweg.de",
+    "hq_country": "DE",
+    "hq_city": "Dortmund",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1971,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.hellweg.de"
+    ]
+  },
+  {
+    "name": "Globus Baumarkt",
+    "website": "globus-baumarkt.de",
+    "hq_country": "DE",
+    "hq_city": "Völklingen",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1969,
+    "ultimate_parent": "Globus Holding",
+    "confidence": "high",
+    "sources": [
+      "https://www.globus-baumarkt.de"
+    ]
+  },
+  {
+    "name": "Baywa Baustoffe",
+    "website": "baywa-baustoffe.de",
+    "hq_country": "DE",
+    "hq_city": "Munich",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Building Materials",
+    "founded_year": 1923,
+    "ultimate_parent": "BayWa AG",
+    "confidence": "high",
+    "sources": [
+      "https://www.baywa-baustoffe.de"
+    ]
+  },
+  {
+    "name": "Dehner Gartencenter",
+    "website": "dehner.de",
+    "hq_country": "DE",
+    "hq_city": "Rain",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Garden Supplies",
+    "founded_year": 1947,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.dehner.de"
+    ]
+  },
+  {
+    "name": "Kölle Gartencenter",
+    "website": "pflanzen-koelle.de",
+    "hq_country": "DE",
+    "hq_city": "Heilbronn",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Garden Supplies",
+    "founded_year": 1818,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.pflanzen-koelle.de"
+    ]
+  },
+  {
+    "name": "Bellaflora",
+    "website": "bellaflora.at",
+    "hq_country": "AT",
+    "hq_city": "Leonding",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Garden Supplies",
+    "founded_year": 1978,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.bellaflora.at"
+    ]
+  },
+  {
+    "name": "Lagerhaus",
+    "website": "lagerhaus.at",
+    "hq_country": "AT",
+    "hq_city": "Vienna",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Home & Garden",
+    "founded_year": 1898,
+    "ultimate_parent": "RWA Raiffeisen",
+    "confidence": "high",
+    "sources": [
+      "https://www.lagerhaus.at"
+    ]
+  },
+  {
+    "name": "Intratuin",
+    "website": "intratuin.nl",
+    "hq_country": "NL",
+    "hq_city": "Woerden",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Garden Supplies",
+    "founded_year": 1960,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.intratuin.nl"
+    ]
+  },
+  {
+    "name": "GroenRijk",
+    "website": "groenrijk.nl",
+    "hq_country": "NL",
+    "hq_city": "Doetinchem",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Garden Supplies",
+    "founded_year": 1991,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://www.groenrijk.nl"
+    ]
+  },
+  {
+    "name": "Praxis",
+    "website": "praxis.nl",
+    "hq_country": "NL",
+    "hq_city": "Amsterdam",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1978,
+    "ultimate_parent": "Maxeda DIY Group",
+    "confidence": "high",
+    "sources": [
+      "https://www.praxis.nl"
+    ]
+  },
+  {
+    "name": "Gamma",
+    "website": "gamma.nl",
+    "hq_country": "NL",
+    "hq_city": "Amsterdam",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1978,
+    "ultimate_parent": "Intergamma",
+    "confidence": "high",
+    "sources": [
+      "https://www.gamma.nl"
+    ]
+  },
+  {
+    "name": "Karwei",
+    "website": "karwei.nl",
+    "hq_country": "NL",
+    "hq_city": "Leusden",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Home Improvement",
+    "founded_year": 1975,
+    "ultimate_parent": "Intergamma",
+    "confidence": "high",
+    "sources": [
+      "https://www.karwei.nl"
+    ]
+  },
+  {
+    "name": "Hubo",
+    "website": "hubo.nl",
+    "hq_country": "NL",
+    "hq_city": "Gouda",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "DIY & Hardware",
+    "founded_year": 1934,
+    "ultimate_parent": "Euretco",
+    "confidence": "high",
+    "sources": [
+      "https://www.hubo.nl"
+    ]
+  }
+]

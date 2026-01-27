@@ -1,0 +1,3068 @@
+[
+  {
+    "name": "Wallapop",
+    "website": "wallapop.com",
+    "hq_country": "ES",
+    "hq_city": "Barcelona",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 2014,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wallapop",
+      "https://wallapop.com"
+    ]
+  },
+  {
+    "name": "Catawiki",
+    "website": "catawiki.com",
+    "hq_country": "NL",
+    "hq_city": "Amsterdam",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Online Auction",
+    "founded_year": 2008,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Catawiki",
+      "https://catawiki.com"
+    ]
+  },
+  {
+    "name": "Digitec Galaxus",
+    "website": "galaxus.ch",
+    "hq_country": "CH",
+    "hq_city": "Zurich",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "General Marketplace",
+    "founded_year": 2001,
+    "ultimate_parent": "Migros",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Digitec_Galaxus",
+      "https://galaxus.ch"
+    ]
+  },
+  {
+    "name": "Ricardo",
+    "website": "ricardo.ch",
+    "hq_country": "CH",
+    "hq_city": "Zug",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Auction & Classifieds",
+    "founded_year": 1999,
+    "ultimate_parent": "TX Group",
+    "confidence": "high",
+    "sources": [
+      "https://ricardo.ch"
+    ]
+  },
+  {
+    "name": "Gumtree UK",
+    "website": "gumtree.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 2000,
+    "ultimate_parent": "O3 Industries",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gumtree",
+      "https://gumtree.com"
+    ]
+  },
+  {
+    "name": "Shpock",
+    "website": "shpock.com",
+    "hq_country": "AT",
+    "hq_city": "Vienna",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 2012,
+    "ultimate_parent": "Russmedia Equity Partners",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Shpock",
+      "https://shpock.com"
+    ]
+  },
+  {
+    "name": "FINN.no",
+    "website": "finn.no",
+    "hq_country": "NO",
+    "hq_city": "Oslo",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 2000,
+    "ultimate_parent": "Schibsted",
+    "confidence": "high",
+    "sources": [
+      "https://finn.no"
+    ]
+  },
+  {
+    "name": "Blocket",
+    "website": "blocket.se",
+    "hq_country": "SE",
+    "hq_city": "Stockholm",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 1996,
+    "ultimate_parent": "Schibsted",
+    "confidence": "high",
+    "sources": [
+      "https://blocket.se"
+    ]
+  },
+  {
+    "name": "Tori.fi",
+    "website": "tori.fi",
+    "hq_country": "FI",
+    "hq_city": "Helsinki",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 2009,
+    "ultimate_parent": "Schibsted",
+    "confidence": "high",
+    "sources": [
+      "https://tori.fi"
+    ]
+  },
+  {
+    "name": "Willhaben",
+    "website": "willhaben.at",
+    "hq_country": "AT",
+    "hq_city": "Vienna",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 2006,
+    "ultimate_parent": "Styria Media Group",
+    "confidence": "high",
+    "sources": [
+      "https://willhaben.at"
+    ]
+  },
+  {
+    "name": "DBA.dk",
+    "website": "dba.dk",
+    "hq_country": "DK",
+    "hq_city": "Copenhagen",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 1995,
+    "ultimate_parent": "Schibsted",
+    "confidence": "high",
+    "sources": [
+      "https://dba.dk"
+    ]
+  },
+  {
+    "name": "Kleinanzeigen (eBay Kleinanzeigen)",
+    "website": "kleinanzeigen.de",
+    "hq_country": "DE",
+    "hq_city": "Berlin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 2009,
+    "ultimate_parent": "Adevinta",
+    "confidence": "high",
+    "sources": [
+      "https://kleinanzeigen.de"
+    ]
+  },
+  {
+    "name": "Milanuncios",
+    "website": "milanuncios.com",
+    "hq_country": "ES",
+    "hq_city": "Barcelona",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 2005,
+    "ultimate_parent": "Adevinta",
+    "confidence": "high",
+    "sources": [
+      "https://milanuncios.com"
+    ]
+  },
+  {
+    "name": "InfoJobs",
+    "website": "infojobs.net",
+    "hq_country": "ES",
+    "hq_city": "Barcelona",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Job Marketplace",
+    "founded_year": 1998,
+    "ultimate_parent": "Schibsted",
+    "confidence": "high",
+    "sources": [
+      "https://infojobs.net"
+    ]
+  },
+  {
+    "name": "Kijiji Canada",
+    "website": "kijiji.ca",
+    "hq_country": "CA",
+    "hq_city": "Toronto",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 2005,
+    "ultimate_parent": "Adevinta",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kijiji",
+      "https://kijiji.ca"
+    ]
+  },
+  {
+    "name": "2dehands",
+    "website": "2dehands.be",
+    "hq_country": "BE",
+    "hq_city": "Brussels",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 1999,
+    "ultimate_parent": "Adevinta",
+    "confidence": "high",
+    "sources": [
+      "https://2dehands.be"
+    ]
+  },
+  {
+    "name": "2ememain",
+    "website": "2ememain.be",
+    "hq_country": "BE",
+    "hq_city": "Brussels",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 1999,
+    "ultimate_parent": "Adevinta",
+    "confidence": "medium",
+    "sources": [
+      "https://2ememain.be"
+    ]
+  },
+  {
+    "name": "Chrono24",
+    "website": "chrono24.com",
+    "hq_country": "DE",
+    "hq_city": "Karlsruhe",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Watch Marketplace",
+    "founded_year": 2003,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://chrono24.com"
+    ]
+  },
+  {
+    "name": "OnBuy",
+    "website": "onbuy.com",
+    "hq_country": "GB",
+    "hq_city": "Bournemouth",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "General Marketplace",
+    "founded_year": 2016,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://onbuy.com"
+    ]
+  },
+  {
+    "name": "Fruugo",
+    "website": "fruugo.com",
+    "hq_country": "GB",
+    "hq_city": "Ulverston",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Cross-Border Marketplace",
+    "founded_year": 2006,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://fruugo.com"
+    ]
+  },
+  {
+    "name": "Joom",
+    "website": "joom.com",
+    "hq_country": "LV",
+    "hq_city": "Riga",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "General Marketplace",
+    "founded_year": 2016,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://joom.com"
+    ]
+  },
+  {
+    "name": "Idealo",
+    "website": "idealo.de",
+    "hq_country": "DE",
+    "hq_city": "Berlin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Price Comparison",
+    "founded_year": 2000,
+    "ultimate_parent": "Axel Springer",
+    "confidence": "high",
+    "sources": [
+      "https://idealo.de"
+    ]
+  },
+  {
+    "name": "PriceRunner",
+    "website": "pricerunner.com",
+    "hq_country": "SE",
+    "hq_city": "Stockholm",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Price Comparison",
+    "founded_year": 1999,
+    "ultimate_parent": "Klarna",
+    "confidence": "high",
+    "sources": [
+      "https://pricerunner.com"
+    ]
+  },
+  {
+    "name": "Kelkoo",
+    "website": "kelkoo.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Price Comparison",
+    "founded_year": 1999,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://kelkoo.com"
+    ]
+  },
+  {
+    "name": "LeGuide",
+    "website": "leguide.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Price Comparison",
+    "founded_year": 1998,
+    "ultimate_parent": "Kelkoo",
+    "confidence": "medium",
+    "sources": [
+      "https://leguide.com"
+    ]
+  },
+  {
+    "name": "Geizhals",
+    "website": "geizhals.at",
+    "hq_country": "AT",
+    "hq_city": "Vienna",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Price Comparison",
+    "founded_year": 1997,
+    "ultimate_parent": "Heise Medien",
+    "confidence": "high",
+    "sources": [
+      "https://geizhals.at"
+    ]
+  },
+  {
+    "name": "Tweakers Pricewatch",
+    "website": "tweakers.net",
+    "hq_country": "NL",
+    "hq_city": "Amsterdam",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Price Comparison",
+    "founded_year": 1998,
+    "ultimate_parent": "DPG Media",
+    "confidence": "high",
+    "sources": [
+      "https://tweakers.net"
+    ]
+  },
+  {
+    "name": "Ceneo",
+    "website": "ceneo.pl",
+    "hq_country": "PL",
+    "hq_city": "Warsaw",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Price Comparison",
+    "founded_year": 2005,
+    "ultimate_parent": "Naspers",
+    "confidence": "high",
+    "sources": [
+      "https://ceneo.pl"
+    ]
+  },
+  {
+    "name": "Heureka",
+    "website": "heureka.cz",
+    "hq_country": "CZ",
+    "hq_city": "Prague",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Price Comparison",
+    "founded_year": 2007,
+    "ultimate_parent": "Heureka Group",
+    "confidence": "high",
+    "sources": [
+      "https://heureka.cz"
+    ]
+  },
+  {
+    "name": "Trovaprezzi",
+    "website": "trovaprezzi.it",
+    "hq_country": "IT",
+    "hq_city": "Milan",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Price Comparison",
+    "founded_year": 2002,
+    "ultimate_parent": "7Pixel",
+    "confidence": "high",
+    "sources": [
+      "https://trovaprezzi.it"
+    ]
+  },
+  {
+    "name": "Skinflint",
+    "website": "skinflint.co.uk",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Price Comparison",
+    "founded_year": 2004,
+    "ultimate_parent": "Heise Medien",
+    "confidence": "medium",
+    "sources": [
+      "https://skinflint.co.uk"
+    ]
+  },
+  {
+    "name": "Grailed",
+    "website": "grailed.com",
+    "hq_country": "US",
+    "hq_city": "New York",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Menswear Resale Marketplace",
+    "founded_year": 2013,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://grailed.com"
+    ]
+  },
+  {
+    "name": "Rebag",
+    "website": "rebag.com",
+    "hq_country": "US",
+    "hq_city": "New York",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Handbag Marketplace",
+    "founded_year": 2014,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://rebag.com"
+    ]
+  },
+  {
+    "name": "Rebelle",
+    "website": "rebelle.com",
+    "hq_country": "DE",
+    "hq_city": "Hamburg",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Fashion Resale",
+    "founded_year": 2013,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://rebelle.com"
+    ]
+  },
+  {
+    "name": "Sellpy",
+    "website": "sellpy.com",
+    "hq_country": "SE",
+    "hq_city": "Stockholm",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion Resale Marketplace",
+    "founded_year": 2014,
+    "ultimate_parent": "H&M Group",
+    "confidence": "high",
+    "sources": [
+      "https://sellpy.com"
+    ]
+  },
+  {
+    "name": "Medimops",
+    "website": "medimops.de",
+    "hq_country": "DE",
+    "hq_city": "Berlin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Used Media Marketplace",
+    "founded_year": 2004,
+    "ultimate_parent": "Momox",
+    "confidence": "high",
+    "sources": [
+      "https://medimops.de"
+    ]
+  },
+  {
+    "name": "Vide Dressing",
+    "website": "videdressing.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion Resale Marketplace",
+    "founded_year": 2009,
+    "ultimate_parent": "Leboncoin Group",
+    "confidence": "high",
+    "sources": [
+      "https://videdressing.com"
+    ]
+  },
+  {
+    "name": "Europages",
+    "website": "europages.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "B2B Marketplace",
+    "founded_year": 1982,
+    "ultimate_parent": "Visable",
+    "confidence": "high",
+    "sources": [
+      "https://europages.com"
+    ]
+  },
+  {
+    "name": "Wer liefert was (wlw)",
+    "website": "wlw.de",
+    "hq_country": "DE",
+    "hq_city": "Hamburg",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "B2B Marketplace",
+    "founded_year": 1932,
+    "ultimate_parent": "Visable",
+    "confidence": "high",
+    "sources": [
+      "https://wlw.de"
+    ]
+  },
+  {
+    "name": "Ankorstore",
+    "website": "ankorstore.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "B2B Wholesale Marketplace",
+    "founded_year": 2019,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://ankorstore.com"
+    ]
+  },
+  {
+    "name": "Faire",
+    "website": "faire.com",
+    "hq_country": "US",
+    "hq_city": "San Francisco",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "B2B Wholesale Marketplace",
+    "founded_year": 2017,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://faire.com"
+    ]
+  },
+  {
+    "name": "Orderchamp",
+    "website": "orderchamp.com",
+    "hq_country": "NL",
+    "hq_city": "Amsterdam",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "B2B Wholesale Marketplace",
+    "founded_year": 2018,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://orderchamp.com"
+    ]
+  },
+  {
+    "name": "Creoate",
+    "website": "creoate.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "B2B Wholesale Marketplace",
+    "founded_year": 2019,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://creoate.com"
+    ]
+  },
+  {
+    "name": "Zentrada",
+    "website": "zentrada.network",
+    "hq_country": "DE",
+    "hq_city": "Augsburg",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "B2B Wholesale Marketplace",
+    "founded_year": 2002,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://zentrada.network"
+    ]
+  },
+  {
+    "name": "Mercateo",
+    "website": "mercateo.com",
+    "hq_country": "DE",
+    "hq_city": "Munich",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "B2B Procurement Marketplace",
+    "founded_year": 1999,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://mercateo.com"
+    ]
+  },
+  {
+    "name": "Tradeshift",
+    "website": "tradeshift.com",
+    "hq_country": "US",
+    "hq_city": "San Francisco",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "B2B Trade Platform",
+    "founded_year": 2010,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://tradeshift.com"
+    ]
+  },
+  {
+    "name": "OLX Group",
+    "website": "olx.com",
+    "hq_country": "NL",
+    "hq_city": "Amsterdam",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds Holding",
+    "founded_year": 2006,
+    "ultimate_parent": "Prosus",
+    "confidence": "high",
+    "sources": [
+      "https://olx.com"
+    ]
+  },
+  {
+    "name": "OLX Poland",
+    "website": "olx.pl",
+    "hq_country": "PL",
+    "hq_city": "Poznań",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 2006,
+    "ultimate_parent": "Prosus",
+    "confidence": "high",
+    "sources": [
+      "https://olx.pl"
+    ]
+  },
+  {
+    "name": "OLX Portugal",
+    "website": "olx.pt",
+    "hq_country": "PT",
+    "hq_city": "Lisbon",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 2006,
+    "ultimate_parent": "Prosus",
+    "confidence": "high",
+    "sources": [
+      "https://olx.pt"
+    ]
+  },
+  {
+    "name": "OLX Romania",
+    "website": "olx.ro",
+    "hq_country": "RO",
+    "hq_city": "Bucharest",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 2006,
+    "ultimate_parent": "Prosus",
+    "confidence": "high",
+    "sources": [
+      "https://olx.ro"
+    ]
+  },
+  {
+    "name": "OLX Bulgaria",
+    "website": "olx.bg",
+    "hq_country": "BG",
+    "hq_city": "Sofia",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 2006,
+    "ultimate_parent": "Prosus",
+    "confidence": "high",
+    "sources": [
+      "https://olx.bg"
+    ]
+  },
+  {
+    "name": "OLX Ukraine",
+    "website": "olx.ua",
+    "hq_country": "UA",
+    "hq_city": "Kyiv",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 2006,
+    "ultimate_parent": "Prosus",
+    "confidence": "high",
+    "sources": [
+      "https://olx.ua"
+    ]
+  },
+  {
+    "name": "Letgo",
+    "website": "letgo.com",
+    "hq_country": "US",
+    "hq_city": "New York",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 2015,
+    "ultimate_parent": "OfferUp",
+    "confidence": "high",
+    "sources": [
+      "https://letgo.com"
+    ]
+  },
+  {
+    "name": "OfferUp",
+    "website": "offerup.com",
+    "hq_country": "US",
+    "hq_city": "Bellevue",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 2011,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://offerup.com"
+    ]
+  },
+  {
+    "name": "Craigslist",
+    "website": "craigslist.org",
+    "hq_country": "US",
+    "hq_city": "San Francisco",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 1995,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://craigslist.org"
+    ]
+  },
+  {
+    "name": "Facebook Marketplace",
+    "website": "facebook.com/marketplace",
+    "hq_country": "US",
+    "hq_city": "Menlo Park",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Social Commerce Marketplace",
+    "founded_year": 2016,
+    "ultimate_parent": "Meta Platforms",
+    "confidence": "high",
+    "sources": [
+      "https://facebook.com/marketplace"
+    ]
+  },
+  {
+    "name": "Bazaraki",
+    "website": "bazaraki.com",
+    "hq_country": "CY",
+    "hq_city": "Nicosia",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 2008,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://bazaraki.com"
+    ]
+  },
+  {
+    "name": "Sahibinden",
+    "website": "sahibinden.com",
+    "hq_country": "TR",
+    "hq_city": "Istanbul",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 2000,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://sahibinden.com"
+    ]
+  },
+  {
+    "name": "Avito",
+    "website": "avito.ru",
+    "hq_country": "RU",
+    "hq_city": "Moscow",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 2007,
+    "ultimate_parent": "Kismet Capital Group",
+    "confidence": "high",
+    "sources": [
+      "https://avito.ru"
+    ]
+  },
+  {
+    "name": "Youla",
+    "website": "youla.ru",
+    "hq_country": "RU",
+    "hq_city": "Moscow",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 2015,
+    "ultimate_parent": "VK (Mail.ru Group)",
+    "confidence": "high",
+    "sources": [
+      "https://youla.ru"
+    ]
+  },
+  {
+    "name": "Emag",
+    "website": "emag.ro",
+    "hq_country": "RO",
+    "hq_city": "Bucharest",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "General Marketplace",
+    "founded_year": 2001,
+    "ultimate_parent": "Naspers",
+    "confidence": "high",
+    "sources": [
+      "https://emag.ro"
+    ]
+  },
+  {
+    "name": "Hepsiburada",
+    "website": "hepsiburada.com",
+    "hq_country": "TR",
+    "hq_city": "Istanbul",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "General Marketplace",
+    "founded_year": 2000,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://hepsiburada.com"
+    ]
+  },
+  {
+    "name": "Trendyol",
+    "website": "trendyol.com",
+    "hq_country": "TR",
+    "hq_city": "Istanbul",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fashion Marketplace",
+    "founded_year": 2010,
+    "ultimate_parent": "Alibaba Group",
+    "confidence": "high",
+    "sources": [
+      "https://trendyol.com"
+    ]
+  },
+  {
+    "name": "GittiGidiyor",
+    "website": "gittigidiyor.com",
+    "hq_country": "TR",
+    "hq_city": "Istanbul",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Auction Marketplace",
+    "founded_year": 2001,
+    "ultimate_parent": "eBay",
+    "confidence": "high",
+    "sources": [
+      "https://gittigidiyor.com"
+    ]
+  },
+  {
+    "name": "Bukalapak",
+    "website": "bukalapak.com",
+    "hq_country": "ID",
+    "hq_city": "Jakarta",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "General Marketplace",
+    "founded_year": 2010,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://bukalapak.com"
+    ]
+  },
+  {
+    "name": "1688.com",
+    "website": "1688.com",
+    "hq_country": "CN",
+    "hq_city": "Hangzhou",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "B2B Wholesale Marketplace",
+    "founded_year": 1999,
+    "ultimate_parent": "Alibaba Group",
+    "confidence": "high",
+    "sources": [
+      "https://1688.com"
+    ]
+  },
+  {
+    "name": "Gmarket",
+    "website": "gmarket.co.kr",
+    "hq_country": "KR",
+    "hq_city": "Seoul",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "General Marketplace",
+    "founded_year": 2000,
+    "ultimate_parent": "eBay Korea (Shinsegae)",
+    "confidence": "high",
+    "sources": [
+      "https://gmarket.co.kr"
+    ]
+  },
+  {
+    "name": "11Street",
+    "website": "11st.co.kr",
+    "hq_country": "KR",
+    "hq_city": "Seoul",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "General Marketplace",
+    "founded_year": 2008,
+    "ultimate_parent": "SK Telecom",
+    "confidence": "high",
+    "sources": [
+      "https://11st.co.kr"
+    ]
+  },
+  {
+    "name": "Auction.co.kr",
+    "website": "auction.co.kr",
+    "hq_country": "KR",
+    "hq_city": "Seoul",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Auction Marketplace",
+    "founded_year": 1998,
+    "ultimate_parent": "eBay Korea (Shinsegae)",
+    "confidence": "high",
+    "sources": [
+      "https://auction.co.kr"
+    ]
+  },
+  {
+    "name": "Yahoo! Auctions Japan",
+    "website": "auctions.yahoo.co.jp",
+    "hq_country": "JP",
+    "hq_city": "Tokyo",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Auction Marketplace",
+    "founded_year": 1999,
+    "ultimate_parent": "LY Corporation",
+    "confidence": "high",
+    "sources": [
+      "https://auctions.yahoo.co.jp"
+    ]
+  },
+  {
+    "name": "PayPayFlea Market",
+    "website": "paypayfleamarket.yahoo.co.jp",
+    "hq_country": "JP",
+    "hq_city": "Tokyo",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "C2C Marketplace",
+    "founded_year": 2019,
+    "ultimate_parent": "LY Corporation",
+    "confidence": "medium",
+    "sources": [
+      "https://paypayfleamarket.yahoo.co.jp"
+    ]
+  },
+  {
+    "name": "TradeMe",
+    "website": "trademe.co.nz",
+    "hq_country": "NZ",
+    "hq_city": "Wellington",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Auction & Classifieds",
+    "founded_year": 1999,
+    "ultimate_parent": "Apax Partners",
+    "confidence": "high",
+    "sources": [
+      "https://trademe.co.nz"
+    ]
+  },
+  {
+    "name": "eBid",
+    "website": "ebid.net",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Auction Marketplace",
+    "founded_year": 1999,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://ebid.net"
+    ]
+  },
+  {
+    "name": "Bonanza",
+    "website": "bonanza.com",
+    "hq_country": "US",
+    "hq_city": "Seattle",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "General Marketplace",
+    "founded_year": 2008,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://bonanza.com"
+    ]
+  },
+  {
+    "name": "Ruby Lane",
+    "website": "rubylane.com",
+    "hq_country": "US",
+    "hq_city": "San Francisco",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Antiques & Collectibles Marketplace",
+    "founded_year": 1998,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://rubylane.com"
+    ]
+  },
+  {
+    "name": "1stDibs",
+    "website": "1stdibs.com",
+    "hq_country": "US",
+    "hq_city": "New York",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Luxury Design Marketplace",
+    "founded_year": 2000,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://1stdibs.com"
+    ]
+  },
+  {
+    "name": "Chairish",
+    "website": "chairish.com",
+    "hq_country": "US",
+    "hq_city": "San Francisco",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Home Decor Marketplace",
+    "founded_year": 2013,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://chairish.com"
+    ]
+  },
+  {
+    "name": "Pamono",
+    "website": "pamono.com",
+    "hq_country": "DE",
+    "hq_city": "Berlin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Design Furniture Marketplace",
+    "founded_year": 2013,
+    "ultimate_parent": "1stDibs",
+    "confidence": "high",
+    "sources": [
+      "https://pamono.com"
+    ]
+  },
+  {
+    "name": "Selency",
+    "website": "selency.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Vintage Furniture Marketplace",
+    "founded_year": 2014,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://selency.com"
+    ]
+  },
+  {
+    "name": "Design Market",
+    "website": "design-market.eu",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Vintage Design Marketplace",
+    "founded_year": 2014,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://design-market.eu"
+    ]
+  },
+  {
+    "name": "Vinterior",
+    "website": "vinterior.co",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Vintage Furniture Marketplace",
+    "founded_year": 2016,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://vinterior.co"
+    ]
+  },
+  {
+    "name": "Reverb",
+    "website": "reverb.com",
+    "hq_country": "US",
+    "hq_city": "Chicago",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Musical Instruments Marketplace",
+    "founded_year": 2013,
+    "ultimate_parent": "Etsy",
+    "confidence": "high",
+    "sources": [
+      "https://reverb.com"
+    ]
+  },
+  {
+    "name": "Cardmarket",
+    "website": "cardmarket.com",
+    "hq_country": "DE",
+    "hq_city": "Berlin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Trading Card Marketplace",
+    "founded_year": 2007,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://cardmarket.com"
+    ]
+  },
+  {
+    "name": "TCGplayer",
+    "website": "tcgplayer.com",
+    "hq_country": "US",
+    "hq_city": "Syracuse",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Trading Card Marketplace",
+    "founded_year": 2001,
+    "ultimate_parent": "eBay",
+    "confidence": "high",
+    "sources": [
+      "https://tcgplayer.com"
+    ]
+  },
+  {
+    "name": "Vroom",
+    "website": "vroom.com",
+    "hq_country": "US",
+    "hq_city": "Houston",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Auto Marketplace",
+    "founded_year": 2013,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://vroom.com"
+    ]
+  },
+  {
+    "name": "Carvana",
+    "website": "carvana.com",
+    "hq_country": "US",
+    "hq_city": "Tempe",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Auto Marketplace",
+    "founded_year": 2012,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://carvana.com"
+    ]
+  },
+  {
+    "name": "Auto1 Group",
+    "website": "auto1.com",
+    "hq_country": "DE",
+    "hq_city": "Berlin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Auto Marketplace",
+    "founded_year": 2012,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://auto1.com"
+    ]
+  },
+  {
+    "name": "Autoscout24",
+    "website": "autoscout24.com",
+    "hq_country": "DE",
+    "hq_city": "Munich",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Auto Classifieds",
+    "founded_year": 1998,
+    "ultimate_parent": "Hellman & Friedman",
+    "confidence": "high",
+    "sources": [
+      "https://autoscout24.com"
+    ]
+  },
+  {
+    "name": "Mobile.de",
+    "website": "mobile.de",
+    "hq_country": "DE",
+    "hq_city": "Berlin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Auto Classifieds",
+    "founded_year": 1996,
+    "ultimate_parent": "Adevinta",
+    "confidence": "high",
+    "sources": [
+      "https://mobile.de"
+    ]
+  },
+  {
+    "name": "Autotrader UK",
+    "website": "autotrader.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Manchester",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Auto Classifieds",
+    "founded_year": 1977,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://autotrader.co.uk"
+    ]
+  },
+  {
+    "name": "La Centrale",
+    "website": "lacentrale.fr",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Auto Classifieds",
+    "founded_year": 1927,
+    "ultimate_parent": "Axel Springer",
+    "confidence": "high",
+    "sources": [
+      "https://lacentrale.fr"
+    ]
+  },
+  {
+    "name": "Hasznaltauto.hu",
+    "website": "hasznaltauto.hu",
+    "hq_country": "HU",
+    "hq_city": "Budapest",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Auto Classifieds",
+    "founded_year": 2004,
+    "ultimate_parent": "Adevinta",
+    "confidence": "high",
+    "sources": [
+      "https://hasznaltauto.hu"
+    ]
+  },
+  {
+    "name": "Otomoto",
+    "website": "otomoto.pl",
+    "hq_country": "PL",
+    "hq_city": "Poznań",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Auto Classifieds",
+    "founded_year": 2011,
+    "ultimate_parent": "Prosus",
+    "confidence": "high",
+    "sources": [
+      "https://otomoto.pl"
+    ]
+  },
+  {
+    "name": "Bilbasen",
+    "website": "bilbasen.dk",
+    "hq_country": "DK",
+    "hq_city": "Copenhagen",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Auto Classifieds",
+    "founded_year": 1997,
+    "ultimate_parent": "Schibsted",
+    "confidence": "high",
+    "sources": [
+      "https://bilbasen.dk"
+    ]
+  },
+  {
+    "name": "Copart",
+    "website": "copart.com",
+    "hq_country": "US",
+    "hq_city": "Dallas",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Auto Auction",
+    "founded_year": 1982,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://copart.com"
+    ]
+  },
+  {
+    "name": "Bring A Trailer",
+    "website": "bringatrailer.com",
+    "hq_country": "US",
+    "hq_city": "San Francisco",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classic Car Auction",
+    "founded_year": 2007,
+    "ultimate_parent": "Hearst",
+    "confidence": "high",
+    "sources": [
+      "https://bringatrailer.com"
+    ]
+  },
+  {
+    "name": "Cars & Bids",
+    "website": "carsandbids.com",
+    "hq_country": "US",
+    "hq_city": "San Diego",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Enthusiast Car Auction",
+    "founded_year": 2020,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://carsandbids.com"
+    ]
+  },
+  {
+    "name": "Collecting Cars",
+    "website": "collectingcars.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classic Car Auction",
+    "founded_year": 2018,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://collectingcars.com"
+    ]
+  },
+  {
+    "name": "Immoweb",
+    "website": "immoweb.be",
+    "hq_country": "BE",
+    "hq_city": "Brussels",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Real Estate Classifieds",
+    "founded_year": 1995,
+    "ultimate_parent": "Axel Springer",
+    "confidence": "high",
+    "sources": [
+      "https://immoweb.be"
+    ]
+  },
+  {
+    "name": "Funda",
+    "website": "funda.nl",
+    "hq_country": "NL",
+    "hq_city": "Amsterdam",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Real Estate Classifieds",
+    "founded_year": 2001,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://funda.nl"
+    ]
+  },
+  {
+    "name": "SeLoger",
+    "website": "seloger.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Real Estate Classifieds",
+    "founded_year": 1992,
+    "ultimate_parent": "Axel Springer",
+    "confidence": "high",
+    "sources": [
+      "https://seloger.com"
+    ]
+  },
+  {
+    "name": "Immobilienscout24",
+    "website": "immobilienscout24.de",
+    "hq_country": "DE",
+    "hq_city": "Berlin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Real Estate Classifieds",
+    "founded_year": 1998,
+    "ultimate_parent": "Scout24",
+    "confidence": "high",
+    "sources": [
+      "https://immobilienscout24.de"
+    ]
+  },
+  {
+    "name": "Rightmove",
+    "website": "rightmove.co.uk",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Real Estate Classifieds",
+    "founded_year": 2000,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://rightmove.co.uk"
+    ]
+  },
+  {
+    "name": "Zoopla",
+    "website": "zoopla.co.uk",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Real Estate Classifieds",
+    "founded_year": 2007,
+    "ultimate_parent": "Silver Lake",
+    "confidence": "high",
+    "sources": [
+      "https://zoopla.co.uk"
+    ]
+  },
+  {
+    "name": "Idealista",
+    "website": "idealista.com",
+    "hq_country": "ES",
+    "hq_city": "Madrid",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Real Estate Classifieds",
+    "founded_year": 2000,
+    "ultimate_parent": "Cinven",
+    "confidence": "high",
+    "sources": [
+      "https://idealista.com"
+    ]
+  },
+  {
+    "name": "Fotocasa",
+    "website": "fotocasa.es",
+    "hq_country": "ES",
+    "hq_city": "Barcelona",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Real Estate Classifieds",
+    "founded_year": 1999,
+    "ultimate_parent": "Adevinta",
+    "confidence": "high",
+    "sources": [
+      "https://fotocasa.es"
+    ]
+  },
+  {
+    "name": "Immobiliare.it",
+    "website": "immobiliare.it",
+    "hq_country": "IT",
+    "hq_city": "Milan",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Real Estate Classifieds",
+    "founded_year": 2005,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://immobiliare.it"
+    ]
+  },
+  {
+    "name": "Casa.it",
+    "website": "casa.it",
+    "hq_country": "IT",
+    "hq_city": "Milan",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Real Estate Classifieds",
+    "founded_year": 1996,
+    "ultimate_parent": "REA Group",
+    "confidence": "high",
+    "sources": [
+      "https://casa.it"
+    ]
+  },
+  {
+    "name": "Hemnet",
+    "website": "hemnet.se",
+    "hq_country": "SE",
+    "hq_city": "Stockholm",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Real Estate Classifieds",
+    "founded_year": 1998,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://hemnet.se"
+    ]
+  },
+  {
+    "name": "Boligsiden",
+    "website": "boligsiden.dk",
+    "hq_country": "DK",
+    "hq_city": "Copenhagen",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Real Estate Classifieds",
+    "founded_year": 2000,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://boligsiden.dk"
+    ]
+  },
+  {
+    "name": "Oikotie",
+    "website": "oikotie.fi",
+    "hq_country": "FI",
+    "hq_city": "Helsinki",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Real Estate & Job Classifieds",
+    "founded_year": 1998,
+    "ultimate_parent": "Sanoma",
+    "confidence": "high",
+    "sources": [
+      "https://oikotie.fi"
+    ]
+  },
+  {
+    "name": "Etuovi",
+    "website": "etuovi.com",
+    "hq_country": "FI",
+    "hq_city": "Helsinki",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Real Estate Classifieds",
+    "founded_year": 1997,
+    "ultimate_parent": "Alma Media",
+    "confidence": "high",
+    "sources": [
+      "https://etuovi.com"
+    ]
+  },
+  {
+    "name": "Sreality",
+    "website": "sreality.cz",
+    "hq_country": "CZ",
+    "hq_city": "Prague",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Real Estate Classifieds",
+    "founded_year": 1999,
+    "ultimate_parent": "Seznam.cz",
+    "confidence": "high",
+    "sources": [
+      "https://sreality.cz"
+    ]
+  },
+  {
+    "name": "Immonet",
+    "website": "immonet.de",
+    "hq_country": "DE",
+    "hq_city": "Hamburg",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Real Estate Classifieds",
+    "founded_year": 2001,
+    "ultimate_parent": "Scout24",
+    "confidence": "high",
+    "sources": [
+      "https://immonet.de"
+    ]
+  },
+  {
+    "name": "Fiverr",
+    "website": "fiverr.com",
+    "hq_country": "IL",
+    "hq_city": "Tel Aviv",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Freelance Marketplace",
+    "founded_year": 2010,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://fiverr.com"
+    ]
+  },
+  {
+    "name": "Upwork",
+    "website": "upwork.com",
+    "hq_country": "US",
+    "hq_city": "Santa Clara",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Freelance Marketplace",
+    "founded_year": 2015,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://upwork.com"
+    ]
+  },
+  {
+    "name": "Freelancer.com",
+    "website": "freelancer.com",
+    "hq_country": "AU",
+    "hq_city": "Sydney",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Freelance Marketplace",
+    "founded_year": 2009,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://freelancer.com"
+    ]
+  },
+  {
+    "name": "99designs",
+    "website": "99designs.com",
+    "hq_country": "AU",
+    "hq_city": "Melbourne",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Design Marketplace",
+    "founded_year": 2008,
+    "ultimate_parent": "Vistaprint",
+    "confidence": "high",
+    "sources": [
+      "https://99designs.com"
+    ]
+  },
+  {
+    "name": "Toptal",
+    "website": "toptal.com",
+    "hq_country": "US",
+    "hq_city": "San Francisco",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Talent Marketplace",
+    "founded_year": 2010,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://toptal.com"
+    ]
+  },
+  {
+    "name": "Malt",
+    "website": "malt.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Freelance Marketplace",
+    "founded_year": 2013,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://malt.com"
+    ]
+  },
+  {
+    "name": "Twago",
+    "website": "twago.com",
+    "hq_country": "DE",
+    "hq_city": "Berlin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Freelance Marketplace",
+    "founded_year": 2009,
+    "ultimate_parent": "Randstad",
+    "confidence": "high",
+    "sources": [
+      "https://twago.com"
+    ]
+  },
+  {
+    "name": "TaskRabbit",
+    "website": "taskrabbit.com",
+    "hq_country": "US",
+    "hq_city": "San Francisco",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Task Marketplace",
+    "founded_year": 2008,
+    "ultimate_parent": "IKEA",
+    "confidence": "high",
+    "sources": [
+      "https://taskrabbit.com"
+    ]
+  },
+  {
+    "name": "Helpling",
+    "website": "helpling.com",
+    "hq_country": "DE",
+    "hq_city": "Berlin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Home Services Marketplace",
+    "founded_year": 2014,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://helpling.com"
+    ]
+  },
+  {
+    "name": "MyHammer",
+    "website": "myhammer.de",
+    "hq_country": "DE",
+    "hq_city": "Berlin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Tradesperson Marketplace",
+    "founded_year": 2005,
+    "ultimate_parent": "IAC",
+    "confidence": "high",
+    "sources": [
+      "https://myhammer.de"
+    ]
+  },
+  {
+    "name": "Werkspot",
+    "website": "werkspot.nl",
+    "hq_country": "NL",
+    "hq_city": "Amsterdam",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Tradesperson Marketplace",
+    "founded_year": 2005,
+    "ultimate_parent": "IAC",
+    "confidence": "high",
+    "sources": [
+      "https://werkspot.nl"
+    ]
+  },
+  {
+    "name": "Checkatrade",
+    "website": "checkatrade.com",
+    "hq_country": "GB",
+    "hq_city": "Emsworth",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Tradesperson Marketplace",
+    "founded_year": 1998,
+    "ultimate_parent": "HomeServe",
+    "confidence": "high",
+    "sources": [
+      "https://checkatrade.com"
+    ]
+  },
+  {
+    "name": "Thumbtack",
+    "website": "thumbtack.com",
+    "hq_country": "US",
+    "hq_city": "San Francisco",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Local Services Marketplace",
+    "founded_year": 2008,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://thumbtack.com"
+    ]
+  },
+  {
+    "name": "Rover",
+    "website": "rover.com",
+    "hq_country": "US",
+    "hq_city": "Seattle",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Pet Services Marketplace",
+    "founded_year": 2011,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://rover.com"
+    ]
+  },
+  {
+    "name": "Pawshake",
+    "website": "pawshake.com",
+    "hq_country": "BE",
+    "hq_city": "Antwerp",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Pet Services Marketplace",
+    "founded_year": 2013,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://pawshake.com"
+    ]
+  },
+  {
+    "name": "Care.com",
+    "website": "care.com",
+    "hq_country": "US",
+    "hq_city": "Austin",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Care Services Marketplace",
+    "founded_year": 2006,
+    "ultimate_parent": "IAC",
+    "confidence": "high",
+    "sources": [
+      "https://care.com"
+    ]
+  },
+  {
+    "name": "Betreut.de",
+    "website": "betreut.de",
+    "hq_country": "DE",
+    "hq_city": "Berlin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Care Services Marketplace",
+    "founded_year": 2007,
+    "ultimate_parent": "IAC/Care.com",
+    "confidence": "high",
+    "sources": [
+      "https://betreut.de"
+    ]
+  },
+  {
+    "name": "Yoopies",
+    "website": "yoopies.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Childcare Marketplace",
+    "founded_year": 2012,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://yoopies.com"
+    ]
+  },
+  {
+    "name": "Getaround",
+    "website": "getaround.com",
+    "hq_country": "US",
+    "hq_city": "San Francisco",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Car Sharing Marketplace",
+    "founded_year": 2009,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://getaround.com"
+    ]
+  },
+  {
+    "name": "Turo",
+    "website": "turo.com",
+    "hq_country": "US",
+    "hq_city": "San Francisco",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Car Sharing Marketplace",
+    "founded_year": 2010,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://turo.com"
+    ]
+  },
+  {
+    "name": "Drivy (Getaround Europe)",
+    "website": "getaround.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Car Sharing Marketplace",
+    "founded_year": 2010,
+    "ultimate_parent": "Getaround",
+    "confidence": "high",
+    "sources": [
+      "https://getaround.com"
+    ]
+  },
+  {
+    "name": "SnappCar",
+    "website": "snappcar.nl",
+    "hq_country": "NL",
+    "hq_city": "Utrecht",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Car Sharing Marketplace",
+    "founded_year": 2011,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://snappcar.nl"
+    ]
+  },
+  {
+    "name": "GetYourGuide",
+    "website": "getyourguide.com",
+    "hq_country": "DE",
+    "hq_city": "Berlin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Tours & Activities Marketplace",
+    "founded_year": 2009,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://getyourguide.com"
+    ]
+  },
+  {
+    "name": "Viator",
+    "website": "viator.com",
+    "hq_country": "US",
+    "hq_city": "San Francisco",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Tours & Activities Marketplace",
+    "founded_year": 1999,
+    "ultimate_parent": "Tripadvisor",
+    "confidence": "high",
+    "sources": [
+      "https://viator.com"
+    ]
+  },
+  {
+    "name": "Klook",
+    "website": "klook.com",
+    "hq_country": "HK",
+    "hq_city": "Hong Kong",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Travel Activities Marketplace",
+    "founded_year": 2014,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://klook.com"
+    ]
+  },
+  {
+    "name": "Civitatis",
+    "website": "civitatis.com",
+    "hq_country": "ES",
+    "hq_city": "Madrid",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Tours & Activities Marketplace",
+    "founded_year": 2008,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://civitatis.com"
+    ]
+  },
+  {
+    "name": "Musement",
+    "website": "musement.com",
+    "hq_country": "IT",
+    "hq_city": "Milan",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Tours & Activities Marketplace",
+    "founded_year": 2013,
+    "ultimate_parent": "TUI Group",
+    "confidence": "high",
+    "sources": [
+      "https://musement.com"
+    ]
+  },
+  {
+    "name": "Treatwell",
+    "website": "treatwell.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Beauty Services Marketplace",
+    "founded_year": 2008,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://treatwell.com"
+    ]
+  },
+  {
+    "name": "Jameda",
+    "website": "jameda.de",
+    "hq_country": "DE",
+    "hq_city": "Munich",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Healthcare Marketplace",
+    "founded_year": 2007,
+    "ultimate_parent": "Hubert Burda Media",
+    "confidence": "high",
+    "sources": [
+      "https://jameda.de"
+    ]
+  },
+  {
+    "name": "Zocdoc",
+    "website": "zocdoc.com",
+    "hq_country": "US",
+    "hq_city": "New York",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Healthcare Appointment Marketplace",
+    "founded_year": 2007,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://zocdoc.com"
+    ]
+  },
+  {
+    "name": "ClassPass",
+    "website": "classpass.com",
+    "hq_country": "US",
+    "hq_city": "New York",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Fitness Marketplace",
+    "founded_year": 2013,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://classpass.com"
+    ]
+  },
+  {
+    "name": "Preply",
+    "website": "preply.com",
+    "hq_country": "US",
+    "hq_city": "Brookline",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Tutoring Marketplace",
+    "founded_year": 2012,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://preply.com"
+    ]
+  },
+  {
+    "name": "Superprof",
+    "website": "superprof.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Tutoring Marketplace",
+    "founded_year": 2013,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://superprof.com"
+    ]
+  },
+  {
+    "name": "Too Good To Go",
+    "website": "toogoodtogo.com",
+    "hq_country": "DK",
+    "hq_city": "Copenhagen",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Food Waste Marketplace",
+    "founded_year": 2015,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://toogoodtogo.com"
+    ]
+  },
+  {
+    "name": "OLIO",
+    "website": "olioapp.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Food Sharing Platform",
+    "founded_year": 2015,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://olioapp.com"
+    ]
+  },
+  {
+    "name": "Gopuff",
+    "website": "gopuff.com",
+    "hq_country": "US",
+    "hq_city": "Philadelphia",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Quick Commerce",
+    "founded_year": 2013,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://gopuff.com"
+    ]
+  },
+  {
+    "name": "Rohlik",
+    "website": "rohlik.cz",
+    "hq_country": "CZ",
+    "hq_city": "Prague",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Online Grocery",
+    "founded_year": 2014,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://rohlik.cz"
+    ]
+  },
+  {
+    "name": "cinch",
+    "website": "cinch.co.uk",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Auto Marketplace",
+    "founded_year": 2019,
+    "ultimate_parent": "Constellation Automotive",
+    "confidence": "high",
+    "sources": [
+      "https://cinch.co.uk"
+    ]
+  },
+  {
+    "name": "Carwow",
+    "website": "carwow.co.uk",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Car Buying Marketplace",
+    "founded_year": 2010,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://carwow.co.uk"
+    ]
+  },
+  {
+    "name": "heycar",
+    "website": "heycar.com",
+    "hq_country": "DE",
+    "hq_city": "Berlin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Used Car Marketplace",
+    "founded_year": 2017,
+    "ultimate_parent": "Volkswagen Financial Services",
+    "confidence": "high",
+    "sources": [
+      "https://heycar.com"
+    ]
+  },
+  {
+    "name": "Motorway",
+    "website": "motorway.co.uk",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Car Selling Marketplace",
+    "founded_year": 2017,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://motorway.co.uk"
+    ]
+  },
+  {
+    "name": "Kavak",
+    "website": "kavak.com",
+    "hq_country": "MX",
+    "hq_city": "Mexico City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Auto Marketplace",
+    "founded_year": 2016,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://kavak.com"
+    ]
+  },
+  {
+    "name": "Vend",
+    "website": "vend.com",
+    "hq_country": "NO",
+    "hq_city": "Oslo",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds Holding",
+    "founded_year": 2025,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://schibsted.com"
+    ]
+  },
+  {
+    "name": "Scout24",
+    "website": "scout24.com",
+    "hq_country": "DE",
+    "hq_city": "Munich",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds Holding",
+    "founded_year": 1998,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://scout24.com"
+    ]
+  },
+  {
+    "name": "Prosus",
+    "website": "prosus.com",
+    "hq_country": "NL",
+    "hq_city": "Amsterdam",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Technology Investment Holding",
+    "founded_year": 2019,
+    "ultimate_parent": "Naspers",
+    "confidence": "high",
+    "sources": [
+      "https://prosus.com"
+    ]
+  },
+  {
+    "name": "Axel Springer Digital Classifieds",
+    "website": "axelspringer.com",
+    "hq_country": "DE",
+    "hq_city": "Berlin",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds Holding",
+    "founded_year": 1985,
+    "ultimate_parent": "Axel Springer",
+    "confidence": "high",
+    "sources": [
+      "https://axelspringer.com"
+    ]
+  },
+  {
+    "name": "Quikr",
+    "website": "quikr.com",
+    "hq_country": "IN",
+    "hq_city": "Bangalore",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 2008,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://quikr.com"
+    ]
+  },
+  {
+    "name": "Carousell",
+    "website": "carousell.com",
+    "hq_country": "SG",
+    "hq_city": "Singapore",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 2012,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://carousell.com"
+    ]
+  },
+  {
+    "name": "Mudah.my",
+    "website": "mudah.my",
+    "hq_country": "MY",
+    "hq_city": "Kuala Lumpur",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 2007,
+    "ultimate_parent": "Carousell",
+    "confidence": "high",
+    "sources": [
+      "https://mudah.my"
+    ]
+  },
+  {
+    "name": "Chotot",
+    "website": "chotot.com",
+    "hq_country": "VN",
+    "hq_city": "Ho Chi Minh City",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 2012,
+    "ultimate_parent": "Carousell",
+    "confidence": "high",
+    "sources": [
+      "https://chotot.com"
+    ]
+  },
+  {
+    "name": "Dubizzle",
+    "website": "dubizzle.com",
+    "hq_country": "AE",
+    "hq_city": "Dubai",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 2005,
+    "ultimate_parent": "Prosus",
+    "confidence": "high",
+    "sources": [
+      "https://dubizzle.com"
+    ]
+  },
+  {
+    "name": "Property Finder",
+    "website": "propertyfinder.com",
+    "hq_country": "AE",
+    "hq_city": "Dubai",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Real Estate Classifieds",
+    "founded_year": 2005,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://propertyfinder.com"
+    ]
+  },
+  {
+    "name": "Bayut",
+    "website": "bayut.com",
+    "hq_country": "AE",
+    "hq_city": "Dubai",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Real Estate Classifieds",
+    "founded_year": 2008,
+    "ultimate_parent": "Prosus",
+    "confidence": "high",
+    "sources": [
+      "https://bayut.com"
+    ]
+  },
+  {
+    "name": "Domain.com.au",
+    "website": "domain.com.au",
+    "hq_country": "AU",
+    "hq_city": "Sydney",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Real Estate Classifieds",
+    "founded_year": 1999,
+    "ultimate_parent": "Domain Holdings Australia",
+    "confidence": "high",
+    "sources": [
+      "https://domain.com.au"
+    ]
+  },
+  {
+    "name": "Realestate.com.au",
+    "website": "realestate.com.au",
+    "hq_country": "AU",
+    "hq_city": "Melbourne",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Real Estate Classifieds",
+    "founded_year": 1995,
+    "ultimate_parent": "REA Group",
+    "confidence": "high",
+    "sources": [
+      "https://realestate.com.au"
+    ]
+  },
+  {
+    "name": "Zillow",
+    "website": "zillow.com",
+    "hq_country": "US",
+    "hq_city": "Seattle",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Real Estate Marketplace",
+    "founded_year": 2006,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://zillow.com"
+    ]
+  },
+  {
+    "name": "Redfin",
+    "website": "redfin.com",
+    "hq_country": "US",
+    "hq_city": "Seattle",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Real Estate Marketplace",
+    "founded_year": 2004,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://redfin.com"
+    ]
+  },
+  {
+    "name": "Realtor.com",
+    "website": "realtor.com",
+    "hq_country": "US",
+    "hq_city": "Santa Clara",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Real Estate Classifieds",
+    "founded_year": 1996,
+    "ultimate_parent": "News Corp",
+    "confidence": "high",
+    "sources": [
+      "https://realtor.com"
+    ]
+  },
+  {
+    "name": "Trulia",
+    "website": "trulia.com",
+    "hq_country": "US",
+    "hq_city": "San Francisco",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Real Estate Classifieds",
+    "founded_year": 2005,
+    "ultimate_parent": "Zillow",
+    "confidence": "high",
+    "sources": [
+      "https://trulia.com"
+    ]
+  },
+  {
+    "name": "Apartments.com",
+    "website": "apartments.com",
+    "hq_country": "US",
+    "hq_city": "Chicago",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Rental Classifieds",
+    "founded_year": 1992,
+    "ultimate_parent": "CoStar Group",
+    "confidence": "high",
+    "sources": [
+      "https://apartments.com"
+    ]
+  },
+  {
+    "name": "Otodom",
+    "website": "otodom.pl",
+    "hq_country": "PL",
+    "hq_city": "Warsaw",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Real Estate Classifieds",
+    "founded_year": 2006,
+    "ultimate_parent": "Prosus",
+    "confidence": "high",
+    "sources": [
+      "https://otodom.pl"
+    ]
+  },
+  {
+    "name": "Pracuj.pl",
+    "website": "pracuj.pl",
+    "hq_country": "PL",
+    "hq_city": "Warsaw",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Job Marketplace",
+    "founded_year": 2000,
+    "ultimate_parent": "Grupa Pracuj",
+    "confidence": "high",
+    "sources": [
+      "https://pracuj.pl"
+    ]
+  },
+  {
+    "name": "StepStone",
+    "website": "stepstone.de",
+    "hq_country": "DE",
+    "hq_city": "Düsseldorf",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Job Marketplace",
+    "founded_year": 1996,
+    "ultimate_parent": "Axel Springer",
+    "confidence": "high",
+    "sources": [
+      "https://stepstone.de"
+    ]
+  },
+  {
+    "name": "Indeed",
+    "website": "indeed.com",
+    "hq_country": "US",
+    "hq_city": "Austin",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Job Marketplace",
+    "founded_year": 2004,
+    "ultimate_parent": "Recruit Holdings",
+    "confidence": "high",
+    "sources": [
+      "https://indeed.com"
+    ]
+  },
+  {
+    "name": "Glassdoor",
+    "website": "glassdoor.com",
+    "hq_country": "US",
+    "hq_city": "San Francisco",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Job Marketplace",
+    "founded_year": 2007,
+    "ultimate_parent": "Recruit Holdings",
+    "confidence": "high",
+    "sources": [
+      "https://glassdoor.com"
+    ]
+  },
+  {
+    "name": "Xing",
+    "website": "xing.com",
+    "hq_country": "DE",
+    "hq_city": "Hamburg",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Professional Network & Jobs",
+    "founded_year": 2003,
+    "ultimate_parent": "New Work SE",
+    "confidence": "high",
+    "sources": [
+      "https://xing.com"
+    ]
+  },
+  {
+    "name": "kununu",
+    "website": "kununu.com",
+    "hq_country": "AT",
+    "hq_city": "Vienna",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Employer Review Platform",
+    "founded_year": 2007,
+    "ultimate_parent": "New Work SE",
+    "confidence": "high",
+    "sources": [
+      "https://kununu.com"
+    ]
+  },
+  {
+    "name": "Monster",
+    "website": "monster.com",
+    "hq_country": "US",
+    "hq_city": "Weston",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Job Marketplace",
+    "founded_year": 1999,
+    "ultimate_parent": "Randstad",
+    "confidence": "high",
+    "sources": [
+      "https://monster.com"
+    ]
+  },
+  {
+    "name": "CareerBuilder",
+    "website": "careerbuilder.com",
+    "hq_country": "US",
+    "hq_city": "Chicago",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Job Marketplace",
+    "founded_year": 1995,
+    "ultimate_parent": "Apollo Global Management",
+    "confidence": "high",
+    "sources": [
+      "https://careerbuilder.com"
+    ]
+  },
+  {
+    "name": "ZipRecruiter",
+    "website": "ziprecruiter.com",
+    "hq_country": "US",
+    "hq_city": "Santa Monica",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Job Marketplace",
+    "founded_year": 2010,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://ziprecruiter.com"
+    ]
+  },
+  {
+    "name": "Reed.co.uk",
+    "website": "reed.co.uk",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Job Marketplace",
+    "founded_year": 1995,
+    "ultimate_parent": "Reed",
+    "confidence": "high",
+    "sources": [
+      "https://reed.co.uk"
+    ]
+  },
+  {
+    "name": "Totaljobs",
+    "website": "totaljobs.com",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Job Marketplace",
+    "founded_year": 1999,
+    "ultimate_parent": "StepStone",
+    "confidence": "high",
+    "sources": [
+      "https://totaljobs.com"
+    ]
+  },
+  {
+    "name": "CV-Library",
+    "website": "cv-library.co.uk",
+    "hq_country": "GB",
+    "hq_city": "Fleet",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Job Marketplace",
+    "founded_year": 2000,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://cv-library.co.uk"
+    ]
+  },
+  {
+    "name": "Jobsite",
+    "website": "jobsite.co.uk",
+    "hq_country": "GB",
+    "hq_city": "London",
+    "eu_status": "non-eu",
+    "industry": "E-commerce",
+    "sub_industry": "Job Marketplace",
+    "founded_year": 1995,
+    "ultimate_parent": "StepStone",
+    "confidence": "high",
+    "sources": [
+      "https://jobsite.co.uk"
+    ]
+  },
+  {
+    "name": "Hellowork",
+    "website": "hellowork.com",
+    "hq_country": "FR",
+    "hq_city": "Rennes",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Job Marketplace",
+    "founded_year": 2000,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://hellowork.com"
+    ]
+  },
+  {
+    "name": "Welcome to the Jungle",
+    "website": "welcometothejungle.com",
+    "hq_country": "FR",
+    "hq_city": "Paris",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Job Marketplace",
+    "founded_year": 2015,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://welcometothejungle.com"
+    ]
+  },
+  {
+    "name": "Jobbörse (Bundesagentur für Arbeit)",
+    "website": "arbeitsagentur.de",
+    "hq_country": "DE",
+    "hq_city": "Nuremberg",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Job Marketplace",
+    "founded_year": 2003,
+    "ultimate_parent": null,
+    "confidence": "high",
+    "sources": [
+      "https://arbeitsagentur.de"
+    ]
+  },
+  {
+    "name": "Bazar.at",
+    "website": "bazar.at",
+    "hq_country": "AT",
+    "hq_city": "Vienna",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 1997,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://bazar.at"
+    ]
+  },
+  {
+    "name": "Njuskalo",
+    "website": "njuskalo.hr",
+    "hq_country": "HR",
+    "hq_city": "Zagreb",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 2007,
+    "ultimate_parent": "Styria Media Group",
+    "confidence": "high",
+    "sources": [
+      "https://njuskalo.hr"
+    ]
+  },
+  {
+    "name": "Bolha.com",
+    "website": "bolha.com",
+    "hq_country": "SI",
+    "hq_city": "Ljubljana",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 2000,
+    "ultimate_parent": "Styria Media Group",
+    "confidence": "high",
+    "sources": [
+      "https://bolha.com"
+    ]
+  },
+  {
+    "name": "SS.lv",
+    "website": "ss.lv",
+    "hq_country": "LV",
+    "hq_city": "Riga",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 2004,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://ss.lv"
+    ]
+  },
+  {
+    "name": "Skelbiu.lt",
+    "website": "skelbiu.lt",
+    "hq_country": "LT",
+    "hq_city": "Vilnius",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 2006,
+    "ultimate_parent": "Delfi",
+    "confidence": "medium",
+    "sources": [
+      "https://skelbiu.lt"
+    ]
+  },
+  {
+    "name": "Autoplius.lt",
+    "website": "autoplius.lt",
+    "hq_country": "LT",
+    "hq_city": "Vilnius",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Auto Classifieds",
+    "founded_year": 2002,
+    "ultimate_parent": "Delfi",
+    "confidence": "medium",
+    "sources": [
+      "https://autoplius.lt"
+    ]
+  },
+  {
+    "name": "Auto24.ee",
+    "website": "auto24.ee",
+    "hq_country": "EE",
+    "hq_city": "Tallinn",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Auto Classifieds",
+    "founded_year": 1999,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://auto24.ee"
+    ]
+  },
+  {
+    "name": "KV.ee",
+    "website": "kv.ee",
+    "hq_country": "EE",
+    "hq_city": "Tallinn",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Real Estate Classifieds",
+    "founded_year": 1999,
+    "ultimate_parent": null,
+    "confidence": "medium",
+    "sources": [
+      "https://kv.ee"
+    ]
+  },
+  {
+    "name": "CV Online",
+    "website": "cvonline.lt",
+    "hq_country": "LT",
+    "hq_city": "Vilnius",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Job Marketplace",
+    "founded_year": 2000,
+    "ultimate_parent": "Alma Media",
+    "confidence": "medium",
+    "sources": [
+      "https://cvonline.lt"
+    ]
+  },
+  {
+    "name": "City24",
+    "website": "city24.ee",
+    "hq_country": "EE",
+    "hq_city": "Tallinn",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Real Estate Classifieds",
+    "founded_year": 2005,
+    "ultimate_parent": "Alma Media",
+    "confidence": "medium",
+    "sources": [
+      "https://city24.ee"
+    ]
+  },
+  {
+    "name": "Aruodas.lt",
+    "website": "aruodas.lt",
+    "hq_country": "LT",
+    "hq_city": "Vilnius",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Real Estate Classifieds",
+    "founded_year": 2001,
+    "ultimate_parent": "Delfi",
+    "confidence": "medium",
+    "sources": [
+      "https://aruodas.lt"
+    ]
+  },
+  {
+    "name": "Sauto.cz",
+    "website": "sauto.cz",
+    "hq_country": "CZ",
+    "hq_city": "Prague",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Auto Classifieds",
+    "founded_year": 1999,
+    "ultimate_parent": "Seznam.cz",
+    "confidence": "medium",
+    "sources": [
+      "https://sauto.cz"
+    ]
+  },
+  {
+    "name": "Sbazar.cz",
+    "website": "sbazar.cz",
+    "hq_country": "CZ",
+    "hq_city": "Prague",
+    "eu_status": "eu",
+    "industry": "E-commerce",
+    "sub_industry": "Classifieds",
+    "founded_year": 2006,
+    "ultimate_parent": "Seznam.cz",
+    "confidence": "medium",
+    "sources": [
+      "https://sbazar.cz"
+    ]
+  }
+]

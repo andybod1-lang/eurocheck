@@ -1,0 +1,136 @@
+{
+  "extensionName": {
+    "message": "EuroCheck - EL ettevõtte tuvastaja",
+    "description": "Extension name shown in browser and store"
+  },
+  "extensionDescription": {
+    "message": "Näe kohe, kas veebisait kuulub Euroopa või mitte-Euroopa ettevõttele",
+    "description": "Extension description for store listing"
+  },
+  "appTitle": {
+    "message": "EuroCheck",
+    "description": "Short app title shown in popup header"
+  },
+  "statusEu": {
+    "message": "Euroopa ettevõte",
+    "description": "Status shown for EU companies"
+  },
+  "statusNonEu": {
+    "message": "Mitte-Euroopa ettevõte",
+    "description": "Status shown for non-EU companies"
+  },
+  "statusMixed": {
+    "message": "Segaomand",
+    "description": "Status shown for companies with mixed EU/non-EU ownership"
+  },
+  "statusUnknown": {
+    "message": "Teadmata",
+    "description": "Status shown when company origin is unknown"
+  },
+  "loading": {
+    "message": "Kontrollin...",
+    "description": "Loading state text"
+  },
+  "details": {
+    "message": "Üksikasjad",
+    "description": "Details section header"
+  },
+  "settings": {
+    "message": "Seaded",
+    "description": "Settings link text"
+  },
+  "requestCompany": {
+    "message": "Taotle seda ettevõtet",
+    "description": "Button to request data for unknown company"
+  },
+  "requestSubmitted": {
+    "message": "Taotlus esitatud!",
+    "description": "Confirmation after request is submitted"
+  },
+  "ownershipChain": {
+    "message": "Omandiahel",
+    "description": "Section showing company ownership hierarchy"
+  },
+  "ownershipWarning": {
+    "message": "Mitte-EL omandis",
+    "description": "Warning shown when EU company is owned by non-EU parent"
+  },
+  "labelFounded": {
+    "message": "Asutatud:",
+    "description": "Label for company founding year"
+  },
+  "labelConfidence": {
+    "message": "Usaldusväärsus:",
+    "description": "Label for data confidence level"
+  },
+  "labelLastVerified": {
+    "message": "Viimati kontrollitud:",
+    "description": "Label for last verification date"
+  },
+  "confidenceHigh": {
+    "message": "Kõrge",
+    "description": "High confidence level"
+  },
+  "confidenceMedium": {
+    "message": "Keskmine",
+    "description": "Medium confidence level"
+  },
+  "confidenceLow": {
+    "message": "Madal",
+    "description": "Low confidence level"
+  },
+  "unknownNoData": {
+    "message": "Andmed domeeni $DOMAIN$ kohta puuduvad",
+    "description": "Message when no company data exists for domain",
+    "placeholders": {
+      "domain": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "errorGeneric": {
+    "message": "Midagi läks valesti",
+    "description": "Generic error message"
+  },
+  "errorCannotAccess": {
+    "message": "Sellele lehele ei pääse ligi",
+    "description": "Error when tab URL cannot be accessed"
+  },
+  "errorNotValidSite": {
+    "message": "See ei ole kehtiv veebisait",
+    "description": "Error when URL is not a valid website"
+  },
+  "errorFailedToLoad": {
+    "message": "Andmete laadimine ebaõnnestus",
+    "description": "Error when data loading fails"
+  },
+  "settingsTitle": {
+    "message": "EuroCheck seaded",
+    "description": "Settings page title"
+  },
+  "settingsShowBadge": {
+    "message": "Kuva märgis tööriistariba ikoonil",
+    "description": "Setting to show/hide toolbar badge"
+  },
+  "settingsNotifications": {
+    "message": "Kuva teateid mitte-EL saitide kohta",
+    "description": "Setting to enable/disable notifications"
+  },
+  "settingsComingSoon": {
+    "message": "Rohkem seadeid tulekul...",
+    "description": "Placeholder for future settings"
+  },
+  "badgeCurrent": {
+    "message": "Praegune",
+    "description": "Badge for current company in ownership chain"
+  },
+  "badgeParent": {
+    "message": "Emaettevõte",
+    "description": "Badge for parent company in ownership chain"
+  },
+  "badgeUltimate": {
+    "message": "Lõplik",
+    "description": "Badge for ultimate parent in ownership chain"
+  }
+}

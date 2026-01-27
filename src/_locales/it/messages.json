@@ -1,0 +1,136 @@
+{
+  "extensionName": {
+    "message": "EuroCheck - Identificatore Aziende UE",
+    "description": "Extension name shown in browser and store"
+  },
+  "extensionDescription": {
+    "message": "Scopri subito se un sito web appartiene a un'azienda europea o non europea",
+    "description": "Extension description for store listing"
+  },
+  "appTitle": {
+    "message": "EuroCheck",
+    "description": "Short app title shown in popup header"
+  },
+  "statusEu": {
+    "message": "Azienda Europea",
+    "description": "Status shown for EU companies"
+  },
+  "statusNonEu": {
+    "message": "Azienda Non Europea",
+    "description": "Status shown for non-EU companies"
+  },
+  "statusMixed": {
+    "message": "Proprietà Mista",
+    "description": "Status shown for companies with mixed EU/non-EU ownership"
+  },
+  "statusUnknown": {
+    "message": "Sconosciuto",
+    "description": "Status shown when company origin is unknown"
+  },
+  "loading": {
+    "message": "Verifica in corso...",
+    "description": "Loading state text"
+  },
+  "details": {
+    "message": "Dettagli",
+    "description": "Details section header"
+  },
+  "settings": {
+    "message": "Impostazioni",
+    "description": "Settings link text"
+  },
+  "requestCompany": {
+    "message": "Richiedi questa azienda",
+    "description": "Button to request data for unknown company"
+  },
+  "requestSubmitted": {
+    "message": "Richiesta inviata!",
+    "description": "Confirmation after request is submitted"
+  },
+  "ownershipChain": {
+    "message": "Catena Proprietaria",
+    "description": "Section showing company ownership hierarchy"
+  },
+  "ownershipWarning": {
+    "message": "Proprietà non europea",
+    "description": "Warning shown when EU company is owned by non-EU parent"
+  },
+  "labelFounded": {
+    "message": "Fondata:",
+    "description": "Label for company founding year"
+  },
+  "labelConfidence": {
+    "message": "Affidabilità:",
+    "description": "Label for data confidence level"
+  },
+  "labelLastVerified": {
+    "message": "Ultima verifica:",
+    "description": "Label for last verification date"
+  },
+  "confidenceHigh": {
+    "message": "Alta",
+    "description": "High confidence level"
+  },
+  "confidenceMedium": {
+    "message": "Media",
+    "description": "Medium confidence level"
+  },
+  "confidenceLow": {
+    "message": "Bassa",
+    "description": "Low confidence level"
+  },
+  "unknownNoData": {
+    "message": "Nessun dato disponibile per $DOMAIN$",
+    "description": "Message when no company data exists for domain",
+    "placeholders": {
+      "domain": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "errorGeneric": {
+    "message": "Qualcosa è andato storto",
+    "description": "Generic error message"
+  },
+  "errorCannotAccess": {
+    "message": "Impossibile accedere a questa pagina",
+    "description": "Error when tab URL cannot be accessed"
+  },
+  "errorNotValidSite": {
+    "message": "Sito web non valido",
+    "description": "Error when URL is not a valid website"
+  },
+  "errorFailedToLoad": {
+    "message": "Caricamento dati non riuscito",
+    "description": "Error when data loading fails"
+  },
+  "settingsTitle": {
+    "message": "Impostazioni EuroCheck",
+    "description": "Settings page title"
+  },
+  "settingsShowBadge": {
+    "message": "Mostra badge sull'icona della barra degli strumenti",
+    "description": "Setting to show/hide toolbar badge"
+  },
+  "settingsNotifications": {
+    "message": "Mostra notifiche per siti non europei",
+    "description": "Setting to enable/disable notifications"
+  },
+  "settingsComingSoon": {
+    "message": "Altre impostazioni in arrivo...",
+    "description": "Placeholder for future settings"
+  },
+  "badgeCurrent": {
+    "message": "Attuale",
+    "description": "Badge for current company in ownership chain"
+  },
+  "badgeParent": {
+    "message": "Capogruppo",
+    "description": "Badge for parent company in ownership chain"
+  },
+  "badgeUltimate": {
+    "message": "Controllante",
+    "description": "Badge for ultimate parent in ownership chain"
+  }
+}

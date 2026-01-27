@@ -1,0 +1,136 @@
+{
+  "extensionName": {
+    "message": "EuroCheck - EU-företagsidentifiering",
+    "description": "Extension name shown in browser and store"
+  },
+  "extensionDescription": {
+    "message": "Se direkt om en webbplats tillhör ett europeiskt eller icke-europeiskt företag",
+    "description": "Extension description for store listing"
+  },
+  "appTitle": {
+    "message": "EuroCheck",
+    "description": "Short app title shown in popup header"
+  },
+  "statusEu": {
+    "message": "Europeiskt Företag",
+    "description": "Status shown for EU companies"
+  },
+  "statusNonEu": {
+    "message": "Icke-europeiskt Företag",
+    "description": "Status shown for non-EU companies"
+  },
+  "statusMixed": {
+    "message": "Blandat Ägande",
+    "description": "Status shown for companies with mixed EU/non-EU ownership"
+  },
+  "statusUnknown": {
+    "message": "Okänt",
+    "description": "Status shown when company origin is unknown"
+  },
+  "loading": {
+    "message": "Kontrollerar...",
+    "description": "Loading state text"
+  },
+  "details": {
+    "message": "Detaljer",
+    "description": "Details section header"
+  },
+  "settings": {
+    "message": "Inställningar",
+    "description": "Settings link text"
+  },
+  "requestCompany": {
+    "message": "Begär detta företag",
+    "description": "Button to request data for unknown company"
+  },
+  "requestSubmitted": {
+    "message": "Begäran skickad!",
+    "description": "Confirmation after request is submitted"
+  },
+  "ownershipChain": {
+    "message": "Ägarkedja",
+    "description": "Section showing company ownership hierarchy"
+  },
+  "ownershipWarning": {
+    "message": "Icke-europeiskt ägt",
+    "description": "Warning shown when EU company is owned by non-EU parent"
+  },
+  "labelFounded": {
+    "message": "Grundat:",
+    "description": "Label for company founding year"
+  },
+  "labelConfidence": {
+    "message": "Tillförlitlighet:",
+    "description": "Label for data confidence level"
+  },
+  "labelLastVerified": {
+    "message": "Senast verifierat:",
+    "description": "Label for last verification date"
+  },
+  "confidenceHigh": {
+    "message": "Hög",
+    "description": "High confidence level"
+  },
+  "confidenceMedium": {
+    "message": "Medium",
+    "description": "Medium confidence level"
+  },
+  "confidenceLow": {
+    "message": "Låg",
+    "description": "Low confidence level"
+  },
+  "unknownNoData": {
+    "message": "Inga uppgifter tillgängliga för $DOMAIN$",
+    "description": "Message when no company data exists for domain",
+    "placeholders": {
+      "domain": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "errorGeneric": {
+    "message": "Något gick fel",
+    "description": "Generic error message"
+  },
+  "errorCannotAccess": {
+    "message": "Kan inte komma åt denna sida",
+    "description": "Error when tab URL cannot be accessed"
+  },
+  "errorNotValidSite": {
+    "message": "Inte en giltig webbplats",
+    "description": "Error when URL is not a valid website"
+  },
+  "errorFailedToLoad": {
+    "message": "Kunde inte ladda data",
+    "description": "Error when data loading fails"
+  },
+  "settingsTitle": {
+    "message": "EuroCheck Inställningar",
+    "description": "Settings page title"
+  },
+  "settingsShowBadge": {
+    "message": "Visa märke på verktygsfältets ikon",
+    "description": "Setting to show/hide toolbar badge"
+  },
+  "settingsNotifications": {
+    "message": "Visa aviseringar för icke-europeiska webbplatser",
+    "description": "Setting to enable/disable notifications"
+  },
+  "settingsComingSoon": {
+    "message": "Fler inställningar kommer snart...",
+    "description": "Placeholder for future settings"
+  },
+  "badgeCurrent": {
+    "message": "Aktuellt",
+    "description": "Badge for current company in ownership chain"
+  },
+  "badgeParent": {
+    "message": "Moderbolag",
+    "description": "Badge for parent company in ownership chain"
+  },
+  "badgeUltimate": {
+    "message": "Koncernspets",
+    "description": "Badge for ultimate parent in ownership chain"
+  }
+}

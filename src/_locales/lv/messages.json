@@ -1,0 +1,136 @@
+{
+  "extensionName": {
+    "message": "EuroCheck - ES uzņēmumu identificētājs",
+    "description": "Extension name shown in browser and store"
+  },
+  "extensionDescription": {
+    "message": "Uzreiz redziet, vai vietne pieder Eiropas vai ārpuseiropas uzņēmumam",
+    "description": "Extension description for store listing"
+  },
+  "appTitle": {
+    "message": "EuroCheck",
+    "description": "Short app title shown in popup header"
+  },
+  "statusEu": {
+    "message": "Eiropas uzņēmums",
+    "description": "Status shown for EU companies"
+  },
+  "statusNonEu": {
+    "message": "Ārpuseiropas uzņēmums",
+    "description": "Status shown for non-EU companies"
+  },
+  "statusMixed": {
+    "message": "Jaukta īpašumtiesība",
+    "description": "Status shown for companies with mixed EU/non-EU ownership"
+  },
+  "statusUnknown": {
+    "message": "Nezināms",
+    "description": "Status shown when company origin is unknown"
+  },
+  "loading": {
+    "message": "Pārbauda...",
+    "description": "Loading state text"
+  },
+  "details": {
+    "message": "Detaļas",
+    "description": "Details section header"
+  },
+  "settings": {
+    "message": "Iestatījumi",
+    "description": "Settings link text"
+  },
+  "requestCompany": {
+    "message": "Pieprasīt šo uzņēmumu",
+    "description": "Button to request data for unknown company"
+  },
+  "requestSubmitted": {
+    "message": "Pieprasījums iesniegts!",
+    "description": "Confirmation after request is submitted"
+  },
+  "ownershipChain": {
+    "message": "Īpašumtiesību ķēde",
+    "description": "Section showing company ownership hierarchy"
+  },
+  "ownershipWarning": {
+    "message": "Ārpus ES īpašumā",
+    "description": "Warning shown when EU company is owned by non-EU parent"
+  },
+  "labelFounded": {
+    "message": "Dibināts:",
+    "description": "Label for company founding year"
+  },
+  "labelConfidence": {
+    "message": "Ticamība:",
+    "description": "Label for data confidence level"
+  },
+  "labelLastVerified": {
+    "message": "Pēdējo reizi pārbaudīts:",
+    "description": "Label for last verification date"
+  },
+  "confidenceHigh": {
+    "message": "Augsta",
+    "description": "High confidence level"
+  },
+  "confidenceMedium": {
+    "message": "Vidēja",
+    "description": "Medium confidence level"
+  },
+  "confidenceLow": {
+    "message": "Zema",
+    "description": "Low confidence level"
+  },
+  "unknownNoData": {
+    "message": "Nav datu par $DOMAIN$",
+    "description": "Message when no company data exists for domain",
+    "placeholders": {
+      "domain": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "errorGeneric": {
+    "message": "Kaut kas nogāja greizi",
+    "description": "Generic error message"
+  },
+  "errorCannotAccess": {
+    "message": "Nevar piekļūt šai lapai",
+    "description": "Error when tab URL cannot be accessed"
+  },
+  "errorNotValidSite": {
+    "message": "Nav derīga vietne",
+    "description": "Error when URL is not a valid website"
+  },
+  "errorFailedToLoad": {
+    "message": "Neizdevās ielādēt datus",
+    "description": "Error when data loading fails"
+  },
+  "settingsTitle": {
+    "message": "EuroCheck iestatījumi",
+    "description": "Settings page title"
+  },
+  "settingsShowBadge": {
+    "message": "Rādīt nozīmi uz rīkjoslas ikonas",
+    "description": "Setting to show/hide toolbar badge"
+  },
+  "settingsNotifications": {
+    "message": "Rādīt paziņojumus par ārpus ES vietnēm",
+    "description": "Setting to enable/disable notifications"
+  },
+  "settingsComingSoon": {
+    "message": "Vairāk iestatījumu drīzumā...",
+    "description": "Placeholder for future settings"
+  },
+  "badgeCurrent": {
+    "message": "Pašreizējais",
+    "description": "Badge for current company in ownership chain"
+  },
+  "badgeParent": {
+    "message": "Mātes uzņēmums",
+    "description": "Badge for parent company in ownership chain"
+  },
+  "badgeUltimate": {
+    "message": "Galīgais",
+    "description": "Badge for ultimate parent in ownership chain"
+  }
+}

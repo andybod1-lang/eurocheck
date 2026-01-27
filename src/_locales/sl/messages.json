@@ -1,0 +1,136 @@
+{
+  "extensionName": {
+    "message": "EuroCheck - Identifikator podjetij EU",
+    "description": "Extension name shown in browser and store"
+  },
+  "extensionDescription": {
+    "message": "Takoj ugotovite, ali spletna stran pripada evropskemu ali neevropskemu podjetju",
+    "description": "Extension description for store listing"
+  },
+  "appTitle": {
+    "message": "EuroCheck",
+    "description": "Short app title shown in popup header"
+  },
+  "statusEu": {
+    "message": "Evropsko podjetje",
+    "description": "Status shown for EU companies"
+  },
+  "statusNonEu": {
+    "message": "Neevropsko podjetje",
+    "description": "Status shown for non-EU companies"
+  },
+  "statusMixed": {
+    "message": "Mešano lastništvo",
+    "description": "Status shown for companies with mixed EU/non-EU ownership"
+  },
+  "statusUnknown": {
+    "message": "Neznano",
+    "description": "Status shown when company origin is unknown"
+  },
+  "loading": {
+    "message": "Preverjam...",
+    "description": "Loading state text"
+  },
+  "details": {
+    "message": "Podrobnosti",
+    "description": "Details section header"
+  },
+  "settings": {
+    "message": "Nastavitve",
+    "description": "Settings link text"
+  },
+  "requestCompany": {
+    "message": "Zahtevaj to podjetje",
+    "description": "Button to request data for unknown company"
+  },
+  "requestSubmitted": {
+    "message": "Zahteva poslana!",
+    "description": "Confirmation after request is submitted"
+  },
+  "ownershipChain": {
+    "message": "Lastniška veriga",
+    "description": "Section showing company ownership hierarchy"
+  },
+  "ownershipWarning": {
+    "message": "V lasti zunaj EU",
+    "description": "Warning shown when EU company is owned by non-EU parent"
+  },
+  "labelFounded": {
+    "message": "Ustanovljeno:",
+    "description": "Label for company founding year"
+  },
+  "labelConfidence": {
+    "message": "Zanesljivost:",
+    "description": "Label for data confidence level"
+  },
+  "labelLastVerified": {
+    "message": "Nazadnje preverjeno:",
+    "description": "Label for last verification date"
+  },
+  "confidenceHigh": {
+    "message": "Visoka",
+    "description": "High confidence level"
+  },
+  "confidenceMedium": {
+    "message": "Srednja",
+    "description": "Medium confidence level"
+  },
+  "confidenceLow": {
+    "message": "Nizka",
+    "description": "Low confidence level"
+  },
+  "unknownNoData": {
+    "message": "Ni podatkov za $DOMAIN$",
+    "description": "Message when no company data exists for domain",
+    "placeholders": {
+      "domain": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "errorGeneric": {
+    "message": "Nekaj je šlo narobe",
+    "description": "Generic error message"
+  },
+  "errorCannotAccess": {
+    "message": "Ni mogoče dostopati do te strani",
+    "description": "Error when tab URL cannot be accessed"
+  },
+  "errorNotValidSite": {
+    "message": "Ni veljavna spletna stran",
+    "description": "Error when URL is not a valid website"
+  },
+  "errorFailedToLoad": {
+    "message": "Nalaganje podatkov ni uspelo",
+    "description": "Error when data loading fails"
+  },
+  "settingsTitle": {
+    "message": "Nastavitve EuroCheck",
+    "description": "Settings page title"
+  },
+  "settingsShowBadge": {
+    "message": "Prikaži značko na ikoni orodne vrstice",
+    "description": "Setting to show/hide toolbar badge"
+  },
+  "settingsNotifications": {
+    "message": "Prikaži obvestila za strani zunaj EU",
+    "description": "Setting to enable/disable notifications"
+  },
+  "settingsComingSoon": {
+    "message": "Več nastavitev kmalu...",
+    "description": "Placeholder for future settings"
+  },
+  "badgeCurrent": {
+    "message": "Trenutno",
+    "description": "Badge for current company in ownership chain"
+  },
+  "badgeParent": {
+    "message": "Matično",
+    "description": "Badge for parent company in ownership chain"
+  },
+  "badgeUltimate": {
+    "message": "Končno",
+    "description": "Badge for ultimate parent in ownership chain"
+  }
+}

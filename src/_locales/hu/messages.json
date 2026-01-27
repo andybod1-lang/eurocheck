@@ -1,0 +1,136 @@
+{
+  "extensionName": {
+    "message": "EuroCheck - EU cég azonosító",
+    "description": "Extension name shown in browser and store"
+  },
+  "extensionDescription": {
+    "message": "Azonnal megtudhatja, hogy egy weboldal európai vagy nem európai céghez tartozik-e",
+    "description": "Extension description for store listing"
+  },
+  "appTitle": {
+    "message": "EuroCheck",
+    "description": "Short app title shown in popup header"
+  },
+  "statusEu": {
+    "message": "Európai cég",
+    "description": "Status shown for EU companies"
+  },
+  "statusNonEu": {
+    "message": "Nem európai cég",
+    "description": "Status shown for non-EU companies"
+  },
+  "statusMixed": {
+    "message": "Vegyes tulajdon",
+    "description": "Status shown for companies with mixed EU/non-EU ownership"
+  },
+  "statusUnknown": {
+    "message": "Ismeretlen",
+    "description": "Status shown when company origin is unknown"
+  },
+  "loading": {
+    "message": "Ellenőrzés...",
+    "description": "Loading state text"
+  },
+  "details": {
+    "message": "Részletek",
+    "description": "Details section header"
+  },
+  "settings": {
+    "message": "Beállítások",
+    "description": "Settings link text"
+  },
+  "requestCompany": {
+    "message": "Cég igénylése",
+    "description": "Button to request data for unknown company"
+  },
+  "requestSubmitted": {
+    "message": "Kérés elküldve!",
+    "description": "Confirmation after request is submitted"
+  },
+  "ownershipChain": {
+    "message": "Tulajdonosi lánc",
+    "description": "Section showing company ownership hierarchy"
+  },
+  "ownershipWarning": {
+    "message": "EU-n kívüli tulajdonos",
+    "description": "Warning shown when EU company is owned by non-EU parent"
+  },
+  "labelFounded": {
+    "message": "Alapítva:",
+    "description": "Label for company founding year"
+  },
+  "labelConfidence": {
+    "message": "Megbízhatóság:",
+    "description": "Label for data confidence level"
+  },
+  "labelLastVerified": {
+    "message": "Utolsó ellenőrzés:",
+    "description": "Label for last verification date"
+  },
+  "confidenceHigh": {
+    "message": "Magas",
+    "description": "High confidence level"
+  },
+  "confidenceMedium": {
+    "message": "Közepes",
+    "description": "Medium confidence level"
+  },
+  "confidenceLow": {
+    "message": "Alacsony",
+    "description": "Low confidence level"
+  },
+  "unknownNoData": {
+    "message": "Nincs adat a következőhöz: $DOMAIN$",
+    "description": "Message when no company data exists for domain",
+    "placeholders": {
+      "domain": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "errorGeneric": {
+    "message": "Valami hiba történt",
+    "description": "Generic error message"
+  },
+  "errorCannotAccess": {
+    "message": "Ez az oldal nem érhető el",
+    "description": "Error when tab URL cannot be accessed"
+  },
+  "errorNotValidSite": {
+    "message": "Nem érvényes weboldal",
+    "description": "Error when URL is not a valid website"
+  },
+  "errorFailedToLoad": {
+    "message": "Az adatok betöltése sikertelen",
+    "description": "Error when data loading fails"
+  },
+  "settingsTitle": {
+    "message": "EuroCheck beállítások",
+    "description": "Settings page title"
+  },
+  "settingsShowBadge": {
+    "message": "Jelvény megjelenítése az eszköztár ikonján",
+    "description": "Setting to show/hide toolbar badge"
+  },
+  "settingsNotifications": {
+    "message": "Értesítések megjelenítése nem EU-s oldalakhoz",
+    "description": "Setting to enable/disable notifications"
+  },
+  "settingsComingSoon": {
+    "message": "További beállítások hamarosan...",
+    "description": "Placeholder for future settings"
+  },
+  "badgeCurrent": {
+    "message": "Jelenlegi",
+    "description": "Badge for current company in ownership chain"
+  },
+  "badgeParent": {
+    "message": "Anyavállalat",
+    "description": "Badge for parent company in ownership chain"
+  },
+  "badgeUltimate": {
+    "message": "Végső",
+    "description": "Badge for ultimate parent in ownership chain"
+  }
+}
