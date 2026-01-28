@@ -13,15 +13,11 @@
   },
   "statusEu": {
     "message": "Európai cég",
-    "description": "Status shown for EU companies"
+    "description": "Status shown for EU member state companies"
   },
   "statusNonEu": {
     "message": "Nem európai cég",
     "description": "Status shown for non-EU companies"
-  },
-  "statusMixed": {
-    "message": "Vegyes tulajdon",
-    "description": "Status shown for companies with mixed EU/non-EU ownership"
   },
   "statusUnknown": {
     "message": "Ismeretlen",
@@ -132,5 +128,9 @@
   "badgeUltimate": {
     "message": "Végső",
     "description": "Badge for ultimate parent in ownership chain"
+  },
+  "statusEuropean": {
+    "message": "European (non-EU)",
+    "description": "Status shown for European companies outside EU (UK, Switzerland, Norway, etc.)"
   }
 }

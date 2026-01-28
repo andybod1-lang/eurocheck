@@ -12,16 +12,12 @@
     "description": "Short app title shown in popup header"
   },
   "statusEu": {
-    "message": "European Company",
-    "description": "Status shown for EU companies"
+    "message": "EU Company",
+    "description": "Status shown for EU member state companies"
   },
   "statusNonEu": {
     "message": "Non-European Company",
     "description": "Status shown for non-EU companies"
-  },
-  "statusMixed": {
-    "message": "Mixed Ownership",
-    "description": "Status shown for companies with mixed EU/non-EU ownership"
   },
   "statusUnknown": {
     "message": "Unknown",
@@ -132,5 +128,9 @@
   "badgeUltimate": {
     "message": "Ultimate",
     "description": "Badge for ultimate parent in ownership chain"
+  },
+  "statusEuropean": {
+    "message": "European (non-EU)",
+    "description": "Status shown for European companies outside EU (UK, Switzerland, Norway, etc.)"
   }
 }

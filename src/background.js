@@ -23,8 +23,9 @@ const CONFIG = {
 };
 
 // Status code mapping (memory efficient)
-const STATUS_CODES = { eu: 1, 'non-eu': 0, mixed: 2, unknown: 3 };
-const STATUS_NAMES = ['non-eu', 'eu', 'mixed', 'unknown'];
+// 0=non-eu, 1=eu, 2=european (non-EU European countries like UK, Switzerland, Norway)
+const STATUS_CODES = { eu: 1, european: 2, 'non-eu': 0, unknown: 3 };
+const STATUS_NAMES = ['non-eu', 'eu', 'european', 'unknown'];
 
 // === DEBUG LOGGING ===
 let debugMode = false;

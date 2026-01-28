@@ -13,15 +13,11 @@
   },
   "statusEu": {
     "message": "Euroopa ettevõte",
-    "description": "Status shown for EU companies"
+    "description": "Status shown for EU member state companies"
   },
   "statusNonEu": {
     "message": "Mitte-Euroopa ettevõte",
     "description": "Status shown for non-EU companies"
-  },
-  "statusMixed": {
-    "message": "Segaomand",
-    "description": "Status shown for companies with mixed EU/non-EU ownership"
   },
   "statusUnknown": {
     "message": "Teadmata",
@@ -132,5 +128,9 @@
   "badgeUltimate": {
     "message": "Lõplik",
     "description": "Badge for ultimate parent in ownership chain"
+  },
+  "statusEuropean": {
+    "message": "European (non-EU)",
+    "description": "Status shown for European companies outside EU (UK, Switzerland, Norway, etc.)"
   }
 }

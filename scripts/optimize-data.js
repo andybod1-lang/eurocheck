@@ -32,9 +32,15 @@ for (const domainEntry of domainsData.domains) {
   
   if (company) {
     // Store only what's needed for badge display
+    // Status codes: 1=EU, 2=European (non-EU), 0=Non-EU
+    let statusCode = 0;
+    if (company.eu_status === 'eu') statusCode = 1;
+    else if (company.eu_status === 'european') statusCode = 2;
+    else statusCode = 0; // non-eu
+    
     domainIndex[domain] = {
       id: company.id,
-      s: company.eu_status === 'eu' ? 1 : (company.eu_status === 'non-eu' ? 0 : 2), // 1=eu, 0=non-eu, 2=mixed/unknown
+      s: statusCode,
       n: company.name,
       c: company.hq_country
     };

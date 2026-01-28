@@ -45,7 +45,7 @@ const FALLBACK_MESSAGES = {
 
 const STATUS_CONFIG = {
   eu: { textKey: 'statusEu', badgeText: 'EU', class: 'eu' },
-  mixed: { textKey: 'statusMixed', badgeText: 'MIX', class: 'mixed' },
+  european: { textKey: 'statusEuropean', badgeText: 'EUR', class: 'european' },
   'non-eu': { textKey: 'statusNonEu', badgeText: '!EU', class: 'non-eu' },
   unknown: { textKey: 'statusUnknown', badgeText: '?', class: 'unknown' }
 };

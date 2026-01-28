@@ -231,7 +231,7 @@
     "founded_year": 2000,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "asos.com",
@@ -796,7 +796,7 @@
     "founded_year": 1919,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "tesco.com",
@@ -812,7 +812,7 @@
     "founded_year": 1869,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "sainsburys.co.uk",
@@ -828,7 +828,7 @@
     "founded_year": 1949,
     "parent_company": "TDR Capital",
     "ultimate_parent": "TDR Capital",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "asda.com",
@@ -844,7 +844,7 @@
     "founded_year": 1899,
     "parent_company": "Clayton, Dubilier & Rice",
     "ultimate_parent": "Clayton, Dubilier & Rice",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "morrisons.com",
@@ -860,7 +860,7 @@
     "founded_year": 2000,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "ocado.com",
@@ -1116,7 +1116,7 @@
     "founded_year": 1925,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "migros.ch",
@@ -1132,7 +1132,7 @@
     "founded_year": 1890,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "coop.ch",
@@ -1308,7 +1308,7 @@
     "founded_year": 1986,
     "parent_company": "BC Partners",
     "ultimate_parent": "BC Partners",
-    "eu_status": "mixed",
+    "eu_status": "non-eu",
     "confidence": "medium",
     "sources": [
       "petsmart.com",
@@ -1324,7 +1324,7 @@
     "founded_year": 1999,
     "parent_company": "Hellman & Friedman",
     "ultimate_parent": "Hellman & Friedman",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "confidence": "medium",
     "sources": [
       "zooplus.com",
@@ -1404,7 +1404,7 @@
     "founded_year": 1999,
     "parent_company": "The Hut Group",
     "ultimate_parent": "The Hut Group",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "lookfantastic.com",
@@ -1420,7 +1420,7 @@
     "founded_year": 2004,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "thg.com",
@@ -1436,7 +1436,7 @@
     "founded_year": 1996,
     "parent_company": "Booking Holdings",
     "ultimate_parent": "Booking Holdings",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "confidence": "high",
     "sources": [
       "booking.com",
@@ -1638,7 +1638,7 @@
     "founded_year": 2005,
     "parent_company": "Expedia Group",
     "ultimate_parent": "Expedia Group",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "confidence": "high",
     "sources": [
       "trivago.com",
@@ -1654,7 +1654,7 @@
     "founded_year": 2003,
     "parent_company": "Trip.com Group",
     "ultimate_parent": "Trip.com Group",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "skyscanner.com",
@@ -1686,7 +1686,7 @@
     "founded_year": 1998,
     "parent_company": "lastminute.com Group",
     "ultimate_parent": "lastminute.com Group",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "lastminute.com",
@@ -2723,7 +2723,7 @@
     "founded_year": 1990,
     "parent_company": "SoftBank Group",
     "ultimate_parent": "SoftBank Group",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "arm.com",
@@ -2787,7 +2787,7 @@
     "founded_year": 1987,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "st.com",
@@ -3465,7 +3465,7 @@
     "founded_year": 2004,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "canonical.com",
@@ -4449,7 +4449,7 @@
     "founded_year": 2010,
     "parent_company": "Rakuten",
     "ultimate_parent": "Rakuten",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "confidence": "medium",
     "sources": [
       "viber.com",
@@ -4520,7 +4520,7 @@
     "founded_year": 2015,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "revolut.com",
@@ -4598,7 +4598,7 @@
     "founded_year": 2011,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "wise.com",
@@ -4653,7 +4653,7 @@
     "founded_year": 2012,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "checkout.com",
@@ -4685,7 +4685,7 @@
     "founded_year": 2012,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "sumup.com",
@@ -4701,7 +4701,7 @@
     "founded_year": 2010,
     "parent_company": "PayPal",
     "ultimate_parent": "PayPal",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "confidence": "high",
     "sources": [
       "zettle.com",
@@ -5019,7 +5019,7 @@
     "founded_year": 1865,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "hsbc.com",
@@ -5035,7 +5035,7 @@
     "founded_year": 1690,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "barclays.com",
@@ -5387,7 +5387,7 @@
     "founded_year": 1998,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "ubs.com",
@@ -5403,7 +5403,7 @@
     "founded_year": 1856,
     "parent_company": "UBS",
     "ultimate_parent": "UBS",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "credit-suisse.com",
@@ -5419,7 +5419,7 @@
     "founded_year": 2015,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "monzo.com",
@@ -5458,7 +5458,7 @@
     "founded_year": 2014,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "starlingbank.com",
@@ -5753,7 +5753,7 @@
     "founded_year": 1969,
     "parent_company": "Associated British Foods",
     "ultimate_parent": "Associated British Foods",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "confidence": "high",
     "sources": [
       "primark.com",
@@ -5833,7 +5833,7 @@
     "founded_year": 1864,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "next.co.uk",
@@ -5849,7 +5849,7 @@
     "founded_year": 1884,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "marksandspencer.com",
@@ -5865,7 +5865,7 @@
     "founded_year": 1929,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "johnlewispartnership.co.uk",
@@ -5881,7 +5881,7 @@
     "founded_year": 1849,
     "parent_company": "Walgreens Boots Alliance",
     "ultimate_parent": "Walgreens Boots Alliance",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "boots.com",
@@ -5993,7 +5993,7 @@
     "founded_year": 1910,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "chanel.com",
@@ -6009,7 +6009,7 @@
     "founded_year": 1856,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "burberry.com",
@@ -6057,7 +6057,7 @@
     "founded_year": 1985,
     "parent_company": "PVH Corp",
     "ultimate_parent": "PVH Corp",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "confidence": "high",
     "sources": [
       "tommyhilfiger.com",
@@ -6169,7 +6169,7 @@
     "founded_year": 1929,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "unilever.com",
@@ -6185,7 +6185,7 @@
     "founded_year": 1866,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "nestle.com",
@@ -6361,7 +6361,7 @@
     "founded_year": 1997,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "diageo.com",
@@ -6505,7 +6505,7 @@
     "founded_year": 2014,
     "parent_company": "DoorDash",
     "ultimate_parent": "DoorDash",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "confidence": "high",
     "sources": [
       "wikipedia.org",
@@ -6553,7 +6553,7 @@
     "founded_year": 2000,
     "parent_company": "Prosus",
     "ultimate_parent": "Prosus",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "confidence": "high",
     "sources": [
       "wikipedia.org",
@@ -6601,7 +6601,7 @@
     "founded_year": 2010,
     "parent_company": "Tencent",
     "ultimate_parent": "Tencent",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "confidence": "high",
     "sources": [
       "wikipedia.org",
@@ -6617,7 +6617,7 @@
     "founded_year": 2003,
     "parent_company": "Sega",
     "ultimate_parent": "Sega",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "confidence": "high",
     "sources": [
       "wikipedia.org",
@@ -6649,7 +6649,7 @@
     "founded_year": 1995,
     "parent_company": "Sony Interactive Entertainment",
     "ultimate_parent": "Sony",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "confidence": "high",
     "sources": [
       "wikipedia.org",
@@ -6697,7 +6697,7 @@
     "founded_year": 1936,
     "parent_company": "Liesheng",
     "ultimate_parent": "Liesheng",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "confidence": "high",
     "sources": [
       "wikipedia.org",
@@ -6761,7 +6761,7 @@
     "founded_year": 2003,
     "parent_company": "Activision Blizzard",
     "ultimate_parent": "Microsoft",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "confidence": "high",
     "sources": [
       "wikipedia.org",
@@ -7256,7 +7256,7 @@
     "founded_year": 2018,
     "parent_company": "Microsoft",
     "ultimate_parent": "Microsoft",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "confidence": "high",
     "sources": [
       "github.com",
@@ -7272,7 +7272,7 @@
     "founded_year": 2008,
     "parent_company": "Meta Platforms",
     "ultimate_parent": "Meta Platforms",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "confidence": "high",
     "sources": [
       "meta.com"
@@ -7287,7 +7287,7 @@
     "founded_year": 2003,
     "parent_company": "Alphabet Inc.",
     "ultimate_parent": "Alphabet Inc.",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "confidence": "high",
     "sources": [
       "google.com"
@@ -7302,7 +7302,7 @@
     "founded_year": 1980,
     "parent_company": "Apple",
     "ultimate_parent": "Apple",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "confidence": "high",
     "sources": [
       "apple.com"
@@ -7317,7 +7317,7 @@
     "founded_year": 1985,
     "parent_company": "Microsoft",
     "ultimate_parent": "Microsoft",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "confidence": "high",
     "sources": [
       "microsoft.com"
@@ -7332,7 +7332,7 @@
     "founded_year": 2016,
     "parent_company": "Stripe",
     "ultimate_parent": "Stripe",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "confidence": "high",
     "sources": [
       "stripe.com"
@@ -7347,7 +7347,7 @@
     "founded_year": 2011,
     "parent_company": "Intercom",
     "ultimate_parent": "Intercom",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "confidence": "high",
     "sources": [
       "intercom.com"
@@ -7426,7 +7426,7 @@
     "founded_year": 2012,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "wikipedia.org",
@@ -7465,7 +7465,7 @@
     "founded_year": 2015,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "wikipedia.org",
@@ -7481,7 +7481,7 @@
     "founded_year": 2013,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "crunchbase.com",
@@ -7497,7 +7497,7 @@
     "founded_year": 2013,
     "parent_company": "Zendesk",
     "ultimate_parent": "Zendesk",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "confidence": "high",
     "sources": [
       "zendesk.com"
@@ -7512,7 +7512,7 @@
     "founded_year": 2013,
     "parent_company": "HubSpot",
     "ultimate_parent": "HubSpot",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "confidence": "high",
     "sources": [
       "hubspot.com"
@@ -7637,7 +7637,7 @@
     "founded_year": 2011,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "crunchbase.com",
@@ -7653,7 +7653,7 @@
     "founded_year": 2013,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "wikipedia.org",
@@ -7669,7 +7669,7 @@
     "founded_year": 2018,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "wikipedia.org",
@@ -7685,7 +7685,7 @@
     "founded_year": 2012,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "wikipedia.org",
@@ -7701,7 +7701,7 @@
     "founded_year": 2007,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "wikipedia.org",
@@ -7717,7 +7717,7 @@
     "founded_year": 2012,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "crunchbase.com",
@@ -7733,7 +7733,7 @@
     "founded_year": 2012,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "crunchbase.com",
@@ -7749,7 +7749,7 @@
     "founded_year": 2013,
     "parent_company": "eMed Healthcare",
     "ultimate_parent": "eMed Healthcare",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "medium",
     "sources": [
       "wikipedia.org",
@@ -7765,7 +7765,7 @@
     "founded_year": 2016,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "crunchbase.com",
@@ -7781,7 +7781,7 @@
     "founded_year": 2016,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "crunchbase.com",
@@ -7797,7 +7797,7 @@
     "founded_year": 2019,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "crunchbase.com",
@@ -7813,7 +7813,7 @@
     "founded_year": 2015,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "crunchbase.com",
@@ -7829,7 +7829,7 @@
     "founded_year": 2016,
     "parent_company": "SoftBank",
     "ultimate_parent": "SoftBank Group",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "crunchbase.com",
@@ -7845,7 +7845,7 @@
     "founded_year": 2012,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "crunchbase.com",
@@ -7861,7 +7861,7 @@
     "founded_year": 2015,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "wikipedia.org",
@@ -7925,7 +7925,7 @@
     "founded_year": 2010,
     "parent_company": "Vista Equity Partners",
     "ultimate_parent": "Vista Equity Partners",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "confidence": "high",
     "sources": [
       "wikipedia.org",
@@ -8172,7 +8172,7 @@
     "founded_year": 1855,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "wikipedia.org",
@@ -8236,7 +8236,7 @@
     "founded_year": 1984,
     "parent_company": null,
     "ultimate_parent": null,
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "wikipedia.org",
@@ -8252,7 +8252,7 @@
     "founded_year": 2003,
     "parent_company": "CK Hutchison",
     "ultimate_parent": "CK Hutchison Holdings",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "confidence": "high",
     "sources": [
       "wikipedia.org",
@@ -8265,7 +8265,7 @@
     "name": "Boohoo Group",
     "hq_country": "GB",
     "hq_city": "Manchester, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 2006,
     "confidence": "high",
     "parent_company": null,
@@ -8314,7 +8314,7 @@
     "name": "Farfetch",
     "hq_country": "GB",
     "hq_city": "London, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 2007,
     "confidence": "high",
     "parent_company": "Coupang",
@@ -8461,7 +8461,7 @@
     "name": "Net-a-Porter",
     "hq_country": "GB",
     "hq_city": "London, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 2000,
     "confidence": "high",
     "parent_company": "Richemont",
@@ -8510,7 +8510,7 @@
     "name": "Mr Porter",
     "hq_country": "GB",
     "hq_city": "London, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 2011,
     "confidence": "high",
     "parent_company": "Richemont",
@@ -8608,7 +8608,7 @@
     "name": "PrettyLittleThing",
     "hq_country": "GB",
     "hq_city": "Manchester, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 2012,
     "confidence": "high",
     "parent_company": "Boohoo Group",
@@ -8657,7 +8657,7 @@
     "name": "Nasty Gal",
     "hq_country": "GB",
     "hq_city": "Manchester, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 2006,
     "confidence": "high",
     "parent_company": "Boohoo Group",
@@ -8706,7 +8706,7 @@
     "name": "Missguided",
     "hq_country": "GB",
     "hq_city": "Manchester, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 2009,
     "confidence": "high",
     "parent_company": "Frasers Group",
@@ -8755,7 +8755,7 @@
     "name": "Frasers Group",
     "hq_country": "GB",
     "hq_city": "Shirebrook, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 1982,
     "confidence": "high",
     "parent_company": null,
@@ -9621,7 +9621,7 @@
     "name": "Depop",
     "hq_country": "GB",
     "hq_city": "London, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 2011,
     "confidence": "high",
     "parent_company": "Etsy",
@@ -10014,7 +10014,7 @@
     "name": "Gumtree",
     "hq_country": "GB",
     "hq_city": "London, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 2000,
     "confidence": "high",
     "parent_company": "Adevinta",
@@ -10063,7 +10063,7 @@
     "name": "Adevinta",
     "hq_country": "NO",
     "hq_city": "Oslo, Norway",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 2019,
     "confidence": "high",
     "parent_company": null,
@@ -10844,7 +10844,7 @@
     "name": "Galaxus",
     "hq_country": "CH",
     "hq_city": "Zurich, Switzerland",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 2012,
     "confidence": "high",
     "parent_company": "Digitec Galaxus",
@@ -11039,7 +11039,7 @@
     "name": "Komplett",
     "hq_country": "NO",
     "hq_city": "Sandefjord, Norway",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 1996,
     "confidence": "high",
     "parent_company": null,
@@ -12463,7 +12463,7 @@
     "name": "Proton AG",
     "hq_country": "CH",
     "hq_city": "Geneva, Switzerland",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 2014,
     "confidence": "high",
     "parent_company": null,
@@ -12972,7 +12972,7 @@
     "name": "Stability AI",
     "hq_country": "GB",
     "hq_city": "London, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 2019,
     "confidence": "high",
     "parent_company": null,
@@ -15823,7 +15823,7 @@
     "name": "Paddle",
     "hq_country": "GB",
     "hq_city": "London, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 2012,
     "confidence": "high",
     "parent_company": null,
@@ -16215,7 +16215,7 @@
     "name": "Payhawk",
     "hq_country": "GB",
     "hq_city": "London, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 2018,
     "confidence": "high",
     "parent_company": null,
@@ -16659,7 +16659,7 @@
     "name": "Trainline",
     "hq_country": "GB",
     "hq_city": "London, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 1999,
     "confidence": "high",
     "parent_company": null,
@@ -17053,7 +17053,7 @@
     "name": "EasyJet",
     "hq_country": "GB",
     "hq_city": "Luton, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 1995,
     "confidence": "high",
     "parent_company": null,
@@ -17249,7 +17249,7 @@
     "name": "British Airways",
     "hq_country": "GB",
     "hq_city": "London, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 1974,
     "confidence": "high",
     "parent_company": "IAG",
@@ -17445,7 +17445,7 @@
     "name": "Swiss International Air Lines",
     "hq_country": "CH",
     "hq_city": "Basel, Switzerland",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 2002,
     "confidence": "high",
     "parent_company": "Lufthansa Group",
@@ -17788,7 +17788,7 @@
     "name": "Norwegian Air Shuttle",
     "hq_country": "NO",
     "hq_city": "Oslo, Norway",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 1993,
     "confidence": "high",
     "parent_company": null,
@@ -19435,7 +19435,7 @@
     "name": "Icelandair",
     "hq_country": "IS",
     "hq_city": "Reykjavik, Iceland",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 1937,
     "confidence": "high",
     "parent_company": "Icelandair Group",
@@ -19778,7 +19778,7 @@
     "name": "Virgin Atlantic",
     "hq_country": "GB",
     "hq_city": "Crawley, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 1984,
     "confidence": "high",
     "parent_company": null,
@@ -20513,7 +20513,7 @@
     "name": "Pret A Manger",
     "hq_country": "GB",
     "hq_city": "London, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 1983,
     "confidence": "high",
     "parent_company": "JAB Holding",
@@ -20611,7 +20611,7 @@
     "name": "Costa Coffee",
     "hq_country": "GB",
     "hq_city": "Dunstable, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 1971,
     "confidence": "high",
     "parent_company": "The Coca-Cola Company",
@@ -20660,7 +20660,7 @@
     "name": "Greggs",
     "hq_country": "GB",
     "hq_city": "Newcastle upon Tyne, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 1939,
     "confidence": "high",
     "parent_company": null,
@@ -21053,7 +21053,7 @@
     "name": "Mindful Chef",
     "hq_country": "GB",
     "hq_city": "London, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 2015,
     "confidence": "high",
     "parent_company": "Nestl\u00e9",
@@ -22086,7 +22086,7 @@
     "name": "MUBI",
     "hq_country": "GB",
     "hq_city": "London, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 2007,
     "confidence": "high",
     "parent_company": null,
@@ -22822,7 +22822,7 @@
     "name": "Ko-fi",
     "hq_country": "GB",
     "hq_city": "Bristol, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 2012,
     "confidence": "high",
     "parent_company": null,
@@ -23067,7 +23067,7 @@
     "name": "Zurich Insurance",
     "hq_country": "CH",
     "hq_city": "Zurich, Switzerland",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 1872,
     "confidence": "high",
     "parent_company": null,
@@ -23116,7 +23116,7 @@
     "name": "Aviva",
     "hq_country": "GB",
     "hq_city": "London, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 2000,
     "confidence": "high",
     "parent_company": null,
@@ -23706,7 +23706,7 @@
     "name": "Freetrade",
     "hq_country": "GB",
     "hq_city": "London, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 2016,
     "confidence": "high",
     "parent_company": null,
@@ -23854,7 +23854,7 @@
     "name": "Swissquote",
     "hq_country": "CH",
     "hq_city": "Gland, Switzerland",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 1996,
     "confidence": "high",
     "parent_company": null,
@@ -24150,7 +24150,7 @@
     "name": "Soldo",
     "hq_country": "GB",
     "hq_city": "London, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 2015,
     "confidence": "high",
     "parent_company": null,
@@ -24199,7 +24199,7 @@
     "name": "Tide",
     "hq_country": "GB",
     "hq_city": "London, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 2015,
     "confidence": "high",
     "parent_company": null,
@@ -24543,7 +24543,7 @@
     "name": "Temenos",
     "hq_country": "CH",
     "hq_city": "Geneva, Switzerland",
-    "eu_status": "eu",
+    "eu_status": "european",
     "founded": 1993,
     "confidence": "high",
     "parent_company": null,
@@ -24592,7 +24592,7 @@
     "name": "Thought Machine",
     "hq_country": "GB",
     "hq_city": "London, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 2014,
     "confidence": "high",
     "parent_company": null,
@@ -24642,7 +24642,7 @@
     "name": "Curve",
     "hq_country": "GB",
     "hq_city": "London, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 2015,
     "confidence": "high",
     "parent_company": null,
@@ -24691,7 +24691,7 @@
     "name": "Zilch",
     "hq_country": "GB",
     "hq_city": "London, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 2018,
     "confidence": "high",
     "parent_company": null,
@@ -24938,7 +24938,7 @@
     "name": "JD Sports",
     "hq_country": "GB",
     "hq_city": "Bury, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 1981,
     "confidence": "high",
     "parent_company": null,
@@ -25036,7 +25036,7 @@
     "name": "XXL",
     "hq_country": "NO",
     "hq_city": "Oslo, Norway",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 2000,
     "confidence": "high",
     "parent_company": null,
@@ -26114,7 +26114,7 @@
     "name": "The Body Shop",
     "hq_country": "GB",
     "hq_city": "London, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 1976,
     "confidence": "high",
     "parent_company": null,
@@ -26163,7 +26163,7 @@
     "name": "Lush",
     "hq_country": "GB",
     "hq_city": "Poole, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 1995,
     "confidence": "high",
     "parent_company": null,
@@ -26310,7 +26310,7 @@
     "name": "Charlotte Tilbury",
     "hq_country": "GB",
     "hq_city": "London, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 2013,
     "confidence": "high",
     "parent_company": "Puig",
@@ -26653,7 +26653,7 @@
     "name": "Specsavers",
     "hq_country": "GB",
     "hq_city": "Guernsey, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 1984,
     "confidence": "high",
     "parent_company": null,
@@ -27388,7 +27388,7 @@
     "name": "Selfridges",
     "hq_country": "GB",
     "hq_city": "London, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 1909,
     "confidence": "high",
     "parent_company": "Signa",
@@ -27437,7 +27437,7 @@
     "name": "Harrods",
     "hq_country": "GB",
     "hq_city": "London, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 1849,
     "confidence": "high",
     "parent_company": "Qatar Holding",
@@ -27486,7 +27486,7 @@
     "name": "Liberty",
     "hq_country": "GB",
     "hq_city": "London, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 1875,
     "confidence": "high",
     "parent_company": null,
@@ -28845,7 +28845,7 @@
     "name": "Element",
     "hq_country": "GB",
     "hq_city": "London, UK",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "founded": 2016,
     "confidence": "high",
     "parent_company": null,
@@ -29041,7 +29041,7 @@
     "id": "tresorit",
     "name": "Tresorit",
     "hq_country": "CH",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "tresorit.com"
     ]
@@ -29050,7 +29050,7 @@
     "id": "pcloud",
     "name": "pCloud",
     "hq_country": "CH",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "pcloud.at",
       "pcloud.be",
@@ -29118,7 +29118,7 @@
     "id": "jottacloud",
     "name": "Jottacloud",
     "hq_country": "NO",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "jottacloud.com"
     ]
@@ -29183,7 +29183,7 @@
     "id": "securesafe",
     "name": "SecureSafe",
     "hq_country": "CH",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "securesafe.at",
       "securesafe.be",
@@ -29212,7 +29212,7 @@
     "id": "acronis",
     "name": "Acronis",
     "hq_country": "CH",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "acronis.at",
       "acronis.be",
@@ -29241,7 +29241,7 @@
     "id": "infomaniak",
     "name": "Infomaniak",
     "hq_country": "CH",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "infomaniak.com",
       "kdrive.infomaniak.com"
@@ -29251,7 +29251,7 @@
     "id": "exoscale",
     "name": "Exoscale",
     "hq_country": "CH",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "exoscale.com"
     ]
@@ -29260,7 +29260,7 @@
     "id": "filemail",
     "name": "Filemail",
     "hq_country": "NO",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "filemail.com"
     ]
@@ -29409,7 +29409,7 @@
     "id": "icedrive",
     "name": "Icedrive",
     "hq_country": "GB",
-    "eu_status": "non-eu",
+    "eu_status": "european",
     "domains": [
       "icedrive.net"
     ]
@@ -29475,7 +29475,7 @@
     "id": "temenos-ag",
     "name": "Temenos AG",
     "hq_country": "CH",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "temenos.at",
       "temenos.be",
@@ -29591,7 +29591,7 @@
     "id": "visma",
     "name": "Visma",
     "hq_country": "NO",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "visma.at",
       "visma.be",
@@ -29783,7 +29783,7 @@
     "id": "bluebeam",
     "name": "Bluebeam (Nemetschek)",
     "hq_country": "DE",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "domains": [
       "bluebeam.at",
       "bluebeam.be",
@@ -29937,7 +29937,7 @@
     "id": "lightspeed-commerce",
     "name": "Lightspeed Commerce",
     "hq_country": "CA",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "lightspeedhq.at",
       "lightspeedhq.be",
@@ -29966,7 +29966,7 @@
     "id": "toast-inc",
     "name": "Toast Inc.",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "toasttab.at",
       "toasttab.be",
@@ -29995,7 +29995,7 @@
     "id": "procore-technologies",
     "name": "Procore Technologies",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "procore.at",
       "procore.be",
@@ -30024,7 +30024,7 @@
     "id": "veeva-systems",
     "name": "Veeva Systems",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "veeva.at",
       "veeva.be",
@@ -30053,7 +30053,7 @@
     "id": "guidewire-software",
     "name": "Guidewire Software",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "guidewire.at",
       "guidewire.be",
@@ -30082,7 +30082,7 @@
     "id": "yardi-systems",
     "name": "Yardi Systems",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "yardi.at",
       "yardi.be",
@@ -30111,7 +30111,7 @@
     "id": "appfolio",
     "name": "AppFolio",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "appfolio.at",
       "appfolio.be",
@@ -30140,7 +30140,7 @@
     "id": "realpage",
     "name": "RealPage",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "realpage.at",
       "realpage.be",
@@ -30169,7 +30169,7 @@
     "id": "buildium",
     "name": "Buildium",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "buildium.at",
       "buildium.be",
@@ -30198,7 +30198,7 @@
     "id": "agilysys",
     "name": "Agilysys",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "agilysys.at",
       "agilysys.be",
@@ -30227,7 +30227,7 @@
     "id": "bentley-systems",
     "name": "Bentley Systems",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "bentley.at",
       "bentley.be",
@@ -30256,7 +30256,7 @@
     "id": "descartes-systems",
     "name": "Descartes Systems",
     "hq_country": "CA",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "descartes.at",
       "descartes.be",
@@ -30285,7 +30285,7 @@
     "id": "aptean",
     "name": "Aptean",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "aptean.at",
       "aptean.be",
@@ -30314,7 +30314,7 @@
     "id": "oracle-health",
     "name": "Oracle Health (Cerner)",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "oracle.at",
       "oracle.be",
@@ -30343,7 +30343,7 @@
     "id": "planview",
     "name": "Planview",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "planview.at",
       "planview.be",
@@ -30372,7 +30372,7 @@
     "id": "xero",
     "name": "Xero",
     "hq_country": "NZ",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "xero.at",
       "xero.be",
@@ -30401,7 +30401,7 @@
     "id": "myob",
     "name": "MYOB",
     "hq_country": "AU",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "myob.at",
       "myob.be",
@@ -30430,7 +30430,7 @@
     "id": "sage-group",
     "name": "Sage Group",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "sage.at",
       "sage.be",
@@ -30459,7 +30459,7 @@
     "id": "mri-software",
     "name": "MRI Software",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "mrisoftware.at",
       "mrisoftware.be",
@@ -30488,7 +30488,7 @@
     "id": "rms",
     "name": "RMS (Risk Management Solutions)",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "rms.at",
       "rms.be",
@@ -30517,7 +30517,7 @@
     "id": "verisk-analytics",
     "name": "Verisk Analytics",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "verisk.at",
       "verisk.be",
@@ -30546,7 +30546,7 @@
     "id": "fis-global",
     "name": "FIS Global",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "fisglobal.at",
       "fisglobal.be",
@@ -30575,7 +30575,7 @@
     "id": "adp",
     "name": "ADP",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "adp.at",
       "adp.be",
@@ -30604,7 +30604,7 @@
     "id": "ceridian-hcm",
     "name": "Ceridian HCM",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "ceridian.at",
       "ceridian.be",
@@ -30633,7 +30633,7 @@
     "id": "ukg",
     "name": "UKG (Ultimate Kronos Group)",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "ukg.at",
       "ukg.be",
@@ -30662,7 +30662,7 @@
     "id": "paylocity",
     "name": "Paylocity",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "paylocity.at",
       "paylocity.be",
@@ -30691,7 +30691,7 @@
     "id": "paycom",
     "name": "Paycom",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "paycom.at",
       "paycom.be",
@@ -30758,7 +30758,7 @@
     "id": "deel",
     "name": "Deel",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "deel.at",
       "deel.be",
@@ -30787,7 +30787,7 @@
     "id": "papaya-global",
     "name": "Papaya Global",
     "hq_country": "IL",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "papayaglobal.at",
       "papayaglobal.be",
@@ -30816,7 +30816,7 @@
     "id": "oyster-hr",
     "name": "Oyster HR",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "oysterhr.at",
       "oysterhr.be",
@@ -30845,7 +30845,7 @@
     "id": "hibob",
     "name": "Hibob",
     "hq_country": "IL",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "hibob.at",
       "hibob.be",
@@ -30961,7 +30961,7 @@
     "id": "cgi-group",
     "name": "CGI Group",
     "hq_country": "CA",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "cgi.at",
       "cgi.be",
@@ -31077,7 +31077,7 @@
     "id": "centric-software",
     "name": "Centric Software",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "centricsoftware.at",
       "centricsoftware.be",
@@ -31222,7 +31222,7 @@
     "id": "calypso-technology",
     "name": "Calypso Technology",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "calypso.at",
       "calypso.be",
@@ -31251,7 +31251,7 @@
     "id": "ss-c-technologies",
     "name": "SS&C Technologies",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "ssctech.at",
       "ssctech.be",
@@ -31280,7 +31280,7 @@
     "id": "fnz-group",
     "name": "FNZ Group",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "fnz.at",
       "fnz.be",
@@ -31309,7 +31309,7 @@
     "id": "avaloq",
     "name": "Avaloq",
     "hq_country": "CH",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "avaloq.at",
       "avaloq.be",
@@ -31338,7 +31338,7 @@
     "id": "finnova",
     "name": "Finnova",
     "hq_country": "CH",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "finnova.at",
       "finnova.be",
@@ -31367,7 +31367,7 @@
     "id": "10x-banking",
     "name": "10x Banking",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "10xbanking.at",
       "10xbanking.be",
@@ -31396,7 +31396,7 @@
     "id": "truelayer",
     "name": "TrueLayer",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "truelayer.at",
       "truelayer.be",
@@ -31425,7 +31425,7 @@
     "id": "yodlee",
     "name": "Yodlee (Envestnet)",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "yodlee.at",
       "yodlee.be",
@@ -31454,7 +31454,7 @@
     "id": "finastra",
     "name": "Finastra",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "finastra.at",
       "finastra.be",
@@ -31483,7 +31483,7 @@
     "id": "ncino",
     "name": "nCino",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "ncino.at",
       "ncino.be",
@@ -31512,7 +31512,7 @@
     "id": "q2-holdings",
     "name": "Q2 Holdings",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "q2.at",
       "q2.be",
@@ -31541,7 +31541,7 @@
     "id": "alkami-technology",
     "name": "Alkami Technology",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "alkami.at",
       "alkami.be",
@@ -31570,7 +31570,7 @@
     "id": "blend-labs",
     "name": "Blend Labs",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "blend.at",
       "blend.be",
@@ -31858,7 +31858,7 @@
     "id": "articulate",
     "name": "Articulate",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "articulate.at",
       "articulate.be",
@@ -31887,7 +31887,7 @@
     "id": "ispring",
     "name": "iSpring",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "ispringsolutions.at",
       "ispringsolutions.be",
@@ -31916,7 +31916,7 @@
     "id": "talentlms",
     "name": "TalentLMS (Epignosis)",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "talentlms.at",
       "talentlms.be",
@@ -31945,7 +31945,7 @@
     "id": "absorb-lms",
     "name": "Absorb LMS",
     "hq_country": "CA",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "absorblms.at",
       "absorblms.be",
@@ -32032,7 +32032,7 @@
     "id": "docebo",
     "name": "Docebo",
     "hq_country": "CA",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "docebo.at",
       "docebo.be",
@@ -32061,7 +32061,7 @@
     "id": "skillsoft",
     "name": "Skillsoft",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "skillsoft.at",
       "skillsoft.be",
@@ -32090,7 +32090,7 @@
     "id": "pluralsight",
     "name": "Pluralsight",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "pluralsight.at",
       "pluralsight.be",
@@ -32119,7 +32119,7 @@
     "id": "datacamp",
     "name": "DataCamp",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "datacamp.at",
       "datacamp.be",
@@ -32148,7 +32148,7 @@
     "id": "codecademy",
     "name": "Codecademy",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "codecademy.at",
       "codecademy.be",
@@ -32177,7 +32177,7 @@
     "id": "itslearning",
     "name": "itslearning",
     "hq_country": "NO",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "itslearning.at",
       "itslearning.be",
@@ -32206,7 +32206,7 @@
     "id": "showbie",
     "name": "Showbie",
     "hq_country": "CA",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "showbie.at",
       "showbie.be",
@@ -32235,7 +32235,7 @@
     "id": "nearpod",
     "name": "Nearpod (Renaissance)",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "nearpod.at",
       "nearpod.be",
@@ -32264,7 +32264,7 @@
     "id": "pear-deck",
     "name": "Pear Deck",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "peardeck.at",
       "peardeck.be",
@@ -32293,7 +32293,7 @@
     "id": "edpuzzle",
     "name": "Edpuzzle",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "edpuzzle.at",
       "edpuzzle.be",
@@ -32322,7 +32322,7 @@
     "id": "quizlet",
     "name": "Quizlet",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "quizlet.at",
       "quizlet.be",
@@ -32380,7 +32380,7 @@
     "id": "busuu",
     "name": "Busuu",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "busuu.at",
       "busuu.be",
@@ -32409,7 +32409,7 @@
     "id": "duolingo",
     "name": "Duolingo",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "duolingo.at",
       "duolingo.be",
@@ -32438,7 +32438,7 @@
     "id": "preply",
     "name": "Preply",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "preply.at",
       "preply.be",
@@ -32467,7 +32467,7 @@
     "id": "italki",
     "name": "italki",
     "hq_country": "CN",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "italki.at",
       "italki.be",
@@ -32592,7 +32592,7 @@
     "id": "scribd",
     "name": "Scribd",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "scribd.at",
       "scribd.be",
@@ -32621,7 +32621,7 @@
     "id": "chegg",
     "name": "Chegg",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "chegg.at",
       "chegg.be",
@@ -32650,7 +32650,7 @@
     "id": "costar-group",
     "name": "CoStar Group",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "costar.at",
       "costar.be",
@@ -32679,7 +32679,7 @@
     "id": "zillow-group",
     "name": "Zillow Group",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "zillow.at",
       "zillow.be",
@@ -32708,7 +32708,7 @@
     "id": "redfin",
     "name": "Redfin",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "redfin.at",
       "redfin.be",
@@ -32737,7 +32737,7 @@
     "id": "rightmove",
     "name": "Rightmove",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "rightmove.co.uk"
     ]
@@ -32746,7 +32746,7 @@
     "id": "zoopla",
     "name": "Zoopla (CoStar)",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "zoopla.co.uk"
     ]
@@ -32755,7 +32755,7 @@
     "id": "onthemarket",
     "name": "OnTheMarket",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "onthemarket.at",
       "onthemarket.be",
@@ -32878,7 +32878,7 @@
     "id": "finn-no",
     "name": "Finn.no",
     "hq_country": "NO",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "finn.no"
     ]
@@ -32887,7 +32887,7 @@
     "id": "re-max",
     "name": "RE/MAX",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "remax.at",
       "remax.be",
@@ -32916,7 +32916,7 @@
     "id": "keller-williams",
     "name": "Keller Williams",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "kw.at",
       "kw.be",
@@ -33068,7 +33068,7 @@
     "id": "habi",
     "name": "Habi",
     "hq_country": "CO",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "habi.co"
     ]
@@ -33077,7 +33077,7 @@
     "id": "clio",
     "name": "Clio",
     "hq_country": "CA",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "clio.at",
       "clio.be",
@@ -33106,7 +33106,7 @@
     "id": "mycase",
     "name": "MyCase",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "mycase.at",
       "mycase.be",
@@ -33135,7 +33135,7 @@
     "id": "practicepanther",
     "name": "PracticePanther",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "practicepanther.at",
       "practicepanther.be",
@@ -33164,7 +33164,7 @@
     "id": "smokeball",
     "name": "Smokeball",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "smokeball.at",
       "smokeball.be",
@@ -33193,7 +33193,7 @@
     "id": "leap-legal-software",
     "name": "LEAP Legal Software",
     "hq_country": "AU",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "leap.com.au"
     ]
@@ -33202,7 +33202,7 @@
     "id": "legalzoom",
     "name": "LegalZoom",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "legalzoom.at",
       "legalzoom.be",
@@ -33231,7 +33231,7 @@
     "id": "rocket-lawyer",
     "name": "Rocket Lawyer",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "rocketlawyer.at",
       "rocketlawyer.be",
@@ -33260,7 +33260,7 @@
     "id": "kira-systems",
     "name": "Kira Systems",
     "hq_country": "CA",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "kirasystems.at",
       "kirasystems.be",
@@ -33289,7 +33289,7 @@
     "id": "luminance",
     "name": "Luminance",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "luminance.at",
       "luminance.be",
@@ -33318,7 +33318,7 @@
     "id": "eigen-technologies",
     "name": "Eigen Technologies",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "eigentech.at",
       "eigentech.be",
@@ -33347,7 +33347,7 @@
     "id": "lawgeex",
     "name": "LawGeex",
     "hq_country": "IL",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "lawgeex.at",
       "lawgeex.be",
@@ -33376,7 +33376,7 @@
     "id": "contractpodai",
     "name": "ContractPodAi",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "contractpodai.at",
       "contractpodai.be",
@@ -33405,7 +33405,7 @@
     "id": "icertis",
     "name": "Icertis",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "icertis.at",
       "icertis.be",
@@ -33434,7 +33434,7 @@
     "id": "docusign",
     "name": "DocuSign",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "docusign.at",
       "docusign.be",
@@ -33463,7 +33463,7 @@
     "id": "pandadoc",
     "name": "PandaDoc",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "pandadoc.at",
       "pandadoc.be",
@@ -33492,7 +33492,7 @@
     "id": "concord",
     "name": "Concord",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "concordnow.at",
       "concordnow.be",
@@ -33521,7 +33521,7 @@
     "id": "agiloft",
     "name": "Agiloft",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "agiloft.at",
       "agiloft.be",
@@ -33550,7 +33550,7 @@
     "id": "ironclad",
     "name": "Ironclad",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "ironcladapp.at",
       "ironcladapp.be",
@@ -33579,7 +33579,7 @@
     "id": "juro",
     "name": "Juro",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "juro.at",
       "juro.be",
@@ -33608,7 +33608,7 @@
     "id": "evisort",
     "name": "Evisort",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "evisort.at",
       "evisort.be",
@@ -33637,7 +33637,7 @@
     "id": "autodesk-construction-cloud",
     "name": "Autodesk Construction Cloud",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "construction.autodesk.com"
     ]
@@ -33646,7 +33646,7 @@
     "id": "trimble",
     "name": "Trimble",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "trimble.at",
       "trimble.be",
@@ -33675,7 +33675,7 @@
     "id": "oracle-construction",
     "name": "Oracle Construction",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "oracle.at",
       "oracle.be",
@@ -33704,7 +33704,7 @@
     "id": "fieldwire",
     "name": "Fieldwire",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "fieldwire.at",
       "fieldwire.be",
@@ -33733,7 +33733,7 @@
     "id": "buildertrend",
     "name": "Buildertrend",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "buildertrend.at",
       "buildertrend.be",
@@ -33762,7 +33762,7 @@
     "id": "coconstruct",
     "name": "CoConstruct",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "coconstruct.at",
       "coconstruct.be",
@@ -33791,7 +33791,7 @@
     "id": "plangrid",
     "name": "PlanGrid (Autodesk)",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "plangrid.at",
       "plangrid.be",
@@ -33820,7 +33820,7 @@
     "id": "aconex",
     "name": "Aconex (Oracle)",
     "hq_country": "AU",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "aconex.at",
       "aconex.be",
@@ -33943,7 +33943,7 @@
     "id": "cropio",
     "name": "Cropio",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "cropio.at",
       "cropio.be",
@@ -33972,7 +33972,7 @@
     "id": "farmers-edge",
     "name": "Farmers Edge",
     "hq_country": "CA",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "farmersedge.ca"
     ]
@@ -33981,7 +33981,7 @@
     "id": "granular",
     "name": "Granular (Corteva)",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "granular.ag"
     ]
@@ -33990,7 +33990,7 @@
     "id": "climate-corporation",
     "name": "Climate Corporation",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "climate.at",
       "climate.be",
@@ -34019,7 +34019,7 @@
     "id": "agriwebb",
     "name": "AgriWebb",
     "hq_country": "AU",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "agriwebb.at",
       "agriwebb.be",
@@ -34048,7 +34048,7 @@
     "id": "conservis",
     "name": "Conservis",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "conserviscorp.at",
       "conserviscorp.be",
@@ -34077,7 +34077,7 @@
     "id": "project44",
     "name": "project44",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "project44.at",
       "project44.be",
@@ -34106,7 +34106,7 @@
     "id": "fourkites",
     "name": "FourKites",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "fourkites.at",
       "fourkites.be",
@@ -34260,7 +34260,7 @@
     "id": "flock-freight",
     "name": "Flock Freight",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "flockfreight.at",
       "flockfreight.be",
@@ -34289,7 +34289,7 @@
     "id": "convoy",
     "name": "Convoy",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "convoy.at",
       "convoy.be",
@@ -34368,7 +34368,7 @@
     "id": "bumble-inc",
     "name": "Bumble Inc.",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "bumble.at",
       "bumble.be",
@@ -34397,7 +34397,7 @@
     "id": "badoo",
     "name": "Badoo",
     "hq_country": "UK",
-    "eu_status": "mixed",
+    "eu_status": "european",
     "domains": [
       "badoo.at",
       "badoo.be",
@@ -34426,7 +34426,7 @@
     "id": "grindr",
     "name": "Grindr",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "grindr.at",
       "grindr.be",
@@ -34455,7 +34455,7 @@
     "id": "happn",
     "name": "Happn",
     "hq_country": "FR",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "domains": [
       "happn.at",
       "happn.be",
@@ -34513,7 +34513,7 @@
     "id": "peloton-interactive",
     "name": "Peloton Interactive",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "onepeloton.at",
       "onepeloton.be",
@@ -34542,7 +34542,7 @@
     "id": "zwift",
     "name": "Zwift",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "zwift.at",
       "zwift.be",
@@ -34571,7 +34571,7 @@
     "id": "alltrails",
     "name": "AllTrails",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "alltrails.at",
       "alltrails.be",
@@ -34600,7 +34600,7 @@
     "id": "valve-corporation",
     "name": "Valve Corporation",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "steampowered.at",
       "steampowered.be",
@@ -34629,7 +34629,7 @@
     "id": "bethesda-softworks",
     "name": "Bethesda Softworks",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "bethesda.net"
     ]
@@ -34638,7 +34638,7 @@
     "id": "take-two-interactive",
     "name": "Take-Two Interactive",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "take2games.at",
       "take2games.be",
@@ -34725,7 +34725,7 @@
     "id": "embark-studios",
     "name": "Embark Studios",
     "hq_country": "SE",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "domains": [
       "embark-studios.at",
       "embark-studios.be",
@@ -34812,7 +34812,7 @@
     "id": "bungie",
     "name": "Bungie",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "bungie.net"
     ]
@@ -34821,7 +34821,7 @@
     "id": "scopely",
     "name": "Scopely",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "scopely.at",
       "scopely.be",
@@ -34850,7 +34850,7 @@
     "id": "krafton",
     "name": "Krafton",
     "hq_country": "KR",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "krafton.at",
       "krafton.be",
@@ -34879,7 +34879,7 @@
     "id": "nexon",
     "name": "Nexon",
     "hq_country": "JP",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "nexon.at",
       "nexon.be",
@@ -34908,7 +34908,7 @@
     "id": "ncsoft",
     "name": "NCSoft",
     "hq_country": "KR",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "nc.at",
       "nc.be",
@@ -34937,7 +34937,7 @@
     "id": "tubi",
     "name": "Tubi",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "tubitv.at",
       "tubitv.be",
@@ -34966,7 +34966,7 @@
     "id": "pluto-tv",
     "name": "Pluto TV",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "pluto.tv"
     ]
@@ -34975,7 +34975,7 @@
     "id": "plex",
     "name": "Plex",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "plex.tv"
     ]
@@ -34984,7 +34984,7 @@
     "id": "clubhouse",
     "name": "Clubhouse",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "clubhouse.at",
       "clubhouse.be",
@@ -35013,7 +35013,7 @@
     "id": "fandom",
     "name": "Fandom",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "fandom.at",
       "fandom.be",
@@ -35042,7 +35042,7 @@
     "id": "yelp",
     "name": "Yelp",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "yelp.at",
       "yelp.be",
@@ -35071,7 +35071,7 @@
     "id": "foursquare",
     "name": "Foursquare",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "foursquare.at",
       "foursquare.be",
@@ -35100,7 +35100,7 @@
     "id": "wattpad",
     "name": "Wattpad",
     "hq_country": "CA",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "wattpad.at",
       "wattpad.be",
@@ -35129,7 +35129,7 @@
     "id": "webtoon",
     "name": "Webtoon",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "webtoons.at",
       "webtoons.be",
@@ -35216,7 +35216,7 @@
     "id": "vsco",
     "name": "VSCO",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "vsco.co"
     ]
@@ -35225,7 +35225,7 @@
     "id": "picsart",
     "name": "Picsart",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "picsart.at",
       "picsart.be",
@@ -35254,7 +35254,7 @@
     "id": "capcut",
     "name": "CapCut",
     "hq_country": "CN",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "capcut.at",
       "capcut.be",
@@ -35283,7 +35283,7 @@
     "id": "flipboard",
     "name": "Flipboard",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "flipboard.at",
       "flipboard.be",
@@ -35312,7 +35312,7 @@
     "id": "feedly",
     "name": "Feedly",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "feedly.at",
       "feedly.be",
@@ -35341,7 +35341,7 @@
     "id": "pocket",
     "name": "Pocket",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "getpocket.at",
       "getpocket.be",
@@ -35370,7 +35370,7 @@
     "id": "skillshare",
     "name": "Skillshare",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "skillshare.at",
       "skillshare.be",
@@ -35399,7 +35399,7 @@
     "id": "klook",
     "name": "Klook",
     "hq_country": "HK",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "klook.at",
       "klook.be",
@@ -35428,7 +35428,7 @@
     "id": "hinge",
     "name": "Hinge",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "hinge.co"
     ]
@@ -35437,7 +35437,7 @@
     "id": "okcupid",
     "name": "OkCupid",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "okcupid.at",
       "okcupid.be",
@@ -35466,7 +35466,7 @@
     "id": "plenty-of-fish",
     "name": "Plenty of Fish",
     "hq_country": "CA",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "pof.at",
       "pof.be",
@@ -35495,7 +35495,7 @@
     "id": "meetic",
     "name": "Meetic",
     "hq_country": "FR",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "domains": [
       "meetic.at",
       "meetic.be",
@@ -35524,7 +35524,7 @@
     "id": "the-meet-group",
     "name": "The Meet Group",
     "hq_country": "US",
-    "eu_status": "mixed",
+    "eu_status": "non-eu",
     "domains": [
       "themeetgroup.at",
       "themeetgroup.be",
@@ -35562,7 +35562,7 @@
     "id": "once",
     "name": "Once",
     "hq_country": "CH",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "getonce.at",
       "getonce.be",
@@ -35591,7 +35591,7 @@
     "id": "lovoo",
     "name": "Lovoo",
     "hq_country": "DE",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "domains": [
       "lovoo.at",
       "lovoo.be",
@@ -35620,7 +35620,7 @@
     "id": "feeld",
     "name": "Feeld",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "feeld.co"
     ]
@@ -35629,7 +35629,7 @@
     "id": "hily",
     "name": "Hily",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "hily.at",
       "hily.be",
@@ -35658,7 +35658,7 @@
     "id": "taimi",
     "name": "Taimi",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "taimi.at",
       "taimi.be",
@@ -35687,7 +35687,7 @@
     "id": "her",
     "name": "Her",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "weareher.at",
       "weareher.be",
@@ -35716,7 +35716,7 @@
     "id": "coffee-meets-bagel",
     "name": "Coffee Meets Bagel",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "coffeemeetsbagel.at",
       "coffeemeetsbagel.be",
@@ -35745,7 +35745,7 @@
     "id": "raya",
     "name": "Raya",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "rayatheapp.at",
       "rayatheapp.be",
@@ -35774,7 +35774,7 @@
     "id": "the-league",
     "name": "The League",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "theleague.at",
       "theleague.be",
@@ -35803,7 +35803,7 @@
     "id": "fruitz",
     "name": "Fruitz",
     "hq_country": "FR",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "domains": [
       "fruitz.io"
     ]
@@ -35879,7 +35879,7 @@
     "id": "zoosk",
     "name": "Zoosk",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "zoosk.at",
       "zoosk.be",
@@ -35908,7 +35908,7 @@
     "id": "eharmony",
     "name": "eHarmony",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "eharmony.at",
       "eharmony.be",
@@ -35937,7 +35937,7 @@
     "id": "fiton",
     "name": "FitOn",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "fitonapp.at",
       "fitonapp.be",
@@ -36091,7 +36091,7 @@
     "id": "centr",
     "name": "Centr",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "centr.at",
       "centr.be",
@@ -36149,7 +36149,7 @@
     "id": "runna",
     "name": "Runna",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "runna.at",
       "runna.be",
@@ -36207,7 +36207,7 @@
     "id": "cronometer",
     "name": "Cronometer",
     "hq_country": "CA",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "cronometer.at",
       "cronometer.be",
@@ -36236,7 +36236,7 @@
     "id": "lose-it",
     "name": "Lose It!",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "loseit.at",
       "loseit.be",
@@ -36265,7 +36265,7 @@
     "id": "map-my-fitness",
     "name": "Map My Fitness",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "mapmyfitness.at",
       "mapmyfitness.be",
@@ -36294,7 +36294,7 @@
     "id": "nike-training-club",
     "name": "Nike Training Club",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "nike.at",
       "nike.be",
@@ -36323,7 +36323,7 @@
     "id": "fubo",
     "name": "Fubo",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "fubo.tv"
     ]
@@ -36332,7 +36332,7 @@
     "id": "philo",
     "name": "Philo",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "philo.at",
       "philo.be",
@@ -36361,7 +36361,7 @@
     "id": "sling-tv",
     "name": "Sling TV",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "sling.at",
       "sling.be",
@@ -36390,7 +36390,7 @@
     "id": "britbox",
     "name": "BritBox",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "britbox.at",
       "britbox.be",
@@ -36419,7 +36419,7 @@
     "id": "hayu",
     "name": "Hayu",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "hayu.at",
       "hayu.be",
@@ -36448,7 +36448,7 @@
     "id": "amc",
     "name": "AMC+",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "amcplus.at",
       "amcplus.be",
@@ -36477,7 +36477,7 @@
     "id": "shudder",
     "name": "Shudder",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "shudder.at",
       "shudder.be",
@@ -36506,7 +36506,7 @@
     "id": "rumble",
     "name": "Rumble",
     "hq_country": "CA",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "rumble.at",
       "rumble.be",
@@ -36535,7 +36535,7 @@
     "id": "nebula",
     "name": "Nebula",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "nebula.tv"
     ]
@@ -36544,7 +36544,7 @@
     "id": "curiositystream",
     "name": "CuriosityStream",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "curiositystream.at",
       "curiositystream.be",
@@ -36573,7 +36573,7 @@
     "id": "dropout",
     "name": "Dropout",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "dropout.tv"
     ]
@@ -36658,7 +36658,7 @@
     "id": "now",
     "name": "NOW (UK)",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "nowtv.at",
       "nowtv.be",
@@ -36687,7 +36687,7 @@
     "id": "itvx",
     "name": "ITVX",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "itv.at",
       "itv.be",
@@ -36716,7 +36716,7 @@
     "id": "channel-4-streaming",
     "name": "Channel 4 Streaming",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "channel4.at",
       "channel4.be",
@@ -36745,7 +36745,7 @@
     "id": "my5",
     "name": "My5",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "my5.tv"
     ]
@@ -36792,7 +36792,7 @@
     "id": "audiomack",
     "name": "Audiomack",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "audiomack.at",
       "audiomack.be",
@@ -36821,7 +36821,7 @@
     "id": "anghami",
     "name": "Anghami",
     "hq_country": "AE",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "anghami.at",
       "anghami.be",
@@ -36850,7 +36850,7 @@
     "id": "boomplay",
     "name": "Boomplay",
     "hq_country": "CH",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "boomplay.at",
       "boomplay.be",
@@ -36879,7 +36879,7 @@
     "id": "pocket-casts",
     "name": "Pocket Casts",
     "hq_country": "AU",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "pocketcasts.at",
       "pocketcasts.be",
@@ -36908,7 +36908,7 @@
     "id": "overcast",
     "name": "Overcast",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "overcast.fm"
     ]
@@ -36926,7 +36926,7 @@
     "id": "podbean",
     "name": "Podbean",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "podbean.at",
       "podbean.be",
@@ -36955,7 +36955,7 @@
     "id": "spreaker",
     "name": "Spreaker",
     "hq_country": "US",
-    "eu_status": "mixed",
+    "eu_status": "non-eu",
     "domains": [
       "spreaker.at",
       "spreaker.be",
@@ -36984,7 +36984,7 @@
     "id": "libsyn",
     "name": "Libsyn",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "libsyn.at",
       "libsyn.be",
@@ -37013,7 +37013,7 @@
     "id": "transistor",
     "name": "Transistor",
     "hq_country": "CA",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "transistor.fm"
     ]
@@ -37022,7 +37022,7 @@
     "id": "buzzsprout",
     "name": "Buzzsprout",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "buzzsprout.at",
       "buzzsprout.be",
@@ -37051,7 +37051,7 @@
     "id": "simplecast",
     "name": "Simplecast",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "simplecast.at",
       "simplecast.be",
@@ -37080,7 +37080,7 @@
     "id": "moovit",
     "name": "Moovit",
     "hq_country": "IL",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "moovitapp.at",
       "moovitapp.be",
@@ -37109,7 +37109,7 @@
     "id": "transit",
     "name": "Transit",
     "hq_country": "CA",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "transitapp.at",
       "transitapp.be",
@@ -37138,7 +37138,7 @@
     "id": "citymapper",
     "name": "Citymapper",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "citymapper.at",
       "citymapper.be",
@@ -37167,7 +37167,7 @@
     "id": "rome2rio",
     "name": "Rome2Rio",
     "hq_country": "AU",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "rome2rio.at",
       "rome2rio.be",
@@ -37225,7 +37225,7 @@
     "id": "hoteltonight",
     "name": "HotelTonight",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "hoteltonight.at",
       "hoteltonight.be",
@@ -37254,7 +37254,7 @@
     "id": "musement",
     "name": "Musement",
     "hq_country": "IT",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "domains": [
       "musement.at",
       "musement.be",
@@ -37312,7 +37312,7 @@
     "id": "foodpanda",
     "name": "Foodpanda",
     "hq_country": "SG",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "foodpanda.at",
       "foodpanda.be",
@@ -37341,7 +37341,7 @@
     "id": "talabat",
     "name": "Talabat",
     "hq_country": "KW",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "talabat.at",
       "talabat.be",
@@ -37370,7 +37370,7 @@
     "id": "hunger-station",
     "name": "Hunger Station",
     "hq_country": "SA",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "hungerstation.at",
       "hungerstation.be",
@@ -37399,7 +37399,7 @@
     "id": "yemeksepeti",
     "name": "Yemeksepeti",
     "hq_country": "TR",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "yemeksepeti.at",
       "yemeksepeti.be",
@@ -37428,7 +37428,7 @@
     "id": "mjam",
     "name": "Mjam",
     "hq_country": "AT",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "domains": [
       "mjam.at"
     ]
@@ -37437,7 +37437,7 @@
     "id": "foodora",
     "name": "Foodora",
     "hq_country": "SE",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "domains": [
       "foodora.at",
       "foodora.be",
@@ -37466,7 +37466,7 @@
     "id": "caviar",
     "name": "Caviar",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "trycaviar.at",
       "trycaviar.be",
@@ -37495,7 +37495,7 @@
     "id": "slice",
     "name": "Slice",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "slicelife.at",
       "slicelife.be",
@@ -37524,7 +37524,7 @@
     "id": "fantuan",
     "name": "Fantuan",
     "hq_country": "CA",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "fantuanorder.at",
       "fantuanorder.be",
@@ -37582,7 +37582,7 @@
     "id": "careem",
     "name": "Careem",
     "hq_country": "AE",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "careem.at",
       "careem.be",
@@ -37649,7 +37649,7 @@
     "id": "spin",
     "name": "Spin",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "spin.app"
     ]
@@ -37658,7 +37658,7 @@
     "id": "inshot",
     "name": "InShot",
     "hq_country": "CN",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "inshot.at",
       "inshot.be",
@@ -37687,7 +37687,7 @@
     "id": "facetune",
     "name": "Facetune",
     "hq_country": "IL",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "facetuneapp.at",
       "facetuneapp.be",
@@ -37716,7 +37716,7 @@
     "id": "lightricks",
     "name": "Lightricks",
     "hq_country": "IL",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "lightricks.at",
       "lightricks.be",
@@ -37745,7 +37745,7 @@
     "id": "prequel",
     "name": "Prequel",
     "hq_country": "RU",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "prequel.app"
     ]
@@ -37754,7 +37754,7 @@
     "id": "remini",
     "name": "Remini",
     "hq_country": "CN",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "remini.ai"
     ]
@@ -37763,7 +37763,7 @@
     "id": "meitu",
     "name": "Meitu",
     "hq_country": "CN",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "meitu.at",
       "meitu.be",
@@ -37792,7 +37792,7 @@
     "id": "beautyplus",
     "name": "BeautyPlus",
     "hq_country": "CN",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "beautyplus.at",
       "beautyplus.be",
@@ -37821,7 +37821,7 @@
     "id": "snapseed",
     "name": "Snapseed",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "snapseed.at",
       "snapseed.be",
@@ -37879,7 +37879,7 @@
     "id": "splice",
     "name": "Splice",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "splice.at",
       "splice.be",
@@ -37908,7 +37908,7 @@
     "id": "canva-video",
     "name": "Canva Video",
     "hq_country": "AU",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "canva.at",
       "canva.be",
@@ -37937,7 +37937,7 @@
     "id": "locket-widget",
     "name": "Locket Widget",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "locket.camera"
     ]
@@ -37946,7 +37946,7 @@
     "id": "poparazzi",
     "name": "Poparazzi",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "poparazzi.at",
       "poparazzi.be",
@@ -37975,7 +37975,7 @@
     "id": "gas-app",
     "name": "Gas App",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "gas.app"
     ]
@@ -37984,7 +37984,7 @@
     "id": "geneva",
     "name": "Geneva",
     "hq_country": "US",
-    "eu_status": "mixed",
+    "eu_status": "non-eu",
     "domains": [
       "geneva.at",
       "geneva.be",
@@ -38013,7 +38013,7 @@
     "id": "irl",
     "name": "IRL",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "irl.at",
       "irl.be",
@@ -38051,7 +38051,7 @@
     "id": "wizz",
     "name": "Wizz",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "wizz.chat"
     ]
@@ -38060,7 +38060,7 @@
     "id": "caffeine",
     "name": "Caffeine",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "caffeine.tv"
     ]
@@ -38069,7 +38069,7 @@
     "id": "kick",
     "name": "Kick",
     "hq_country": "AU",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "kick.at",
       "kick.be",
@@ -38098,7 +38098,7 @@
     "id": "niconico",
     "name": "Niconico",
     "hq_country": "JP",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "nicovideo.jp"
     ]
@@ -38107,7 +38107,7 @@
     "id": "ground-news",
     "name": "Ground News",
     "hq_country": "CA",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "ground.news"
     ]
@@ -38145,7 +38145,7 @@
     "id": "instapaper",
     "name": "Instapaper",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "instapaper.at",
       "instapaper.be",
@@ -38203,7 +38203,7 @@
     "id": "opera-news",
     "name": "Opera News",
     "hq_country": "NO",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "opera.at",
       "opera.be",
@@ -38232,7 +38232,7 @@
     "id": "aether",
     "name": "Aether",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "aether.app"
     ]
@@ -38241,7 +38241,7 @@
     "id": "lemmy",
     "name": "Lemmy",
     "hq_country": "DI",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "lemmy.world"
     ]
@@ -38259,7 +38259,7 @@
     "id": "threema",
     "name": "Threema",
     "hq_country": "CH",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "threema.ch"
     ]
@@ -38268,7 +38268,7 @@
     "id": "wire",
     "name": "Wire",
     "hq_country": "CH",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "wire.at",
       "wire.be",
@@ -38297,7 +38297,7 @@
     "id": "session",
     "name": "Session",
     "hq_country": "AU",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "getsession.org"
     ]
@@ -38306,7 +38306,7 @@
     "id": "briar",
     "name": "Briar",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "briarproject.org"
     ]
@@ -38315,7 +38315,7 @@
     "id": "simplenote",
     "name": "Simplenote",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "simplenote.at",
       "simplenote.be",
@@ -38344,7 +38344,7 @@
     "id": "evernote",
     "name": "Evernote",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "evernote.at",
       "evernote.be",
@@ -38382,7 +38382,7 @@
     "id": "goodnotes",
     "name": "GoodNotes",
     "hq_country": "HK",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "goodnotes.at",
       "goodnotes.be",
@@ -38411,7 +38411,7 @@
     "id": "notability",
     "name": "Notability",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "gingerlabs.at",
       "gingerlabs.be",
@@ -38449,7 +38449,7 @@
     "id": "obsidian",
     "name": "Obsidian",
     "hq_country": "CA",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "obsidian.md"
     ]
@@ -38458,7 +38458,7 @@
     "id": "logseq",
     "name": "Logseq",
     "hq_country": "CN",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "logseq.at",
       "logseq.be",
@@ -38487,7 +38487,7 @@
     "id": "todoist",
     "name": "Todoist",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "todoist.at",
       "todoist.be",
@@ -38516,7 +38516,7 @@
     "id": "ticktick",
     "name": "TickTick",
     "hq_country": "CN",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "ticktick.at",
       "ticktick.be",
@@ -38574,7 +38574,7 @@
     "id": "any-do",
     "name": "Any.do",
     "hq_country": "IL",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "any.do"
     ]
@@ -38583,7 +38583,7 @@
     "id": "ynab",
     "name": "YNAB",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "ynab.at",
       "ynab.be",
@@ -38612,7 +38612,7 @@
     "id": "mint",
     "name": "Mint",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "mint.at",
       "mint.be",
@@ -38796,7 +38796,7 @@
     "id": "avira",
     "name": "Avira",
     "hq_country": "GE",
-    "eu_status": "mixed",
+    "eu_status": "non-eu",
     "domains": [
       "avira.at",
       "avira.be",
@@ -38825,7 +38825,7 @@
     "id": "emsisoft",
     "name": "Emsisoft",
     "hq_country": "NZ",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "emsisoft.at",
       "emsisoft.be",
@@ -38854,7 +38854,7 @@
     "id": "dr-web",
     "name": "Dr.Web",
     "hq_country": "RU",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "drweb.at",
       "drweb.be",
@@ -38883,7 +38883,7 @@
     "id": "intego",
     "name": "Intego",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "intego.at",
       "intego.be",
@@ -38912,7 +38912,7 @@
     "id": "quick-heal-technologies",
     "name": "Quick Heal Technologies (Seqrite)",
     "hq_country": "IN",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "quickheal.at",
       "quickheal.be",
@@ -38962,7 +38962,7 @@
     "id": "k7-computing",
     "name": "K7 Computing",
     "hq_country": "IN",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "k7computing.at",
       "k7computing.be",
@@ -38991,7 +38991,7 @@
     "id": "ahnlab",
     "name": "AhnLab",
     "hq_country": "KR",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "ahnlab.at",
       "ahnlab.be",
@@ -39020,7 +39020,7 @@
     "id": "comodo-security-solutions",
     "name": "Comodo Security Solutions",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "comodo.at",
       "comodo.be",
@@ -39049,7 +39049,7 @@
     "id": "malwarebytes",
     "name": "Malwarebytes",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "malwarebytes.at",
       "malwarebytes.be",
@@ -39107,7 +39107,7 @@
     "id": "vipre-security",
     "name": "VIPRE Security",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "vipre.at",
       "vipre.be",
@@ -39136,7 +39136,7 @@
     "id": "pc-matic",
     "name": "PC Matic",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "pcmatic.at",
       "pcmatic.be",
@@ -39165,7 +39165,7 @@
     "id": "total-av",
     "name": "Total AV",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "totalav.at",
       "totalav.be",
@@ -39194,7 +39194,7 @@
     "id": "scanguard",
     "name": "Scanguard",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "scanguard.at",
       "scanguard.be",
@@ -39252,7 +39252,7 @@
     "id": "secureage-technology",
     "name": "SecureAge Technology",
     "hq_country": "SG",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "secureage.at",
       "secureage.be",
@@ -39281,7 +39281,7 @@
     "id": "deep-instinct",
     "name": "Deep Instinct",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "deepinstinct.at",
       "deepinstinct.be",
@@ -39339,7 +39339,7 @@
     "id": "ipvanish",
     "name": "IPVanish",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "ipvanish.at",
       "ipvanish.be",
@@ -39368,7 +39368,7 @@
     "id": "ivpn",
     "name": "IVPN",
     "hq_country": "GI",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "ivpn.net"
     ]
@@ -39377,7 +39377,7 @@
     "id": "private-internet-access",
     "name": "Private Internet Access (PIA)",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "privateinternetaccess.at",
       "privateinternetaccess.be",
@@ -39406,7 +39406,7 @@
     "id": "privadovpn",
     "name": "PrivadoVPN",
     "hq_country": "CH",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "privadovpn.at",
       "privadovpn.be",
@@ -39435,7 +39435,7 @@
     "id": "purevpn",
     "name": "PureVPN",
     "hq_country": "BR",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "purevpn.at",
       "purevpn.be",
@@ -39464,7 +39464,7 @@
     "id": "cyberghost-vpn",
     "name": "CyberGhost VPN",
     "hq_country": "RO",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "domains": [
       "cyberghostvpn.at",
       "cyberghostvpn.be",
@@ -39493,7 +39493,7 @@
     "id": "hide-me",
     "name": "hide.me",
     "hq_country": "MA",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "hide.me"
     ]
@@ -39502,7 +39502,7 @@
     "id": "windscribe",
     "name": "Windscribe",
     "hq_country": "CA",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "windscribe.at",
       "windscribe.be",
@@ -39531,7 +39531,7 @@
     "id": "hotspot-shield",
     "name": "Hotspot Shield",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "hotspotshield.at",
       "hotspotshield.be",
@@ -39560,7 +39560,7 @@
     "id": "tunnelbear",
     "name": "TunnelBear",
     "hq_country": "CA",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "tunnelbear.at",
       "tunnelbear.be",
@@ -39589,7 +39589,7 @@
     "id": "mozilla-vpn",
     "name": "Mozilla VPN",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "vpn.mozilla.org"
     ]
@@ -39598,7 +39598,7 @@
     "id": "nym-vpn",
     "name": "Nym VPN",
     "hq_country": "CH",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "nymtech.net"
     ]
@@ -39674,7 +39674,7 @@
     "id": "perfect-privacy",
     "name": "Perfect Privacy",
     "hq_country": "CH",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "perfect-privacy.at",
       "perfect-privacy.be",
@@ -39703,7 +39703,7 @@
     "id": "vyprvpn",
     "name": "VyprVPN",
     "hq_country": "CH",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "vyprvpn.at",
       "vyprvpn.be",
@@ -39732,7 +39732,7 @@
     "id": "atlasvpn",
     "name": "AtlasVPN",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "atlasvpn.at",
       "atlasvpn.be",
@@ -39761,7 +39761,7 @@
     "id": "keeper-security",
     "name": "Keeper Security",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "keepersecurity.at",
       "keepersecurity.be",
@@ -39790,7 +39790,7 @@
     "id": "roboform",
     "name": "RoboForm",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "roboform.at",
       "roboform.be",
@@ -39819,7 +39819,7 @@
     "id": "enpass",
     "name": "Enpass",
     "hq_country": "IN",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "enpass.io"
     ]
@@ -39828,7 +39828,7 @@
     "id": "nordpass",
     "name": "NordPass",
     "hq_country": "PA",
-    "eu_status": "mixed",
+    "eu_status": "non-eu",
     "domains": [
       "nordpass.at",
       "nordpass.be",
@@ -39971,7 +39971,7 @@
     "id": "pleasant-password-server",
     "name": "Pleasant Password Server",
     "hq_country": "CA",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "pleasantsolutions.at",
       "pleasantsolutions.be",
@@ -40000,7 +40000,7 @@
     "id": "secret-double-octopus",
     "name": "Secret Double Octopus",
     "hq_country": "IL",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "doubleoctopus.at",
       "doubleoctopus.be",
@@ -40058,7 +40058,7 @@
     "id": "onespan",
     "name": "OneSpan (formerly Vasco)",
     "hq_country": "BE",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "domains": [
       "onespan.at",
       "onespan.be",
@@ -40125,7 +40125,7 @@
     "id": "onfido",
     "name": "Onfido",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "onfido.at",
       "onfido.be",
@@ -40154,7 +40154,7 @@
     "id": "jumio",
     "name": "Jumio",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "jumio.at",
       "jumio.be",
@@ -40212,7 +40212,7 @@
     "id": "signicat",
     "name": "Signicat",
     "hq_country": "NO",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "signicat.at",
       "signicat.be",
@@ -40241,7 +40241,7 @@
     "id": "sumsub",
     "name": "Sumsub",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "sumsub.at",
       "sumsub.be",
@@ -40270,7 +40270,7 @@
     "id": "iproov",
     "name": "iProov",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "iproov.at",
       "iproov.be",
@@ -40299,7 +40299,7 @@
     "id": "bankid",
     "name": "BankID (Norway)",
     "hq_country": "NO",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "bankid.at",
       "bankid.be",
@@ -40384,7 +40384,7 @@
     "id": "swisscom-trust-services",
     "name": "Swisscom Trust Services",
     "hq_country": "CH",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "trustservices.swisscom.com"
     ]
@@ -40422,7 +40422,7 @@
     "id": "runbox",
     "name": "Runbox",
     "hq_country": "NO",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "runbox.at",
       "runbox.be",
@@ -40462,7 +40462,7 @@
     "id": "kolab-now",
     "name": "Kolab Now",
     "hq_country": "CH",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "kolab.org",
       "kolabnow.at",
@@ -40559,7 +40559,7 @@
     "id": "fastmail",
     "name": "Fastmail",
     "hq_country": "AU",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "fastmail.at",
       "fastmail.be",
@@ -40589,7 +40589,7 @@
     "id": "hushmail",
     "name": "Hushmail",
     "hq_country": "CA",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "hushmail.at",
       "hushmail.be",
@@ -40618,7 +40618,7 @@
     "id": "skiff",
     "name": "Skiff (acquired by Notion)",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "skiff.at",
       "skiff.be",
@@ -40647,7 +40647,7 @@
     "id": "boxcryptor",
     "name": "Boxcryptor (acquired by Dropbox)",
     "hq_country": "DE",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "domains": [
       "boxcryptor.at",
       "boxcryptor.be",
@@ -40694,7 +40694,7 @@
     "id": "spideroak",
     "name": "SpiderOak",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "spideroak.at",
       "spideroak.be",
@@ -40723,7 +40723,7 @@
     "id": "sync-com",
     "name": "Sync.com",
     "hq_country": "CA",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "sync.at",
       "sync.be",
@@ -40924,7 +40924,7 @@
     "id": "pfsense",
     "name": "pfSense (Netgate)",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "netgate.at",
       "netgate.be",
@@ -40954,7 +40954,7 @@
     "id": "untangle",
     "name": "Untangle",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "untangle.at",
       "untangle.be",
@@ -41050,7 +41050,7 @@
     "id": "graylog",
     "name": "Graylog",
     "hq_country": "US",
-    "eu_status": "mixed",
+    "eu_status": "non-eu",
     "domains": [
       "graylog.org"
     ]
@@ -41059,7 +41059,7 @@
     "id": "wazuh",
     "name": "Wazuh",
     "hq_country": "US",
-    "eu_status": "mixed",
+    "eu_status": "non-eu",
     "domains": [
       "wazuh.at",
       "wazuh.be",
@@ -41126,7 +41126,7 @@
     "id": "siemplify",
     "name": "Siemplify (acquired by Google)",
     "hq_country": "IL",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "siemplify.co"
     ]
@@ -41135,7 +41135,7 @@
     "id": "chronicle-security",
     "name": "Chronicle Security (Google)",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "chronicle.security"
     ]
@@ -41231,7 +41231,7 @@
     "id": "intruder",
     "name": "Intruder",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "intruder.io"
     ]
@@ -41240,7 +41240,7 @@
     "id": "cobalt",
     "name": "Cobalt",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "cobalt.io"
     ]
@@ -41249,7 +41249,7 @@
     "id": "offensive-security",
     "name": "Offensive Security",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "offsec.at",
       "offsec.be",
@@ -41278,7 +41278,7 @@
     "id": "pen-test-partners",
     "name": "Pen Test Partners",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "pentestpartners.at",
       "pentestpartners.be",
@@ -41452,7 +41452,7 @@
     "id": "macrium-software",
     "name": "Macrium Software",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "macrium.at",
       "macrium.be",
@@ -41481,7 +41481,7 @@
     "id": "carbonite",
     "name": "Carbonite (OpenText)",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "carbonite.at",
       "carbonite.be",
@@ -41510,7 +41510,7 @@
     "id": "nakivo",
     "name": "Nakivo",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "nakivo.at",
       "nakivo.be",
@@ -41539,7 +41539,7 @@
     "id": "vembu-technologies",
     "name": "Vembu Technologies",
     "hq_country": "IN",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "vembu.at",
       "vembu.be",
@@ -41568,7 +41568,7 @@
     "id": "arq-backup",
     "name": "Arq Backup",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "arqbackup.at",
       "arqbackup.be",
@@ -41644,7 +41644,7 @@
     "id": "kopia",
     "name": "Kopia",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "kopia.io"
     ]
@@ -41682,7 +41682,7 @@
     "id": "egress",
     "name": "Egress",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "egress.at",
       "egress.be",
@@ -41711,7 +41711,7 @@
     "id": "tessian",
     "name": "Tessian",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "tessian.at",
       "tessian.be",
@@ -41740,7 +41740,7 @@
     "id": "vade",
     "name": "Vade (formerly Vade Secure)",
     "hq_country": "FR",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "domains": [
       "vadesecure.at",
       "vadesecure.be",
@@ -41856,7 +41856,7 @@
     "id": "duckduckgo",
     "name": "DuckDuckGo",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "duckduckgo.at",
       "duckduckgo.be",
@@ -41885,7 +41885,7 @@
     "id": "brave",
     "name": "Brave",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "brave.at",
       "brave.be",
@@ -41943,7 +41943,7 @@
     "id": "startpage",
     "name": "Startpage",
     "hq_country": "NL",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "domains": [
       "startpage.at",
       "startpage.be",
@@ -42010,7 +42010,7 @@
     "id": "vivaldi",
     "name": "Vivaldi",
     "hq_country": "NO",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "vivaldi.at",
       "vivaldi.be",
@@ -42048,7 +42048,7 @@
     "id": "tor-project",
     "name": "Tor Project",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "torproject.org"
     ]
@@ -42057,7 +42057,7 @@
     "id": "librewolf",
     "name": "LibreWolf",
     "hq_country": "N/",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "librewolf.net"
     ]
@@ -42066,7 +42066,7 @@
     "id": "cynet",
     "name": "Cynet",
     "hq_country": "IL",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "cynet.at",
       "cynet.be",
@@ -42124,7 +42124,7 @@
     "id": "trellix",
     "name": "Trellix",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "trellix.at",
       "trellix.be",
@@ -42153,7 +42153,7 @@
     "id": "carbon-black",
     "name": "Carbon Black (VMware)",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "carbonblack.at",
       "carbonblack.be",
@@ -42182,7 +42182,7 @@
     "id": "huntress",
     "name": "Huntress",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "huntress.at",
       "huntress.be",
@@ -42211,7 +42211,7 @@
     "id": "todyl",
     "name": "Todyl",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "todyl.at",
       "todyl.be",
@@ -42240,7 +42240,7 @@
     "id": "arctic-wolf-networks",
     "name": "Arctic Wolf Networks",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "arcticwolf.at",
       "arcticwolf.be",
@@ -42269,7 +42269,7 @@
     "id": "expel",
     "name": "Expel",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "expel.at",
       "expel.be",
@@ -42298,7 +42298,7 @@
     "id": "red-canary",
     "name": "Red Canary",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "redcanary.at",
       "redcanary.be",
@@ -42327,7 +42327,7 @@
     "id": "blumira",
     "name": "Blumira",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "blumira.at",
       "blumira.be",
@@ -42356,7 +42356,7 @@
     "id": "knowbe4",
     "name": "KnowBe4",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "knowbe4.at",
       "knowbe4.be",
@@ -42443,7 +42443,7 @@
     "id": "immersive-labs",
     "name": "Immersive Labs",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "immersivelabs.at",
       "immersivelabs.be",
@@ -42472,7 +42472,7 @@
     "id": "cybsafe",
     "name": "CybSafe",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "cybsafe.at",
       "cybsafe.be",
@@ -42510,7 +42510,7 @@
     "id": "lucy-security",
     "name": "LUCY Security (now ThriveDX)",
     "hq_country": "CH",
-    "eu_status": "mixed",
+    "eu_status": "european",
     "domains": [
       "lucysecurity.at",
       "lucysecurity.be",
@@ -42539,7 +42539,7 @@
     "id": "digital-guardian",
     "name": "Digital Guardian",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "digitalguardian.at",
       "digitalguardian.be",
@@ -42626,7 +42626,7 @@
     "id": "gtb-technologies",
     "name": "GTB Technologies",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "gtbtechnologies.at",
       "gtbtechnologies.be",
@@ -42655,7 +42655,7 @@
     "id": "netwrix",
     "name": "Netwrix",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "netwrix.at",
       "netwrix.be",
@@ -42684,7 +42684,7 @@
     "id": "cato-networks",
     "name": "Cato Networks",
     "hq_country": "IL",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "catonetworks.at",
       "catonetworks.be",
@@ -42713,7 +42713,7 @@
     "id": "perimeter-81",
     "name": "Perimeter 81",
     "hq_country": "IL",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "perimeter81.at",
       "perimeter81.be",
@@ -42742,7 +42742,7 @@
     "id": "axis-security",
     "name": "Axis Security",
     "hq_country": "IL",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "axissecurity.at",
       "axissecurity.be",
@@ -42771,7 +42771,7 @@
     "id": "zerotier",
     "name": "ZeroTier",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "zerotier.at",
       "zerotier.be",
@@ -42800,7 +42800,7 @@
     "id": "teleport",
     "name": "Teleport",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "goteleport.at",
       "goteleport.be",
@@ -42829,7 +42829,7 @@
     "id": "tailscale",
     "name": "Tailscale",
     "hq_country": "CA",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "tailscale.at",
       "tailscale.be",
@@ -42858,7 +42858,7 @@
     "id": "qualys",
     "name": "Qualys",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "qualys.at",
       "qualys.be",
@@ -42887,7 +42887,7 @@
     "id": "tenable",
     "name": "Tenable",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "tenable.at",
       "tenable.be",
@@ -42916,7 +42916,7 @@
     "id": "rapid7",
     "name": "Rapid7",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "rapid7.at",
       "rapid7.be",
@@ -43012,7 +43012,7 @@
     "id": "pentera",
     "name": "Pentera",
     "hq_country": "IL",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "pentera.io"
     ]
@@ -43021,7 +43021,7 @@
     "id": "sectigo",
     "name": "Sectigo",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "sectigo.at",
       "sectigo.be",
@@ -43050,7 +43050,7 @@
     "id": "globalsign",
     "name": "GlobalSign",
     "hq_country": "BE",
-    "eu_status": "mixed",
+    "eu_status": "eu",
     "domains": [
       "globalsign.at",
       "globalsign.be",
@@ -43097,7 +43097,7 @@
     "id": "buypass",
     "name": "Buypass",
     "hq_country": "NO",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "buypass.at",
       "buypass.be",
@@ -43126,7 +43126,7 @@
     "id": "quovadis",
     "name": "QuoVadis",
     "hq_country": "CH",
-    "eu_status": "mixed",
+    "eu_status": "european",
     "domains": [
       "quovadisglobal.at",
       "quovadisglobal.be",
@@ -43265,7 +43265,7 @@
     "id": "semaphore-ci",
     "name": "Semaphore CI",
     "hq_country": "RS",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "semaphoreci.at",
       "semaphoreci.be",
@@ -43427,7 +43427,7 @@
     "id": "raycast",
     "name": "Raycast",
     "hq_country": "UK",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "raycast.at",
       "raycast.be",
@@ -43542,7 +43542,7 @@
     "id": "yahoo-mail",
     "name": "Yahoo Mail",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "rocketmail.at",
       "rocketmail.be",
@@ -43613,7 +43613,7 @@
     "id": "proton-mail",
     "name": "Proton Mail",
     "hq_country": "CH",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "proton.me",
       "protonmail.at",
@@ -43703,7 +43703,7 @@
     "id": "zoho-mail",
     "name": "Zoho Mail",
     "hq_country": "IN",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "zoho.at",
       "zoho.be",
@@ -43753,7 +43753,7 @@
     "id": "aol-mail",
     "name": "AOL Mail",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "aol.at",
       "aol.be",
@@ -43850,7 +43850,7 @@
     "id": "vk-mail",
     "name": "VK Mail (Mail.ru)",
     "hq_country": "RU",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "bk.ru",
       "inbox.ru",
@@ -43862,7 +43862,7 @@
     "id": "yandex-mail",
     "name": "Yandex Mail",
     "hq_country": "RU",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "ya.ru",
       "yandex.at",
@@ -43987,7 +43987,7 @@
     "id": "vodafone-mail",
     "name": "Vodafone Mail",
     "hq_country": "UK",
-    "eu_status": "mixed",
+    "eu_status": "european",
     "domains": [
       "vodafone.de",
       "vodafone.es",
@@ -43998,7 +43998,7 @@
     "id": "bt-mail",
     "name": "BT Mail",
     "hq_country": "UK",
-    "eu_status": "mixed",
+    "eu_status": "european",
     "domains": [
       "btinternet.at",
       "btinternet.be",
@@ -44048,7 +44048,7 @@
     "id": "virgin-media-mail",
     "name": "Virgin Media Mail",
     "hq_country": "UK",
-    "eu_status": "mixed",
+    "eu_status": "european",
     "domains": [
       "ntlworld.at",
       "ntlworld.be",
@@ -44098,7 +44098,7 @@
     "id": "sky-mail",
     "name": "Sky Mail (UK)",
     "hq_country": "UK",
-    "eu_status": "mixed",
+    "eu_status": "european",
     "domains": [
       "sky.at",
       "sky.be",
@@ -44155,7 +44155,7 @@
     "id": "upc-mail",
     "name": "UPC Mail",
     "hq_country": "CH",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "upcmail.at",
       "upcmail.cz"
@@ -44174,7 +44174,7 @@
     "id": "swisscom-mail",
     "name": "Swisscom Mail",
     "hq_country": "CH",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "bluewin.ch"
     ]
@@ -44183,7 +44183,7 @@
     "id": "sunrise-mail",
     "name": "Sunrise Mail",
     "hq_country": "CH",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "sunrise.ch"
     ]
@@ -44221,7 +44221,7 @@
     "id": "telenor-mail",
     "name": "Telenor Mail",
     "hq_country": "NO",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "online.no",
       "telenor.no"
@@ -44278,7 +44278,7 @@
     "id": "riseup",
     "name": "Riseup",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "riseup.net"
     ]
@@ -44297,7 +44297,7 @@
     "id": "ctemplar",
     "name": "CTemplar",
     "hq_country": "IS",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "ctemplar.at",
       "ctemplar.be",
@@ -44335,7 +44335,7 @@
     "id": "infomaniak-mail",
     "name": "Infomaniak Mail",
     "hq_country": "CH",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "ik.me",
       "infomaniak.at",
@@ -44365,7 +44365,7 @@
     "id": "migadu",
     "name": "Migadu",
     "hq_country": "CH",
-    "eu_status": "eu",
+    "eu_status": "european",
     "domains": [
       "migadu.at",
       "migadu.be",
@@ -44394,7 +44394,7 @@
     "id": "hey",
     "name": "HEY",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "hey.at",
       "hey.be",
@@ -44561,7 +44561,7 @@
     "id": "namecheap-mail",
     "name": "Namecheap Mail",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "privateemail.at",
       "privateemail.be",
@@ -44590,7 +44590,7 @@
     "id": "godaddy-workspace",
     "name": "GoDaddy Workspace",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "godaddy.at",
       "godaddy.be",
@@ -44620,7 +44620,7 @@
     "id": "rackspace-email",
     "name": "Rackspace Email",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "rackspace.at",
       "rackspace.be",
@@ -44649,7 +44649,7 @@
     "id": "amazon-workmail",
     "name": "Amazon WorkMail",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "amazonworkmail.at",
       "amazonworkmail.be",
@@ -44678,7 +44678,7 @@
     "id": "lycos-mail",
     "name": "Lycos Mail",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "lycos.at",
       "lycos.be",
@@ -44707,7 +44707,7 @@
     "id": "rediffmail",
     "name": "Rediffmail",
     "hq_country": "IN",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "rediffmail.at",
       "rediffmail.be",
@@ -44736,7 +44736,7 @@
     "id": "netease-mail",
     "name": "NetEase Mail (163)",
     "hq_country": "CN",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "126.at",
       "126.be",
@@ -44787,7 +44787,7 @@
     "id": "qq-mail",
     "name": "QQ Mail",
     "hq_country": "CN",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "qq.at",
       "qq.be",
@@ -44816,7 +44816,7 @@
     "id": "sina-mail",
     "name": "Sina Mail",
     "hq_country": "CN",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "sina.at",
       "sina.be",
@@ -44846,7 +44846,7 @@
     "id": "naver-mail",
     "name": "Naver Mail",
     "hq_country": "KR",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "naver.at",
       "naver.be",
@@ -44875,7 +44875,7 @@
     "id": "daum-mail",
     "name": "Daum Mail",
     "hq_country": "KR",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "daum.net",
       "hanmail.net"
@@ -44885,7 +44885,7 @@
     "id": "ntt-docomo-mail",
     "name": "NTT Docomo Mail",
     "hq_country": "JP",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "docomo.ne.jp"
     ]
@@ -44894,7 +44894,7 @@
     "id": "gmo-mail",
     "name": "GMO Mail",
     "hq_country": "JP",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "onamae.at",
       "onamae.be",
@@ -45032,7 +45032,7 @@
     "id": "outlook-de",
     "name": "Outlook.de",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "outlook.de"
     ]
@@ -45041,7 +45041,7 @@
     "id": "icloud-de",
     "name": "iCloud.de",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "icloud.de"
     ]
@@ -45087,7 +45087,7 @@
     "id": "mailinator",
     "name": "Mailinator",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "mailinator.at",
       "mailinator.be",
@@ -45116,7 +45116,7 @@
     "id": "guerrilla-mail",
     "name": "Guerrilla Mail",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "guerrillamail.at",
       "guerrillamail.be",
@@ -45154,7 +45154,7 @@
     "id": "10minutemail",
     "name": "10MinuteMail",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "10minutemail.at",
       "10minutemail.be",
@@ -45192,7 +45192,7 @@
     "id": "anonaddy",
     "name": "AnonAddy",
     "hq_country": "UK",
-    "eu_status": "mixed",
+    "eu_status": "european",
     "domains": [
       "anonaddy.at",
       "anonaddy.be",
@@ -45221,7 +45221,7 @@
     "id": "duckduckgo-email",
     "name": "DuckDuckGo Email",
     "hq_country": "US",
-    "eu_status": "eu",
+    "eu_status": "non-eu",
     "domains": [
       "duck.at",
       "duck.be",

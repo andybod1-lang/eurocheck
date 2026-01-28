@@ -13,15 +13,11 @@
   },
   "statusEu": {
     "message": "Empresa Europea",
-    "description": "Status shown for EU companies"
+    "description": "Status shown for EU member state companies"
   },
   "statusNonEu": {
     "message": "Empresa No Europea",
     "description": "Status shown for non-EU companies"
-  },
-  "statusMixed": {
-    "message": "Propiedad Mixta",
-    "description": "Status shown for companies with mixed EU/non-EU ownership"
   },
   "statusUnknown": {
     "message": "Desconocido",
@@ -132,5 +128,9 @@
   "badgeUltimate": {
     "message": "Principal",
     "description": "Badge for ultimate parent in ownership chain"
+  },
+  "statusEuropean": {
+    "message": "European (non-EU)",
+    "description": "Status shown for European companies outside EU (UK, Switzerland, Norway, etc.)"
   }
 }

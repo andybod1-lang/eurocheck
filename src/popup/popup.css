@@ -7,7 +7,7 @@
   
   /* Status Colors */
   --status-eu: #10B981;
-  --status-mixed: #F59E0B;
+  --status-european: #3B82F6;
   --status-non-eu: #EF4444;
   --status-unknown: #6B7280;
   
@@ -145,7 +145,7 @@ body {
 }
 
 .status-badge.eu { background-color: var(--status-eu); }
-.status-badge.mixed { background-color: var(--status-mixed); }
+.status-badge.european { background-color: var(--status-european); }
 .status-badge.non-eu { background-color: var(--status-non-eu); }
 .status-badge.unknown { background-color: var(--status-unknown); }
 
@@ -264,12 +264,12 @@ body {
   border-left: 3px solid var(--status-eu);
 }
 
-.chain-node.is-non-eu {
-  border-left: 3px solid var(--status-non-eu);
+.chain-node.is-european {
+  border-left: 3px solid var(--status-european);
 }
 
-.chain-node.is-mixed {
-  border-left: 3px solid var(--status-mixed);
+.chain-node.is-non-eu {
+  border-left: 3px solid var(--status-non-eu);
 }
 
 .chain-node.is-unknown {
