@@ -96,7 +96,10 @@ function getManifest(browser) {
     manifest.browser_specific_settings = {
       gecko: {
         id: '{e4f7c1b2-8a9d-4b3e-9c5f-6d8a7b2c1e0f}',
-        strict_min_version: '126.0'  // Required for options_page and background.type
+        strict_min_version: '140.0',  // Required for data_collection_permissions
+        data_collection_permissions: {
+          required: ['none']  // Extension does not collect any user data
+        }
       }
     };
     // Firefox MV3 uses background.scripts not service_worker
