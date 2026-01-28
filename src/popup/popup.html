@@ -4,15 +4,16 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>EuroCheck</title>
-  <link rel="stylesheet" href="popup.css">
   <!-- Preload critical resources -->
+  <link rel="preload" href="popup.css" as="style">
   <link rel="preload" href="../icons/icon-32.png" as="image">
+  <link rel="stylesheet" href="popup.css">
 </head>
 <body>
   <div id="app">
     <!-- Header -->
     <header class="header">
-      <img src="../icons/icon-32.png" alt="EuroCheck" class="logo" width="32" height="32">
+      <img src="../icons/icon-32.png" alt="EuroCheck" class="logo" width="32" height="32" loading="eager" decoding="async">
       <span class="title" data-i18n="appTitle">EuroCheck</span>
     </header>
 

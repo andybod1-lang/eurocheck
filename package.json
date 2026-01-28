@@ -4,6 +4,7 @@
   "description": "Browser extension to identify EU vs non-EU company ownership",
   "main": "src/background.js",
   "scripts": {
+    "optimize": "node scripts/optimize-data.js",
     "build:chrome": "node scripts/build.js chrome",
     "build:firefox": "node scripts/build.js firefox",
     "build:safari": "node scripts/build.js safari",

@@ -1,26 +1,30 @@
 /**
- * EuroCheck - Background Service Worker (Optimized)
+ * EuroCheck - Background Service Worker (Memory Optimized)
  * Handles tab updates and badge management
  * 
- * Optimizations:
- * - LRU cache with TTL and size limits
- * - Debounced badge updates
- * - Lazy data loading
- * - Cache persistence to storage
- * - Indexed domain lookup (O(1) vs O(n))
+ * Memory Optimizations (v2):
+ * - Hot/cold data split: domain-index.json (24KB) for badges, lazy-load details
+ * - Minimal cache entries: status code (1 byte) instead of full objects
+ * - Single Map lookup instead of array + Map duplication
+ * - Lazy loading of full company data only when popup requests it
+ * - Status codes: 1=EU, 0=non-EU, 2=mixed, 3=unknown
  */
 
-import { extractDomain, lookupCompany } from './utils/domain.js';
+import { extractDomain } from './utils/domain.js';
 
 // === CONFIGURATION ===
 const CONFIG = {
-  CACHE_MAX_SIZE: 500,          // Max cached domains
+  CACHE_MAX_SIZE: 1000,         // Can store more with minimal entries
   CACHE_TTL_MS: 24 * 60 * 60 * 1000, // 24 hours
   CACHE_PERSIST_INTERVAL: 5 * 60 * 1000, // Persist every 5 minutes
   DEBOUNCE_MS: 150,             // Debounce badge updates
-  CACHE_STORAGE_KEY: 'domainCache',
+  CACHE_STORAGE_KEY: 'domainCacheV2',
   DEBUG_STORAGE_KEY: 'debugMode'
 };
+
+// Status code mapping (memory efficient)
+const STATUS_CODES = { eu: 1, 'non-eu': 0, mixed: 2, unknown: 3 };
+const STATUS_NAMES = ['non-eu', 'eu', 'mixed', 'unknown'];
 
 // === DEBUG LOGGING ===
 let debugMode = false;
@@ -181,141 +185,167 @@ class LRUCache {
 // === STATE ===
 const lookupCache = new LRUCache(CONFIG.CACHE_MAX_SIZE, CONFIG.CACHE_TTL_MS);
 const pendingBadgeUpdates = new Map(); // tabId -> timeoutId
-let companiesData = null;
-let companiesMap = null; // Fast O(1) company lookup by ID
-let domainsData = null;
-let domainIndex = null; // Fast O(1) lookup map
-let dataLoadPromise = null;
+
+// Hot data (always loaded, minimal ~24KB)
+let domainIndex = null; // domain -> {id, s(status), n(name), c(country)}
+let hotDataPromise = null;
+
+// Cold data (lazy loaded on demand, ~130KB)
+let companiesMap = null; // id -> full company object
+let coldDataPromise = null;
+
 let persistTimeout = null;
 
 // === DATA LOADING ===
 
 /**
- * Build domain index for O(1) lookups
+ * Load hot path data (domain index) - minimal footprint
+ * Only loads 24KB needed for badge display
  */
-function buildDomainIndex(domains) {
-  const index = new Map();
-  const len = domains.length;
-  for (let i = 0; i < len; i++) {
-    const entry = domains[i];
-    const domain = entry.domain.toLowerCase();
-    index.set(domain, entry.company_id);
-    // Also index without www
-    if (domain.startsWith('www.')) {
-      index.set(domain.slice(4), entry.company_id);
-    }
-  }
-  return index;
-}
-
-/**
- * Build company ID -> company Map for O(1) lookups
- */
-function buildCompaniesMap(companies) {
-  const map = new Map();
-  const len = companies.length;
-  for (let i = 0; i < len; i++) {
-    map.set(companies[i].id, companies[i]);
-  }
-  return map;
-}
-
-/**
- * Load company and domain data from bundled JSON
- * Uses singleton pattern to prevent multiple loads
- */
-async function loadData() {
-  if (companiesData && domainsData && domainIndex) {
-    debugLog('DATA', 'Data already loaded, skipping');
+async function loadHotData() {
+  if (domainIndex) {
+    debugLog('DATA', 'Hot data already loaded');
     return true;
   }
   
-  // Reuse in-flight promise if already loading
-  if (dataLoadPromise) {
-    debugLog('DATA', 'Data load in progress, reusing promise');
-    return dataLoadPromise;
+  if (hotDataPromise) {
+    debugLog('DATA', 'Hot data load in progress, reusing promise');
+    return hotDataPromise;
   }
   
-  debugLog('DATA', 'Starting data load...');
+  debugLog('DATA', 'Loading hot path data (domain-index.json)...');
   const startTime = performance.now();
   
-  dataLoadPromise = (async () => {
+  hotDataPromise = (async () => {
     try {
-      const [companiesResponse, domainsResponse] = await Promise.all([
-        fetch(chrome.runtime.getURL('data/companies.json')),
-        fetch(chrome.runtime.getURL('data/domains.json'))
-      ]);
-      
-      companiesData = await companiesResponse.json();
-      domainsData = await domainsResponse.json();
-      
-      // Build indexes for O(1) lookups
-      domainIndex = buildDomainIndex(domainsData.domains);
-      companiesMap = buildCompaniesMap(companiesData);
+      const response = await fetch(chrome.runtime.getURL('data/domain-index.json'));
+      domainIndex = await response.json();
       
       const loadTime = Math.round(performance.now() - startTime);
-      console.log(`[EuroCheck] Loaded ${companiesMap.size} companies, ${domainIndex.size} domain mappings`);
-      debugLog('DATA', `Load complete in ${loadTime}ms`, { 
-        companies: companiesData.length, 
-        domains: domainIndex.size 
-      });
+      const domainCount = Object.keys(domainIndex).length;
+      console.log(`[EuroCheck] Loaded ${domainCount} domain mappings in ${loadTime}ms`);
+      debugLog('DATA', `Hot data loaded`, { domains: domainCount, timeMs: loadTime });
       return true;
     } catch (error) {
-      console.error('[EuroCheck] Failed to load data:', error);
-      debugLog('DATA', 'Load FAILED', { error: error.message });
-      dataLoadPromise = null; // Allow retry
+      console.error('[EuroCheck] Failed to load hot data:', error);
+      debugLog('DATA', 'Hot data FAILED', { error: error.message });
+      hotDataPromise = null;
       return false;
     }
   })();
   
-  return dataLoadPromise;
+  return hotDataPromise;
 }
 
 /**
- * Fast company lookup using index
+ * Load cold path data (full company details) - lazy loaded
+ * Only called when popup needs full company info
  */
-function lookupCompanyFast(domain) {
-  if (!domain || !domainIndex || !companiesData) {
+async function loadColdData() {
+  if (companiesMap) {
+    debugLog('DATA', 'Cold data already loaded');
+    return true;
+  }
+  
+  if (coldDataPromise) {
+    debugLog('DATA', 'Cold data load in progress, reusing promise');
+    return coldDataPromise;
+  }
+  
+  debugLog('DATA', 'Loading cold path data (companies-min.json)...');
+  const startTime = performance.now();
+  
+  coldDataPromise = (async () => {
+    try {
+      const response = await fetch(chrome.runtime.getURL('data/companies-min.json'));
+      const companies = await response.json();
+      
+      // Build Map for O(1) lookups
+      companiesMap = new Map();
+      for (const c of companies) {
+        companiesMap.set(c.id, c);
+      }
+      
+      const loadTime = Math.round(performance.now() - startTime);
+      console.log(`[EuroCheck] Loaded ${companiesMap.size} company details in ${loadTime}ms`);
+      debugLog('DATA', `Cold data loaded`, { companies: companiesMap.size, timeMs: loadTime });
+      return true;
+    } catch (error) {
+      console.error('[EuroCheck] Failed to load cold data:', error);
+      debugLog('DATA', 'Cold data FAILED', { error: error.message });
+      coldDataPromise = null;
+      return false;
+    }
+  })();
+  
+  return coldDataPromise;
+}
+
+/**
+ * Fast domain lookup using hot data index
+ * Returns minimal info: {id, status, name, country}
+ */
+function lookupDomainFast(domain) {
+  if (!domain || !domainIndex) {
     debugLog('LOOKUP', `Skipped: ${domain}`, { reason: !domain ? 'no domain' : 'data not loaded' });
     return null;
   }
   
   const normalizedDomain = domain.toLowerCase();
   
-  // Direct lookup
-  let companyId = domainIndex.get(normalizedDomain);
+  // Direct lookup (O(1))
+  let entry = domainIndex[normalizedDomain];
   let lookupMethod = 'direct';
   
-  // Try parent domain for subdomains
-  if (!companyId) {
-    const parts = normalizedDomain.split('.');
-    if (parts.length > 2) {
-      const parentDomain = parts.slice(-2).join('.');
-      companyId = domainIndex.get(parentDomain);
-      if (companyId) {
-        lookupMethod = 'parent';
-        debugLog('LOOKUP', `Parent domain match: ${normalizedDomain} → ${parentDomain}`);
+  // Try without www
+  if (!entry && normalizedDomain.startsWith('www.')) {
+    entry = domainIndex[normalizedDomain.slice(4)];
+    if (entry) lookupMethod = 'no-www';
+  }
+  
+  // Try parent domain for subdomains (O(1))
+  if (!entry) {
+    const dotIndex = normalizedDomain.indexOf('.');
+    if (dotIndex > 0) {
+      const afterFirst = normalizedDomain.slice(dotIndex + 1);
+      if (afterFirst.includes('.')) {
+        entry = domainIndex[afterFirst];
+        if (entry) {
+          lookupMethod = 'parent';
+          debugLog('LOOKUP', `Parent domain match: ${normalizedDomain} → ${afterFirst}`);
+        }
       }
     }
   }
   
-  if (!companyId) {
+  if (!entry) {
     debugLog('LOOKUP', `No match: ${normalizedDomain}`);
     return null;
   }
   
-  // Binary search would be faster with sorted data, but find is fine for <10k entries
-  const company = companiesData.find(c => c.id === companyId) || null;
+  // Convert status code to name
+  const status = STATUS_NAMES[entry.s] || 'unknown';
   
-  if (company) {
-    debugLog('LOOKUP', `Found: ${normalizedDomain}`, { 
-      company: company.name, 
-      status: company.eu_status,
-      method: lookupMethod
-    });
-  }
+  debugLog('LOOKUP', `Found: ${normalizedDomain}`, { 
+    company: entry.n, 
+    status,
+    method: lookupMethod
+  });
   
-  return company;
+  return {
+    id: entry.id,
+    eu_status: status,
+    name: entry.n,
+    hq_country: entry.c
+  };
+}
+
+/**
+ * Get full company details (lazy loads cold data)
+ */
+async function getFullCompanyDetails(companyId) {
+  await loadColdData();
+  return companiesMap?.get(companyId) || null;
 }
 
 // === CACHE PERSISTENCE ===
@@ -397,6 +427,7 @@ function updateBadge(tabId, url) {
 
 /**
  * Immediate badge update (internal)
+ * Memory optimized: caches only status code (1 byte per domain)
  */
 async function updateBadgeImmediate(tabId, url) {
   if (!url || url.startsWith('chrome://') || url.startsWith('about:') || 
@@ -411,10 +442,10 @@ async function updateBadgeImmediate(tabId, url) {
     return;
   }
 
-  // Check cache first (fastest path)
-  const cached = lookupCache.get(domain);
-  if (cached) {
-    setBadgeStatus(tabId, cached.eu_status || 'unknown');
+  // Check cache first - stores only status code for minimal memory
+  const cachedStatus = lookupCache.get(domain);
+  if (cachedStatus !== undefined) {
+    setBadgeStatus(tabId, STATUS_NAMES[cachedStatus] || 'unknown');
     return;
   }
 
@@ -422,26 +453,23 @@ async function updateBadgeImmediate(tabId, url) {
   chrome.action.setBadgeText({ tabId, text: '...' });
   chrome.action.setBadgeBackgroundColor({ tabId, color: BADGE_COLORS.unknown });
 
-  // Ensure data is loaded
-  const loaded = await loadData();
+  // Ensure hot data is loaded (only 24KB)
+  const loaded = await loadHotData();
   if (!loaded) {
     setBadgeStatus(tabId, 'unknown');
     return;
   }
 
-  // Look up company using fast index
-  const company = lookupCompanyFast(domain);
+  // Look up using fast domain index
+  const info = lookupDomainFast(domain);
   
-  if (company) {
-    // Cache with minimal data (memory optimization)
-    lookupCache.set(domain, { 
-      eu_status: company.eu_status,
-      name: company.name,
-      hq_country: company.hq_country
-    });
-    setBadgeStatus(tabId, company.eu_status);
+  if (info) {
+    // Cache only the status code (1 byte vs ~200 bytes for full object)
+    const statusCode = STATUS_CODES[info.eu_status] ?? 3;
+    lookupCache.set(domain, statusCode);
+    setBadgeStatus(tabId, info.eu_status);
   } else {
-    lookupCache.set(domain, { eu_status: 'unknown' });
+    lookupCache.set(domain, 3); // unknown
     setBadgeStatus(tabId, 'unknown');
   }
 }
@@ -510,30 +538,26 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
 
 /**
  * Handle company info request from popup
+ * Lazy loads full company details only when needed
  */
 async function handleGetCompanyInfo(domain) {
-  // Check cache first
-  const cached = lookupCache.get(domain);
-  if (cached && cached.name) {
-    return { company: cached, fromCache: true };
+  // First, get minimal info from hot data
+  await loadHotData();
+  const minimalInfo = lookupDomainFast(domain);
+  
+  if (!minimalInfo) {
+    return { company: null };
   }
   
-  // Load data if needed
-  const loaded = await loadData();
-  if (!loaded) {
-    return { company: null, error: 'Data not loaded' };
+  // Load cold data for full details (popup needs them)
+  const fullCompany = await getFullCompanyDetails(minimalInfo.id);
+  
+  if (fullCompany) {
+    return { company: fullCompany, fromCache: false };
   }
   
-  // Full company lookup
-  const company = lookupCompanyFast(domain);
-  
-  if (company) {
-    // Cache full company data for popup
-    lookupCache.set(domain, company);
-    return { company, fromCache: false };
-  }
-  
-  return { company: null };
+  // Fallback to minimal info if cold data unavailable
+  return { company: minimalInfo, fromCache: false };
 }
 
 // === INITIALIZATION ===
@@ -548,13 +572,15 @@ async function init() {
   // Schedule periodic persistence
   schedulePersistence();
   
-  // Preload data in background
-  loadData();
+  // Preload only hot data in background (24KB, fast)
+  // Cold data (130KB) loads lazily when popup opens
+  loadHotData();
   
-  console.log('[EuroCheck] Background service worker initialized');
+  console.log('[EuroCheck] Background service worker initialized (memory optimized)');
   debugLog('INIT', 'Service worker ready', { 
     cacheSize: lookupCache.size, 
-    debugMode 
+    debugMode,
+    memoryMode: 'hot/cold split'
   });
 }
 

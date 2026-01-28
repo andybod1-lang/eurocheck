@@ -53,12 +53,16 @@ body {
   min-height: 200px;
   max-height: 500px;
   overflow-y: auto;
+  /* GPU acceleration for smoother scrolling */
+  -webkit-overflow-scrolling: touch;
 }
 
 #app {
   display: flex;
   flex-direction: column;
   min-height: 200px;
+  /* Layout containment for performance */
+  contain: layout style;
 }
 
 /* Header */
@@ -106,10 +110,13 @@ body {
   border-top-color: var(--eu-blue);
   border-radius: 50%;
   animation: spin 1s linear infinite;
+  /* GPU acceleration for smooth animation */
+  will-change: transform;
+  transform: translateZ(0);
 }
 
 @keyframes spin {
-  to { transform: rotate(360deg); }
+  to { transform: rotate(360deg) translateZ(0); }
 }
 
 /* Company Info */
@@ -433,11 +440,23 @@ body {
   font-size: 14px;
   font-weight: 500;
   cursor: pointer;
-  transition: background-color 0.2s;
+  /* Optimized transition - only animate specific properties */
+  transition: background-color 0.2s ease-out, transform 0.1s ease-out;
+  /* Prevent layout shift */
+  transform: translateZ(0);
 }
 
 .request-btn:hover {
   background-color: #002266;
+}
+
+.request-btn:active {
+  transform: scale(0.98) translateZ(0);
+}
+
+.request-btn:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
 }
 
 /* Error State */

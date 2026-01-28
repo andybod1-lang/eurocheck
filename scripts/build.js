@@ -36,8 +36,14 @@ const COMMON_FILES = [
   'icons/icon-128.png',
 ];
 
-// Data files to include
+// Data files to include (optimized versions for reduced memory footprint)
 const DATA_FILES = [
+  'domain-index.json',   // Hot path: 24KB (domain -> minimal company info)
+  'companies-min.json',  // Cold path: 130KB (lazy loaded full details)
+];
+
+// Original data files (kept for fallback/debugging)
+const DATA_FILES_ORIGINAL = [
   'companies.json',
   'domains.json',
 ];
@@ -118,10 +124,33 @@ function getManifest(browser) {
 }
 
 /**
+ * Generate optimized data files if needed
+ */
+function ensureOptimizedData() {
+  const domainIndex = path.join(DATA, 'domain-index.json');
+  const companiesMin = path.join(DATA, 'companies-min.json');
+  const companiesOriginal = path.join(DATA, 'companies.json');
+  
+  // Check if optimized files are missing or older than source
+  const needsRebuild = !fs.existsSync(domainIndex) || 
+                       !fs.existsSync(companiesMin) ||
+                       (fs.existsSync(companiesOriginal) && 
+                        fs.statSync(companiesOriginal).mtime > fs.statSync(domainIndex).mtime);
+  
+  if (needsRebuild) {
+    console.log('Generating optimized data files...');
+    execSync('node scripts/optimize-data.js', { cwd: ROOT, stdio: 'inherit' });
+  }
+}
+
+/**
  * Build for a specific browser
  */
 function build(browser) {
   console.log(`Building for ${browser}...`);
+  
+  // Ensure optimized data exists
+  ensureOptimizedData();
   
   const distDir = path.join(DIST, browser);
   
