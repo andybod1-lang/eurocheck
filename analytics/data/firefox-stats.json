@@ -1,0 +1,25 @@
+{
+  "addonSlug": "ublock-origin",
+  "sourceUrl": "https://addons.mozilla.org/api/v5/addons/addon/ublock-origin/",
+  "lastUpdated": "2026-01-29T21:19:42.758Z",
+  "latest": {
+    "timestamp": "2026-01-29T21:19:42.758Z",
+    "addonSlug": "ublock-origin",
+    "sourceUrl": "https://addons.mozilla.org/api/v5/addons/addon/ublock-origin/",
+    "dailyActiveUsers": 10654469,
+    "downloads": 178315,
+    "averageRating": 4.799,
+    "reviewCount": 5597
+  },
+  "history": [
+    {
+      "timestamp": "2026-01-29T21:19:42.758Z",
+      "addonSlug": "ublock-origin",
+      "sourceUrl": "https://addons.mozilla.org/api/v5/addons/addon/ublock-origin/",
+      "dailyActiveUsers": 10654469,
+      "downloads": 178315,
+      "averageRating": 4.799,
+      "reviewCount": 5597
+    }
+  ]
+}
