@@ -1,0 +1,14 @@
+{
+  "name": "analytics",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Analytics collectors for eurocheck",
+  "main": "collectors/chrome-store.js",
+  "scripts": {
+    "collect:chrome": "node collectors/chrome-store.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
