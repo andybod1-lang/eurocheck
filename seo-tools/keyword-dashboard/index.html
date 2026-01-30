@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Keyword Ranking Dashboard - EuroCheck SEO</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📊 Keyword Ranking Dashboard</h1>
+            <div class="header-actions">
+                <button id="themeToggle" class="btn btn-secondary">🌙 Dark Mode</button>
+                <button id="exportBtn" class="btn btn-secondary">📥 Export JSON</button>
+                <label class="btn btn-secondary">
+                    📤 Import JSON
+                    <input type="file" id="importFile" accept=".json" hidden>
+                </label>
+            </div>
+        </header>
+
+        <section class="add-keyword">
+            <h2>Add New Keyword</h2>
+            <form id="addKeywordForm">
+                <input type="text" id="keywordInput" placeholder="Enter keyword..." required>
+                <input type="number" id="positionInput" placeholder="Current position" min="1" max="100" required>
+                <button type="submit" class="btn btn-primary">+ Add Keyword</button>
+            </form>
+        </section>
+
+        <section class="keywords-table">
+            <h2>Tracked Keywords</h2>
+            <table id="keywordsTable">
+                <thead>
+                    <tr>
+                        <th>Keyword</th>
+                        <th>Current Rank</th>
+                        <th>Previous Rank</th>
+                        <th>Change</th>
+                        <th>7-Day Trend</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody id="keywordsBody">
+                    <!-- Populated by JavaScript -->
+                </tbody>
+            </table>
+        </section>
+
+        <section class="chart-section">
+            <h2>Position History (Last 7 Days)</h2>
+            <div class="chart-container">
+                <canvas id="historyChart"></canvas>
+            </div>
+        </section>
+
+        <section class="stats">
+            <div class="stat-card">
+                <h3>Total Keywords</h3>
+                <span id="totalKeywords">0</span>
+            </div>
+            <div class="stat-card">
+                <h3>Avg. Position</h3>
+                <span id="avgPosition">-</span>
+            </div>
+            <div class="stat-card improved">
+                <h3>Improved</h3>
+                <span id="improvedCount">0</span>
+            </div>
+            <div class="stat-card declined">
+                <h3>Declined</h3>
+                <span id="declinedCount">0</span>
+            </div>
+        </section>
+    </div>
+
+    <script src="dashboard.js"></script>
+</body>
+</html>
