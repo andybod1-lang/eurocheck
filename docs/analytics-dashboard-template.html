@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EuroCheck Analytics Dashboard - MVP</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+        }
+        
+        body {
+            background: #f5f7fa;
+            color: #333;
+            line-height: 1.6;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 2rem;
+            border-radius: 12px;
+            margin-bottom: 2rem;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .subtitle {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        
+        .stat-card {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        
+        .stat-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        
+        .stat-value {
+            font-size: 2.5rem;
+            font-weight: bold;
+            color: #667eea;
+            margin-bottom: 0.5rem;
+        }
+        
+        .stat-label {
+            font-size: 0.9rem;
+            color: #666;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        .chart-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+            gap: 2rem;
+            margin-bottom: 2rem;
+        }
+        
+        .chart-container {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+        }
+        
+        .chart-title {
+            font-size: 1.2rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            color: #333;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+        }
+        
+        th, td {
+            padding: 1rem;
+            text-align: left;
+            border-bottom: 1px solid #eee;
+        }
+        
+        th {
+            background: #f8f9fa;
+            font-weight: 600;
+            color: #555;
+        }
+        
+        tr:hover {
+            background: #f8f9fa;
+        }
+        
+        .eu-badge {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+        
+        .eu-badge.eu {
+            background: #d4edda;
+            color: #155724;
+        }
+        
+        .eu-badge.non-eu {
+            background: #f8d7da;
+            color: #721c24;
+        }
+        
+        .eu-badge.european {
+            background: #fff3cd;
+            color: #856404;
+        }
+        
+        .last-updated {
+            text-align: center;
+            color: #666;
+            font-size: 0.9rem;
+            margin-top: 2rem;
+            padding-top: 1rem;
+            border-top: 1px solid #eee;
+        }
+        
+        @media (max-width: 768px) {
+            .chart-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .chart-container {
+                padding: 1rem;
+            }
+            
+            header {
+                padding: 1.5rem;
+            }
+            
+            h1 {
+                font-size: 2rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>EuroCheck Analytics Dashboard</h1>
+            <p class="subtitle">MVP - Company Database Insights</p>
+        </header>
+        
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-value" id="total-companies">Loading...</div>
+                <div class="stat-label">Total Companies</div>
+            </div>
+            
+            <div class="stat-card">
+                <div class="stat-value" id="eu-companies">Loading...</div>
+                <div class="stat-label">EU Companies</div>
+            </div>
+            
+            <div class="stat-card">
+                <div class="stat-value" id="recent-additions">Loading...</div>
+                <div class="stat-label">Recent Additions (30 days)</div>
+            </div>
+            
+            <div class="stat-card">
+                <div class="stat-value" id="total-searches">Loading...</div>
+                <div class="stat-label">Total Searches (7 days)</div>
+            </div>
+        </div>
+        
+        <div class="chart-grid">
+            <div class="chart-container">
+                <h2 class="chart-title">Company Count by Country (Top 10)</h2>
+                <canvas id="countryChart"></canvas>
+            </div>
+            
+            <div class="chart-container">
+                <h2 class="chart-title">Search Trends (Last 7 Days)</h2>
+                <canvas id="searchTrendChart"></canvas>
+            </div>
+        </div>
+        
+        <div class="chart-container">
+            <h2 class="chart-title">Recent Company Additions</h2>
+            <table id="recentAdditionsTable">
+                <thead>
+                    <tr>
+                        <th>Company Name</th>
+                        <th>HQ Country</th>
+                        <th>EU Status</th>
+                        <th>Added Date</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr><td colspan="4">Loading data...</td></tr>
+                </tbody>
+            </table>
+        </div>
+        
+        <div class="last-updated">
+            Last updated: <span id="lastUpdated">Loading...</span>
+        </div>
+    </div>
+
+    <script>
+        // Sample data for MVP demonstration
+        // In production, this would be loaded from analytics-mvp.json
+        
+        const sampleData = {
+            generated_at: new Date().toISOString(),
+            company_count_by_country: {
+                totalCompanies: 1250,
+                topCountries: [
+                    ["DE", 245],
+                    ["FR", 189],
+                    ["UK", 156],
+                    ["IT", 132],
+                    ["ES", 98],
+                    ["NL", 87],
+                    ["SE", 76],
+                    ["PL", 65],
+                    ["BE", 54],
+                    ["DK", 43]
+                ],
+                euStatusBreakdown: {
+                    "eu": 850,
+                    "european": 250,
+                    "non-eu": 150
+                }
+            },
+            recent_additions: {
+                count: 20,
+                period: "30 days",
+                additions: [
+                    { id: "company1", name: "TechCorp Germany", hq_country: "DE", eu_status: "eu", added_date: "2026-01-30" },
+                    { id: "company2", name: "FashionStore France", hq_country: "FR", eu_status: "eu", added_date: "2026-01-29" },
+                    { id: "company3", name: "FoodMarket Italy", hq_country: "IT", eu_status: "eu", added_date: "2026-01-28" },
+                    { id: "company4", name: "Electronics UK", hq_country: "UK", eu_status: "european", added_date: "2026-01-27" },
+                    { id: "company5", name: "DesignStudio Spain", hq_country: "ES", eu_status: "eu", added_date: "2026-01-26" },
+                    { id: "company6", name: "Software NL", hq_country: "NL", eu_status: "eu", added_date: "2026-01-25" },
+                    { id: "company7", name: "AutoParts DE", hq_country: "DE", eu_status: "eu", added_date: "2026-01-24" },
+                    { id: "company8", name: "US Tech Inc", hq_country: "US", eu_status: "non-eu", added_date: "2026-01-23" }
+                ]
+            },
+            search_trends: {
+                period: "7 days",
+                topSearches: [
+                    { domain: "amazon.com", count: 245, trend: "up" },
+                    { domain: "zalando.com", count: 189, trend: "up" },
+                    { domain: "aliexpress.com", count: 156, trend: "down" },
+                    { domain: "ebay.com", count: 132, trend: "stable" },
+                    { domain: "mediamarkt.com", count: 98, trend: "up" }
+                ],
+                dailyTrend: [
+                    { date: "2026-01-24", searches: 420 },
+                    { date: "2026-01-25", searches: 380 },
+                    { date: "2026-01-26", searches: 450 },
+                    { date: "2026-01-27", searches: 520 },
+                    { date: "2026-01-28", searches: 480 },
+                    { date: "2026-01-29", searches: 510 },
+                    { date: "2026-01-30", searches: 490 }
+                ],
+                totalSearches: 3250
+            }
+        };
+
+        // Initialize dashboard with sample data
+        function initDashboard(data) {
+            // Update stats
+            document.getElementById('total-companies').textContent = 
+                data.company_count_by_country.totalCompanies.toLocaleString();
+            
+            document.getElementById('eu-companies').textContent = 
+                data.company_count_by_country.euStatusBreakdown.eu.toLocaleString();
+            
+            document.getElementById('recent-additions').textContent = 
+                data.recent_additions.count;
+            
+            document.getElementById('total-searches').textContent = 
+                data.search_trends.totalSearches.toLocaleString();
+            
+            document.getElementById('lastUpdated').textContent = 
+                new Date(data.generated_at).toLocaleString();
+            
+            // Create country chart
+            const countryCtx = document.getElementById('countryChart').getContext('2d');
+            const countryLabels = data.company_count_by_country.topCountries.map(c => c[0]);
+            const countryData = data.company_count_by_country.topCountries.map(c => c[1]);
+            
+            new Chart(countryCtx, {
+                type: 'bar',
+                data: {
+                    labels: countryLabels,
+                    datasets: [{
+                        label: 'Number of Companies',
+                        data: countryData,
+                        backgroundColor: 'rgba(102, 126, 234, 0.7)',
+                        borderColor: 'rgba(102, 126, 234, 1)',
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        legend: {
+                            display: false
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            title: {
+                                display: true,
+                                text: 'Number of Companies'
+                            }
+                        },
+                        x: {
+                            title: {
+                                display: true,
+                                text: 'Country Code'
+                            }
+                        }
+                    }
+                }
+            });
+            
+            // Create search trend chart
+            const trendCtx = document.getElementById('searchTrendChart').getContext('2d');
+            const trendLabels = data.search_trends.dailyTrend.map(d => d.date.split('-').slice(1).join('-'));
+            const trendData = data.search_trends.dailyTrend.map(d => d.searches);
+            
+            new Chart(trendCtx, {
+                type: 'line',
+                data: {
+                    labels: trendLabels,
+                    datasets: [{
+                        label: 'Daily Searches',
+                        data: trendData,
+                        backgroundColor: 'rgba(118, 75, 162, 0.1)',
+                        borderColor: 'rgba(118, 75, 162, 1)',
+                        borderWidth: 2,
+                        tension: 0.1,
+                        fill: true
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        legend: {
+                            display: true,
+                            position: 'top'
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            title: {
+                                display: true,
+                                text: 'Number of Searches'
+                            }
+                        },
+                        x: {
+                            title: {
+                                display: true,
+                                text: 'Date'
+                            }
+                        }
+                    }
+                }
+            });
+            
+            // Populate recent additions table
+            const tableBody = document.querySelector('#recentAdditionsTable tbody');
+            tableBody.innerHTML = '';
+            
+            data.recent_additions.additions.forEach(company => {
+                const row = document.createElement('tr');
+                
+                const euStatusClass = `eu-badge ${company.eu_status}`;
+                const euStatusText = company.eu_status.toUpperCase();
+                
+                row.innerHTML = `
+                    <td>${company.name}</td>
+                    <td>${company.hq_country}</td>
+                    <td><span class="${euStatusClass}">${euStatusText}</span></td>
+                    <td>${company.added_date}</td>
+                `;
+                
+                tableBody.appendChild(row);
+            });
+        }
+        
+        // Load data (in production, this would fetch from analytics-mvp.json)
+        function loadData() {
+            // For MVP demo, use sample data
+            // In production: fetch('/data/analytics-mvp.json').then(...)
+            setTimeout(() => {
+                initDashboard(sampleData);
+            }, 500); // Simulate loading delay
+        }
+        
+        // Initialize dashboard when page loads
+        document.addEventListener('DOMContentLoaded', loadData);
+    </script>
+</body>
+</html>

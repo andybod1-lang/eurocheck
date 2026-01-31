@@ -1,0 +1,71 @@
+{
+  "generatedAt": "2026-01-30T02:48:33.257Z",
+  "competitorsAnalyzed": 3,
+  "totalReviewsAnalyzed": 0,
+  "competitors": [
+    {
+      "name": "Honey",
+      "platform": "chrome",
+      "reviewCount": 0,
+      "sentiment": {
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0
+      },
+      "topComplaints": [],
+      "topPraise": []
+    },
+    {
+      "name": "RetailMeNot",
+      "platform": "chrome",
+      "reviewCount": 0,
+      "sentiment": {
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0
+      },
+      "topComplaints": [],
+      "topPraise": []
+    },
+    {
+      "name": "CamelCamelCamel",
+      "platform": "chrome",
+      "reviewCount": 0,
+      "sentiment": {
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0
+      },
+      "topComplaints": [],
+      "topPraise": []
+    }
+  ],
+  "topComplaints": [],
+  "topPraise": [],
+  "topFeatureRequests": [],
+  "complaintCategorySummary": {
+    "performance": 0,
+    "bugs": 0,
+    "privacy": 0,
+    "ui": 0,
+    "accuracy": 0,
+    "updates": 0,
+    "compatibility": 0
+  },
+  "praiseCategorySummary": {
+    "savings": 0,
+    "ease": 0,
+    "reliability": 0,
+    "speed": 0,
+    "coverage": 0,
+    "alerts": 0
+  },
+  "opportunities": [],
+  "recommendations": [
+    "Focus on performance - competitors receive many complaints about slowness",
+    "Make privacy a key differentiator - users are increasingly concerned about data",
+    "Keep the UI minimal and non-intrusive - popup fatigue is common",
+    "Ensure price data accuracy - wrong prices damage trust quickly",
+    "Provide clear value proposition - savings tracking resonates well"
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "EuroCheck Analytics Schema",
+  "description": "Data schema for tracking extension metrics, user engagement, and growth",
+  "version": "1.0.0",
+  
+  "definitions": {
+    "dailySnapshot": {
+      "type": "object",
+      "properties": {
+        "date": {
+          "type": "string",
+          "format": "date",
+          "description": "YYYY-MM-DD format"
+        },
+        "chrome": {
+          "$ref": "#/definitions/storeMetrics"
+        },
+        "firefox": {
+          "$ref": "#/definitions/storeMetrics"
+        },
+        "edge": {
+          "$ref": "#/definitions/storeMetrics"
+        },
+        "totals": {
+          "type": "object",
+          "properties": {
+            "totalUsers": { "type": "integer" },
+            "totalInstalls": { "type": "integer" },
+            "totalReviews": { "type": "integer" },
+            "avgRating": { "type": "number" }
+          }
+        }
+      },
+      "required": ["date"]
+    },
+    
+    "storeMetrics": {
+      "type": "object",
+      "properties": {
+        "users": {
+          "type": "integer",
+          "description": "Weekly active users"
+        },
+        "installs": {
+          "type": "integer",
+          "description": "Total installs"
+        },
+        "uninstalls": {
+          "type": "integer",
+          "description": "Uninstalls in period"
+        },
+        "rating": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 5
+        },
+        "reviewCount": {
+          "type": "integer"
+        },
+        "version": {
+          "type": "string",
+          "pattern": "^\\d+\\.\\d+\\.\\d+$"
+        }
+      }
+    },
+    
+    "usageMetrics": {
+      "type": "object",
+      "properties": {
+        "date": { "type": "string", "format": "date" },
+        "priceChecks": {
+          "type": "integer",
+          "description": "Number of price comparisons performed"
+        },
+        "uniqueUsers": {
+          "type": "integer",
+          "description": "Unique users who triggered extension"
+        },
+        "savingsTracked": {
+          "type": "number",
+          "description": "Total EUR savings found"
+        },
+        "topCategories": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "category": { "type": "string" },
+              "count": { "type": "integer" }
+            }
+          }
+        },
+        "topCountries": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "country": { "type": "string" },
+              "count": { "type": "integer" }
+            }
+          }
+        }
+      }
+    },
+    
+    "competitorSnapshot": {
+      "type": "object",
+      "properties": {
+        "date": { "type": "string", "format": "date" },
+        "competitors": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": { "type": "string" },
+              "store": { "type": "string", "enum": ["chrome", "firefox", "edge"] },
+              "users": { "type": "integer" },
+              "rating": { "type": "number" },
+              "reviewCount": { "type": "integer" },
+              "version": { "type": "string" },
+              "lastUpdated": { "type": "string", "format": "date" }
+            }
+          }
+        }
+      }
+    },
+    
+    "trafficSnapshot": {
+      "type": "object",
+      "properties": {
+        "date": { "type": "string", "format": "date" },
+        "landing": {
+          "type": "object",
+          "properties": {
+            "visitors": { "type": "integer" },
+            "pageviews": { "type": "integer" },
+            "bounceRate": { "type": "number" },
+            "avgTimeOnPage": { "type": "number" },
+            "topSources": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "source": { "type": "string" },
+                  "visitors": { "type": "integer" },
+                  "conversions": { "type": "integer" }
+                }
+              }
+            }
+          }
+        },
+        "storePages": {
+          "type": "object",
+          "properties": {
+            "chromePageViews": { "type": "integer" },
+            "firefoxPageViews": { "type": "integer" },
+            "conversionRate": { "type": "number" }
+          }
+        }
+      }
+    },
+    
+    "growthMetrics": {
+      "type": "object",
+      "properties": {
+        "period": { "type": "string", "enum": ["daily", "weekly", "monthly"] },
+        "startDate": { "type": "string", "format": "date" },
+        "endDate": { "type": "string", "format": "date" },
+        "userGrowth": {
+          "type": "object",
+          "properties": {
+            "absolute": { "type": "integer" },
+            "percentage": { "type": "number" }
+          }
+        },
+        "installGrowth": {
+          "type": "object",
+          "properties": {
+            "absolute": { "type": "integer" },
+            "percentage": { "type": "number" }
+          }
+        },
+        "retentionRate": { "type": "number" },
+        "churnRate": { "type": "number" }
+      }
+    },
+    
+    "alertConfig": {
+      "type": "object",
+      "properties": {
+        "name": { "type": "string" },
+        "metric": { "type": "string" },
+        "condition": { "type": "string", "enum": ["above", "below", "change_above", "change_below"] },
+        "threshold": { "type": "number" },
+        "channel": { "type": "string", "enum": ["telegram", "email"] },
+        "enabled": { "type": "boolean" }
+      }
+    }
+  },
+  
+  "type": "object",
+  "properties": {
+    "meta": {
+      "type": "object",
+      "properties": {
+        "extensionId": { "type": "string" },
+        "extensionName": { "type": "string" },
+        "createdAt": { "type": "string", "format": "date-time" },
+        "lastUpdated": { "type": "string", "format": "date-time" },
+        "schemaVersion": { "type": "string" }
+      }
+    },
+    "daily": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/dailySnapshot" }
+    },
+    "usage": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/usageMetrics" }
+    },
+    "competitors": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/competitorSnapshot" }
+    },
+    "traffic": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/trafficSnapshot" }
+    },
+    "growth": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/growthMetrics" }
+    },
+    "alerts": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/alertConfig" }
+    }
+  }
+}

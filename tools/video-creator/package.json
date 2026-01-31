@@ -1,0 +1,21 @@
+{
+  "name": "video-creator",
+  "version": "1.0.0",
+  "description": "Short video creator CLI for browser extension marketing",
+  "main": "video-creator.js",
+  "bin": {
+    "video-creator": "./video-creator.js"
+  },
+  "scripts": {
+    "start": "node video-creator.js",
+    "test": "node video-creator.js --help"
+  },
+  "dependencies": {
+    "commander": "^12.0.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "ffmpeg-static": "^5.2.0"
+  },
+  "keywords": ["video", "creator", "marketing", "shorts", "social-media"],
+  "author": "Pekka",
+  "license": "MIT"
+}

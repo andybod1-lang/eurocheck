@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FAQ — EuroCheck | Common Questions About the Extension</title>
+  <meta name="description" content="Frequently asked questions about EuroCheck browser extension. Learn how it works, what stores are supported, privacy policy, and more.">
+  
+  <!-- Canonical URL -->
+  <link rel="canonical" href="https://eurocheck.eu/faq">
+  
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://eurocheck.eu/faq">
+  <meta property="og:title" content="FAQ — EuroCheck Browser Extension">
+  <meta property="og:description" content="Common questions about EuroCheck. How it works, supported stores, privacy, and more.">
+  <meta property="og:image" content="https://eurocheck.eu/og-image.png">
+  
+  <!-- Theme -->
+  <meta name="theme-color" content="#003399">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🇪🇺</text></svg>">
+  
+  <!-- FAQ Schema Markup -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is EuroCheck?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "EuroCheck is a free browser extension that instantly shows whether online shops and websites are European-owned. It displays a small badge on sites, helping you easily identify and support European businesses while shopping online."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How does EuroCheck work?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "EuroCheck maintains a curated database of thousands of European e-commerce companies. When you visit a website, the extension checks if it matches our database and displays a visual indicator. The check happens locally and instantly — no data is sent to external servers."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which browsers are supported?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "EuroCheck works on Chrome, Firefox, Edge, Brave, and other Chromium-based browsers. Both desktop and Android versions are supported where extensions are available."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is EuroCheck free?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, EuroCheck is completely free to use. There are no premium features, subscriptions, or hidden costs. We believe in transparent European commerce for everyone."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What stores does EuroCheck recognize?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Our database includes over 20,000 European e-commerce companies across all industries — from fashion and electronics to food, sports, and home goods. We're continuously expanding our coverage."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does EuroCheck collect my browsing data?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No. EuroCheck operates entirely locally in your browser. We don't collect, store, or transmit your browsing history, personal information, or any other data. Your privacy is fully protected."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How can I suggest a company to add?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "We welcome suggestions! If you know a European company that should be in our database, contact us via our GitHub repository or email. Include the company name, website, and country of origin."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do you verify if a company is European?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "We research each company's headquarters location, ownership structure, and incorporation details. A company is considered European if it's headquartered and primarily owned in an EU/EEA country, UK, or Switzerland."
+        }
+      }
+    ]
+  }
+  </script>
+  
+  <style>
+    :root {
+      --eu-blue: #003399;
+      --eu-yellow: #FFCC00;
+      --text-primary: #1a1a2e;
+      --text-secondary: #4a4a68;
+      --bg-light: #f8f9ff;
+      --border-color: #e1e5f0;
+    }
+    
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+      line-height: 1.6;
+      color: var(--text-primary);
+      background: #fff;
+    }
+    
+    /* Navigation */
+    nav {
+      background: var(--eu-blue);
+      padding: 1rem 2rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    
+    .logo {
+      color: #fff;
+      font-size: 1.5rem;
+      font-weight: bold;
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    
+    .logo span {
+      font-size: 1.8rem;
+    }
+    
+    nav a:not(.logo) {
+      color: rgba(255,255,255,0.9);
+      text-decoration: none;
+      margin-left: 2rem;
+    }
+    
+    nav a:not(.logo):hover {
+      color: var(--eu-yellow);
+    }
+    
+    /* Main Content */
+    main {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 3rem 1.5rem;
+    }
+    
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 0.5rem;
+      color: var(--eu-blue);
+    }
+    
+    .subtitle {
+      font-size: 1.2rem;
+      color: var(--text-secondary);
+      margin-bottom: 3rem;
+    }
+    
+    /* FAQ Items */
+    .faq-item {
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      margin-bottom: 1rem;
+      overflow: hidden;
+      transition: box-shadow 0.2s;
+    }
+    
+    .faq-item:hover {
+      box-shadow: 0 4px 12px rgba(0,51,153,0.08);
+    }
+    
+    .faq-question {
+      width: 100%;
+      background: var(--bg-light);
+      border: none;
+      padding: 1.25rem 1.5rem;
+      text-align: left;
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--text-primary);
+      cursor: pointer;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    
+    .faq-question:hover {
+      background: #f0f3ff;
+    }
+    
+    .faq-question::after {
+      content: '+';
+      font-size: 1.5rem;
+      color: var(--eu-blue);
+      transition: transform 0.2s;
+    }
+    
+    .faq-item.open .faq-question::after {
+      transform: rotate(45deg);
+    }
+    
+    .faq-answer {
+      padding: 0 1.5rem;
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.3s ease, padding 0.3s ease;
+    }
+    
+    .faq-item.open .faq-answer {
+      padding: 1.25rem 1.5rem;
+      max-height: 300px;
+    }
+    
+    .faq-answer p {
+      color: var(--text-secondary);
+      line-height: 1.7;
+    }
+    
+    /* Back Link */
+    .back-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      color: var(--eu-blue);
+      text-decoration: none;
+      margin-bottom: 2rem;
+      font-weight: 500;
+    }
+    
+    .back-link:hover {
+      text-decoration: underline;
+    }
+    
+    /* CTA */
+    .cta-section {
+      margin-top: 4rem;
+      padding: 2.5rem;
+      background: linear-gradient(135deg, var(--eu-blue) 0%, #004494 100%);
+      border-radius: 16px;
+      text-align: center;
+      color: #fff;
+    }
+    
+    .cta-section h2 {
+      font-size: 1.8rem;
+      margin-bottom: 1rem;
+    }
+    
+    .cta-section p {
+      opacity: 0.9;
+      margin-bottom: 1.5rem;
+    }
+    
+    .cta-button {
+      display: inline-block;
+      background: var(--eu-yellow);
+      color: var(--eu-blue);
+      padding: 0.875rem 2rem;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: 600;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+    
+    .cta-button:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    }
+    
+    /* Footer */
+    footer {
+      background: var(--bg-light);
+      padding: 2rem;
+      text-align: center;
+      color: var(--text-secondary);
+      font-size: 0.9rem;
+      margin-top: 4rem;
+    }
+    
+    footer a {
+      color: var(--eu-blue);
+      text-decoration: none;
+    }
+    
+    footer a:hover {
+      text-decoration: underline;
+    }
+    
+    /* Responsive */
+    @media (max-width: 600px) {
+      h1 {
+        font-size: 2rem;
+      }
+      
+      .faq-question {
+        font-size: 1rem;
+        padding: 1rem 1.25rem;
+      }
+      
+      nav {
+        flex-direction: column;
+        gap: 1rem;
+      }
+      
+      nav a:not(.logo) {
+        margin-left: 0;
+        margin-right: 1.5rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <a href="/" class="logo"><span>🇪🇺</span> EuroCheck</a>
+    <div>
+      <a href="/">Home</a>
+      <a href="/faq">FAQ</a>
+      <a href="/privacy">Privacy</a>
+    </div>
+  </nav>
+  
+  <main>
+    <a href="/" class="back-link">← Back to Home</a>
+    
+    <h1>Frequently Asked Questions</h1>
+    <p class="subtitle">Everything you need to know about EuroCheck</p>
+    
+    <div class="faq-list">
+      <div class="faq-item">
+        <button class="faq-question">What is EuroCheck?</button>
+        <div class="faq-answer">
+          <p>EuroCheck is a free browser extension that instantly shows whether online shops and websites are European-owned. It displays a small badge on sites, helping you easily identify and support European businesses while shopping online.</p>
+        </div>
+      </div>
+      
+      <div class="faq-item">
+        <button class="faq-question">How does EuroCheck work?</button>
+        <div class="faq-answer">
+          <p>EuroCheck maintains a curated database of thousands of European e-commerce companies. When you visit a website, the extension checks if it matches our database and displays a visual indicator. The check happens locally and instantly — no data is sent to external servers.</p>
+        </div>
+      </div>
+      
+      <div class="faq-item">
+        <button class="faq-question">Which browsers are supported?</button>
+        <div class="faq-answer">
+          <p>EuroCheck works on Chrome, Firefox, Edge, Brave, and other Chromium-based browsers. Both desktop and Android versions are supported where extensions are available.</p>
+        </div>
+      </div>
+      
+      <div class="faq-item">
+        <button class="faq-question">Is EuroCheck free?</button>
+        <div class="faq-answer">
+          <p>Yes, EuroCheck is completely free to use. There are no premium features, subscriptions, or hidden costs. We believe in transparent European commerce for everyone.</p>
+        </div>
+      </div>
+      
+      <div class="faq-item">
+        <button class="faq-question">What stores does EuroCheck recognize?</button>
+        <div class="faq-answer">
+          <p>Our database includes over 20,000 European e-commerce companies across all industries — from fashion and electronics to food, sports, and home goods. We're continuously expanding our coverage.</p>
+        </div>
+      </div>
+      
+      <div class="faq-item">
+        <button class="faq-question">Does EuroCheck collect my browsing data?</button>
+        <div class="faq-answer">
+          <p>No. EuroCheck operates entirely locally in your browser. We don't collect, store, or transmit your browsing history, personal information, or any other data. Your privacy is fully protected.</p>
+        </div>
+      </div>
+      
+      <div class="faq-item">
+        <button class="faq-question">How can I suggest a company to add?</button>
+        <div class="faq-answer">
+          <p>We welcome suggestions! If you know a European company that should be in our database, contact us via our GitHub repository or email. Include the company name, website, and country of origin.</p>
+        </div>
+      </div>
+      
+      <div class="faq-item">
+        <button class="faq-question">How do you verify if a company is European?</button>
+        <div class="faq-answer">
+          <p>We research each company's headquarters location, ownership structure, and incorporation details. A company is considered European if it's headquartered and primarily owned in an EU/EEA country, UK, or Switzerland.</p>
+        </div>
+      </div>
+    </div>
+    
+    <section class="cta-section">
+      <h2>Ready to Support European Businesses?</h2>
+      <p>Install EuroCheck now — it's free and takes just seconds.</p>
+      <a href="https://chrome.google.com/webstore/detail/eurocheck" class="cta-button">Add to Chrome — Free</a>
+    </section>
+  </main>
+  
+  <footer>
+    <p>© 2026 EuroCheck. Made with 🇪🇺 in Europe.</p>
+    <p><a href="/">Home</a> · <a href="/faq">FAQ</a> · <a href="/privacy">Privacy Policy</a> · <a href="https://github.com/andybod1-lang/eurocheck">GitHub</a></p>
+  </footer>
+  
+  <script>
+    // FAQ accordion functionality
+    document.querySelectorAll('.faq-question').forEach(button => {
+      button.addEventListener('click', () => {
+        const item = button.parentElement;
+        const wasOpen = item.classList.contains('open');
+        
+        // Close all items
+        document.querySelectorAll('.faq-item').forEach(i => i.classList.remove('open'));
+        
+        // Open clicked item if it wasn't already open
+        if (!wasOpen) {
+          item.classList.add('open');
+        }
+      });
+    });
+    
+    // Open first item by default
+    document.querySelector('.faq-item')?.classList.add('open');
+  </script>
+</body>
+</html>

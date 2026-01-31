@@ -1,0 +1,20 @@
+{
+  "name": "eurocheck-screenshot-generator",
+  "version": "1.0.0",
+  "description": "Automated screenshot generator with annotation and branding",
+  "main": "index.js",
+  "bin": {
+    "screenshot": "./index.js"
+  },
+  "scripts": {
+    "test": "node index.js --help"
+  },
+  "dependencies": {
+    "commander": "^11.1.0",
+    "puppeteer": "^21.6.1",
+    "sharp": "^0.33.2"
+  },
+  "keywords": ["screenshot", "automation", "puppeteer", "annotation"],
+  "author": "EuroCheck Team",
+  "license": "MIT"
+}

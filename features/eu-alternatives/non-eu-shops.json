@@ -1,0 +1,648 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "1.0.0",
+  "updated": "2025-07-13",
+  "description": "Non-EU online shops detected by EuroCheck for alternative suggestions",
+  "shops": [
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "headquarters": "US",
+      "company": "Amazon.com, Inc.",
+      "categories": ["general", "electronics", "fashion", "home", "toys"],
+      "domains": [
+        "amazon.com",
+        "amazon.de",
+        "amazon.fr",
+        "amazon.it",
+        "amazon.es",
+        "amazon.nl",
+        "amazon.pl",
+        "amazon.se",
+        "amazon.co.uk",
+        "amazon.at",
+        "amazon.be",
+        "amazon.ie"
+      ],
+      "notes": "US company despite EU domain presence. Data processed in US."
+    },
+    {
+      "id": "aliexpress",
+      "name": "AliExpress",
+      "headquarters": "CN",
+      "company": "Alibaba Group",
+      "categories": ["general", "electronics", "fashion", "home"],
+      "domains": [
+        "aliexpress.com",
+        "aliexpress.ru",
+        "de.aliexpress.com",
+        "fr.aliexpress.com",
+        "es.aliexpress.com",
+        "it.aliexpress.com",
+        "nl.aliexpress.com",
+        "pl.aliexpress.com"
+      ],
+      "notes": "Chinese e-commerce. Long shipping times, customs fees possible."
+    },
+    {
+      "id": "temu",
+      "name": "Temu",
+      "headquarters": "CN",
+      "company": "PDD Holdings Inc.",
+      "categories": ["general", "fashion", "home", "electronics"],
+      "domains": [
+        "temu.com",
+        "temu.de",
+        "temu.fr",
+        "temu.it",
+        "temu.es",
+        "temu.nl",
+        "temu.at",
+        "temu.be",
+        "temu.ie",
+        "temu.fi",
+        "temu.se",
+        "temu.dk"
+      ],
+      "notes": "Chinese e-commerce, aggressive pricing, long shipping."
+    },
+    {
+      "id": "shein",
+      "name": "SHEIN",
+      "headquarters": "CN",
+      "company": "Roadget Business Pte. Ltd.",
+      "categories": ["fashion", "beauty", "home"],
+      "domains": [
+        "shein.com",
+        "shein.de",
+        "shein.fr",
+        "shein.it",
+        "shein.es",
+        "shein.nl",
+        "shein.at",
+        "shein.be",
+        "shein.ie",
+        "shein.fi",
+        "shein.se",
+        "shein.dk",
+        "shein.pl",
+        "shein.pt",
+        "shein.co.uk",
+        "de.shein.com",
+        "fr.shein.com",
+        "eur.shein.com"
+      ],
+      "notes": "Fast fashion from China. Sustainability and labor concerns."
+    },
+    {
+      "id": "wish",
+      "name": "Wish",
+      "headquarters": "US",
+      "company": "ContextLogic Inc.",
+      "categories": ["general", "fashion", "electronics", "home"],
+      "domains": [
+        "wish.com",
+        "wish.de",
+        "wish.fr",
+        "wish.it",
+        "wish.es"
+      ],
+      "notes": "US company, most products ship from China."
+    },
+    {
+      "id": "ebay",
+      "name": "eBay",
+      "headquarters": "US",
+      "company": "eBay Inc.",
+      "categories": ["general", "electronics", "fashion", "home", "toys"],
+      "domains": [
+        "ebay.com",
+        "ebay.de",
+        "ebay.fr",
+        "ebay.it",
+        "ebay.es",
+        "ebay.nl",
+        "ebay.be",
+        "ebay.at",
+        "ebay.ie",
+        "ebay.pl",
+        "ebay.co.uk"
+      ],
+      "notes": "US company. Mix of EU and non-EU sellers."
+    },
+    {
+      "id": "walmart",
+      "name": "Walmart",
+      "headquarters": "US",
+      "company": "Walmart Inc.",
+      "categories": ["general", "electronics", "home", "fashion"],
+      "domains": [
+        "walmart.com",
+        "walmart.ca"
+      ],
+      "notes": "US retail giant."
+    },
+    {
+      "id": "target",
+      "name": "Target",
+      "headquarters": "US",
+      "company": "Target Corporation",
+      "categories": ["general", "home", "fashion", "electronics"],
+      "domains": [
+        "target.com"
+      ],
+      "notes": "US retailer."
+    },
+    {
+      "id": "bestbuy",
+      "name": "Best Buy",
+      "headquarters": "US",
+      "company": "Best Buy Co., Inc.",
+      "categories": ["electronics"],
+      "domains": [
+        "bestbuy.com",
+        "bestbuy.ca"
+      ],
+      "notes": "US electronics retailer."
+    },
+    {
+      "id": "newegg",
+      "name": "Newegg",
+      "headquarters": "US",
+      "company": "Newegg Commerce, Inc.",
+      "categories": ["electronics"],
+      "domains": [
+        "newegg.com",
+        "newegg.ca",
+        "newegg.de",
+        "newegg.nl"
+      ],
+      "notes": "US-based, Chinese-owned electronics retailer."
+    },
+    {
+      "id": "banggood",
+      "name": "Banggood",
+      "headquarters": "CN",
+      "company": "Banggood Technology Co., Ltd",
+      "categories": ["electronics", "general", "toys"],
+      "domains": [
+        "banggood.com",
+        "de.banggood.com",
+        "fr.banggood.com",
+        "es.banggood.com",
+        "it.banggood.com",
+        "nl.banggood.com"
+      ],
+      "notes": "Chinese electronics and gadgets retailer."
+    },
+    {
+      "id": "gearbest",
+      "name": "GearBest",
+      "headquarters": "CN",
+      "company": "Globalegrow E-Commerce Co., Ltd",
+      "categories": ["electronics", "general"],
+      "domains": [
+        "gearbest.com"
+      ],
+      "notes": "Chinese electronics retailer."
+    },
+    {
+      "id": "dhgate",
+      "name": "DHgate",
+      "headquarters": "CN",
+      "company": "DHgate.com",
+      "categories": ["general", "fashion", "electronics"],
+      "domains": [
+        "dhgate.com",
+        "de.dhgate.com",
+        "fr.dhgate.com"
+      ],
+      "notes": "Chinese wholesale marketplace."
+    },
+    {
+      "id": "lightinthebox",
+      "name": "LightInTheBox",
+      "headquarters": "CN",
+      "company": "LightInTheBox Holding Co., Ltd.",
+      "categories": ["fashion", "home", "electronics"],
+      "domains": [
+        "lightinthebox.com",
+        "de.lightinthebox.com",
+        "fr.lightinthebox.com"
+      ],
+      "notes": "Chinese cross-border e-commerce."
+    },
+    {
+      "id": "miniinthebox",
+      "name": "MiniInTheBox",
+      "headquarters": "CN",
+      "company": "LightInTheBox Holding Co., Ltd.",
+      "categories": ["electronics", "home"],
+      "domains": [
+        "miniinthebox.com"
+      ],
+      "notes": "Sister site of LightInTheBox."
+    },
+    {
+      "id": "jd",
+      "name": "JD.com",
+      "headquarters": "CN",
+      "company": "JD.com, Inc.",
+      "categories": ["electronics", "general"],
+      "domains": [
+        "jd.com",
+        "global.jd.com"
+      ],
+      "notes": "Major Chinese e-commerce platform."
+    },
+    {
+      "id": "taobao",
+      "name": "Taobao",
+      "headquarters": "CN",
+      "company": "Alibaba Group",
+      "categories": ["general", "fashion", "home"],
+      "domains": [
+        "taobao.com",
+        "world.taobao.com"
+      ],
+      "notes": "Chinese consumer-to-consumer marketplace."
+    },
+    {
+      "id": "1688",
+      "name": "1688.com",
+      "headquarters": "CN",
+      "company": "Alibaba Group",
+      "categories": ["general"],
+      "domains": [
+        "1688.com"
+      ],
+      "notes": "Chinese wholesale marketplace (Alibaba's B2B platform)."
+    },
+    {
+      "id": "asos",
+      "name": "ASOS",
+      "headquarters": "UK",
+      "company": "ASOS plc",
+      "categories": ["fashion", "beauty"],
+      "domains": [
+        "asos.com",
+        "asos.de",
+        "asos.fr",
+        "asos.it",
+        "asos.es"
+      ],
+      "notes": "UK company (post-Brexit, not EU)."
+    },
+    {
+      "id": "boohoo",
+      "name": "Boohoo",
+      "headquarters": "UK",
+      "company": "Boohoo Group plc",
+      "categories": ["fashion"],
+      "domains": [
+        "boohoo.com",
+        "boohoo.de",
+        "boohoo.fr",
+        "boohoo.it",
+        "boohoo.es",
+        "boohoo.nl",
+        "boohoo.ie",
+        "boohoo.at"
+      ],
+      "notes": "UK fast fashion (non-EU post-Brexit)."
+    },
+    {
+      "id": "prettylittlething",
+      "name": "PrettyLittleThing",
+      "headquarters": "UK",
+      "company": "Boohoo Group plc",
+      "categories": ["fashion"],
+      "domains": [
+        "prettylittlething.com",
+        "prettylittlething.de",
+        "prettylittlething.fr",
+        "prettylittlething.ie",
+        "prettylittlething.nl"
+      ],
+      "notes": "UK fast fashion brand."
+    },
+    {
+      "id": "missguided",
+      "name": "Missguided",
+      "headquarters": "UK",
+      "company": "Frasers Group plc",
+      "categories": ["fashion"],
+      "domains": [
+        "missguided.co.uk",
+        "missguided.eu",
+        "missguided.de",
+        "missguided.fr"
+      ],
+      "notes": "UK fashion retailer."
+    },
+    {
+      "id": "nasty-gal",
+      "name": "Nasty Gal",
+      "headquarters": "UK",
+      "company": "Boohoo Group plc",
+      "categories": ["fashion"],
+      "domains": [
+        "nastygal.com"
+      ],
+      "notes": "Owned by UK's Boohoo Group."
+    },
+    {
+      "id": "romwe",
+      "name": "ROMWE",
+      "headquarters": "CN",
+      "company": "Roadget Business Pte. Ltd.",
+      "categories": ["fashion"],
+      "domains": [
+        "romwe.com",
+        "de.romwe.com",
+        "fr.romwe.com",
+        "eur.romwe.com"
+      ],
+      "notes": "Chinese fast fashion, same parent as SHEIN."
+    },
+    {
+      "id": "yesstyle",
+      "name": "YesStyle",
+      "headquarters": "HK",
+      "company": "YesStyle.com Limited",
+      "categories": ["fashion", "beauty"],
+      "domains": [
+        "yesstyle.com",
+        "yesstyle.de",
+        "yesstyle.fr"
+      ],
+      "notes": "Hong Kong-based Asian fashion/beauty retailer."
+    },
+    {
+      "id": "zaful",
+      "name": "Zaful",
+      "headquarters": "CN",
+      "company": "Globalegrow E-Commerce Co., Ltd",
+      "categories": ["fashion"],
+      "domains": [
+        "zaful.com",
+        "de.zaful.com",
+        "fr.zaful.com",
+        "eur.zaful.com"
+      ],
+      "notes": "Chinese fast fashion."
+    },
+    {
+      "id": "dresslily",
+      "name": "DressLily",
+      "headquarters": "CN",
+      "company": "Globalegrow E-Commerce Co., Ltd",
+      "categories": ["fashion"],
+      "domains": [
+        "dresslily.com"
+      ],
+      "notes": "Chinese fashion retailer."
+    },
+    {
+      "id": "rosegal",
+      "name": "RoseGal",
+      "headquarters": "CN",
+      "company": "Globalegrow E-Commerce Co., Ltd",
+      "categories": ["fashion"],
+      "domains": [
+        "rosegal.com"
+      ],
+      "notes": "Chinese fashion retailer."
+    },
+    {
+      "id": "fashionnova",
+      "name": "Fashion Nova",
+      "headquarters": "US",
+      "company": "Fashion Nova, LLC",
+      "categories": ["fashion"],
+      "domains": [
+        "fashionnova.com"
+      ],
+      "notes": "US fast fashion retailer."
+    },
+    {
+      "id": "cettire",
+      "name": "Cettire",
+      "headquarters": "AU",
+      "company": "Cettire Limited",
+      "categories": ["fashion"],
+      "domains": [
+        "cettire.com"
+      ],
+      "notes": "Australian luxury fashion marketplace."
+    },
+    {
+      "id": "etsy",
+      "name": "Etsy",
+      "headquarters": "US",
+      "company": "Etsy, Inc.",
+      "categories": ["general", "home", "fashion"],
+      "domains": [
+        "etsy.com",
+        "etsy.de",
+        "etsy.fr",
+        "etsy.it",
+        "etsy.es",
+        "etsy.ie",
+        "etsy.nl",
+        "etsy.at",
+        "etsy.be",
+        "etsy.pl",
+        "etsy.co.uk"
+      ],
+      "notes": "US marketplace. Some EU sellers, but company is US."
+    },
+    {
+      "id": "wayfair",
+      "name": "Wayfair",
+      "headquarters": "US",
+      "company": "Wayfair Inc.",
+      "categories": ["home"],
+      "domains": [
+        "wayfair.com",
+        "wayfair.de",
+        "wayfair.co.uk",
+        "wayfair.ca",
+        "wayfair.ie"
+      ],
+      "notes": "US home goods retailer."
+    },
+    {
+      "id": "overstock",
+      "name": "Overstock",
+      "headquarters": "US",
+      "company": "Beyond, Inc.",
+      "categories": ["home", "general"],
+      "domains": [
+        "overstock.com"
+      ],
+      "notes": "US home and general goods retailer."
+    },
+    {
+      "id": "6pm",
+      "name": "6pm",
+      "headquarters": "US",
+      "company": "Amazon (Zappos)",
+      "categories": ["fashion"],
+      "domains": [
+        "6pm.com"
+      ],
+      "notes": "US discount fashion, owned by Amazon/Zappos."
+    },
+    {
+      "id": "zappos",
+      "name": "Zappos",
+      "headquarters": "US",
+      "company": "Amazon.com, Inc.",
+      "categories": ["fashion"],
+      "domains": [
+        "zappos.com"
+      ],
+      "notes": "US shoe/fashion retailer, owned by Amazon."
+    },
+    {
+      "id": "nike",
+      "name": "Nike",
+      "headquarters": "US",
+      "company": "Nike, Inc.",
+      "categories": ["fashion", "sports"],
+      "domains": [
+        "nike.com",
+        "nike.de",
+        "nike.fr",
+        "nike.it",
+        "nike.es",
+        "nike.nl",
+        "nike.at",
+        "nike.be",
+        "nike.fi",
+        "nike.se",
+        "nike.dk",
+        "nike.pl",
+        "nike.pt",
+        "nike.ie",
+        "nike.co.uk"
+      ],
+      "notes": "US sportswear company."
+    },
+    {
+      "id": "underarmour",
+      "name": "Under Armour",
+      "headquarters": "US",
+      "company": "Under Armour, Inc.",
+      "categories": ["fashion", "sports"],
+      "domains": [
+        "underarmour.com",
+        "underarmour.de",
+        "underarmour.fr",
+        "underarmour.it",
+        "underarmour.es",
+        "underarmour.nl",
+        "underarmour.at",
+        "underarmour.ie",
+        "underarmour.co.uk"
+      ],
+      "notes": "US sportswear company."
+    },
+    {
+      "id": "apple",
+      "name": "Apple Store",
+      "headquarters": "US",
+      "company": "Apple Inc.",
+      "categories": ["electronics"],
+      "domains": [
+        "apple.com",
+        "store.apple.com"
+      ],
+      "notes": "US tech company. EU stores exist but company is US-based."
+    },
+    {
+      "id": "bhphoto",
+      "name": "B&H Photo",
+      "headquarters": "US",
+      "company": "B & H Foto & Electronics Corp.",
+      "categories": ["electronics"],
+      "domains": [
+        "bhphotovideo.com"
+      ],
+      "notes": "US electronics retailer."
+    },
+    {
+      "id": "adorama",
+      "name": "Adorama",
+      "headquarters": "US",
+      "company": "Adorama Inc.",
+      "categories": ["electronics"],
+      "domains": [
+        "adorama.com"
+      ],
+      "notes": "US photography/electronics retailer."
+    },
+    {
+      "id": "patpat",
+      "name": "PatPat",
+      "headquarters": "CN",
+      "company": "PatPat Inc.",
+      "categories": ["fashion", "toys"],
+      "domains": [
+        "patpat.com",
+        "de.patpat.com",
+        "fr.patpat.com",
+        "es.patpat.com",
+        "it.patpat.com"
+      ],
+      "notes": "Chinese children's clothing retailer."
+    },
+    {
+      "id": "cider",
+      "name": "Cider",
+      "headquarters": "CN",
+      "company": "Cider Holdings Ltd.",
+      "categories": ["fashion"],
+      "domains": [
+        "shopcider.com",
+        "cider.com"
+      ],
+      "notes": "Chinese Gen-Z fashion brand."
+    },
+    {
+      "id": "halara",
+      "name": "Halara",
+      "headquarters": "CN",
+      "company": "Halara Inc.",
+      "categories": ["fashion", "sports"],
+      "domains": [
+        "halara.com",
+        "thehalara.com"
+      ],
+      "notes": "Chinese activewear brand."
+    },
+    {
+      "id": "urbanic",
+      "name": "Urbanic",
+      "headquarters": "CN",
+      "company": "Urbanic",
+      "categories": ["fashion"],
+      "domains": [
+        "urbanic.com"
+      ],
+      "notes": "Chinese fast fashion brand."
+    },
+    {
+      "id": "clubfactory",
+      "name": "Club Factory",
+      "headquarters": "CN",
+      "company": "Jiayun Data Technology Co., Ltd.",
+      "categories": ["general", "fashion"],
+      "domains": [
+        "clubfactory.com"
+      ],
+      "notes": "Chinese e-commerce platform."
+    }
+  ]
+}

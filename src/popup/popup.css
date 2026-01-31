@@ -497,6 +497,15 @@ body {
   text-decoration: underline;
 }
 
+.support-link {
+  color: #ff813f !important;
+  font-weight: 500;
+}
+
+.support-link:hover {
+  color: #ff6600 !important;
+}
+
 .separator {
   color: var(--text-secondary);
 }
