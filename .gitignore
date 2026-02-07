@@ -35,3 +35,21 @@ coverage/
 # Temporary files
 tmp/
 temp/
+
+# AI tool artifacts
+.aider*
+
+# Internal operational (not part of extension)
+analytics/
+config/
+features/
+seo-tools/
+research/
+dist/
+tools/
+launch-kit/
+marketing/
+store/
+store-assets/
+docs/internal/
+docs/marketing/
