@@ -1,6 +1,6 @@
 {
   "name": "eurocheck",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Browser extension to identify EU vs non-EU company ownership",
   "main": "src/background.js",
   "scripts": {
