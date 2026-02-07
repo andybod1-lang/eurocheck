@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EuroCheck Analytics Dashboard</title>
+  <link rel="stylesheet" href="dashboard.css">
+</head>
+<body>
+  <!-- Navigation Header -->
+  <header class="nav-header">
+    <div class="nav-brand">
+      <span class="brand-icon">€</span>
+      <span class="brand-text">EuroCheck</span>
+      <span class="brand-badge">Analytics</span>
+    </div>
+    <nav class="nav-links">
+      <a href="#overview" class="nav-link active">Overview</a>
+      <a href="#installs" class="nav-link">Installs</a>
+      <a href="#users" class="nav-link">Users</a>
+      <a href="#reviews" class="nav-link">Reviews</a>
+    </nav>
+    <div class="nav-actions">
+      <button class="btn-refresh" id="refreshData">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M23 4v6h-6M1 20v-6h6M3.51 9a9 9 0 0114.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0020.49 15"/>
+        </svg>
+        Refresh
+      </button>
+      <span class="last-updated">Updated: <span id="lastUpdate">--</span></span>
+    </div>
+  </header>
+
+  <main class="dashboard">
+    <!-- Metric Cards -->
+    <section class="metrics-grid">
+      <div class="metric-card" data-metric="installs">
+        <div class="metric-header">
+          <span class="metric-label">Total Installs</span>
+          <span class="metric-trend positive">+12.5%</span>
+        </div>
+        <div class="metric-value" id="totalInstalls">--</div>
+        <div class="metric-footer">
+          <span class="metric-secondary">Chrome: <span id="chromeInstalls">--</span></span>
+          <span class="metric-secondary">Firefox: <span id="firefoxInstalls">--</span></span>
+        </div>
+      </div>
+
+      <div class="metric-card" data-metric="dau">
+        <div class="metric-header">
+          <span class="metric-label">Daily Active Users</span>
+          <span class="metric-trend positive">+8.2%</span>
+        </div>
+        <div class="metric-value" id="dailyActiveUsers">--</div>
+        <div class="metric-footer">
+          <span class="metric-secondary">Weekly avg: <span id="weeklyAvgUsers">--</span></span>
+        </div>
+      </div>
+
+      <div class="metric-card" data-metric="rating">
+        <div class="metric-header">
+          <span class="metric-label">Average Rating</span>
+          <span class="metric-stars">★★★★★</span>
+        </div>
+        <div class="metric-value" id="avgRating">--</div>
+        <div class="metric-footer">
+          <span class="metric-secondary">Chrome: <span id="chromeRating">--</span></span>
+          <span class="metric-secondary">Firefox: <span id="firefoxRating">--</span></span>
+        </div>
+      </div>
+
+      <div class="metric-card" data-metric="reviews">
+        <div class="metric-header">
+          <span class="metric-label">Total Reviews</span>
+          <span class="metric-trend neutral">+3</span>
+        </div>
+        <div class="metric-value" id="totalReviews">--</div>
+        <div class="metric-footer">
+          <span class="metric-secondary">This week: <span id="weeklyReviews">--</span></span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Charts Section -->
+    <section class="charts-grid">
+      <div class="chart-card chart-large">
+        <div class="chart-header">
+          <h3 class="chart-title">Installs Over Time</h3>
+          <div class="chart-controls">
+            <button class="chart-period active" data-period="7d">7D</button>
+            <button class="chart-period" data-period="30d">30D</button>
+            <button class="chart-period" data-period="90d">90D</button>
+          </div>
+        </div>
+        <div class="chart-container" id="installsChartContainer">
+          <canvas id="installsChart"></canvas>
+        </div>
+      </div>
+
+      <div class="chart-card">
+        <div class="chart-header">
+          <h3 class="chart-title">Rating Distribution</h3>
+        </div>
+        <div class="chart-container" id="ratingChartContainer">
+          <canvas id="ratingChart"></canvas>
+        </div>
+      </div>
+
+      <div class="chart-card">
+        <div class="chart-header">
+          <h3 class="chart-title">Platform Split</h3>
+        </div>
+        <div class="chart-container" id="platformChartContainer">
+          <canvas id="platformChart"></canvas>
+        </div>
+        <div class="platform-legend" id="platformLegend">
+          <!-- Populated by JS -->
+        </div>
+      </div>
+    </section>
+
+    <!-- Recent Activity -->
+    <section class="activity-section">
+      <div class="activity-card">
+        <div class="activity-header">
+          <h3 class="activity-title">Recent Reviews</h3>
+          <a href="#reviews" class="activity-link">View all →</a>
+        </div>
+        <div class="activity-list" id="recentReviews">
+          <div class="activity-placeholder">Loading reviews...</div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="dashboard-footer">
+    <span>EuroCheck Analytics • Data refreshes every 6 hours</span>
+    <span>Built with 🇫🇮 by Pekka</span>
+  </footer>
+
+  <script src="charts.js"></script>
+  <script src="dashboard.js"></script>
+</body>
+</html>

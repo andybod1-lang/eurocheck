@@ -4,6 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Companies](https://img.shields.io/badge/companies-321-blue.svg)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow?logo=buymeacoffee)](https://buymeacoffee.com/pekkaprime)
 
 **Know if it's European** — A browser extension that instantly shows whether the website you're visiting belongs to a European or non-European company.
 
@@ -146,6 +147,20 @@ See [Privacy Policy](docs/privacy-policy.md) for details.
 ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
+
+## ☕ Support This Project
+
+If you find EuroCheck useful, consider buying me a coffee! Your support helps keep this project free and actively maintained.
+
+<a href="https://buymeacoffee.com/pekkaprime" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200">
+</a>
+
+Every contribution helps fund:
+- 🔬 Research for more company data
+- 🐛 Bug fixes and maintenance
+- 🌍 More language support
+- 📱 New browser support
 
 ---
 

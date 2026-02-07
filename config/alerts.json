@@ -1,0 +1,166 @@
+{
+  "$schema": "./alerts-schema.json",
+  "version": "1.0.0",
+  "global": {
+    "enabled": true,
+    "cooldownMinutes": 60,
+    "defaultChannel": "telegram",
+    "timezone": "Europe/Helsinki"
+  },
+  "dataSource": {
+    "metricsPath": "analytics/data/current.json",
+    "historyPath": "analytics/data/history",
+    "dailySnapshotPath": "data/metrics-history.json"
+  },
+  "thresholds": {
+    "userDropPercent": 10,
+    "ratingDropAbsolute": 0.2,
+    "ratingMinimum": 4.0,
+    "installSpikePercent": 50,
+    "uninstallSpikePercent": 30
+  },
+  "milestones": {
+    "userMilestones": [100, 500, 1000, 5000, 10000, 50000, 100000],
+    "installMilestones": [100, 500, 1000, 5000, 10000, 50000, 100000],
+    "reviewMilestones": [10, 25, 50, 100, 250, 500]
+  },
+  "alerts": [
+    {
+      "id": "chrome-user-drop",
+      "name": "Chrome User Drop",
+      "description": "Alert when Chrome weekly active users drop significantly",
+      "enabled": true,
+      "metric": "chrome.users",
+      "condition": "percent_change_below",
+      "threshold": -10,
+      "severity": "warning",
+      "channel": "telegram"
+    },
+    {
+      "id": "firefox-user-drop",
+      "name": "Firefox User Drop",
+      "description": "Alert when Firefox users drop significantly",
+      "enabled": true,
+      "metric": "firefox.users",
+      "condition": "percent_change_below",
+      "threshold": -15,
+      "severity": "warning",
+      "channel": "telegram"
+    },
+    {
+      "id": "chrome-rating-drop",
+      "name": "Chrome Rating Drop",
+      "description": "Alert when Chrome rating falls below threshold",
+      "enabled": true,
+      "metric": "chrome.rating",
+      "condition": "below",
+      "threshold": 4.0,
+      "severity": "critical",
+      "channel": "telegram"
+    },
+    {
+      "id": "chrome-rating-decline",
+      "name": "Chrome Rating Decline",
+      "description": "Alert when Chrome rating drops by more than 0.2 stars",
+      "enabled": true,
+      "metric": "chrome.rating",
+      "condition": "change_below",
+      "threshold": -0.2,
+      "severity": "warning",
+      "channel": "telegram"
+    },
+    {
+      "id": "firefox-rating-drop",
+      "name": "Firefox Rating Drop",
+      "description": "Alert when Firefox rating falls below threshold",
+      "enabled": true,
+      "metric": "firefox.rating",
+      "condition": "below",
+      "threshold": 4.0,
+      "severity": "critical",
+      "channel": "telegram"
+    },
+    {
+      "id": "new-chrome-reviews",
+      "name": "New Chrome Reviews",
+      "description": "Alert when new Chrome reviews are posted",
+      "enabled": true,
+      "metric": "chrome.reviewCount",
+      "condition": "change_above",
+      "threshold": 0,
+      "severity": "info",
+      "channel": "telegram"
+    },
+    {
+      "id": "new-firefox-reviews",
+      "name": "New Firefox Reviews",
+      "description": "Alert when new Firefox reviews are posted",
+      "enabled": true,
+      "metric": "firefox.reviewCount",
+      "condition": "change_above",
+      "threshold": 0,
+      "severity": "info",
+      "channel": "telegram"
+    },
+    {
+      "id": "install-spike",
+      "name": "Install Spike",
+      "description": "Alert when installs spike significantly (good news!)",
+      "enabled": true,
+      "metric": "totals.totalInstalls",
+      "condition": "percent_change_above",
+      "threshold": 50,
+      "severity": "info",
+      "channel": "telegram"
+    },
+    {
+      "id": "uninstall-spike",
+      "name": "Uninstall Spike",
+      "description": "Alert when uninstalls spike (needs attention)",
+      "enabled": true,
+      "metric": "chrome.uninstalls",
+      "condition": "percent_change_above",
+      "threshold": 30,
+      "severity": "warning",
+      "channel": "telegram"
+    },
+    {
+      "id": "total-users-milestone",
+      "name": "Total Users Milestone",
+      "description": "Alert when total users hits a milestone",
+      "enabled": true,
+      "metric": "totals.totalUsers",
+      "condition": "milestone",
+      "milestoneKey": "userMilestones",
+      "severity": "info",
+      "channel": "telegram"
+    },
+    {
+      "id": "version-update",
+      "name": "Version Update Detected",
+      "description": "Alert when extension version changes",
+      "enabled": true,
+      "metric": "chrome.version",
+      "condition": "changed",
+      "severity": "info",
+      "channel": "telegram"
+    }
+  ],
+  "anomalyDetection": {
+    "enabled": true,
+    "lookbackDays": 7,
+    "stdDevMultiplier": 2.5,
+    "minDataPoints": 3,
+    "metrics": ["chrome.users", "firefox.users", "chrome.rating", "totals.totalInstalls"]
+  },
+  "telegram": {
+    "useClawdbot": true,
+    "formatAsMarkdown": true,
+    "includeCharts": false
+  },
+  "alertState": {
+    "stateFile": "analytics/data/alert-state.json",
+    "trackFiredAlerts": true,
+    "trackMilestones": true
+  }
+}
