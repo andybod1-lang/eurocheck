@@ -294,7 +294,7 @@ interface Company {
   "origin": "France",
   "confidence": 0.95,
   "lastVerified": "2025-01-20",
-  "sources": ["wikipedia", "crunchbase"]
+  "sources": ["wikipedia"]
 }
 ```
 

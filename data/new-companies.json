@@ -9,7 +9,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "bolt.eu"],
+    "sources": [
+      "wikipedia.org",
+      "bolt.eu"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -22,7 +25,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "deliveryhero.com"],
+    "sources": [
+      "wikipedia.org",
+      "deliveryhero.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -35,7 +41,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "hellofresh.com"],
+    "sources": [
+      "wikipedia.org",
+      "hellofresh.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -48,7 +57,10 @@
     "ultimate_parent": "DoorDash",
     "eu_status": "mixed",
     "confidence": "high",
-    "sources": ["wikipedia.org", "wolt.com"],
+    "sources": [
+      "wikipedia.org",
+      "wolt.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -61,7 +73,10 @@
     "ultimate_parent": "Prosus",
     "eu_status": "mixed",
     "confidence": "high",
-    "sources": ["wikipedia.org", "justeattakeaway.com"],
+    "sources": [
+      "wikipedia.org",
+      "justeattakeaway.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -74,7 +89,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "ubisoft.com"],
+    "sources": [
+      "wikipedia.org",
+      "ubisoft.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -87,7 +105,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "cdprojekt.com"],
+    "sources": [
+      "wikipedia.org",
+      "cdprojekt.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -100,7 +121,10 @@
     "ultimate_parent": "Tencent",
     "eu_status": "mixed",
     "confidence": "high",
-    "sources": ["wikipedia.org", "supercell.com"],
+    "sources": [
+      "wikipedia.org",
+      "supercell.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -113,7 +137,10 @@
     "ultimate_parent": "Sega",
     "eu_status": "mixed",
     "confidence": "high",
-    "sources": ["wikipedia.org", "rovio.com"],
+    "sources": [
+      "wikipedia.org",
+      "rovio.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -126,7 +153,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "remedygames.com"],
+    "sources": [
+      "wikipedia.org",
+      "remedygames.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -139,7 +169,10 @@
     "ultimate_parent": "Sony",
     "eu_status": "mixed",
     "confidence": "high",
-    "sources": ["wikipedia.org", "housemarque.com"],
+    "sources": [
+      "wikipedia.org",
+      "housemarque.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -152,7 +185,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "ouraring.com"],
+    "sources": [
+      "wikipedia.org",
+      "ouraring.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -165,7 +201,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "polar.com"],
+    "sources": [
+      "wikipedia.org",
+      "polar.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -178,7 +217,10 @@
     "ultimate_parent": "Liesheng",
     "eu_status": "mixed",
     "confidence": "high",
-    "sources": ["wikipedia.org", "suunto.com"],
+    "sources": [
+      "wikipedia.org",
+      "suunto.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -191,7 +233,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "marimekko.com"],
+    "sources": [
+      "wikipedia.org",
+      "marimekko.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -204,7 +249,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "fazer.com"],
+    "sources": [
+      "wikipedia.org",
+      "fazer.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -217,7 +265,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "valio.com"],
+    "sources": [
+      "wikipedia.org",
+      "valio.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -230,7 +281,10 @@
     "ultimate_parent": "Microsoft",
     "eu_status": "mixed",
     "confidence": "high",
-    "sources": ["wikipedia.org", "king.com"],
+    "sources": [
+      "wikipedia.org",
+      "king.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -243,7 +297,10 @@
     "ultimate_parent": "Delivery Hero",
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "glovoapp.com"],
+    "sources": [
+      "wikipedia.org",
+      "glovoapp.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -256,7 +313,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "blablacar.com"],
+    "sources": [
+      "wikipedia.org",
+      "blablacar.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -269,7 +329,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "goflink.com"],
+    "sources": [
+      "wikipedia.org",
+      "goflink.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -282,7 +345,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "traderepublic.com"],
+    "sources": [
+      "wikipedia.org",
+      "traderepublic.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -295,7 +361,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "celonis.com"],
+    "sources": [
+      "wikipedia.org",
+      "celonis.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -308,7 +377,10 @@
     "ultimate_parent": "Flix SE",
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "flixbus.com"],
+    "sources": [
+      "wikipedia.org",
+      "flixbus.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -321,7 +393,10 @@
     "ultimate_parent": "Mubadala Investment Company",
     "eu_status": "non-eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "getir.com"],
+    "sources": [
+      "wikipedia.org",
+      "getir.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -334,7 +409,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "bird.com"],
+    "sources": [
+      "wikipedia.org",
+      "bird.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -347,7 +425,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["crunchbase.com", "personio.com"],
+    "sources": [
+      "personio.com",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -360,7 +441,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["crunchbase.com", "contentful.com"],
+    "sources": [
+      "contentful.com",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -373,7 +457,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["crunchbase.com", "mambu.com"],
+    "sources": [
+      "mambu.com",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -386,7 +473,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["crunchbase.com", "sennder.com"],
+    "sources": [
+      "sennder.com",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -399,7 +489,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "n26.com"],
+    "sources": [
+      "wikipedia.org",
+      "n26.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -412,7 +505,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["crunchbase.com", "doctolib.fr"],
+    "sources": [
+      "doctolib.fr",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -425,7 +521,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["crunchbase.com", "backmarket.com"],
+    "sources": [
+      "backmarket.com",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -438,7 +537,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["crunchbase.com", "sorare.com"],
+    "sources": [
+      "sorare.com",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -451,7 +553,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["crunchbase.com", "mirakl.com"],
+    "sources": [
+      "mirakl.com",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -464,7 +569,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["crunchbase.com", "alan.com"],
+    "sources": [
+      "alan.com",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -477,7 +585,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["crunchbase.com", "ledger.com"],
+    "sources": [
+      "ledger.com",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -490,7 +601,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["crunchbase.com", "qonto.com"],
+    "sources": [
+      "qonto.com",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -503,7 +617,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["crunchbase.com", "spendesk.com"],
+    "sources": [
+      "spendesk.com",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -516,7 +633,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["crunchbase.com", "payfit.com"],
+    "sources": [
+      "payfit.com",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -529,7 +649,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["crunchbase.com", "swile.co"],
+    "sources": [
+      "swile.co",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -542,7 +665,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["crunchbase.com", "contentsquare.com"],
+    "sources": [
+      "contentsquare.com",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -555,7 +681,10 @@
     "ultimate_parent": "Iliad",
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "scaleway.com"],
+    "sources": [
+      "wikipedia.org",
+      "scaleway.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -568,7 +697,10 @@
     "ultimate_parent": "Microsoft",
     "eu_status": "mixed",
     "confidence": "high",
-    "sources": ["github.com", "microsoft.com"],
+    "sources": [
+      "github.com",
+      "microsoft.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -581,7 +713,9 @@
     "ultimate_parent": "Meta Platforms",
     "eu_status": "mixed",
     "confidence": "high",
-    "sources": ["meta.com"],
+    "sources": [
+      "meta.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -594,7 +728,9 @@
     "ultimate_parent": "Alphabet Inc.",
     "eu_status": "mixed",
     "confidence": "high",
-    "sources": ["google.com"],
+    "sources": [
+      "google.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -607,7 +743,9 @@
     "ultimate_parent": "Apple",
     "eu_status": "mixed",
     "confidence": "high",
-    "sources": ["apple.com"],
+    "sources": [
+      "apple.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -620,7 +758,9 @@
     "ultimate_parent": "Microsoft",
     "eu_status": "mixed",
     "confidence": "high",
-    "sources": ["microsoft.com"],
+    "sources": [
+      "microsoft.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -633,7 +773,9 @@
     "ultimate_parent": "Stripe",
     "eu_status": "mixed",
     "confidence": "high",
-    "sources": ["stripe.com"],
+    "sources": [
+      "stripe.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -646,7 +788,9 @@
     "ultimate_parent": "Intercom",
     "eu_status": "mixed",
     "confidence": "high",
-    "sources": ["intercom.com"],
+    "sources": [
+      "intercom.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -659,7 +803,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["crunchbase.com", "kry.se"],
+    "sources": [
+      "kry.se",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -672,7 +819,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["crunchbase.com", "northvolt.com"],
+    "sources": [
+      "northvolt.com",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -685,7 +835,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["crunchbase.com", "einride.tech"],
+    "sources": [
+      "einride.tech",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -698,7 +851,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "truecaller.com"],
+    "sources": [
+      "wikipedia.org",
+      "truecaller.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -711,7 +867,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "kahoot.com"],
+    "sources": [
+      "wikipedia.org",
+      "kahoot.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -724,7 +883,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "vipps.no"],
+    "sources": [
+      "wikipedia.org",
+      "vipps.no"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -737,7 +899,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["crunchbase.com", "oda.com"],
+    "sources": [
+      "oda.com",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -750,7 +915,9 @@
     "ultimate_parent": "Zendesk",
     "eu_status": "mixed",
     "confidence": "high",
-    "sources": ["zendesk.com"],
+    "sources": [
+      "zendesk.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -763,7 +930,9 @@
     "ultimate_parent": "HubSpot",
     "eu_status": "mixed",
     "confidence": "high",
-    "sources": ["hubspot.com"],
+    "sources": [
+      "hubspot.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -776,7 +945,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["crunchbase.com", "picnic.app"],
+    "sources": [
+      "picnic.app",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -789,7 +961,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["crunchbase.com", "bunq.com"],
+    "sources": [
+      "bunq.com",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -802,7 +977,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["crunchbase.com", "remote.com"],
+    "sources": [
+      "remote.com",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -815,7 +993,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["crunchbase.com", "bitpanda.com"],
+    "sources": [
+      "bitpanda.com",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -828,7 +1009,10 @@
     "ultimate_parent": null,
     "eu_status": "non-eu",
     "confidence": "high",
-    "sources": ["crunchbase.com", "gocardless.com"],
+    "sources": [
+      "gocardless.com",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -841,7 +1025,10 @@
     "ultimate_parent": null,
     "eu_status": "non-eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "deliveroo.com"],
+    "sources": [
+      "wikipedia.org",
+      "deliveroo.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -854,7 +1041,10 @@
     "ultimate_parent": null,
     "eu_status": "non-eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "cazoo.co.uk"],
+    "sources": [
+      "wikipedia.org",
+      "cazoo.co.uk"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -867,7 +1057,10 @@
     "ultimate_parent": null,
     "eu_status": "non-eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "gymshark.com"],
+    "sources": [
+      "wikipedia.org",
+      "gymshark.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -880,7 +1073,10 @@
     "ultimate_parent": null,
     "eu_status": "non-eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "brewdog.com"],
+    "sources": [
+      "wikipedia.org",
+      "brewdog.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -893,7 +1089,10 @@
     "ultimate_parent": null,
     "eu_status": "non-eu",
     "confidence": "high",
-    "sources": ["crunchbase.com", "transfergo.com"],
+    "sources": [
+      "transfergo.com",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -906,7 +1105,10 @@
     "ultimate_parent": null,
     "eu_status": "non-eu",
     "confidence": "high",
-    "sources": ["crunchbase.com", "gousto.co.uk"],
+    "sources": [
+      "gousto.co.uk",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -919,7 +1121,10 @@
     "ultimate_parent": "eMed Healthcare",
     "eu_status": "non-eu",
     "confidence": "medium",
-    "sources": ["wikipedia.org", "babylonhealth.com"],
+    "sources": [
+      "wikipedia.org",
+      "babylonhealth.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -932,7 +1137,10 @@
     "ultimate_parent": null,
     "eu_status": "non-eu",
     "confidence": "high",
-    "sources": ["crunchbase.com", "multiverse.io"],
+    "sources": [
+      "multiverse.io",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -945,7 +1153,10 @@
     "ultimate_parent": null,
     "eu_status": "non-eu",
     "confidence": "high",
-    "sources": ["crunchbase.com", "checkout.com"],
+    "sources": [
+      "checkout.com",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -958,7 +1169,10 @@
     "ultimate_parent": null,
     "eu_status": "non-eu",
     "confidence": "high",
-    "sources": ["crunchbase.com", "rapyd.net"],
+    "sources": [
+      "rapyd.net",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -971,7 +1185,10 @@
     "ultimate_parent": null,
     "eu_status": "non-eu",
     "confidence": "high",
-    "sources": ["crunchbase.com", "hopin.com"],
+    "sources": [
+      "hopin.com",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -984,7 +1201,10 @@
     "ultimate_parent": null,
     "eu_status": "non-eu",
     "confidence": "high",
-    "sources": ["crunchbase.com", "snyk.io"],
+    "sources": [
+      "snyk.io",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -997,7 +1217,10 @@
     "ultimate_parent": "SoftBank Group",
     "eu_status": "non-eu",
     "confidence": "high",
-    "sources": ["crunchbase.com", "graphcore.ai"],
+    "sources": [
+      "graphcore.ai",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -1010,7 +1233,10 @@
     "ultimate_parent": null,
     "eu_status": "non-eu",
     "confidence": "high",
-    "sources": ["crunchbase.com", "improbable.io"],
+    "sources": [
+      "improbable.io",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -1023,7 +1249,10 @@
     "ultimate_parent": null,
     "eu_status": "non-eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "octopus.energy"],
+    "sources": [
+      "wikipedia.org",
+      "octopus.energy"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -1036,7 +1265,10 @@
     "ultimate_parent": "Alibaba Group",
     "eu_status": "non-eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "aliexpress.com"],
+    "sources": [
+      "wikipedia.org",
+      "aliexpress.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -1049,7 +1281,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "vinted.com"],
+    "sources": [
+      "wikipedia.org",
+      "vinted.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -1062,7 +1297,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "medium",
-    "sources": ["crunchbase.com", "transfergo.com"],
+    "sources": [
+      "transfergo.com",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -1075,7 +1313,10 @@
     "ultimate_parent": "Vista Equity Partners",
     "eu_status": "mixed",
     "confidence": "high",
-    "sources": ["wikipedia.org", "pipedrive.com"],
+    "sources": [
+      "wikipedia.org",
+      "pipedrive.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -1088,7 +1329,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["crunchbase.com", "veriff.com"],
+    "sources": [
+      "veriff.com",
+      "wikipedia.org"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -1101,7 +1345,10 @@
     "ultimate_parent": "Finnish Government",
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "posti.fi"],
+    "sources": [
+      "wikipedia.org",
+      "posti.fi"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -1114,7 +1361,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "s-ryhma.fi"],
+    "sources": [
+      "wikipedia.org",
+      "s-ryhma.fi"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -1127,7 +1377,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "kesko.fi"],
+    "sources": [
+      "wikipedia.org",
+      "kesko.fi"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -1140,7 +1393,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "kone.com"],
+    "sources": [
+      "wikipedia.org",
+      "kone.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -1153,7 +1409,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "upm.com"],
+    "sources": [
+      "wikipedia.org",
+      "upm.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -1166,7 +1425,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "storaenso.com"],
+    "sources": [
+      "wikipedia.org",
+      "storaenso.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -1179,7 +1441,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "wartsila.com"],
+    "sources": [
+      "wikipedia.org",
+      "wartsila.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -1192,7 +1457,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "neste.com"],
+    "sources": [
+      "wikipedia.org",
+      "neste.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -1205,7 +1473,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "fortum.com"],
+    "sources": [
+      "wikipedia.org",
+      "fortum.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -1218,7 +1489,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "elisa.fi"],
+    "sources": [
+      "wikipedia.org",
+      "elisa.fi"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -1231,7 +1505,10 @@
     "ultimate_parent": "Telia Company",
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "telia.fi"],
+    "sources": [
+      "wikipedia.org",
+      "telia.fi"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -1244,7 +1521,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "teliacompany.com"],
+    "sources": [
+      "wikipedia.org",
+      "teliacompany.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -1257,7 +1537,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "telenor.com"],
+    "sources": [
+      "wikipedia.org",
+      "telenor.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -1270,7 +1553,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "orange.com"],
+    "sources": [
+      "wikipedia.org",
+      "orange.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -1283,7 +1569,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "telekom.com"],
+    "sources": [
+      "wikipedia.org",
+      "telekom.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -1296,7 +1585,10 @@
     "ultimate_parent": null,
     "eu_status": "eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "telefonica.com"],
+    "sources": [
+      "wikipedia.org",
+      "telefonica.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -1309,7 +1601,10 @@
     "ultimate_parent": null,
     "eu_status": "non-eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "vodafone.com"],
+    "sources": [
+      "wikipedia.org",
+      "vodafone.com"
+    ],
     "last_verified": "2026-01-26"
   },
   {
@@ -1322,7 +1617,10 @@
     "ultimate_parent": "CK Hutchison Holdings",
     "eu_status": "non-eu",
     "confidence": "high",
-    "sources": ["wikipedia.org", "three.co.uk"],
+    "sources": [
+      "wikipedia.org",
+      "three.co.uk"
+    ],
     "last_verified": "2026-01-26"
   }
 ]
