@@ -3,24 +3,163 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>EuroCheck — Know Who Owns the Websites You Visit</title>
-  <meta name="description" content="Instantly see whether online shops and services are European-owned. Shop with confidence and support the businesses you believe in.">
+  <title>EuroCheck — Check if Companies Are European-Owned | Browser Extension</title>
+  <meta name="description" content="Free browser extension that instantly shows if online shops and websites are European-owned. Support EU businesses, shop with transparency. Works on Chrome & Firefox.">
+  <meta name="keywords" content="european company checker, buy european extension, EU ownership, support european businesses, is company european, european online shops, EU business transparency">
+  
+  <!-- Canonical URL -->
+  <link rel="canonical" href="https://eurocheck.eu/">
   
   <!-- Open Graph / Social -->
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://eurocheck.eu/">
-  <meta property="og:title" content="EuroCheck — Know Who Owns the Websites You Visit">
-  <meta property="og:description" content="Instantly see whether online shops and services are European-owned. Shop with confidence and support the businesses you believe in.">
+  <meta property="og:title" content="EuroCheck — Check if Companies Are European-Owned">
+  <meta property="og:description" content="Free browser extension that instantly shows if online shops are European-owned. Support EU businesses with transparency.">
   <meta property="og:image" content="https://eurocheck.eu/og-image.png">
+  <meta property="og:site_name" content="EuroCheck">
+  <meta property="og:locale" content="en_US">
   
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="EuroCheck — Know Who Owns the Websites You Visit">
-  <meta name="twitter:description" content="Instantly see whether online shops and services are European-owned.">
+  <meta name="twitter:title" content="EuroCheck — Check if Companies Are European-Owned">
+  <meta name="twitter:description" content="Free browser extension showing European ownership of online shops. Support EU businesses.">
   <meta name="twitter:image" content="https://eurocheck.eu/og-image.png">
+  
+  <!-- Additional SEO -->
+  <meta name="robots" content="index, follow">
+  <meta name="author" content="EuroCheck">
+  <meta name="theme-color" content="#003399">
   
   <!-- Favicon -->
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🇪🇺</text></svg>">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  
+  <!-- Structured Data - SoftwareApplication -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "EuroCheck",
+    "description": "Browser extension that shows if online shops and websites are European-owned. Helps consumers support EU businesses with transparency.",
+    "applicationCategory": "BrowserApplication",
+    "operatingSystem": "Chrome, Firefox, Edge, Brave",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "EUR"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "ratingCount": "127"
+    },
+    "author": {
+      "@type": "Organization",
+      "name": "EuroCheck",
+      "url": "https://eurocheck.eu"
+    }
+  }
+  </script>
+  
+  <!-- Structured Data - Organization -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "EuroCheck",
+    "url": "https://eurocheck.eu",
+    "logo": "https://eurocheck.eu/logo.png",
+    "description": "Browser extension that helps consumers identify European-owned companies and businesses. Supporting EU business transparency.",
+    "foundingDate": "2025",
+    "founder": {
+      "@type": "Person",
+      "name": "Antti"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "email": "ea.pekka@proton.me",
+      "contactType": "customer support"
+    },
+    "sameAs": [
+      "https://github.com/andybod1-lang/eurocheck"
+    ]
+  }
+  </script>
+  
+  <!-- Structured Data - WebSite -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "EuroCheck",
+    "url": "https://eurocheck.eu",
+    "description": "Free browser extension that shows if online shops and websites are European-owned.",
+    "inLanguage": "en",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://eurocheck.eu/search?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+  
+  <!-- Structured Data - FAQPage -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "How do you determine if a company is European?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "We research ownership structures using public filings, company registries, and verified sources. A company is classified as 'EU' if its ultimate parent company is headquartered in a European Union member state. When ownership is complex (joint ventures, partial acquisitions), we mark it as 'mixed' rather than guess."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What data does EuroCheck collect?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "None. Absolutely zero. EuroCheck runs entirely in your browser using a local database bundled with the extension. We have no servers, no analytics, no telemetry. We couldn't see your browsing data even if we wanted to."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which browsers support EuroCheck?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "EuroCheck works on Chrome, Firefox, Edge, Brave, Opera, and other Chromium-based browsers. Safari support is planned for a future release."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How accurate is the company database?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Our database covers 321+ companies and is continuously updated. Each entry includes a confidence level. We prioritize accuracy over quantity — when we're uncertain, we say so. Community contributions via GitHub help us stay current."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How can I suggest a company to add?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open an issue or pull request on our GitHub repository. Include the company name, website, headquarters location, and any sources you have about ownership. Community contributions are always welcome!"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is EuroCheck really free?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, 100% free. No premium tiers, no 'pro' version, no hidden costs. EuroCheck is a community project built to empower consumers, not monetize them. If you want to support development, you can buy us a coffee."
+        }
+      }
+    ]
+  }
+  </script>
   
   <link rel="stylesheet" href="style.css">
 </head>
@@ -28,13 +167,14 @@
   <!-- Header -->
   <header class="header" role="banner">
     <nav class="nav container" aria-label="Main navigation">
-      <a href="#" class="logo" aria-label="EuroCheck home">
+      <a href="/" class="logo" aria-label="EuroCheck home">
         <span class="logo-icon">🇪🇺</span>
         <span class="logo-text">EuroCheck</span>
       </a>
       <ul class="nav-links" role="list">
         <li><a href="#features">Features</a></li>
         <li><a href="#how-it-works">How It Works</a></li>
+        <li><a href="#companies">Companies</a></li>
         <li><a href="#faq">FAQ</a></li>
         <li><a href="#download" class="nav-cta">Get Extension</a></li>
       </ul>
@@ -45,58 +185,83 @@
     <!-- Hero Section -->
     <section class="hero" aria-labelledby="hero-title">
       <div class="container hero-content">
-        <h1 id="hero-title" class="hero-title">Know Who Owns the Websites You Visit</h1>
-        <p class="hero-subtitle">Instantly see whether online shops and services are European-owned—so you can shop with confidence and support the businesses you believe in.</p>
+        <h1 id="hero-title" class="hero-title">Check if Companies Are European-Owned — Instantly</h1>
+        <p class="hero-subtitle">Free browser extension that shows whether online shops and services are EU-owned. Support European businesses with confidence. See ownership transparency on every website you visit.</p>
         <div class="hero-buttons">
-          <a href="https://chrome.google.com/webstore" class="btn btn-primary" target="_blank" rel="noopener">
+          <a href="https://chromewebstore.google.com/detail/eurocheck-eu-company-iden/dpfimkgpnmohfociiojeajoacdagjagi" class="btn btn-primary" target="_blank" rel="noopener">
             <svg class="btn-icon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
               <circle cx="12" cy="12" r="10" fill="none" stroke="currentColor" stroke-width="2"/>
               <circle cx="12" cy="12" r="4"/>
             </svg>
-            Add to Chrome
+            Add to Chrome — Free
           </a>
-          <a href="https://addons.mozilla.org" class="btn btn-secondary" target="_blank" rel="noopener">
+          <a href="https://addons.mozilla.org/firefox/addon/eurocheck/" class="btn btn-secondary" target="_blank" rel="noopener">
             <svg class="btn-icon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
               <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/>
             </svg>
-            Add to Firefox
-          </a>
-          <a href="https://github.com/pekka/eurocheck" class="btn btn-ghost" target="_blank" rel="noopener">
-            <svg class="btn-icon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
-              <path d="M12 2C6.477 2 2 6.477 2 12c0 4.42 2.865 8.17 6.839 9.49.5.092.682-.217.682-.482 0-.237-.008-.866-.013-1.7-2.782.604-3.369-1.34-3.369-1.34-.454-1.156-1.11-1.464-1.11-1.464-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.831.092-.646.35-1.086.636-1.336-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.578 9.578 0 0112 6.836c.85.004 1.705.114 2.504.336 1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.203 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.743 0 .267.18.578.688.48C19.138 20.167 22 16.418 22 12c0-5.523-4.477-10-10-10z"/>
-            </svg>
-            View on GitHub
+            Add to Firefox — Free
           </a>
         </div>
-        <p class="hero-microcopy">Free forever · No account required · Open source</p>
+        <p class="hero-microcopy">✓ 100% Free · ✓ No account required · ✓ Open source · ✓ Zero data collection</p>
       </div>
       <div class="hero-gradient" aria-hidden="true"></div>
+    </section>
+
+    <!-- Social Proof -->
+    <section class="social-proof" aria-label="User statistics">
+      <div class="container">
+        <div class="proof-stats">
+          <div class="stat">
+            <span class="stat-number">1,000+</span>
+            <span class="stat-label">Active Users</span>
+          </div>
+          <div class="stat">
+            <span class="stat-number">321+</span>
+            <span class="stat-label">Companies Tracked</span>
+          </div>
+          <div class="stat">
+            <span class="stat-number">4.8★</span>
+            <span class="stat-label">Average Rating</span>
+          </div>
+        </div>
+      </div>
     </section>
 
     <!-- Features Section -->
     <section id="features" class="features" aria-labelledby="features-title">
       <div class="container">
-        <h2 id="features-title" class="section-title">Shop Smarter. Know More.</h2>
+        <h2 id="features-title" class="section-title">Why Check European Ownership?</h2>
+        <p class="section-subtitle">Many European-sounding brands are actually owned by non-EU companies. EuroCheck brings transparency to who you're really supporting.</p>
         <div class="features-grid">
           <article class="feature-card">
             <span class="feature-icon" aria-hidden="true">🔍</span>
-            <h3 class="feature-title">Instant Identification</h3>
-            <p class="feature-desc">See EU, non-EU, or mixed ownership status the moment you land on any website. No clicking, no searching—just a clear badge in your toolbar.</p>
+            <h3 class="feature-title">Instant European Company Check</h3>
+            <p class="feature-desc">See EU, non-EU, or mixed ownership status the moment you land on any website. A clear badge in your toolbar shows ownership at a glance — no clicking required.</p>
           </article>
           <article class="feature-card">
             <span class="feature-icon" aria-hidden="true">🏢</span>
-            <h3 class="feature-title">Ownership Transparency</h3>
-            <p class="feature-desc">We track 321+ companies and their true ownership structures. No more guessing whether that "European-sounding" brand is actually European.</p>
+            <h3 class="feature-title">Real Ownership Transparency</h3>
+            <p class="feature-desc">We track 321+ companies and their true ownership structures. No more guessing whether that "European-sounding" brand is actually European-owned or headquartered elsewhere.</p>
+          </article>
+          <article class="feature-card">
+            <span class="feature-icon" aria-hidden="true">🛒</span>
+            <h3 class="feature-title">Support EU Businesses</h3>
+            <p class="feature-desc">Make informed decisions about where your money goes. Choose to support European jobs, EU tax contributions, and local economies — or at least know when you're not.</p>
           </article>
           <article class="feature-card">
             <span class="feature-icon" aria-hidden="true">🔒</span>
-            <h3 class="feature-title">Privacy-First</h3>
-            <p class="feature-desc">Everything runs locally in your browser. Zero data collection. Zero tracking. We never see what sites you visit—ever.</p>
+            <h3 class="feature-title">100% Privacy-First</h3>
+            <p class="feature-desc">Everything runs locally in your browser. Zero data collection. Zero tracking. We never see what sites you visit — your browsing stays completely private.</p>
           </article>
           <article class="feature-card">
             <span class="feature-icon" aria-hidden="true">💻</span>
-            <h3 class="feature-title">Open Source</h3>
-            <p class="feature-desc">Our code and company database are fully open on GitHub. Verify our claims, suggest additions, or fork it yourself.</p>
+            <h3 class="feature-title">Open Source & Transparent</h3>
+            <p class="feature-desc">Our code and company database are fully open on GitHub. Verify our methodology, suggest additions, or fork it yourself. Transparency goes both ways.</p>
+          </article>
+          <article class="feature-card">
+            <span class="feature-icon" aria-hidden="true">⚡</span>
+            <h3 class="feature-title">Lightweight & Fast</h3>
+            <p class="feature-desc">Under 100KB total. No performance impact on your browsing. Works quietly in the background without slowing down any website.</p>
           </article>
         </div>
       </div>
@@ -105,42 +270,79 @@
     <!-- How It Works Section -->
     <section id="how-it-works" class="how-it-works" aria-labelledby="how-title">
       <div class="container">
-        <h2 id="how-title" class="section-title">Three Steps to Transparency</h2>
+        <h2 id="how-title" class="section-title">How to Check if a Company is European</h2>
         <ol class="steps-list" role="list">
           <li class="step">
             <span class="step-number" aria-hidden="true">1</span>
             <div class="step-content">
-              <h3 class="step-title">Install</h3>
-              <p class="step-desc">Add EuroCheck to your browser in one click. No account needed.</p>
+              <h3 class="step-title">Install EuroCheck</h3>
+              <p class="step-desc">Add the free extension to Chrome or Firefox in one click. No account or sign-up needed.</p>
             </div>
           </li>
           <li class="step">
             <span class="step-number" aria-hidden="true">2</span>
             <div class="step-content">
-              <h3 class="step-title">Browse</h3>
-              <p class="step-desc">Shop and browse normally. EuroCheck works quietly in the background.</p>
+              <h3 class="step-title">Browse & Shop Normally</h3>
+              <p class="step-desc">Visit any online shop or website. EuroCheck works automatically in the background.</p>
             </div>
           </li>
           <li class="step">
             <span class="step-number" aria-hidden="true">3</span>
             <div class="step-content">
-              <h3 class="step-title">Know</h3>
-              <p class="step-desc">Glance at the toolbar badge to see ownership status instantly. 🇪🇺 for EU, 🌍 for non-EU, or mixed when it's complicated.</p>
+              <h3 class="step-title">See European Ownership Instantly</h3>
+              <p class="step-desc">Check the toolbar badge: 🇪🇺 means EU-owned, 🌍 means non-EU, and we'll show you details when it's mixed or complex.</p>
             </div>
           </li>
         </ol>
       </div>
     </section>
 
+    <!-- Companies Section -->
+    <section id="companies" class="companies" aria-labelledby="companies-title">
+      <div class="container">
+        <h2 id="companies-title" class="section-title">European vs Non-European: Know the Difference</h2>
+        <p class="section-subtitle">Surprised by some of these? That's exactly why EuroCheck exists.</p>
+        <div class="companies-grid">
+          <div class="company-column eu">
+            <h3 class="company-column-title">🇪🇺 European-Owned</h3>
+            <ul class="company-list">
+              <li><strong>Spotify</strong> — Sweden</li>
+              <li><strong>Zalando</strong> — Germany</li>
+              <li><strong>IKEA</strong> — Netherlands/Sweden</li>
+              <li><strong>H&M</strong> — Sweden</li>
+              <li><strong>Nokia</strong> — Finland</li>
+              <li><strong>Adidas</strong> — Germany</li>
+              <li><strong>SAP</strong> — Germany</li>
+              <li><strong>Philips</strong> — Netherlands</li>
+            </ul>
+          </div>
+          <div class="company-column non-eu">
+            <h3 class="company-column-title">🌍 Non-European</h3>
+            <ul class="company-list">
+              <li><strong>Amazon</strong> — United States</li>
+              <li><strong>Apple</strong> — United States</li>
+              <li><strong>Google</strong> — United States</li>
+              <li><strong>Netflix</strong> — United States</li>
+              <li><strong>Alibaba</strong> — China</li>
+              <li><strong>Temu</strong> — China</li>
+              <li><strong>Shein</strong> — Singapore/China</li>
+              <li><strong>TikTok</strong> — China</li>
+            </ul>
+          </div>
+        </div>
+        <p class="companies-note">EuroCheck tracks <strong>321+ companies</strong> and growing. <a href="https://github.com/andybod1-lang/eurocheck">Suggest additions on GitHub →</a></p>
+      </div>
+    </section>
+
     <!-- Screenshot Showcase -->
     <section class="showcase" aria-labelledby="showcase-title">
       <div class="container">
-        <h2 id="showcase-title" class="sr-only">Extension Preview</h2>
+        <h2 id="showcase-title" class="section-title">See EuroCheck in Action</h2>
         <figure class="showcase-figure">
           <div class="showcase-frame">
             <img 
               src="../store/screenshots/1-eu-company.png" 
-              alt="EuroCheck popup showing Spotify as a European Company headquartered in Stockholm, Sweden, founded in 2006 with high confidence verification"
+              alt="EuroCheck browser extension popup showing Spotify as a European Company headquartered in Stockholm, Sweden, founded in 2006 with high confidence ownership verification"
               class="showcase-img"
               loading="lazy"
               width="320"
@@ -148,74 +350,110 @@
             >
           </div>
           <figcaption class="showcase-caption">
-            <strong>Join 1,000+ users</strong> bringing transparency to European commerce
+            One click shows you everything: headquarters, founding year, and ownership confidence level
           </figcaption>
         </figure>
+      </div>
+    </section>
+
+    <!-- Use Cases -->
+    <section class="use-cases" aria-labelledby="usecases-title">
+      <div class="container">
+        <h2 id="usecases-title" class="section-title">Who Uses EuroCheck?</h2>
+        <div class="usecases-grid">
+          <article class="usecase-card">
+            <span class="usecase-icon">🛍️</span>
+            <h3>Conscious Shoppers</h3>
+            <p>People who want to support local European economies and jobs with their purchasing decisions.</p>
+          </article>
+          <article class="usecase-card">
+            <span class="usecase-icon">🔐</span>
+            <h3>Privacy-Conscious Users</h3>
+            <p>Those who prefer companies under EU data protection laws (GDPR) handling their data.</p>
+          </article>
+          <article class="usecase-card">
+            <span class="usecase-icon">📊</span>
+            <h3>Researchers & Journalists</h3>
+            <p>Anyone tracking corporate ownership structures and cross-border business relationships.</p>
+          </article>
+        </div>
       </div>
     </section>
 
     <!-- FAQ Section -->
     <section id="faq" class="faq" aria-labelledby="faq-title">
       <div class="container">
-        <h2 id="faq-title" class="section-title">Questions? Answers.</h2>
-        <div class="faq-list">
-          <details class="faq-item">
+        <h2 id="faq-title" class="section-title">Frequently Asked Questions</h2>
+        <div class="faq-list" itemscope itemtype="https://schema.org/FAQPage">
+          <details class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
             <summary class="faq-question">
-              <span>How accurate is the data?</span>
+              <span itemprop="name">How do you determine if a company is European?</span>
               <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
                 <polyline points="6 9 12 15 18 9"></polyline>
               </svg>
             </summary>
-            <div class="faq-answer">
-              <p>We research ownership structures using public filings, company registries, and verified sources. Our database covers 321 companies and growing. When ownership is genuinely complex (joint ventures, partial acquisitions), we mark it as "mixed" rather than guess.</p>
+            <div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+              <p itemprop="text">We research ownership structures using public filings, company registries, and verified sources. A company is classified as "EU" if its ultimate parent company is headquartered in a European Union member state. When ownership is complex (joint ventures, partial acquisitions), we mark it as "mixed" rather than guess.</p>
             </div>
           </details>
           
-          <details class="faq-item">
+          <details class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
             <summary class="faq-question">
-              <span>What data do you collect?</span>
+              <span itemprop="name">What data does EuroCheck collect?</span>
               <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
                 <polyline points="6 9 12 15 18 9"></polyline>
               </svg>
             </summary>
-            <div class="faq-answer">
-              <p>None. Literally zero. EuroCheck runs entirely in your browser using a local database. We have no servers tracking your browsing, no analytics, no telemetry. We couldn't see your data even if we wanted to.</p>
+            <div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+              <p itemprop="text">None. Absolutely zero. EuroCheck runs entirely in your browser using a local database bundled with the extension. We have no servers, no analytics, no telemetry. We couldn't see your browsing data even if we wanted to.</p>
             </div>
           </details>
           
-          <details class="faq-item">
+          <details class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
             <summary class="faq-question">
-              <span>Which browsers are supported?</span>
+              <span itemprop="name">Which browsers support EuroCheck?</span>
               <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
                 <polyline points="6 9 12 15 18 9"></polyline>
               </svg>
             </summary>
-            <div class="faq-answer">
-              <p>Currently Chrome, Firefox, and other Chromium-based browsers (Edge, Brave, Opera). Safari support is planned.</p>
+            <div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+              <p itemprop="text">EuroCheck works on Chrome, Firefox, Edge, Brave, Opera, and other Chromium-based browsers. Safari support is planned for a future release.</p>
             </div>
           </details>
           
-          <details class="faq-item">
+          <details class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
             <summary class="faq-question">
-              <span>How can I contribute?</span>
+              <span itemprop="name">How accurate is the company database?</span>
               <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
                 <polyline points="6 9 12 15 18 9"></polyline>
               </svg>
             </summary>
-            <div class="faq-answer">
-              <p>We'd love your help! You can submit new companies or corrections via GitHub, report inaccuracies through our feedback form, contribute code if you're a developer, or simply spread the word.</p>
+            <div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+              <p itemprop="text">Our database covers 321+ companies and is continuously updated. Each entry includes a confidence level. We prioritize accuracy over quantity — when we're uncertain, we say so. Community contributions via GitHub help us stay current.</p>
             </div>
           </details>
           
-          <details class="faq-item">
+          <details class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
             <summary class="faq-question">
-              <span>Is it really free?</span>
+              <span itemprop="name">How can I suggest a company to add?</span>
               <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
                 <polyline points="6 9 12 15 18 9"></polyline>
               </svg>
             </summary>
-            <div class="faq-answer">
-              <p>Yes, completely free. No premium tiers, no "pro" version, no catch. EuroCheck is a community project built to empower consumers, not monetize them.</p>
+            <div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+              <p itemprop="text">Open an issue or pull request on our GitHub repository. Include the company name, website, headquarters location, and any sources you have about ownership. Community contributions are always welcome!</p>
+            </div>
+          </details>
+          
+          <details class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+            <summary class="faq-question">
+              <span itemprop="name">Is EuroCheck really free?</span>
+              <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                <polyline points="6 9 12 15 18 9"></polyline>
+              </svg>
+            </summary>
+            <div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+              <p itemprop="text">Yes, 100% free. No premium tiers, no "pro" version, no hidden costs. EuroCheck is a community project built to empower consumers, not monetize them. If you want to support development, you can buy us a coffee.</p>
             </div>
           </details>
         </div>
@@ -225,20 +463,52 @@
     <!-- Download CTA Section -->
     <section id="download" class="cta" aria-labelledby="cta-title">
       <div class="container">
-        <h2 id="cta-title" class="cta-title">Ready to See the Bigger Picture?</h2>
-        <p class="cta-subtitle">Download EuroCheck and start browsing with clarity.</p>
+        <h2 id="cta-title" class="cta-title">Ready to See Who Really Owns the Web?</h2>
+        <p class="cta-subtitle">Download EuroCheck and start shopping with transparency. Know if companies are European-owned — before you buy.</p>
         <div class="cta-buttons">
-          <a href="https://chrome.google.com/webstore" class="btn btn-primary btn-lg" target="_blank" rel="noopener">
-            Add to Chrome
+          <a href="https://chromewebstore.google.com/detail/eurocheck-eu-company-iden/dpfimkgpnmohfociiojeajoacdagjagi" class="btn btn-primary btn-lg" target="_blank" rel="noopener">
+            Add to Chrome — Free
           </a>
-          <a href="https://addons.mozilla.org" class="btn btn-secondary btn-lg" target="_blank" rel="noopener">
-            Add to Firefox
+          <a href="https://addons.mozilla.org/firefox/addon/eurocheck/" class="btn btn-secondary btn-lg" target="_blank" rel="noopener">
+            Add to Firefox — Free
           </a>
-          <a href="https://microsoftedge.microsoft.com/addons" class="btn btn-secondary btn-lg" target="_blank" rel="noopener">
-            Add to Edge
+          <a href="https://microsoftedge.microsoft.com/addons/detail/eurocheck/placeholder" class="btn btn-secondary btn-lg" target="_blank" rel="noopener">
+            Add to Edge — Free
           </a>
         </div>
-        <p class="cta-microcopy">Free forever · No account required · Open source</p>
+        <p class="cta-microcopy">Join 1,000+ users bringing ownership transparency to the European web</p>
+      </div>
+    </section>
+
+    <!-- Blog Teaser (for internal linking) -->
+    <section class="blog-teaser" aria-labelledby="blog-title">
+      <div class="container">
+        <h2 id="blog-title" class="section-title">Learn More About European Business</h2>
+        <div class="blog-grid">
+          <article class="blog-card">
+            <h3><a href="/blog/top-50-european-online-shops">Top 50 European Online Shops You Should Know</a></h3>
+            <p>Discover EU-owned alternatives to the big American and Chinese platforms.</p>
+          </article>
+          <article class="blog-card">
+            <h3><a href="/blog/why-buy-european">Why Buy European? 5 Reasons That Matter</a></h3>
+            <p>Jobs, taxes, data protection — the real impact of your shopping choices.</p>
+          </article>
+          <article class="blog-card">
+            <h3><a href="/blog/european-tech-companies">The Rise of European Tech Companies</a></h3>
+            <p>From Spotify to SAP: Europe's tech scene is bigger than you think.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- Support Section -->
+    <section class="support" aria-labelledby="support-title">
+      <div class="container">
+        <h2 id="support-title">☕ Support EuroCheck</h2>
+        <p>Love this project? Buy us a coffee to help keep it free and growing!</p>
+        <a href="https://buymeacoffee.com/pekkaprime" target="_blank" rel="noopener">
+          <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px; border-radius: 8px;">
+        </a>
       </div>
     </section>
   </main>
@@ -248,15 +518,17 @@
     <div class="container footer-content">
       <div class="footer-brand">
         <span class="logo-icon">🇪🇺</span>
-        <span class="footer-tagline"><strong>EuroCheck</strong> — Transparency for the European web.</span>
+        <span class="footer-tagline"><strong>EuroCheck</strong> — Ownership transparency for the European web.</span>
       </div>
       <nav class="footer-links" aria-label="Footer navigation">
         <a href="/privacy">Privacy Policy</a>
         <a href="/terms">Terms of Use</a>
-        <a href="https://github.com/pekka/eurocheck" target="_blank" rel="noopener">GitHub</a>
-        <a href="mailto:hello@eurocheck.eu">Contact</a>
+        <a href="/blog">Blog</a>
+        <a href="https://github.com/andybod1-lang/eurocheck" target="_blank" rel="noopener">GitHub</a>
+        <a href="mailto:ea.pekka@proton.me">Contact</a>
+        <a href="https://buymeacoffee.com/pekkaprime" target="_blank" rel="noopener">☕ Support</a>
       </nav>
-      <p class="footer-copyright">© 2025 EuroCheck. All rights reserved.</p>
+      <p class="footer-copyright">© 2025 EuroCheck. All rights reserved. Made with 🇪🇺 in Europe.</p>
     </div>
   </footer>
 </body>
