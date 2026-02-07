@@ -110,8 +110,8 @@ corporate, headquarters, who owns, parent company
 
 ## Support Information
 
-**Homepage:** https://github.com/pekka-eu/eurocheck
-**Support URL:** https://github.com/pekka-eu/eurocheck/issues
+**Homepage:** https://github.com/andybod1-lang/eurocheck
+**Support URL:** https://github.com/andybod1-lang/eurocheck/issues
 **Support Email:** eurocheck-team@googlegroups.com
 
 ---
@@ -120,7 +120,7 @@ corporate, headquarters, who owns, parent company
 
 **Publisher:** EuroCheck Team
 **License:** MIT
-**Source Code:** https://github.com/pekka-eu/eurocheck
+**Source Code:** https://github.com/andybod1-lang/eurocheck
 
 This extension:
 - Makes NO external network requests

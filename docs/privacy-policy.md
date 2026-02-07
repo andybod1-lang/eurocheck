@@ -10,7 +10,7 @@
 EuroCheck is a free, open-source browser extension that helps you identify European products and companies while shopping online. Our mission is to make it easy for consumers to support the European economy through informed purchasing decisions.
 
 **Who we are:**  
-EuroCheck is an independent open-source project. You can view our complete source code at [github.com/pekka-eu/eurocheck](https://github.com/pekka-eu/eurocheck).
+EuroCheck is an independent open-source project. You can view our complete source code at [github.com/andybod1-lang/eurocheck](https://github.com/andybod1-lang/eurocheck).
 
 **What EuroCheck does:**  
 When you visit online stores, EuroCheck analyzes product information to determine whether items are made by European companies or manufactured in Europe. It displays this information through a simple visual indicator, helping you make purchasing decisions aligned with your values.
@@ -112,7 +112,7 @@ We may update this Privacy Policy occasionally. When we do:
 - **Significant changes:** We'll notify you through the extension itself (such as a notification on first run after update)
 
 The latest version of this policy is always available at:
-- Our GitHub repository: [github.com/pekka-eu/eurocheck](https://github.com/pekka-eu/eurocheck)
+- Our GitHub repository: [github.com/andybod1-lang/eurocheck](https://github.com/andybod1-lang/eurocheck)
 - The Chrome Web Store / Firefox Add-ons listing
 
 We encourage you to review this policy periodically. Your continued use of EuroCheck after changes constitutes acceptance of the updated policy.
@@ -137,7 +137,7 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
 
 **Email:** [eurocheck-team@googlegroups.com](mailto:eurocheck-team@googlegroups.com)
 
-**GitHub Issues:** [github.com/pekka-eu/eurocheck/issues](https://github.com/pekka-eu/eurocheck/issues)
+**GitHub Issues:** [github.com/andybod1-lang/eurocheck/issues](https://github.com/andybod1-lang/eurocheck/issues)
 
 We aim to respond to all inquiries within 7 days.
 
@@ -151,7 +151,7 @@ EuroCheck is fully open source under the MIT License. This means:
 - Anyone can audit what the extension actually does
 - There are no hidden data collection mechanisms
 
-**Verify for yourself:** [github.com/pekka-eu/eurocheck](https://github.com/pekka-eu/eurocheck)
+**Verify for yourself:** [github.com/andybod1-lang/eurocheck](https://github.com/andybod1-lang/eurocheck)
 
 ---
 

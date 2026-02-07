@@ -95,7 +95,7 @@ Privacy-first by design:
 • MIT licensed — read every line
 
 You don't have to trust me.
-Audit the code yourself: github.com/pekka-eu/eurocheck
+Audit the code yourself: github.com/andybod1-lang/eurocheck
 ```
 *[Characters: 264]*
 
@@ -107,7 +107,7 @@ Try it:
 
 🔗 Chrome: [Chrome Web Store link]
 🔗 Firefox: [Firefox Add-ons link]
-🔗 Source: github.com/pekka-eu/eurocheck
+🔗 Source: github.com/andybod1-lang/eurocheck
 
 Star ⭐ if useful. PRs welcome — especially company additions.
 
@@ -179,7 +179,7 @@ Every PR gets reviewed and merged quickly. Your name goes in CONTRIBUTORS.md.
 
 Whether you're making procurement decisions for a European business, or you're a privacy-conscious individual who wants to know where your data goes — this tool is for you.
 
-🔗 GitHub: github.com/pekka-eu/eurocheck
+🔗 GitHub: github.com/andybod1-lang/eurocheck
 🔗 Chrome: [Chrome Web Store link]
 🔗 Firefox: [Firefox Add-ons link]
 
@@ -210,7 +210,7 @@ Hi HN,
 
 I built a browser extension that shows whether the site you're visiting belongs to a European or non-European company. One click, instant answer.
 
-GitHub: https://github.com/pekka-eu/eurocheck
+GitHub: https://github.com/andybod1-lang/eurocheck
 Chrome: [link]
 Firefox: [link]
 
@@ -288,7 +288,7 @@ Post-Schrems II, data jurisdiction matters. But ownership is opaque. EuroCheck s
 • Chrome + Firefox
 
 **Links:**
-→ GitHub: github.com/pekka-eu/eurocheck
+→ GitHub: github.com/andybod1-lang/eurocheck
 → Chrome: [Chrome Web Store link]  
 → Firefox: [Firefox Add-ons link]
 
@@ -310,7 +310,7 @@ P.S. If you cover EU tech, privacy tools, or open source — this might be worth
 
 Privacy-first (100% local, zero tracking), open source (MIT), 321 companies.
 
-github.com/pekka-eu/eurocheck
+github.com/andybod1-lang/eurocheck
 
 Feedback welcome!
 ```
@@ -341,7 +341,7 @@ After Schrems II, I wanted a quick way to see where my data actually ends up. Ow
 • Open source — audit it yourself
 
 **Links:**
-🔗 GitHub: github.com/pekka-eu/eurocheck
+🔗 GitHub: github.com/andybod1-lang/eurocheck
 🔗 Chrome: [link]
 🔗 Firefox: [link]
 
@@ -541,7 +541,7 @@ A: Not yet. Mobile browser extension support is limited. Considering a standalon
 ```
 LINKS (update before launch):
 
-GitHub: https://github.com/pekka-eu/eurocheck
+GitHub: https://github.com/andybod1-lang/eurocheck
 Chrome Web Store: [PASTE LINK]
 Firefox Add-ons: [PASTE LINK]
 Landing Page: [PASTE LINK]

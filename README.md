@@ -1,6 +1,6 @@
 # EuroCheck 🇪🇺
 
-[![CI](https://github.com/pekka-eu/eurocheck/actions/workflows/ci.yml/badge.svg)](https://github.com/pekka-eu/eurocheck/actions/workflows/ci.yml)
+[![CI](https://github.com/andybod1-lang/eurocheck/actions/workflows/ci.yml/badge.svg)](https://github.com/andybod1-lang/eurocheck/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Companies](https://img.shields.io/badge/companies-321-blue.svg)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -19,8 +19,8 @@
 
 ## Installation
 
-- **Chrome**: [Chrome Web Store](#) (coming soon)
-- **Firefox**: [Firefox Add-ons](#) (coming soon)
+- **Chrome**: [Chrome Web Store](https://chromewebstore.google.com/detail/eurocheck-eu-company-iden/dpfimkgpnmohfociiojeajoacdagjagi)
+- **Firefox**: [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/eurocheck-eu-company-id/)
 
 ## Status Indicators
 

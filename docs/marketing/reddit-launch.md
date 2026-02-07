@@ -14,7 +14,7 @@ Ever tried to buy European only to discover that "European" brand is actually ow
 
 **The problem:** It's surprisingly hard to know who actually owns the companies we buy from. That German-sounding brand? Might be a subsidiary of a US conglomerate. That Swedish company? Could've been acquired years ago.
 
-**So I built something:** [EuroCheck](https://github.com/pekka-eu/eurocheck) - a browser extension that shows you the ownership chain of websites you visit.
+**So I built something:** [EuroCheck](https://github.com/andybod1-lang/eurocheck) - a browser extension that shows you the ownership chain of websites you visit.
 
 **What it does:**
 - 🇪🇺 Shows if a site belongs to an EU, non-EU, or mixed-ownership company
@@ -31,9 +31,9 @@ Ever tried to buy European only to discover that "European" brand is actually ow
 It's fully open source (MIT license), so you can check exactly what it does. The database is also open - if you know a company's ownership structure, you can contribute.
 
 **Links:**
-- Chrome: [coming soon]
-- Firefox: [coming soon]
-- GitHub: https://github.com/pekka-eu/eurocheck
+- Chrome: https://chromewebstore.google.com/detail/eurocheck-eu-company-iden/dpfimkgpnmohfociiojeajoacdagjagi
+- Firefox: https://addons.mozilla.org/en-US/firefox/addon/eurocheck-eu-company-id/
+- GitHub: https://github.com/andybod1-lang/eurocheck
 
 This is very much a work in progress. The database is small but growing. If you try it and notice missing companies or incorrect info, please let me know or open an issue on GitHub.
 
@@ -51,7 +51,7 @@ With all the talk about supporting European businesses lately, I kept running in
 
 That "Swedish" furniture brand might be owned by a Dutch holding company that's ultimately controlled by American investors. That "German" electronics company might have been quietly acquired by a Chinese firm.
 
-So I built [EuroCheck](https://github.com/pekka-eu/eurocheck) - a browser extension that shows you who really owns the websites you visit.
+So I built [EuroCheck](https://github.com/andybod1-lang/eurocheck) - a browser extension that shows you who really owns the websites you visit.
 
 **How it works:**
 - Small icon in your browser shows 🇪🇺 (EU), 🌍 (non-EU), or mixed
@@ -62,7 +62,7 @@ So I built [EuroCheck](https://github.com/pekka-eu/eurocheck) - a browser extens
 
 I'm not trying to tell anyone what to buy or where to shop - just making it easier to make informed choices if that matters to you.
 
-It's free, open source (MIT), and you can verify everything it does: https://github.com/pekka-eu/eurocheck
+It's free, open source (MIT), and you can verify everything it does: https://github.com/andybod1-lang/eurocheck
 
 Happy to answer questions or take suggestions for companies to add.
 
@@ -80,7 +80,7 @@ Built something the privacy-conscious might appreciate: a browser extension that
 
 Most "lookup" extensions phone home every URL you visit. EuroCheck doesn't. The entire company database ships with the extension and lookups happen locally via simple domain matching. No servers. No analytics. No accounts. No telemetry.
 
-You can verify this yourself - it's fully open source: https://github.com/pekka-eu/eurocheck
+You can verify this yourself - it's fully open source: https://github.com/andybod1-lang/eurocheck
 
 **What it actually does:**
 
@@ -105,7 +105,7 @@ Not trying to build a business here - just scratched my own itch and figured oth
 
 ---
 
-Just shipped a browser extension I've been working on: [EuroCheck](https://github.com/pekka-eu/eurocheck)
+Just shipped a browser extension I've been working on: [EuroCheck](https://github.com/andybod1-lang/eurocheck)
 
 **What it does:** Shows whether websites belong to EU or non-EU companies, including the full ownership chain (company → parent → ultimate parent).
 
@@ -120,7 +120,7 @@ Just shipped a browser extension I've been working on: [EuroCheck](https://githu
 
 **Current coverage:** 321 companies across 270 domains. The database is the main limitation - it's manually curated from public ownership records.
 
-Open source (MIT): https://github.com/pekka-eu/eurocheck
+Open source (MIT): https://github.com/andybod1-lang/eurocheck
 
 **Store links:**
 - Chrome Web Store: [pending review]

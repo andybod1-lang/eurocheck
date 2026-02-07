@@ -76,9 +76,9 @@ EuroCheck was built with privacy as a core principle, not an afterthought:
 
 ## Availability
 
-- **Firefox Add-ons:** [link]
-- **Chrome Web Store:** [link]
-- **GitHub:** [link]
+- **Firefox Add-ons:** https://addons.mozilla.org/en-US/firefox/addon/eurocheck-eu-company-id/
+- **Chrome Web Store:** https://chromewebstore.google.com/detail/eurocheck-eu-company-iden/dpfimkgpnmohfociiojeajoacdagjagi
+- **GitHub:** https://github.com/andybod1-lang/eurocheck
 - **Price:** Free (no premium tier)
 
 ---
@@ -95,7 +95,7 @@ EuroCheck was built with privacy as a core principle, not an afterthought:
 
 ## Contact
 
-- **GitHub Issues:** [link] (preferred for bugs/features)
+- **GitHub Issues:** https://github.com/andybod1-lang/eurocheck/issues (preferred for bugs/features)
 - **Email:** [contact email]
 
 ---

@@ -214,7 +214,7 @@ A 60-90 second demo video significantly increases engagement.
 | Link | URL | Required | Status |
 |------|-----|----------|--------|
 | Website/Landing | https://eurocheck.eu *or* GitHub README | ✅ Yes | 🔲 Pending |
-| GitHub | https://github.com/pekka-eu/eurocheck | ✅ Yes | ✅ Ready |
+| GitHub | https://github.com/andybod1-lang/eurocheck | ✅ Yes | ✅ Ready |
 | Chrome Web Store | (awaiting review) | ✅ Yes (primary) | 🔲 Pending |
 | Firefox Add-ons | (awaiting review) | Nice to have | 🔲 Pending |
 | Privacy Policy | `/docs/privacy-policy.md` on GitHub | Nice to have | ✅ Ready |
@@ -322,7 +322,7 @@ Title: Show HN: EuroCheck – Browser extension showing website EU/non-EU owners
 Body:
 Built a browser extension that tells you if the website you're visiting belongs to a European company.
 
-GitHub: https://github.com/pekka-eu/eurocheck
+GitHub: https://github.com/andybod1-lang/eurocheck
 
 Why: After Schrems II, data jurisdiction matters. Many "European" brands have US ultimate parents (CLOUD Act applies). Wanted to know at browse time.
 

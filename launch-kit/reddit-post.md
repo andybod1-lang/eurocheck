@@ -133,9 +133,9 @@ Most "company checker" tools phone home to some API, building a profile of every
 **Use case:**
 Some people care about buying European (GDPR-governed companies, EU labor laws, shorter supply chains). This helps with that — without trading your privacy to find out.
 
-GitHub: [link]
-Firefox: [link]  
-Chrome: [link]
+GitHub: https://github.com/andybod1-lang/eurocheck
+Firefox: https://addons.mozilla.org/en-US/firefox/addon/eurocheck-eu-company-id/  
+Chrome: https://chromewebstore.google.com/detail/eurocheck-eu-company-iden/dpfimkgpnmohfociiojeajoacdagjagi
 
 Happy to answer questions about the architecture or privacy claims.
 
@@ -208,8 +208,8 @@ Link in comments.
 ### Comment to Add
 ```
 Links:
-- Chrome: [Chrome Web Store link]
-- Firefox: [Firefox Add-ons link]
+- Chrome: https://chromewebstore.google.com/detail/eurocheck-eu-company-iden/dpfimkgpnmohfociiojeajoacdagjagi
+- Firefox: https://addons.mozilla.org/en-US/firefox/addon/eurocheck-eu-company-id/
 - GitHub: [repo link]
 ```
 

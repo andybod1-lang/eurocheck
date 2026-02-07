@@ -3,8 +3,8 @@
 ## Critical - Must Fix Before Launch
 
 ### Links & URLs
-- [ ] **Chrome Web Store link** - Update from generic `https://chrome.google.com/webstore` to actual extension URL
-- [ ] **Firefox Add-ons link** - Update from generic `https://addons.mozilla.org` to actual extension URL
+- [x] **Chrome Web Store link** - Updated to actual extension URL
+- [x] **Firefox Add-ons link** - Updated to actual extension URL
 - [ ] **Privacy Policy link** - Update `/privacy` to `https://andybod1-lang.github.io/eurocheck-privacy/`
 - [ ] **Terms of Use link** - Create terms page or remove link
 - [ ] **GitHub link** - ✅ Correct: `https://github.com/andybod1-lang/eurocheck`

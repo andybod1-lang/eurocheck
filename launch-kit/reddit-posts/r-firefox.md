@@ -7,7 +7,7 @@
 
 Just published a Firefox add-on that displays a small 🇪🇺 badge when you're browsing product pages from European companies.
 
-**Firefox Add-ons link:** [link]
+**Firefox Add-ons:** https://addons.mozilla.org/en-US/firefox/addon/eurocheck-eu-company-id/
 
 **What it does:**
 Simple concept - when you're on an e-commerce site and the company is headquartered in EU/EEA, you see a small flag badge. Helps if you're trying to shop more locally or just curious about company origins.

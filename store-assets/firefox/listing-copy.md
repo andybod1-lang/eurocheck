@@ -91,7 +91,7 @@ EuroCheck is MIT licensed and community-maintained:
 • **Contribute code** — PRs welcome
 • **Translate** — Help reach more users
 
-GitHub: https://github.com/pekka-eu/eurocheck
+GitHub: https://github.com/andybod1-lang/eurocheck
 
 ### 📋 Requirements
 
@@ -154,8 +154,8 @@ Made with 🇪🇺 in Europe
 
 ## Support Information
 
-**Homepage:** https://github.com/pekka-eu/eurocheck
-**Support URL:** https://github.com/pekka-eu/eurocheck/issues
+**Homepage:** https://github.com/andybod1-lang/eurocheck
+**Support URL:** https://github.com/andybod1-lang/eurocheck/issues
 **Support Email:** eurocheck-team@googlegroups.com
 
 ---
@@ -165,13 +165,13 @@ Made with 🇪🇺 in Europe
 **Publisher:** EuroCheck Team
 **Email:** eurocheck-team@googlegroups.com
 **License:** MIT
-**Source Code Repository:** https://github.com/pekka-eu/eurocheck
+**Source Code Repository:** https://github.com/andybod1-lang/eurocheck
 
 ---
 
 ## Privacy Policy Link
 
-https://github.com/pekka-eu/eurocheck/blob/main/docs/privacy-policy.md
+https://github.com/andybod1-lang/eurocheck/blob/main/docs/privacy-policy.md
 
 ---
 
@@ -194,7 +194,7 @@ This extension:
 - Requires only `activeTab` and `storage` permissions
 - Contains no third-party analytics, tracking, or telemetry code
 - All company data is included in the extension package
-- Fully open source: https://github.com/pekka-eu/eurocheck
+- Fully open source: https://github.com/andybod1-lang/eurocheck
 - Complies with AMO policies and Manifest V3 requirements
 
 ---

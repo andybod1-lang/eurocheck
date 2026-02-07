@@ -93,8 +93,8 @@ Yes, completely free. No premium tiers, no "pro" version, no catch. EuroCheck is
 Download EuroCheck and start browsing with clarity.
 
 ### Browser Buttons
-- `Add to Chrome` → [Chrome Web Store link]
-- `Add to Firefox` → [Firefox Add-ons link]
+- `Add to Chrome` → https://chromewebstore.google.com/detail/eurocheck-eu-company-iden/dpfimkgpnmohfociiojeajoacdagjagi
+- `Add to Firefox` → https://addons.mozilla.org/en-US/firefox/addon/eurocheck-eu-company-id/
 - `Add to Edge` → [Edge Add-ons link]
 
 ### Micro-copy

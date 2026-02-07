@@ -51,7 +51,7 @@ EuroCheck is **free and open source** under the MIT license.
 - Fork it, modify it, make it yours
 - Report issues and suggest features
 
-**Source code:** [github.com/pekka-eu/eurocheck](https://github.com/pekka-eu/eurocheck)
+**Source code:** [github.com/andybod1-lang/eurocheck](https://github.com/andybod1-lang/eurocheck)
 
 ### Perfect For
 
@@ -83,10 +83,10 @@ EuroCheck is **free and open source** under the MIT license.
 - open source
 
 ## Homepage URL
-https://github.com/pekka-eu/eurocheck
+https://github.com/andybod1-lang/eurocheck
 
 ## Support URL
-https://github.com/pekka-eu/eurocheck/issues
+https://github.com/andybod1-lang/eurocheck/issues
 
 ## Privacy Policy URL
 <!-- TODO: Add privacy policy URL -->

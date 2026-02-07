@@ -7,7 +7,7 @@ Extension: EuroCheck shows European company badge while shopping
 
 Made a Chrome extension that shows a 🇪🇺 badge on product pages when you're browsing a European company's site.
 
-**Chrome Web Store:** [link]
+**Chrome Web Store:** https://chromewebstore.google.com/detail/eurocheck-eu-company-iden/dpfimkgpnmohfociiojeajoacdagjagi
 
 **Use case:**
 If you're trying to buy more from European companies - whether for sustainability (shorter shipping), data privacy (GDPR), or just supporting local businesses - this makes it visible without having to research each company.

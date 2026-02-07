@@ -117,7 +117,7 @@ EuroCheck is open source. You can:
 - 🔍 **Audit the extension** — Check network requests (there are none)
 - 🐛 **Report issues** — If you find privacy concerns, let us know
 
-Repository: [github.com/pekka-eu/eurocheck](https://github.com/pekka-eu/eurocheck)
+Repository: [github.com/andybod1-lang/eurocheck](https://github.com/andybod1-lang/eurocheck)
 
 ## 10. Contact
 

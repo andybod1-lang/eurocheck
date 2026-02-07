@@ -122,8 +122,8 @@ Free. No premium tier. No "upgrade for more features."
 ## Tweet 10 (CTA + Wrap)
 If you've ever wanted to shop more European but didn't want to research every brand:
 
-→ Install: [link]
-→ Star on GitHub: [link]
+→ Install: https://chromewebstore.google.com/detail/eurocheck-eu-company-iden/dpfimkgpnmohfociiojeajoacdagjagi
+→ Star on GitHub: https://github.com/andybod1-lang/eurocheck
 → Report missing companies: [issues link]
 
 Thanks for reading. Happy to answer questions in replies.

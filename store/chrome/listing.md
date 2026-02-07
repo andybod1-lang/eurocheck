@@ -87,7 +87,7 @@ Your browsing habits are yours alone.
 
 EuroCheck is open source and community-driven. View the code, suggest companies to add, or contribute directly:
 
-🔗 https://github.com/pekka-eu/eurocheck
+🔗 https://github.com/andybod1-lang/eurocheck
 
 Found a company that's missing or incorrectly categorized? Open an issue or submit a pull request. This is a community effort to bring transparency to online shopping.
 
