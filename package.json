@@ -44,7 +44,7 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
-    "puppeteer": "^24.36.1",
+    "puppeteer": "^24.37.2",
     "puppeteer-core": "^24.36.1"
   }
 }
